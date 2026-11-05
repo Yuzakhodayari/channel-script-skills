@@ -22,13 +22,22 @@ mkdir -p .claude/skills && cp -R channel-structure .claude/skills/channel-struct
 
 **Antigravity / Gemini**
 ```bash
-mkdir -p ~/.gemini/antigravity/skills && cp -R channel-structure ~/.gemini/antigravity/skills/channel-structure
+# global — Antigravity loads ~/.gemini/config/skills (not ~/.gemini/antigravity/skills)
+mkdir -p ~/.gemini/config/skills && cp -R channel-structure ~/.gemini/config/skills/channel-structure
 # or project-local
-mkdir -p .agent/skills && cp -R channel-structure .agent/skills/channel-structure
+mkdir -p .agents/skills && cp -R channel-structure .agents/skills/channel-structure
 ```
 
-From the repo root you can also run `./install.sh` (or `./install.ps1` on Windows) to install all four skills at once.
+From the repo root you can also run `./install.sh` (or `./install.ps1` on Windows) to install all four skills at once, or:
+
+```bash
+npx skills add Yuzakhodayari/channel-script-skills -a antigravity -g -y
+```
 
 ## Corpus
 
-Built from **117** weighted transcripts under `../../corpus/` (see `corpus/weights.csv`). Non-host speech filtered where applicable.
+Built from **117** weighted transcripts under [`../../corpus/`](../../corpus/) (see [`weights.csv`](../../corpus/weights.csv)). Non-host speech filtered where applicable.
+
+## License
+
+MIT for the skills. See [`LICENSE`](../../LICENSE) and [`NOTICE.md`](../../NOTICE.md). Transcripts in `corpus/` stay with their creators.
