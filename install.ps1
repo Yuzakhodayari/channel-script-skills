@@ -4,8 +4,13 @@
 param([switch]$Project)
 $ErrorActionPreference = 'Stop'
 $Src = Join-Path $PSScriptRoot 'skills'
-if ($Project) { $Targets = @("$PWD\.claude\skills", "$PWD\.agent\skills", "$PWD\.cursor\skills") }
-else { $Targets = @("$HOME\.claude\skills", "$HOME\.gemini\antigravity\skills", "$HOME\.codex\skills") }
+if ($Project) {
+  # Project-local: preferred for channel work (portable, higher precedence)
+  $Targets = @("$PWD\.claude\skills", "$PWD\.agent\skills", "$PWD\.agents\skills", "$PWD\.cursor\skills")
+} else {
+  # Global: Antigravity discovers ~/.gemini/config/skills\  (NOT ~/.gemini\antigravity\skills)
+  $Targets = @("$HOME\.claude\skills", "$HOME\.gemini\config\skills", "$HOME\.codex\skills")
+}
 foreach ($t in $Targets) {
   New-Item -ItemType Directory -Force -Path $t | Out-Null
   Get-ChildItem -Directory $Src | ForEach-Object {

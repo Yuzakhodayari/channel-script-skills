@@ -22,8 +22,8 @@ Each skill is a folder with `SKILL.md` + `references/`. Optional classic exam sc
 ```bash
 git clone git@github.com:Yuzakhodayari/channel-script-skills.git
 cd channel-script-skills
-./install.sh            # global: ~/.claude/skills, ~/.gemini/antigravity/skills, ~/.codex/skills
-./install.sh --project  # into ./.claude/skills, ./.agent/skills, ./.cursor/skills
+./install.sh            # global: ~/.claude/skills, ~/.gemini/config/skills, ~/.codex/skills
+./install.sh --project  # into ./.claude/skills, ./.agent/skills, ./.agents/skills, ./.cursor/skills
 ```
 
 ```powershell
@@ -32,6 +32,8 @@ cd channel-script-skills
 .\install.ps1           # Windows
 .\install.ps1 -Project
 ```
+
+**Prefer `--project` / `-Project` for channel work.** Skills stay inside the YouTube workspace, travel with the folder, and beat global skills on name collisions.
 
 ### Claude Code (manual)
 
@@ -43,12 +45,29 @@ mkdir -p .claude/skills && cp -R skills/channel-* .claude/skills/
 
 ### Antigravity / Gemini
 
+Antigravity discovers skills in `~/.gemini/config/skills/` (not `~/.gemini/antigravity/skills`). On Windows that is `C:\Users\<you>\.gemini\config\skills\<skill-name>\SKILL.md`.
+
 ```bash
-mkdir -p ~/.gemini/antigravity/skills
-cp -R skills/channel-* ~/.gemini/antigravity/skills/
-# or project-local
-mkdir -p .agent/skills && cp -R skills/channel-* .agent/skills/
+# Global
+mkdir -p ~/.gemini/config/skills
+cp -R skills/channel-* ~/.gemini/config/skills/
+
+# Project-local (recommended for a YouTube workspace)
+mkdir -p .agent/skills
+cp -R skills/channel-* .agent/skills/
 ```
+
+```powershell
+# Global
+New-Item -ItemType Directory -Force -Path "$HOME\.gemini\config\skills"
+Copy-Item -Recurse -Force .\skills\channel-* "$HOME\.gemini\config\skills\"
+
+# Project-local (recommended)
+New-Item -ItemType Directory -Force -Path ".agent\skills"
+Copy-Item -Recurse -Force .\skills\channel-* ".agent\skills\"
+```
+
+Each skill folder must keep its own `SKILL.md` with YAML `name` and `description` frontmatter (already present). Without that, Antigravity skips the folder.
 
 Paste any single `SKILL.md` at the top of a chat if you are not using a skills folder. You lose automatic discovery; the rules still run as a mode.
 

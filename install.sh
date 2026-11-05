@@ -1,13 +1,16 @@
 #!/usr/bin/env bash
 # Installs the four channel skills for Claude Code, Antigravity/Gemini and Codex.
 # Usage: ./install.sh            (global)
-#        ./install.sh --project  (into ./.claude/skills, ./.agent/skills and ./.cursor/skills of the current dir)
+#        ./install.sh --project  (into ./.claude/skills, ./.agent/skills and ./.cursor/skills)
 set -euo pipefail
 SRC="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/skills"
 if [[ "${1:-}" == "--project" ]]; then
-  TARGETS=("$PWD/.claude/skills" "$PWD/.agent/skills" "$PWD/.cursor/skills")
+  # Project-local: preferred for channel work (portable, higher precedence)
+  TARGETS=("$PWD/.claude/skills" "$PWD/.agent/skills" "$PWD/.agents/skills" "$PWD/.cursor/skills")
 else
-  TARGETS=("$HOME/.claude/skills" "$HOME/.gemini/antigravity/skills" "$HOME/.codex/skills")
+  # Global discovery paths
+  # Antigravity/Gemini: ~/.gemini/config/skills/  (NOT ~/.gemini/antigravity/skills)
+  TARGETS=("$HOME/.claude/skills" "$HOME/.gemini/config/skills" "$HOME/.codex/skills")
 fi
 for t in "${TARGETS[@]}"; do
   mkdir -p "$t"
