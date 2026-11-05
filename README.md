@@ -17,57 +17,65 @@ Each skill is a folder with `SKILL.md` + `references/`. Optional classic exam sc
 
 ## Install
 
-### One command (Claude Code + Antigravity + Codex)
+### One line from GitHub (Gemini / Antigravity)
+
+Paste this into Antigravity or run it in a terminal:
 
 ```bash
-git clone git@github.com:Yuzakhodayari/channel-script-skills.git
-cd channel-script-skills
-./install.sh            # global: ~/.claude/skills, ~/.gemini/config/skills, ~/.codex/skills
-./install.sh --project  # into ./.claude/skills, ./.agent/skills, ./.agents/skills, ./.cursor/skills
+npx skills add Yuzakhodayari/channel-script-skills -a antigravity -g -y
+```
+
+That clones the private repo and installs all four `channel-*` skills. Then copy them into the folder Antigravity actually loads (the `npx skills` tool sometimes leaves them in `~/.agents/skills`):
+
+```bash
+mkdir -p ~/.gemini/config/skills
+cp -R ~/.agents/skills/channel-* ~/.gemini/config/skills/
 ```
 
 ```powershell
-git clone git@github.com:Yuzakhodayari/channel-script-skills.git
-cd channel-script-skills
-.\install.ps1           # Windows
+New-Item -ItemType Directory -Force -Path "$HOME\.gemini\config\skills"
+Copy-Item -Recurse -Force "$HOME\.agents\skills\channel-*" "$HOME\.gemini\config\skills\"
+```
+
+Restart Antigravity. Skills show up as `/channel-language`, `/channel-storytelling`, `/channel-structure`, `/channel-audience`.
+
+**Private repo:** you must be logged into GitHub on that machine (`gh auth login` or Git Credential Manager). If `npx skills add` cannot see a private repo, use a personal access token:
+
+```bash
+npx skills add https://<TOKEN>@github.com/Yuzakhodayari/channel-script-skills.git -a antigravity -g -y
+```
+
+### Project-local (recommended for a YouTube workspace)
+
+From your channel folder (`D:\Youtube channel` or similar):
+
+```bash
+npx skills add Yuzakhodayari/channel-script-skills -a antigravity -y
+# lands in ./.agents/skills/ — Antigravity discovers that automatically
+```
+
+Or clone once and copy:
+
+```powershell
+git clone https://github.com/Yuzakhodayari/channel-script-skills.git
+Copy-Item -Recurse -Force .\channel-script-skills\skills\channel-* ".agents\skills\"
+```
+
+### Claude Code / Codex (same repo)
+
+```bash
+npx skills add Yuzakhodayari/channel-script-skills -a claude-code -g -y
+# or
+./install.sh            # global: ~/.claude/skills, ~/.gemini/config/skills, ~/.codex/skills
+./install.sh --project  # ./.claude/skills, ./.agent/skills, ./.agents/skills, ./.cursor/skills
+```
+
+```powershell
+.\install.ps1
 .\install.ps1 -Project
 ```
 
-**Prefer `--project` / `-Project` for channel work.** Skills stay inside the YouTube workspace, travel with the folder, and beat global skills on name collisions.
-
-### Claude Code (manual)
-
-```bash
-cp -R skills/channel-* ~/.claude/skills/
-# or project-local
-mkdir -p .claude/skills && cp -R skills/channel-* .claude/skills/
-```
-
-### Antigravity / Gemini
-
-Antigravity discovers skills in `~/.gemini/config/skills/` (not `~/.gemini/antigravity/skills`). On Windows that is `C:\Users\<you>\.gemini\config\skills\<skill-name>\SKILL.md`.
-
-```bash
-# Global
-mkdir -p ~/.gemini/config/skills
-cp -R skills/channel-* ~/.gemini/config/skills/
-
-# Project-local (recommended for a YouTube workspace)
-mkdir -p .agent/skills
-cp -R skills/channel-* .agent/skills/
-```
-
-```powershell
-# Global
-New-Item -ItemType Directory -Force -Path "$HOME\.gemini\config\skills"
-Copy-Item -Recurse -Force .\skills\channel-* "$HOME\.gemini\config\skills\"
-
-# Project-local (recommended)
-New-Item -ItemType Directory -Force -Path ".agent\skills"
-Copy-Item -Recurse -Force .\skills\channel-* ".agent\skills\"
-```
-
-Each skill folder must keep its own `SKILL.md` with YAML `name` and `description` frontmatter (already present). Without that, Antigravity skips the folder.
+Each skill folder already has `SKILL.md` with YAML `name` + `description`. Antigravity skips folders that lack that frontmatter.
 
 Paste any single `SKILL.md` at the top of a chat if you are not using a skills folder. You lose automatic discovery; the rules still run as a mode.
 
