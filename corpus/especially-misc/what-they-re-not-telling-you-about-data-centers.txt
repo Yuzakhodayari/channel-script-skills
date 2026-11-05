@@ -1,0 +1,1196 @@
+Title: What They're Not Telling You About Data Centers
+
+(0:01) An acre of land is 66 feet
+(0:03) across, 660 feet long.
+(0:05) It is the unit by which
+(0:06) all things that happen on it are measured.
+(0:08) A farmer might make $1,200
+(0:09) per acre farming corn. Raise
+(0:11) cattle instead, and one acre may produce $3,000
+(0:13) in a good year.
+(0:14) Rent it out to someone who wants to build
+(0:16) a windmill on it: $5,000. But choose
+(0:18) to use that acre instead
+(0:20) for an AI data center.
+(0:21) That number goes way up: about $10
+(0:24) million per year.
+(0:25) A number that, until very recently,
+(0:27) could only be claimed by the land
+(0:28) in prestigious areas of the most prestigious cities:
+(0:31) New York, Paris, Tokyo, London.
+(0:33) It wasn't until AI was placed in front of the words
+(0:36) data center that a shift occurred,
+(0:38) a shift that has taken just
+(0:39) three short, fast-moving
+(0:40) years, moving data centers from something
+(0:42) nobody gave a passing thought about to
+(0:45) something else entirely,
+(0:46) something more profound.
+(0:48) And electricity, or AI
+(0:49) compute is going to be the currency of the future.
+(0:51) Meta will invest hundreds of billions
+(0:54) of dollars into compute
+(0:55) build out infrastructure. We call them factories—
+(0:58) AI factories—the largest
+(0:59) AI infrastructure
+(1:00) project by far in history.
+(1:02) Colossal data centers,
+(1:04) very, very massive structures,
+(1:06) bridges, power plants,
+(1:07) skyscrapers, stadiums, docks,
+(1:09) railroads in the long
+(1:10) history of the US, building major things
+(1:12) just two come anywhere
+(1:14) close to the backlash being felt
+(1:15) by AI data centers right now.
+(1:17) There was the US interstate system
+(1:18) in the 1950s, a major
+(1:20) fight over what land, exactly,
+(1:22) all this new pavement would be poured over,
+(1:24) how close they would be to people's everyday life.
+(1:26) People really didn't want a highway
+(1:28) running through their neighborhood.
+(1:29) Then there was the nuclear
+(1:30) decade of the 1970s,
+(1:32) grinding to a halt
+(1:33) as major protests erupted at every site
+(1:35) that wanted to break ground on a new plant.
+(1:37) People were scared nuclear plants might kill them.
+(1:40) Looking at the alternatives for energy,
+(1:42) nuclear fission must be stopped.
+(1:44) Go out and ask a thousand people
+(1:46) today, and the amount of people
+(1:47) who say they don't want a data center
+(1:48) next to them is far more than the number
+(1:50) who said they didn't want a nuclear plant
+(1:52) next to them back in the 70s.
+(1:53) This was duck and cover drills in school
+(1:55) countries testing ever bigger nuclear weapons.
+(1:59) How were
+(2:00) nuclear plants more popular at that moment
+(2:02) in time than data centers are now?
+(2:03) What exactly is this fight over data centers
+(2:06) actually about?
+(2:09) This video is sponsored by Zocdoc.
+(2:12) More on them later.
+(2:16) The internet had a rule,
+(2:17) and the rule was a problem.
+(2:19) The backbone of the internet.
+(2:20) The long wires between cities were owned and paid
+(2:23) for by the government, meant for universities and labs.
+(2:25) You weren't allowed to use them for business.
+(2:27) You could send a professor's email across it.
+(2:28) You could not send a customer's.
+(2:30) Zero commercial activity allowed, which was fine
+(2:32) until people showed up on the internet
+(2:34) who wanted to be customers and a few businesses,
+(2:37) eight to be exact, showed up who wanted to serve them.
+(2:39) If a customer of one wanted
+(2:41) to email a customer of the other,
+(2:42) the only wire between them was the one they weren't
+(2:45) allowed to use, so the two companies had to
+(2:47) physically touch their wires
+(2:49) together somewhere.
+(2:50) A line coming out of one building,
+(2:52) a line coming out of the other,
+(2:53) and physically meeting somewhere.
+(2:54) That was the only way two customers could talk.
+(2:56) It's kind of crazy to think
+(2:58) about how they solved it.
+(2:59) Just a couple of guys, one
+(3:00) from each of these first companies,
+(3:01) ran a wire from the street, one for each company,
+(3:04) and into the first meeting place,
+(3:05) which was just a plain office
+(3:07) suite in a building in Tysons Corner, Virginia.
+(3:09) Two companies at first, then another and another.
+(3:12) Within two months, eight offices were connected
+(3:13) together, each company running a line
+(3:15) from their building and into this room.
+(3:17) Once more companies
+(3:18) joined, and that room filled with cables.
+(3:19) They moved across the street to a parking garage,
+(3:21) actually a tiny room off the garage of an office
+(3:24) building on Boone Boulevard.
+(3:25) One server, one plug.
+(3:27) That was it.
+(3:27) Nobody worked there.
+(3:28) Nothing was computed there.
+(3:29) It was a place for a handful of companies
+(3:31) to touch their wires together.
+(3:32) Yes, I said it again,
+(3:33) and I'll probably say it a fourth time.
+(3:35) This was the first public internet
+(3:37) and the world's first data center,
+(3:39) a room whose whole point was simply a meeting place
+(3:41) for other buildings around it to touch.
+(3:43) By the time the government shut off the wire
+(3:45) companies weren't allowed to use,
+(3:46) around half the world's internet
+(3:48) traffic was already passing
+(3:50) through that little room
+(3:51) in that garage in Tysons Corner, Virginia.
+(3:54) Visit Tysons Corner today
+(3:55) and it will appear as Anytown, USA.
+(3:57) There is nothing that would alert you to the fact
+(3:59) that this place, this little room
+(4:01) in a garage, was the spark that created
+(4:03) what is 30 minutes down the road,
+(4:05) the largest collection of data centers
+(4:07) the world has ever seen: Data Center Alley.
+(4:09) Data center after data
+(4:11) center after data center.
+(4:12) Picture a Super Walmart, all the aisles,
+(4:14) how much time it takes
+(4:14) to walk from one end to the other.
+(4:16) In this 20-mile area,
+(4:17) there are 250
+(4:18) Super Walmarts' worth of data centers,
+(4:20) 52 million square feet
+(4:21) of floor space where servers let millions of companies
+(4:24) touch their wires together.
+(4:25) The center of gravity had formed.
+(4:27) There was a sense—a lot of it— in being near
+(4:29) the hub where every company around
+(4:31) the world was exchanging information with each other.
+(4:35) The average person will not wait
+(4:37) more than half a second, Google said.
+(4:38) So if you want us to show people your ads,
+(4:40) you must be located in this area.
+(4:42) When a person lands on a website with ads on it,
+(4:44) we'll send out a broadcast and a profile
+(4:46) of who we think this person on the site is.
+(4:49) You have 100 milliseconds
+(4:50) to analyze that profile and tell us
+(4:52) how much you're willing to spend to have us
+(4:54) put your ad in front of them.
+(4:55) Receive the broadcast in San Francisco and 35
+(4:58) milliseconds are eaten up waiting for it to arrive,
+(5:00) then another 35 milliseconds to send it back.
+(5:03) 70% of your time was gone before
+(5:05) you had even looked at who
+(5:06) the person might be.
+(5:07) Analyze the profile better than everyone else.
+(5:10) That was how you made money.
+(5:11) Your bids would be better.
+(5:13) Every millisecond of time spent sending things
+(5:15) back and forth mattered a lot.
+(5:16) So not only did dozens of companies put servers
+(5:19) in the same area as Google, they paid extra money
+(5:21) to put their servers in the exact same
+(5:23) building as Google.
+(5:24) This is how all the free
+(5:25) stuff we use on the internet works,
+(5:27) and it is the most intense,
+(5:28) highest volume compute event on the planet.
+(5:30) Type in a website, hit enter, and Google
+(5:32) fires off an auction billions of times per day.
+(5:35) Google Search was a great product,
+(5:37) better than the rest, but this auction machine is
+(5:39) what made Google into the company
+(5:41) it is today. For this
+(5:42) and many other interactions like it.
+(5:44) Once the internet really started to take off,
+(5:46) it was not an option to be somewhere
+(5:48) everyone else wasn't.
+(5:51) If you've heard of Loudoun County,
+(5:53) Virginia, that it is the richest county
+(5:54) in the United States, this is the place
+(5:56) they're talking about.
+(5:57) Now, it is important to point out
+(5:59) three things here.
+(6:00) One, the population here is not rich
+(6:02) because the data centers are here.
+(6:04) It's a suburb of Washington, D.C.
+(6:06) Number two,
+(6:07) the data
+(6:07) centers are not here because the population is rich.
+(6:09) They're here because they needed to be here.
+(6:11) Number three, the local government
+(6:13) here is rich because of taxes
+(6:15) they put on the data centers. Three different things.
+(6:17) Just so there's no confusion.
+(6:19) The who's who of the internet
+(6:20) all had or have space here.
+(6:22) AOL was a few miles down the road.
+(6:24) AWS started here in 2006.
+(6:26) The first region you could rent spare
+(6:28) compute from was
+(6:29) us-east-1, something
+(6:30) every software engineer knows very well.
+(6:32) It is the default setting for every cloud provider,
+(6:35) and it routes right to Northern Virginia
+(6:37) because that's where everyone already was.
+(6:39) Windowless, long, low.
+(6:41) Nobody protested.
+(6:42) Few knew they were there.
+(6:43) A data center in 2015
+(6:45) had every photo you had ever taken already.
+(6:47) Netflix keeps copies of every single movie in its
+(6:49) library in dozens of data
+(6:51) centers around the country.
+(6:52) WhatsApp messages all flow
+(6:53) through these. Data centers are the internet.
+(6:56) And until very recently,
+(6:57) they drew about as much attention
+(6:58) as the warehouse next door
+(6:59) holding lawn chairs.
+(7:01) Then someone decided to put a lot
+(7:03) of a very different
+(7:04) type of computer inside.
+(7:07) Is that blinking?
+(7:08) No, I
+(7:09) thought I charged that last night.
+(7:12) How long is this going to take? 16.
+(7:14) Sixteen. What is it?
+(7:16) What?
+(7:16) You know what a watt is.
+(7:24) About one hour.
+(7:26) We are good though.
+(7:27) Battery is back.
+(7:30) No blinking.
+(7:31) Nice.
+(7:32) Okay, so plug in your phone.
+(7:33) It's about ten watts.
+(7:35) Click the TV on: 100 watts.
+(7:36) Turn on the microwave: 1,000 watts.
+(7:38) The labels on all the electronics
+(7:40) that we have around
+(7:41) where it says stuff about electricity,
+(7:42) usually in watts.
+(7:43) Those labels are not really made for you and me.
+(7:45) It's the maximum amount of electricity
+(7:47) this thing might ask for
+(7:49) in one second,
+(7:50) needed by electricians,
+(7:51) so they have a general idea of what size wire to run
+(7:54) to what part of the house,
+(7:55) each run to a different part of the house,
+(7:57) branching off the main wire
+(7:58) coming from the street.
+(7:59) Each of these runs, the wire
+(8:01) chosen for them can only handle
+(8:02) so much electricity flowing through it.
+(8:04) Try to run your washing machine and dishwasher
+(8:06) on a small size wire and you'll trip the breaker,
+(8:09) which is why the electricity always goes out
+(8:11) in that one section of the house.
+(8:16) Hey, even though
+(8:18) you've told them a dozen times,
+(8:19) we don't
+(8:19) put the big space heater in that room for a reason.
+(8:22) No, it's not even cold.
+(8:24) Put a blanket on.
+(8:26) It is also the reason
+(8:27) your washer, dryer, oven, and dishwasher
+(8:29) are plugged into those big outlets
+(8:30) connected to wires large enough
+(8:32) to handle the extra electricity they need.
+(8:34) This system of different wires, different plugs,
+(8:36) different circuit breakers, but ultimately runs
+(8:38) back to the power plant that makes the electricity.
+(8:41) It's the same for all the factories,
+(8:42) office buildings, stadiums,
+(8:44) everything that uses electricity.
+(8:45) It's just scaled way up.
+(8:46) Wires are bigger, breakers are much bigger.
+(8:48) The transformer that takes it off
+(8:50) the main line and channels it
+(8:51) into your building—far bigger.
+(8:52) An average American home, around the clock,
+(8:54) averages about 1,200 watts,
+(8:56) which is a little more than a microwave.
+(8:58) If every home in New Orleans sat down and hit
+(9:00) play on Netflix at the same time,
+(9:02) 10,000 watts of servers
+(9:04) would be running to deliver all of that video.
+(9:06) It's about eight homes'
+(9:07) worth of electricity.
+(9:09) But then we started plugging
+(9:10) in these new computers, the computers
+(9:12) that would force all of us to reckon with
+(9:14) what exactly would happen when,
+(9:16) instead of servers
+(9:17) sending us Netflix videos,
+(9:18) we installed the special servers
+(9:20) that allowed us to ask for almost anything
+(9:22) to be created on the
+(9:23) spot and sent back.
+(9:26) The movie coming from
+(9:27) Netflix was made years ago.
+(9:29) Netflix compressed it, copied it
+(9:30) a few thousand times,
+(9:31) and put the copies on servers
+(9:32) that sit inside a data center,
+(9:34) probably within a few miles of your house.
+(9:36) Press play on Saving Private Ryan.
+(9:37) The signal you sent goes
+(9:39) to a box that finds the file
+(9:40) and pushes it back down the wire to you.
+(9:42) That is it.
+(9:43) Every second of video
+(9:44) you ever watched was finished
+(9:45) before you asked for it.
+(9:46) Ask an AI for a video or anything else
+(9:48) for that matter.
+(9:49) And nothing exists yet.
+(9:50) There is no file.
+(9:51) There is no template.
+(9:52) There is an empty void
+(9:53) that must be filled.
+(9:55) If it can't figure out how to fill
+(9:56) the void, there is no reason for it to exist.
+(9:59) So think about what a video is.
+(10:00) It's just a lot of still images strung together,
+(10:02) frames playing in sequence one after another.
+(10:05) For AI to make a two-second video,
+(10:07) it has to make 48 different images.
+(10:09) Start to fill the void by creating the first frame.
+(10:11) But being video,
+(10:12) the next one must be different than the first.
+(10:14) But it can't be too different.
+(10:15) It needs to make sense, so it checks the second
+(10:17) one against the first, then
+(10:18) thinks about how that might make sense
+(10:20) against the third. It makes the third and does the same
+(10:22) check with the fourth, on
+(10:23) and on. Each one
+(10:24) a guess saying, ‘I think I'm doing
+(10:26) a good job filling the void with something
+(10:28) this random human who gave me this
+(10:30) task will like.’ Each frame:
+(10:32) two million pixels, built from everything
+(10:34) the model has ever seen.
+(10:35) This is the whole difference between the old data
+(10:37) center world and the new one.
+(10:39) The chip that delivers
+(10:40) is called the CPU.
+(10:41) It's the one in your laptop.
+(10:42) Eight cores, maybe 16, very fast,
+(10:44) very good at doing one thing after another.
+(10:46) A kitchen with eight outstanding chefs
+(10:49) all working on their own dish.
+(10:50) The chip that creates—
+(10:52) the void-filling chip—is called a GPU.
+(10:53) Something like 17,000 cores.
+(10:56) Each one is slow and dumb, not even close to a chef,
+(10:58) but all 17,000 of them are
+(11:00) working on the same frame at the same time.
+(11:02) 17,000 cooks
+(11:04) working on the same dish
+(11:05) at the same time.
+(11:06) And it is here
+(11:07) that we arrive at
+(11:09) what might be the true, sticky center
+(11:11) of what the data center debate
+(11:12) is actually about.
+(11:13) The Netflix servers were 10,000 watts.
+(11:16) Okay, everybody is watching those movies.
+(11:18) These machines that fill an empty void require
+(11:20) 120,000 watts. That's 100 homes'
+(11:22) worth of electricity.
+(11:24) Leading to a very tricky question
+(11:25) that has resulted in what has to be something
+(11:27) many of us have now experienced.
+(11:30) Yeah, you just type in the box
+(11:31) and it'll do it for you.
+(11:32) What do you mean it'll do it for you?
+(11:34) Anything you want.
+(11:35) I don't know what that means.
+(11:37) Just ask it something.
+(11:38) All of this electricity.
+(11:40) And what an interesting piece
+(11:41) of the puzzle electricity is,
+(11:42) which we will soon see.
+(11:44) But all of this electricity,
+(11:45) all of this land, all of this money.
+(11:47) And when the average person
+(11:48) has the audacity
+(11:49) to ask something like,
+(11:51) well, what do I get from this?
+(11:52) The best response is,
+(11:54) I don't know
+(11:55) exactly—something cool.
+(11:57) It can write emails.
+(11:58) Either that or
+(11:59) it might kill you.
+(12:01) But if you don't mind, I'd like to build
+(12:03) another city-sized box across the street
+(12:05) so we can create more
+(12:07) cool stuff.
+(12:08) This is perhaps
+(12:10) the ultimate example of a LULU.
+(12:14) We'll come back to
+(12:14) that in just a second and turn to me.
+(12:16) Finally booking the appointment.
+(12:18) I kept pushing back.
+(12:19) Thanks to the sponsor of this video, Zocdoc.
+(12:21) I needed to see a dentist— non-emergency,
+(12:24) just overdue—and every time the thought showed up,
+(12:26) I came up with a good reason to wait.
+(12:28) Got to take a look through this
+(12:29) edit, a lot of reading to catch up on,
+(12:31) and one more research pass until finally
+(12:34) it is late and booking feels like a whole new thing.
+(12:36) I don't have the brain for it. Later becomes next week,
+(12:39) which becomes next month.
+(12:40) The real problem was much less
+(12:42) the actual visit and more the
+(12:43) making of the appointment.
+(12:45) Open a browser, hunt for a dentist,
+(12:46) check insurance, read reviews on three
+(12:48) different sites, call during business hours.
+(12:50) Sit on hold.
+(12:51) Wait for a callback that lands
+(12:52) while I can't answer.
+(12:54) That version of the task is why
+(12:56) people like me stall.
+(12:57) So I stop stalling and open
+(12:59) Zocdoc on my phone.
+(13:00) Local doctors who take my plan,
+(13:02) real patient reviews next
+(13:04) to the names, and actual appointment openings
+(13:05) I could see and tap. Compare a couple.
+(13:08) Pick a time that fits.
+(13:09) Book it.
+(13:10) The thing I've been protecting my whole day from
+(13:12) took a couple of minutes between tasks.
+(13:14) If you've got an ‘I'll do it later’ appointment sitting
+(13:16) in the back of your head, try it from your phone.
+(13:20) Local, in-network, real
+(13:22) openings, booked without
+(13:23) turning your afternoon into hold music.
+(13:25) So thank you to Zocdoc
+(13:27) for sponsoring this video.
+(13:28) Let's get back to it.
+(13:33) Do you know why
+(13:33) modern prison cells don't look like this anymore
+(13:36) and instead look like this?
+(13:37) Inmates can throw stuff out.
+(13:39) One variant of that is a fluid assault.
+(13:41) A guard walks by.
+(13:42) One of the inmates inside
+(13:43) has acquired fluid of some type.
+(13:46) They throw that fluid on the guard
+(13:47) and assault by fluid.
+(13:49) These are the kinds of doors the Dakota Territory
+(13:50) prison has, going
+(13:52) all the way back to 1881.
+(13:53) This place has stood barely changed
+(13:55) for nearly 150 years.
+(13:56) Its cells are 30%
+(13:57) smaller than the industry standard.
+(13:59) There are no windows or lines of sight
+(14:00) to the outside world in many of the cells. The
+(14:02) showers are in one long basement room
+(14:04) where 40 men shower at the same time
+(14:07) with two guards present, and there was exactly one
+(14:09) stairwell that allows you to exit the room.
+(14:11) It's a 19th century prison,
+(14:12) probably a great one for the time,
+(14:14) but as time has gone by,
+(14:15) there are many things that are wrong with this prison,
+(14:17) not just from the prisoner perspective,
+(14:19) but from the people who have to staff it.
+(14:21) It is impossible to get it up to life
+(14:23) and fire safety codes
+(14:24) so bad that a federal judge ruled
+(14:26) that it did indeed violate
+(14:27) every prisoner's Eighth and Fourteenth Amendment rights.
+(14:30) That was all the way back in 1984,
+(14:32) and that is about
+(14:33) as far as the whole thing has gotten,
+(14:35) because prisons are a LULU,
+(14:37) a locally unwanted land use.
+(14:40) Finally, in 2021, the state said no more.
+(14:42) This has to be fixed.
+(14:43) And a judge agreed.
+(14:45) A prison like a
+(14:45) jail is a necessary government function
+(14:47) and it must be located somewhere.
+(14:49) The state starts offering money
+(14:51) to people who own land: $70,000 an acre, in a place
+(14:54) where land goes for $10,000
+(14:55) an acre. One said yes.
+(14:56) He thought he was selling for a fairground.
+(14:58) As soon as he found it was for a prison, he flipped.
+(15:00) No, we'll build it
+(15:02) on the outskirts of that place.
+(15:03) What about that place?
+(15:04) No, no, no, no.
+(15:05) Protest after protest,
+(15:06) hopping from one place to the next,
+(15:08) pressuring the mayor and politicians to say no.
+(15:11) 40 years
+(15:12) to get from judge to breaking ground,
+(15:14) which finally happened in April 2026
+(15:16) on a section of land next to a concrete plant,
+(15:18) landfills, airports, power lines, highways—
+(15:21) many of the things that we all use
+(15:22) or benefit from indirectly are exactly the things
+(15:25) that—‘Absolutely no way—
+(15:26) do not build that near me.’
+(15:27) They don't pass the kitchen table test
+(15:29) where you sit down with your family
+(15:31) and you talk about the new landfill
+(15:33) that they want to put in right over there.
+(15:34) And you all acknowledge that, yes,
+(15:36) our garbage will go there and everyone's
+(15:37) garbage needs to go somewhere.
+(15:39) The value of our land will probably go down. There's
+(15:41) probably going
+(15:42) to be traffic, maybe even a smell, despite
+(15:44) knowing it's something
+(15:45) thousands of other people will use.
+(15:47) It's so easy to hit no on that.
+(15:49) Data centers do not pass the kitchen
+(15:51) table test either—yet,
+(15:52) anyway—but for a reason
+(15:53) most people haven't really considered or
+(15:55) don't want to put into words.
+(15:56) All the benefits of a state prison—
+(15:58) it all stays in the state.
+(15:59) Bad people from your immediate area
+(16:00) are taken away and put inside
+(16:02) explicitly so they cannot harm you.
+(16:04) That is a public service.
+(16:05) The person who lives next to
+(16:06) the prison can clearly see,
+(16:08) even if they don't love the laws
+(16:09) or how the legal system works,
+(16:11) or even that the prison is there, the prison
+(16:13) is built to serve them.
+(16:15) ‘Just ask it something!
+(16:17) Like you're speaking to a person,
+(16:18) just like you're speaking to me.’
+(16:20) ‘Like what?’
+(16:22) ‘Okay, okay.
+(16:23) What does a data center do?’
+(16:25) Every two seconds, roughly—it depends on exactly
+(16:27) what you're asking and what you're doing—
+(16:29) one million people are able
+(16:30) to send something to one of the mega
+(16:31) AI data centers being built,
+(16:33) and it will fill the void and send it back.
+(16:35) Back is wherever. There's a small chance
+(16:37) it's the house a mile away from
+(16:39) the data center, but probably not.
+(16:40) There are a thousand people in some of those towns.
+(16:42) Most of them don't even use AI.
+(16:44) This is a much harder kitchen table
+(16:46) test. A local fight over where the prison should go:
+(16:49) brutal, but it's honest
+(16:50) and easy to understand.
+(16:51) A data center breaks
+(16:52) the old moral geometry of this is our mess.
+(16:55) So this is our dump.
+(16:57) A data center is not matched to its users.
+(16:59) It is matched to four inputs: power, water, fiber,
+(17:01) and a deal. That deal
+(17:02) part—the details of it—
+(17:04) the kitchen table is where that deal is
+(17:05) made, and the people around it
+(17:07) are focused on exactly two things.
+(17:09) This is the current drinking
+(17:11) water in Morgan
+(17:12) County, Georgia.
+(17:14) Researchers say the amount of water used by data
+(17:16) centers can be up to millions of gallons
+(17:18) during hot days.
+(17:19) The house was built in 2005,
+(17:21) and the water level in our wells
+(17:23) dropped 15 feet.
+(17:24) The thing falling just behind.
+(17:26) First on that list.
+(17:26) Number two: water.
+(17:28) Data centers get hot.
+(17:30) Historically, the cheap way to
+(17:31) cool it is the same way we as humans do:
+(17:33) You sweat it out. Pull water into the building,
+(17:35) put the heat that comes out of the chips
+(17:36) into that water, let the water evaporate.
+(17:38) The heat leaves with it.
+(17:40) Running that loop all day, a big data center
+(17:42) running a particular type of cooling system
+(17:44) can go through a million gallons.
+(17:46) If you put that data center in a dry
+(17:47) county with a small utility, that is
+(17:49) a number the neighbors are going to question.
+(17:51) And if they can't get a clean answer,
+(17:53) that might be the bigger issue.
+(17:54) Like at this site in Oregon,
+(17:55) Google was using more
+(17:57) than a quarter of the town's water, and the city—
+(17:59) it wasn't even Google—
+(18:00) went to court to keep that a secret.
+(18:02) That's the part people are actually mad about.
+(18:04) It appears to be much less about the gallons, much more
+(18:07) about not being told.
+(18:08) If you back out and look at
+(18:09) water usage by activities that aren't in a house—
+(18:11) taking showers, doing dishes, drinking it,
+(18:13) this is how it breaks down.
+(18:15) Farms are the biggest consumers of water
+(18:17) in the US.
+(18:18) Almonds, pistachios,
+(18:19) golf courses rank up there.
+(18:21) In this little box
+(18:22) down in the corner is data centers.
+(18:24) Doesn't mean you can put a data center anywhere.
+(18:26) It doesn't mean you can be reckless,
+(18:27) but actual documented harm to residents,
+(18:30) meaning someone lost water or had it degraded
+(18:32) because of a data center
+(18:34) is a very short
+(18:35) list. Of the 5,400 data centers,
+(18:37) the cases that get named over and over
+(18:39) are the same handful.
+(18:41) The one that goes around is Newton County, Georgia,
+(18:43) about muddy-colored water.
+(18:44) It's not the city water everyone uses.
+(18:46) It's four private wells, and by all accounts,
+(18:48) just to get all sides of the situation,
+(18:50) including the county commissioner.
+(18:52) The cloudy water appeared many years ago, years before
+(18:54) Meta started building its data center.
+(18:56) But either way,
+(18:58) the industry reads
+(18:59) the same polls everyone else does.
+(19:01) New buildings are being designed to run
+(19:02) closed loop, which means
+(19:04) they use the same water for ten years.
+(19:05) Water goes in one time, and then it just recirculates,
+(19:08) or a new type of air
+(19:09) design system, or no water at all,
+(19:11) because a million-gallon headline in a dry
+(19:13) county is going to cost
+(19:14) more than cooling savings.
+(19:16) But the number one thing—
+(19:18) what 77% of people are focused
+(19:20) on—is the number that shows up at the top of
+(19:22) every poll, poll after poll,
+(19:24) all political parties.
+(19:25) The number one thing being chatted
+(19:27) about around the kitchen table:
+(19:28) is this going to make my electricity bill go up?
+(19:31) Announcing the formation of Stargate,
+(19:34) the construction of colossal data centers,
+(19:36) NVIDIA announcing that it will invest
+(19:38) $100 billion into OpenAI.
+(19:41) That project will use about ten gigawatts
+(19:43) of power.
+(19:44) That's a lot of gigawatts. 1,000 watts,
+(19:46) how much a microwave pulls, is one kilowatt.
+(19:49) 1,000 kilowatts,
+(19:50) which is 1,000 microwaves, is one megawatt.
+(19:52) So naturally we just keep the pattern going.
+(19:54) 1,000 megawatts, or one million microwaves,
+(19:57) is one gigawatt.
+(19:58) Or to make it a little more concrete,
+(20:00) imagine if every home, apartment, house,
+(20:01) condo, whatever
+(20:03) all turned their microwaves on at the same time.
+(20:04) In a city like Chicago,
+(20:06) it's about one gigawatt.
+(20:07) Add up all the data center proposals,
+(20:09) and it's very easy
+(20:10) to start wondering.
+(20:12) All right, that's a lot of microwaves
+(20:13) being turned on at the same time.
+(20:14) Where is that going to come from?
+(20:15) Across the entire US,
+(20:17) this is how much electricity
+(20:18) can be generated this year.
+(20:19) Of that there's a decent amount
+(20:21) that won't be used—a surplus. By 2030,
+(20:23) the US barely generates more.
+(20:25) Still a surplus, though.
+(20:26) By 2035
+(20:27) there's less electricity available
+(20:28) than 2030 and the surplus disappears.
+(20:31) So where is this
+(20:33) electricity going to come from?
+(20:34) People refer to the grid as though it's an interstate
+(20:37) highway system—a connected web
+(20:38) where each part connects to the whole.
+(20:40) It is not
+(20:42) the United States of America:
+(20:44) all 50 states, right
+(20:45) as they should be.
+(20:46) But this is not
+(20:47) how the electric system works,
+(20:49) tidy inside of each state.
+(20:50) This is. This
+(20:52) is the Electric States of America.
+(20:54) When you turn your microwave on, there's nothing
+(20:56) that says the electricity that flows into
+(20:58) it comes from the power plant closest to you.
+(21:00) It might or it might come from any of the other power
+(21:03) plants inside the bounds of the electric state
+(21:05) in which a person lives,
+(21:06) a plant that is fired up at that moment
+(21:08) and making electricity when you hit start,
+(21:10) flowing out of any of the hundreds
+(21:11) of plants in each zone, through transmission lines
+(21:13) into local lines, into your house,
+(21:15) just as movie night is about to start.
+(21:19) As electricity took off in
+(21:20) the 1800s, power plants were small and local.
+(21:22) They connected their own lines
+(21:23) to their own customers.
+(21:24) Power plants, though, started to be made bigger
+(21:27) and they were made more powerful.
+(21:28) It started making a lot
+(21:29) of sense
+(21:30) to have a few hundred big ones
+(21:31) instead of thousands of smaller ones,
+(21:33) so they naturally started connecting one set of wires
+(21:35) to another, small utilities and power plants
+(21:37) combining to make a bigger one.
+(21:38) It was more reliable.
+(21:39) The electricity could be made cheaper,
+(21:41) just like it wouldn't make sense
+(21:42) to have one company that made gasoline in each town.
+(21:45) Instead, a few giant refineries
+(21:46) made gasoline for the whole region.
+(21:48) Gasoline and diesel are
+(21:49) exactly like this.
+(21:50) Actually, if you look at the map,
+(21:51) it's the same kind of weird map
+(21:53) for oil storage and refining.
+(21:54) This weird map is why it doesn't make any sense
+(21:57) to look at how much total
+(21:58) electricity the US can make.
+(22:00) What matters is how much each region can make,
+(22:02) and whether each region has more
+(22:04) than enough or not enough.
+(22:05) And this is where things get interesting,
+(22:07) because just like the 50
+(22:08) individual states of the US— each one its own
+(22:11) little experiment—the Electric States
+(22:13) of America are also experiments.
+(22:15) They do not all do things the same way.
+(22:17) How decisions to build more power plants are made,
+(22:19) what kinds of plants to have all the way to,
+(22:21) what to put on our bills that we discuss
+(22:23) around the kitchen table.
+(22:24) Most of the US population is in a region
+(22:26) just like the one that hosts
+(22:28) the world's most data centers.
+(22:30) No one company owns every part of the system.
+(22:32) One company owns the power plant,
+(22:34) another the big transmission lines.
+(22:35) Another one owns the lines
+(22:36) in your neighborhood and sends you your bill.
+(22:38) And yet another organization is responsible
+(22:41) for getting all of those
+(22:42) companies to cooperate and to run
+(22:44) hundreds of auctions that decide the price
+(22:46) you pay for your electricity.
+(22:48) Those auctions work like this.
+(22:50) Auction number one:
+(22:52) Every hour, every plant joins an auction saying
+(22:54) the minimum amount of money
+(22:55) they'll sell their power for.
+(22:57) Bids roll in. The organization
+(22:58) running the auction looks at all
+(22:59) the electricity being asked for
+(23:01) and what their historical models
+(23:02) say to expect over the next hour.
+(23:04) They sort the bids by amount, the last bid
+(23:06) that covers all the power they expect to need.
+(23:09) That is the clearing price,
+(23:10) and that price becomes the price
+(23:11) for every power plant that submitted a lower bid.
+(23:14) In other words, if I say $5 and you say $10
+(23:17) and we need your electricity
+(23:18) to cover the amount we need to deliver
+(23:20) to customers, your bid is accepted.
+(23:22) You get paid $10.
+(23:24) I also get paid $10. Auction two:
+(23:26) Same type of auction,
+(23:27) but this is a single major
+(23:29) auction that happens once every year,
+(23:31) asking a simple question:
+(23:32) What do we have to pay you to make sure
+(23:34) you are available on the worst,
+(23:36) hottest summer afternoon,
+(23:38) when electricity demand is at its highest,
+(23:40) two years from now?’
+(23:41) The people holding the auction
+(23:43) look at how much electricity they think they'll need,
+(23:45) a forecast looking two years
+(23:46) into the future, how much do we need?
+(23:48) How much do we think that will grow?
+(23:50) How many plants are going to retire?
+(23:51) How many are going to be built?
+(23:53) Add up the numbers
+(23:53) and the price that comes in from the plant
+(23:55) that gets the total amount
+(23:57) over the forecast.
+(23:58) That's what every plant gets paid
+(24:00) and that amount is split across
+(24:01) everyone's bill.
+(24:02) It is an insurance payment,
+(24:03) a ‘just in case,’ to make sure the lights stay on
+(24:06) on the worst day. If we mosey on
+(24:08) down to the south, things get much easier.
+(24:10) Only two areas of the country
+(24:11) live in this type of system: the Southeast
+(24:13) and a big swath of the West.
+(24:15) These areas are much simpler.
+(24:16) One company, like the Southern Company
+(24:18) in Georgia, owns the plants, the wires and sends you
+(24:20) the bill—what is called vertically integrated.
+(24:22) Once per year, they publish a big forecast
+(24:24) to determine how much electricity
+(24:26) they'll need to keep their customers happy
+(24:27) the following year.
+(24:28) Southern goes to the Georgia government,
+(24:30) says, here's what it's going to cost
+(24:31) to keep the lights on next year.
+(24:33) Please let us charge that. A commission
+(24:35) looks at it, says yes, no or not that much.
+(24:37) And whatever number they
+(24:38) negotiate is what customers pay.
+(24:40) There's no hourly dogfight,
+(24:41) no two-year reservation
+(24:42) fee. One company,
+(24:43) one hearing, one rate.
+(24:45) A little farther west in Texas, though,
+(24:47) this region is unique in the entire country,
+(24:50) it is the only region that works
+(24:51) like this, as simple as can be.
+(24:53) And interestingly,
+(24:54) note that the borders of this region
+(24:56) are entirely within the state borders.
+(24:58) A very intentional decision
+(24:59) because that is the only reason
+(25:01) they're allowed to do it the way that they do.
+(25:03) If you've ever heard the term interstate
+(25:04) commerce, that is what Texas
+(25:06) does not want to trip.
+(25:07) Connect to a system that serves
+(25:08) customers outside of Texas,
+(25:10) and the federal government is then allowed
+(25:12) to put rules on Texas
+(25:13) about how it runs its system,
+(25:14) and Texas does not want those rules.
+(25:17) The system would become much more complicated
+(25:19) than how it currently works, which is
+(25:20) just a round-the-clock auction.
+(25:22) We need this much electricity.
+(25:23) How much will you sell it for?
+(25:24) And a plant only gets paid
+(25:25) when it actually makes the power.
+(25:26) That is it.
+(25:27) Most hours. That's cheap.
+(25:28) On a brutal afternoon
+(25:30) when every air conditioner in Dallas
+(25:31) is running full blast, or a freak winter storm
+(25:33) like a couple of years ago, the price of that hour
+(25:35) is allowed to go as high as $5,000.
+(25:38) All that to say, it's not the same everywhere.
+(25:40) Three different systems will lead to three,
+(25:42) at least somewhat, different outcomes.
+(25:43) That's not to say any of them solves
+(25:45) the demand for electricity entirely, but this is where
+(25:48) things stand now.
+(25:49) This is how much surplus
+(25:50) each region will have this year.
+(25:51) Everyone is in the green by a decent amount.
+(25:53) Fast forward to 2030 and the picture starts
+(25:55) to shift significantly.
+(25:57) The markets where stories of rising electric bills
+(25:59) have swirled are already in deficit.
+(26:01) Out to 2035,
+(26:03) those same areas with bill increases today
+(26:05) get dramatically worse.
+(26:07) Your rising power bill
+(26:09) and how all these data centers are playing a role.
+(26:11) Should Dominion customers continue
+(26:13) sharing those costs?
+(26:14) Who should pay for it?
+(26:15) It has to be the data center industry.
+(26:17) What's at risk is every person. Every
+(26:19) household runs the risk of a doubling
+(26:21) or even a tripling of the amount they pay.
+(26:23) Not all of it is data centers.
+(26:25) Some of it is regular
+(26:26) upkeep, some is maintenance, and some is an error
+(26:28) where those two-year-out projections
+(26:30) didn't actually happen.
+(26:31) The organization that holds the auction
+(26:33) said 30 gigawatts were coming,
+(26:34) but only five did. The charge from that
+(26:36) miscalculation already
+(26:38) appeared on customer bills.
+(26:39) So that's the case against it.
+(26:41) If someone shows up in your town
+(26:42) asking for enough electricity to power a city,
+(26:45) and the power company needs billions of dollars
+(26:47) of new wires and substations
+(26:48) and power plants to serve them, there's
+(26:50) an extremely reasonable question to ask:
+(26:52) Who pays for all of that?
+(26:54) Because if the answer is you,
+(26:55) if this company's decision to build here
+(26:57) makes the number on your kitchen table go up,
+(26:59) then suddenly the world's
+(27:01) AI ambitions have become your electric bill.
+(27:03) But there is another side of this fight,
+(27:06) because there are two ways to look at a company
+(27:08) showing up and asking
+(27:09) for a billion watts of electricity.
+(27:10) One is: where are we possibly going
+(27:13) to find another billion watts?
+(27:14) The other
+(27:15) is: Someone just showed up
+(27:17) offering to buy a billion watts.
+(27:19) Those are very
+(27:19) different ways of looking at the exact same thing.
+(27:22) For most of modern American history,
+(27:24) electricity demand grew slowly
+(27:25) enough—so slowly that the system could
+(27:28) mostly grow slowly with it.
+(27:29) AI has definitively changed that.
+(27:31) For the first time in generations, enormous
+(27:34) customers are showing up saying,
+(27:36) if you can make vastly
+(27:37) more electricity, we will buy it.
+(27:38) We will buy a lot of it.
+(27:39) Not for an hour, not when it's cheap,
+(27:41) all day, every single day.
+(27:43) And suddenly, all of these weird Electric States
+(27:46) we just looked at—systems built differently,
+(27:47) regulated differently, priced differently—
+(27:49) have been dropped into the same experiment.
+(27:51) Can you build?
+(27:52) Can you build quickly?
+(27:53) Can you build without making everyone
+(27:55) already living there pay for it? If you can,
+(27:57) what happens to that place that does?
+(27:59) You become a place capable of producing enormous
+(28:02) quantities of reliable, inexpensive electricity
+(28:04) in an economy that increasingly wants
+(28:07) enormous quantities of reliable,
+(28:08) inexpensive electricity.
+(28:10) AI needs that.
+(28:11) Factories need that. Advanced manufacturing needs
+(28:13) that, and whatever comes after
+(28:14) AI may need it, too.
+(28:16) So maybe these data centers aren't just consuming
+(28:18) the electric system.
+(28:20) Maybe they are placing
+(28:21) an enormous bet on which
+(28:23) electric systems can grow.
+(28:24) And now every one of the electric states
+(28:26) has to decide whether it wants to take that bet.
+(28:29) So the four biggest
+(28:29) companies in America are spending—they're betting—
+(28:32) something like $700 billion
+(28:34) this year on these buildings.
+(28:35) Last year was about $400 billion.
+(28:36) The entire interstate highway system, every mile,
+(28:38) if you adjust for inflation, cost about $500 billion.
+(28:41) That was spent over 40 years.
+(28:43) These companies are spending more
+(28:44) than that in 12 months.
+(28:45) Remember us-east-1?
+(28:47) The default setting for the whole internet.
+(28:48) The reason so much of what happens
+(28:50) online passes through Virginia. Right now,
+(28:53) when someone in London or São Paulo
+(28:55) or Jakarta asks an AI to fill the void,
+(28:57) there's a very good chance
+(28:59) that void gets filled here in the United States.
+(29:01) And that is the other side of the argument.
+(29:03) The people spending all this money
+(29:04) believe compute is going to become one
+(29:06) of the most important inputs
+(29:07) in the global economy.
+(29:08) That compute is going to become an export,
+(29:11) and one that is at least as important as oil.
+(29:13) And if they're right,
+(29:14) the question isn't just
+(29:16) who uses the AI;
+(29:17) it's where the AI gets made.
+(29:18) Because when a country becomes the early center
+(29:21) of an important new technology,
+(29:22) it doesn't capture only the thing itself.
+(29:24) The money comes, the companies come,
+(29:26) the suppliers come, the engineers come,
+(29:28) and then people figure out what else they can build,
+(29:30) because all of those things are already there.
+(29:32) We've actually watched this happen
+(29:34) once already in this story.
+(29:35) Why did everybody put
+(29:36) their servers in Northern Virginia?
+(29:38) Because everybody else had already
+(29:39) put their servers in Northern Virginia.
+(29:41) The center of gravity
+(29:42) formed, and then the center
+(29:43) of gravity became a reason to keep building there.
+(29:46) The argument from people building these boxes
+(29:48) is that AI could work the same way, except
+(29:51) now the competition isn't between Virginia
+(29:53) and California; it's between countries.
+(29:55) And this chart is what America's lead looks like
+(29:57) today: a formidable lead,
+(29:59) but not insurmountable.
+(30:01) Loudoun County, us-east-1.
+(30:03) It's not wealthy because the data centers are there.
+(30:05) We established that already, but its government
+(30:07) has collected enormous
+(30:09) amounts of money from them, money
+(30:10) that has helped pay for very nice schools
+(30:12) and public services, and allowed the county
+(30:14) to lower property taxes by 40%.
+(30:16) So here is the pitch.
+(30:18) Do that again, except bigger,
+(30:20) except for the entire United States.
+(30:22) If the world is going to spend
+(30:23) trillions of dollars building the infrastructure
+(30:25) behind artificial intelligence,
+(30:27) build a disproportionate amount of it
+(30:28) here. Generate the electricity here.
+(30:30) Build the infrastructure here. Collect the taxes
+(30:32) here. Develop the expertise here.
+(30:34) And hope that whatever gets built on
+(30:35) top of all that compute gets built here too.
+(30:38) That is the bet.
+(30:38) And it's not a ridiculous one.
+(30:40) But there is a problem with it, because the person
+(30:43) sitting at the kitchen table isn't
+(30:44) not the United States of America;
+(30:46) they're the person sitting at the kitchen table.
+(30:48) So let's bring this full circle.
+(30:50) A nuclear plant is a building
+(30:51) that makes electricity
+(30:52) for the people who live around it.
+(30:54) A data center is a building
+(30:55) that uses electricity on behalf of people
+(30:57) who mostly live somewhere else,
+(30:58) probably far away.
+(31:00) Same category of unwanted thing,
+(31:02) opposite direction of flow.
+(31:03) If you're sitting around the kitchen
+(31:04) table, the test ends right there
+(31:07) before anyone says a word about what
+(31:08) AI is or is not,
+(31:10) but the connection to nuclear
+(31:12) plants isn't complete, because protests are not
+(31:14) what killed American nuclear power.
+(31:16) A breakdown in an atomic
+(31:17) power plant is probably
+(31:18) the worst nuclear reactor accident to date.
+(31:21) An unexpected release of more radiation
+(31:23) today from the Three Mile Island Nuclear
+(31:25) Power Plant has led to a series of consequences.
+(31:27) After Three Mile Island, every plant
+(31:29) under construction had to be redesigned,
+(31:31) mid-build. Costs doubled.
+(31:32) Then they tripled.
+(31:33) As just one example, in Washington state,
+(31:35) a group of public utilities
+(31:36) had started five plants at once,
+(31:38) and when the money ran out, they defaulted on
+(31:40) what today would be almost $10 billion in debt,
+(31:43) the largest utility
+(31:44) default in American history.
+(31:45) And around the country,
+(31:46) another 100 plants were canceled.
+(31:47) And when the projects went
+(31:48) bad, regular people,
+(31:50) regular electricity customers
+(31:51) were often left holding the bill.
+(31:53) So for 30 years,
+(31:54) nobody broke ground on a new one.
+(31:55) Nobody had pockets deep enough to backstop
+(31:58) the cost increases,
+(31:59) something people didn't want near them anyway,
+(32:01) that had a high chance of becoming a bill
+(32:03) they would pay for. Nonstarter.
+(32:05) But the interstates, the interstates
+(32:08) went the other way for a reason
+(32:09) that had nothing to do with them being popular.
+(32:11) Quite simply, the federal government
+(32:13) paid 90 cents of every dollar to construct them.
+(32:16) The fights were real.
+(32:17) Some highways got stopped,
+(32:18) whole neighborhoods got saved.
+(32:19) But the fights were only
+(32:21) really ever about where the road went,
+(32:22) never about who paid for the bill.
+(32:24) So, a messy fight, but a fight
+(32:26) that was survivable. Today,
+(32:28) now, just three years into this whole thing,
+(32:31) everybody is intently watching the bill.
+(32:33) A 12-month moratorium
+(32:34) was signed in mid-July
+(32:36) by Governor Kathy Hochul
+(32:37) halting the development of AI
+(32:38) data centers.
+(32:39) Governor Greg Abbott is pausing
+(32:41) all data center permits across Texas.
+(32:43) These announcements—you would be stretching
+(32:45) to call them bans.
+(32:46) By any definition,
+(32:47) ban isn't really the right word here.
+(32:49) These are pieces of paper saying
+(32:51) if you want to build a data center, you have to prove
+(32:52) you can pay for it, especially the electricity.
+(32:55) Ohio: Reserve enormous
+(32:56) amounts of electricity and don't show up.
+(32:58) You still owe 85% of the cost.
+(33:00) Virginia: Data centers are being separated
+(33:02) into their own customer class with their own rates.
+(33:04) Louisiana: Three new gas plants
+(33:06) for one Meta data center,
+(33:08) which Meta has to pay for.
+(33:09) And Pennsylvania:
+(33:12) a company agreed to
+(33:13) buy power from a nuclear plant
+(33:15) for 20 years, so its owner would restart it.
+(33:17) That plant is Three Mile Island.
+(33:20) Constellation Energy
+(33:21) said that it will reopen the Three Mile Island
+(33:23) Nuclear Power Plant, selling
+(33:25) all of the power to Microsoft.
+(33:26) The building that put the final nail
+(33:28) in the coffin of American nuclear
+(33:29) power is being restarted for a data center,
+(33:32) a thing that is less popular
+(33:33) than nuclear plants.
+(33:34) This time,
+(33:35) the customer can afford the bill.
+(33:37) In the last great buildout, when costs exploded,
+(33:39) they would land on regular people,
+(33:41) ordinary electric customers.
+(33:43) Today, nobody really knows
+(33:46) exactly how AI plays out.
+(33:47) Anybody who says they do is selling something.
+(33:50) But the data center
+(33:51) fight could be, might be,
+(33:52) maybe even likely is—a fight
+(33:54) over a much older and a much simpler question:
+(33:56) When the cost lands,
+(33:58) who is sitting underneath it?
+(34:00) The town of a thousand people
+(34:01) or whoever built the box?
+(34:03) There are actually other things I'd like to go
+(34:05) on about, like car factories versus data centers.
+(34:07) People accept factories.
+(34:08) They come with jobs; data centers, not so much.
+(34:10) And about half a dozen other things.
+(34:12) But I am way over time.
+(34:14) I have to end this.
+(34:16) So who knows? Maybe
+(34:17) there's another angle to this whole thing.
+(34:18) We'll explore another time.
+(34:19) But until that time,
+(34:21) thank you for watching.
+(34:22) Oh, and hit that subscribe button.
+(34:23) It is down there somewhere
+(34:25) and I will see you in the next video.
+(34:26) See you.

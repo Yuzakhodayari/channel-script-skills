@@ -1,5 +1,12 @@
+.DS_Store
 __pycache__/
 *.pyc
-corpus/
-*-transcripts/
-transcripts/
+*.pyo
+.venv/
+.env
+*.egg-info/
+.claude/skills/
+.agent/skills/
+.cursor/skills/
+.gemini/
+.codex/

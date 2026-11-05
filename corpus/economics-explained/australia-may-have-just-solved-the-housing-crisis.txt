@@ -1,0 +1,467 @@
+Title: Australia May Have Just Solved The Housing Crisis
+
+(0:00) For the last three decades, the
+(0:01) Australian economy has been defined by
+(0:02) two distinct types [music] of dirt. The
+(0:04) mineral-rich dirt that we dig up and
+(0:06) export to developing industrial
+(0:07) countries in Asia, and the blocks of
+(0:09) dirt that we trade back and forth
+(0:10) between one another for progressively
+(0:12) higher prices. The first kind has made
+(0:14) Australia incredibly rich, but buying
+(0:16) and selling the second kind has also
+(0:18) made Australians incredibly indebted.
+(0:20) Australia has the second highest level
+(0:22) of household debt of any country in the
+(0:23) world, and that's almost entirely
+(0:25) because of how much people need to
+(0:26) stretch themselves to buy a house that
+(0:28) looks like this, but is still somehow
+(0:30) worth $7 million. The only country that
+(0:33) Australia actually falls behind in this
+(0:34) unflattering statistic is Switzerland,
+(0:36) and that's largely a statistical anomaly
+(0:38) caused by Switzerland's unique banking
+(0:40) and land tax arrangements. Australia's
+(0:42) real estate market has for a long time
+(0:43) been seen as too big to fail because it
+(0:45) accounts for most of our national
+(0:46) wealth. But underneath that wealth is an
+(0:48) enormous amount of debt, much of it
+(0:50) sitting on the books of our biggest
+(0:52) banks. Which means that alongside our
+(0:54) mining giants, Australia's biggest
+(0:55) companies ultimately make their money in
+(0:57) one of two [music] ways: digging up dirt
+(0:59) or financing it. And the assumption that
+(1:01) Australian real estate can't fail might
+(1:03) be starting to change. That's because
+(1:05) about two months ago the Australian
+(1:06) government changed the very strange tax
+(1:08) policies that made Australian real
+(1:09) estate such a uniquely desirable asset.
+(1:12) And we're already starting to see the
+(1:13) results of that change as houses have
+(1:15) begun selling at a significant discount
+(1:17) from where they were just months ago.
+(1:19) Now, if the goal is to make housing more
+(1:21) affordable, falling house prices might
+(1:23) sound like a good thing. But when so
+(1:25) much of a country's wealth and so much
+(1:26) of its debt is tied up in housing,
+(1:28) deliberately pushing those prices down
+(1:30) is an enormous economic gamble. And
+(1:32) Australia is hardly the only country
+(1:34) struggling with unaffordable housing.
+(1:36) Governments around the world have spent
+(1:37) years kicking that particular can down
+(1:38) the road, in part because fixing the
+(1:40) problem risks hurting the millions of
+(1:42) people who already own homes. Australia,
+(1:44) however, has decided to take that risk.
+(1:47) So, to understand why and what happens
+(1:48) now, we need to answer three questions.
+(1:51) Why was housing so uniquely unaffordable
+(1:53) in Australia? What enabled Australia to
+(1:55) actually take this economic risk? And
+(1:57) finally, is bringing house prices down
+(1:59) going to take the rest of the economy
+(2:01) down with them?
+(2:03) Before I started Economics Explained, I
+(2:04) was stuck in a dead-end job. I hated
+(2:06) going to work every day, and I knew
+(2:08) something needed to change. But knowing
+(2:10) that and actually doing something about
+(2:11) it are two very different things. It
+(2:13) took a lot of conversations with some of
+(2:14) my closest mates before I finally
+(2:16) decided to take the risk and start
+(2:18) Economics Explained. And that's why I
+(2:20) like the idea behind today's sponsor,
+(2:21) [music] strawberry.me career coaching.
+(2:24) When you're stuck in your own career, it
+(2:25) can be incredibly difficult to look at
+(2:27) your situation objectively. You can
+(2:29) spend months thinking about leaving a
+(2:30) job, asking for a promotion, changing
+(2:32) careers, or trying to figure out what
+(2:34) you actually want to do next. Sometimes
+(2:36) what you need is an outside perspective.
+(2:38) strawberry.me matches you one-on-one
+(2:40) with a vetted professional career coach
+(2:41) who can help you step back, think
+(2:43) through your options, and turn all of
+(2:44) that thinking into a strategy and real
+(2:46) next steps. And unlike talking it over
+(2:49) with your mates, a professional coach is
+(2:50) there specifically to help you work
+(2:52) through these decisions and hold you
+(2:53) accountable for actually acting on them.
+(2:56) The answer isn't always to quit your job
+(2:58) and start a YouTube channel, but if you
+(3:00) know something about your career needs
+(3:01) to change, spending another 6 months
+(3:03) thinking about it probably isn't going
+(3:04) to change much. So, talk it through with
+(3:07) a professional coach. Go to
+(3:08) strawberry.me/economics-explained
+(3:10) to get matched with your coach and get
+(3:12) 50% off your first coaching session.
+(3:15) So, to understand how Australia got
+(3:16) here, you have to understand the tax
+(3:18) policy that spent decades encouraging
+(3:20) Australians to buy more property. And a
+(3:22) big part of that comes down to two
+(3:23) words, negative gearing. We have covered
+(3:26) the exact mechanics of negative gearing
+(3:28) in a few videos before on this channel,
+(3:29) so we don't want to repeat too much
+(3:31) here, but there are a few headline
+(3:32) issues you really do need to know to
+(3:34) understand what just changed. The first
+(3:36) is that Australia has quite high income
+(3:38) taxes, especially for a high-income
+(3:40) country. Anybody earning more than
+(3:42) 190,000 Australian dollars, which is
+(3:44) about 120,000 US dollars, loses 47 cents
+(3:48) of every extra dollar they make once the
+(3:49) Medicare levy is included, which is very
+(3:51) steep. But going all the way back to our
+(3:53) income tax laws of the 1930s and outside
+(3:56) of a brief two-year pause in the
+(3:57) mid-80s, people here have been able to
+(3:59) use negative gearing. This meant that if
+(4:01) you bought an investment property, you
+(4:02) could deduct expenses like mortgage
+(4:04) interest from the rent it earned. And if
+(4:06) those expenses were greater than your
+(4:07) rental income, you could deduct the
+(4:09) remaining loss from your regular income
+(4:10) as well. So, if someone owned a rental
+(4:13) making $50,000 a year in rent, but paid
+(4:15) $60,000 a year in interest on the
+(4:17) mortgage over it, they could take that
+(4:18) $10,000 loss and deduct it straight off
+(4:20) the income from their day job. And it
+(4:22) got even better because investors could
+(4:24) also deduct the depreciation of the
+(4:26) building itself. A brand new home could
+(4:28) be written down at 2.5% a year for four
+(4:30) decades, which translates to thousands
+(4:32) of dollars in extra paper losses every
+(4:34) year. The catch is that depreciation
+(4:36) would never cost the owner a single
+(4:38) actual dollar, and in a rising market,
+(4:40) the building would actually be going up
+(4:42) in value. So, investors were claiming
+(4:44) tax deductions on losses that weren't
+(4:46) really happening. For a surgeon or a
+(4:47) mining engineer staring down that 47%
+(4:50) top tax rate, a rental that lost money
+(4:51) on paper was one of the only ways to
+(4:53) claw a tax bill back [music] down. So,
+(4:55) high-income Australians were arguably
+(4:57) being foolish if they were not doing it.
+(4:58) A lot of them were. As of the most
+(5:00) recent tax data, about 2.2 million
+(5:03) Australians owned an investment
+(5:04) property, roughly half were negatively
+(5:06) geared, and together they claimed over
+(5:08) $10 billion in losses in a single year.
+(5:10) Now, the reason governments allowed this
+(5:12) in the first place was the hope that it
+(5:13) would encourage ordinary people to
+(5:15) invest in rental properties and take
+(5:16) pressure off public housing. [music]
+(5:18) Which, to be fair, it did. But once this
+(5:20) particular Pandora's Box was opened, it
+(5:22) was very hard to close for a few
+(5:24) reasons. For starters, Australia does
+(5:26) not actually have that much viable land
+(5:28) for housing. We don't have many cities,
+(5:30) and the ones we do have are heavily
+(5:32) restricted on what can be built where,
+(5:33) so all of that tax-driven demand mostly
+(5:35) just bid up the price of the same old
+(5:37) houses. As more people piled in,
+(5:39) property became a larger and larger
+(5:40) share of household wealth. Our homes are
+(5:42) now worth about $12.8 trillion, which is
+(5:45) nearly three times the value of the
+(5:47) entire superannuation system that holds
+(5:48) most Australians retirement savings.
+(5:50) With that much of the national balance
+(5:52) sheet in houses, changes in house prices
+(5:54) have an [music] outsize effect on
+(5:55) household spending. When prices rise,
+(5:57) people feel rich and spend. When they
+(6:00) fall, people close their wallets and
+(6:01) drag the rest of the economy down a
+(6:02) notch with them. Then there are the
+(6:04) banks. Outside of our mining giant BHP,
+(6:07) the biggest companies in this country
+(6:08) are the big four banks, and the biggest
+(6:10) business of every one of them is writing
+(6:12) mortgages. Together, they control 75% of
+(6:15) the home loan market and are worth
+(6:16) around $650 billion on the stock market,
+(6:19) which means a sudden fall in house
+(6:21) prices would hit household wealth first
+(6:23) and then start eating into the
+(6:24) collateral behind hundreds of billions
+(6:25) of dollars of bank loans. To make
+(6:27) matters worse, a lot of the retirement
+(6:29) savings in this country is tied up in
+(6:31) those same banks. About $4.4 trillion is
+(6:34) sitting in superannuation, and a
+(6:35) meaningful slice of it is in bank shares
+(6:37) and bank funding. Part of the reason
+(6:39) they were so flush to write all those
+(6:40) mortgages in the first place. So, the
+(6:42) whole system fed itself. The problem is
+(6:45) what it quietly costs. Every dollar that
+(6:47) went into bidding up the price of an
+(6:49) existing house was a dollar that did not
+(6:50) go into new technology, research, staff
+(6:52) training, or anything else that develops
+(6:54) real businesses. Because property simply
+(6:56) offered a better risk-adjusted return
+(6:58) with a tax refund stapled on top.
+(7:00) Starting a business here was hard for
+(7:02) the same reason, because before you
+(7:03) could do anything productive, you first
+(7:05) had to afford the land to do it on. In
+(7:07) America, if a young person wants to get
+(7:09) rich, they tend to go into tech,
+(7:10) finance, law, or medicine, which are all
+(7:13) high-skilled fields that broadly add a
+(7:14) lot of value to the economy. Here, the
+(7:16) well-worn path to wealth has been
+(7:18) financing, facilitating, or selling real
+(7:20) estate. Land had effectively crowded out
+(7:22) the other factors of production, and it
+(7:24) showed. The decade leading into the
+(7:26) 2020s was the slowest for Australian
+(7:27) productivity growth in 60 years. We were
+(7:30) also not training enough skilled workers
+(7:31) ourselves, so [music] we lent heavily on
+(7:33) immigration to fill the gaps. With net
+(7:35) overseas migration peaking at 538,000
+(7:38) people [music] in a single year, all of
+(7:40) of needed somewhere to live. Most
+(7:41) economists stop short of calling this an
+(7:43) intergenerational Ponzi scheme, but it
+(7:45) did naturally benefit the people who
+(7:46) were able to ride the whole system on
+(7:48) the way up. And yet for decades, no
+(7:50) government was willing to touch it until
+(7:52) now.
+(7:53) At 7:30 p.m. on budget night, the 12th
+(7:55) of May this year, the government
+(7:56) announced that negative gearing as we
+(7:58) knew it was finished. Alongside a rework
+(8:00) of the capital gains discount that we'll
+(8:01) leave alone for today. From the 1st of
+(8:04) July 2027, investors who buy an
+(8:06) established investment property after
+(8:07) the policy was announced can no longer
+(8:09) use its losses to shelter regular
+(8:11) income. A loss can still offset rental
+(8:13) income or get carried forward against
+(8:14) future rents and capital gains, but it
+(8:16) can no longer touch the income from a
+(8:18) day job. There are some exceptions
+(8:20) though. Brand new builds can still be
+(8:22) negatively geared like before. The hope
+(8:24) is that if investors want their tax
+(8:26) break, [music] they will now have to
+(8:27) actually add a home to the housing stock
+(8:29) to get it, which was supposedly the
+(8:30) point of this whole arrangement in the
+(8:32) first place. Now, the obvious worry is
+(8:34) that people will just knock down old
+(8:35) houses and throw up cheap new ones to
+(8:37) qualify, tying up tradesmen and building
+(8:39) supplies without actually housing
+(8:41) anybody extra. The rules do try to guard
+(8:43) against this since a one-for-one
+(8:45) knockdown rebuild generally does not
+(8:46) count unless it adds extra dwellings to
+(8:48) the block. But schemes like this always
+(8:50) get tested by clever accountants and it
+(8:51) is too soon to tell how this will play
+(8:53) out. The other major exemption is,
+(8:56) controversially, for everybody who
+(8:57) already owned an investment property.
+(8:59) Every [music] property held before
+(9:00) budget night is grandfathered into the
+(9:02) old rules indefinitely for as long as
+(9:04) its current owner keeps it, which was
+(9:06) particularly ironic given the change was
+(9:08) pitched as fixing generational
+(9:09) inequities. Right before the government
+(9:11) reassured the mostly older cohort of
+(9:12) existing investors that nothing would
+(9:14) change for them [music] at all. Now, to
+(9:15) be fair, retrospective changes to assets
+(9:18) people already own are broadly seen as
+(9:19) unfair and grandfathering is how
+(9:21) Australia softens almost every big tax
+(9:23) [music] change. On the other hand, it's
+(9:25) arguably even more unfair that the
+(9:27) people who got in first now get to pull
+(9:29) the ladder up and keep collecting the
+(9:30) benefits. What is worth noting though is
+(9:32) that negative gearing benefits naturally
+(9:34) fade over time
+(9:35) >> [music]
+(9:35) >> as loans get paid down and rents rise, a
+(9:37) deeply negative property eventually
+(9:39) turns positive on its own. So, [music]
+(9:41) even the grandfathered investors will
+(9:42) slowly lose these perks anyway. Now, the
+(9:45) obvious question is why Australia chose
+(9:47) to do this now after decades of leaving
+(9:49) it alone. The reason was as much
+(9:51) political as it was economic. Our
+(9:53) current center-left party, Labor, went
+(9:54) to the 2019 election promising to wind
+(9:56) back negative gearing and lost an
+(9:58) election they were widely expected to
+(9:59) win, partly due to this exact issue. The
+(10:02) fact that they came back a few years
+(10:03) later and actually followed through on
+(10:05) their promise might seem strange. And
+(10:07) this is kind of where the pure economics
+(10:09) explanation breaks down a little bit. It
+(10:11) was more or less the same policy they
+(10:12) lost with in 2019. The difference was
+(10:15) the electorate. By the 2025 election, an
+(10:17) entire generation had been locked out of
+(10:19) the market for long enough that the
+(10:20) political maths finally flipped. There
+(10:23) are only about 2.2 million property
+(10:25) investors in a country with about 18
+(10:26) million enrolled voters. And as housing
+(10:29) affordability became a bigger concern
+(10:30) for everyone on the other side of that
+(10:31) equation, renters, first home buyers,
+(10:33) and younger Australians in particular,
+(10:35) protecting property investors became a
+(10:37) much harder political calculation. So,
+(10:39) Labor won its biggest majority since
+(10:41) 1943, which gave it the room to pick a
+(10:43) fight it had previously lost. [music]
+(10:45) It is worth acknowledging why issues
+(10:46) like this are so hard to touch in most
+(10:48) other countries. Things like pensions,
+(10:50) national debt, and health care reform
+(10:52) tend to be protected by the gray vote
+(10:54) because older people reliably turn out
+(10:55) to vote and younger people reliably do
+(10:57) not. Australia has compulsory voting for
+(10:59) everybody over 18, [music] and turn out
+(11:01) at the last federal election was 90.7%,
+(11:04) which means the young renters who would
+(11:05) normally sit an election out get counted
+(11:07) here whether they are enthusiastic or
+(11:09) not. This issue finally hit a critical
+(11:11) mass of voters who were happy to bite
+(11:12) the bullet and address it before it went
+(11:14) any further. So, now that they have done
+(11:16) that, is this change going to take the
+(11:18) rest of the economy down with it?
+(11:20) The early indications are of a market
+(11:22) that has properly cooled. According to
+(11:24) CoreLogic, who run the main national
+(11:25) home value index, national values fell
+(11:27) 0.7% in July, the largest monthly drop
+(11:30) since December 2022,
+(11:32) >> [music]
+(11:32) >> leaving prices about 1.4% below the peak
+(11:34) they set back in March before the
+(11:36) budget. Sydney is down 4% in 3 months,
+(11:39) Melbourne 3.4%, Sydney auction clearance
+(11:41) rates have slipped below 50%, and there
+(11:43) are noticeably more homes on the market
+(11:45) than usual, with listings about 6% above
+(11:47) their 5-year average. It is also pretty
+(11:50) clearly the investors leading the
+(11:51) retreat. New investor loans fell 5.3% in
+(11:54) the March quarter, and early broker data
+(11:56) points to mortgage commitments falling
+(11:58) sharply again through June, once the
+(11:59) changes were on the table. A lot of
+(12:01) buyers and sellers are also just sitting
+(12:03) on the sidelines waiting to see what
+(12:05) happens, which is why auctions keep
+(12:06) getting withdrawn and fresh listings
+(12:08) have slowed. Now, a major correction
+(12:10) from here would still be very risky, but
+(12:12) there are some saving graces.
+(12:14) Ironically, given everything we just
+(12:16) said about generational inequity, a lot
+(12:18) of the housing wealth here sits with
+(12:19) older owners who have very small
+(12:20) mortgages or none at all. Going into
+(12:22) this change, less than 1% of mortgaged
+(12:25) households were in negative equity, and
+(12:26) loan arrears were sitting around
+(12:27) pre-pandemic lows, which gives the
+(12:29) system a reasonable buffer to absorb a
+(12:31) fall. It also helps that the falls so
+(12:33) far have been concentrated at the
+(12:34) expensive end of the market, where the
+(12:36) investors were, while the cheaper end,
+(12:37) where most first-time home buyers
+(12:39) actually are, has held relatively flat.
+(12:41) As always, though, the people who will
+(12:43) wear this the worst are the ones who
+(12:44) bought most recently, potentially with a
+(12:46) 5% deposit under the government's own
+(12:48) expanded first-home buyer program, now
+(12:50) watching the biggest purchase of their
+(12:51) life slide below what they paid for it.
+(12:54) For what it's worth, the Treasury's own
+(12:55) modeling expected these changes to shave
+(12:57) only a couple of percent off price
+(12:58) growth over a few years, and the market
+(13:00) so far has reacted more sharply than
+(13:02) that. So, even the people who designed
+(13:04) this policy are partly in wait-and-see
+(13:06) mode. In the short term, this looks like
+(13:08) an orderly slowdown rather than a crash,
+(13:10) but it is still very early days, and
+(13:12) both the government and the banks will
+(13:13) be watching the spring selling season
+(13:15) nervously. So, yeah, Australia is now
+(13:18) running an experiment that basically
+(13:19) every expensive housing market in the
+(13:21) world has been too scared to run,
+(13:23) deliberately taking the tax fuel out of
+(13:24) its own property market to see what
+(13:26) happens. And for everybody who does not
+(13:28) own an investment portfolio, cheaper
+(13:30) housing, all other things being equal,
+(13:32) means smaller mortgages and more money
+(13:34) left over for the parts of the economy
+(13:35) that actually make things. Even if it
+(13:37) never feels like good news when it's
+(13:39) your own suburb falling. But the real
+(13:41) question is whether we can hold our
+(13:42) nerve through the correction we
+(13:43) deliberately started. Because every
+(13:45) month of falling prices will test the
+(13:47) resolve of a country that has spent 30
+(13:49) years believing house prices only ever
+(13:50) move in one direction. Now, we have
+(13:53) already made an entire video on why
+(13:54) building more homes in Australia is so
+(13:56) difficult and why house prices got so
+(13:58) crazy in the first place. So, we didn't
+(14:00) want to repeat too much of that here,
+(14:01) but if you're interested, you should be
+(14:03) able to click to that on your screen
+(14:04) now. Thanks for watching, mate.
+(14:07) Bye.

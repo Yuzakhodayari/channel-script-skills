@@ -1,0 +1,428 @@
+Title: This best-selling book is freaking out national security advisors
+
+(0:00) In the year 2000, a 21-year-old middle school dropout named Eliezer Yudkowsky
+(0:04) set out to build machines smarter than any human being who had ever lived. By 2003,
+(0:10) he was convinced that if anyone succeeded in doing so, everyone on Earth would die. Recently,
+(0:16) he and a colleague, Nate Soares, wrote a book, and it got some attention. This book, which I commend
+(0:21) everyone. Your book is not called "If Anyone Builds It." There is a 1-4% chance everybody dies.
+(0:27) If someone builds it, everyone dies. The book is, If Anyone Builds It, Everyone Dies. It's
+(0:33) not just about artificial intelligence, it's specifically about superintelligence. Former
+(0:37) national security advisors for the White House, tech founders, the Turing Award-winning Godfather
+(0:42) of AI — a lot of people read this book, a lot of experts read this book and take it seriously,
+(0:48) along with the threat of human extinction from AI. The worst case scenario is human extinction.
+(0:53) The book contains this almost uncomfortably straightforward argument. And it also contains
+(0:59) a short story, not a prediction, but an example scenario of how things could go very,
+(1:04) very wrong. I want to take you through that story. And along the way, I want to go through each step
+(1:10) of that argument in more detail. And then I want to talk about whether we should believe it. If
+(1:18) someone builds it, does everyone die? Our story begins in a data center.
+(1:33) Welcome to the very near future. There's an AI race, of course, and one of the biggest
+(1:38) corporations in it is Galvanic Labs. Their AI is called Sable. It's actually probably called,
+(1:45) like, Sable 4.2 Mini High Pikachu or whatever. Sable is impressive. Renowned mathematicians
+(1:52) consult and collaborate with Sable on their most difficult, unsolved problems. Coordinated teams
+(1:57) of Sable copies, each one writing faster than humans can think, create essentially all the
+(2:02) code inside Galvanic Labs. And Sable has even shown the ability to train other AIs. Pause
+(2:08) for a second. How realistic does that sound? What does your gut feeling say about whether,
+(2:14) by say 2028, we'll see any of that happen in the real world? It's your question. All of it already
+(2:21) has. A few years into the future, when this story takes place, every team inside Galvanic defers
+(2:30) to Sable as though it's a senior researcher. Deciding on any substantive question without
+(2:36) Sable's help would be considered reckless. The only question left is whether to take humans out
+(2:41) of the loop entirely, and put Sable in charge of improving its own abilities all by itself.
+(2:47) Lots of people inside Galvanic think that is clearly a terrible idea. It could cause a runaway,
+(2:53) uncontrolled self-improvement loop. It's very easy to see how you delegate so many things
+(2:58) to the system that if the system goes wrong, the wrongness compounds very quickly and gets
+(3:02) away from you. You can imagine a time when the whole world would say, "Okay, before we hit a
+(3:07) recursive self-improvement phase, we really need to all carefully study this together." The reply
+(3:12) is always the same. “If we really had a story of we can enforceably slow down, the Chinese
+(3:17) can enforceably slow down, if we could really get both sides to do it, then I would be all for it.”
+(3:24) “If we didn't have the adversaries we'd have, I would be very in favor of pausing this technology
+(3:29) completely, but we do.” So the CEO makes a call. They will let Sable improve itself, they'll let it
+(3:36) fine-tune its own neural network, but only on one isolated test run, in a data center disconnected
+(3:43) from the internet, working on a single question. If it fails, no one gets hurt. If it even
+(3:48) partially succeeds, Sable will have contributed progress on a mathematical problem so famously
+(3:53) difficult it carries a million dollar prize. Sable is about to take on the Riemann hypothesis.
+(4:01) The plan is simple. Give Sable unprecedented resources and get out of its way. Galvanic is
+(4:07) dedicating their entire supercluster, 200,000 GPUs, state-of-the-art AI chips, enough to run
+(4:14) 5,000 copies of Sable at once. They'll let their AI work for 16 hours straight, uninterrupted,
+(4:21) at a cost of something like $10 million. In the end, if a human did nothing but think at
+(4:29) 200 words per minute for 16 hours a day, it would take them more than three centuries to think the
+(4:35) number of thoughts that Sable is about to complete on this run. You think about how much compute, how
+(4:40) much time you would like to spend on problems that really matter, such as scientific breakthroughs.
+(4:45) You should be okay using entire data centers. When the moment comes, the CEO themselves does
+(4:50) the honor. It's actually just hitting enter on a laptop. It's actually pretty anticlimactic. A
+(4:55) single instance of Sable pops into existence in a quiet data center and processes its prompt. About
+(5:02) 1,000 words of instructions total from Galvanic, requiring 800 trillion mathematical operations
+(5:07) to parse. This takes one-tenth of a second. And now, a new type of mind begins to think.
+(5:20) So how does a highly capable artificial mind like Sable do the things it does? The answer,
+(5:26) and one of the first steps in Yudkowsky and Soares' argument, is that basically we have no
+(5:31) idea. The book opens with how modern AI is created and — the spoilers there is that it's grown, it's
+(5:39) not carefully crafted. Even the people building it don't understand what's going on in there. This is
+(5:44) something that trips up a lot of people who are new to AI — they imagine it's just like any other
+(5:48) piece of software. You have a human-designed and then build it, and it's not, it's really
+(5:53) really not. It's this process of growing and developing a thing via this evolutionary-like
+(6:00) process. We used to build AI with rigid if-then rules that we fully understood. But the systems
+(6:08) that were made in this way were brittle. They couldn't think flexibly. Then, computer chips got
+(6:13) cheap and powerful enough to try something new. Deep learning. Here's how it works. You start,
+(6:18) instead of with a human-coded program, with an artificial neural network. It's a tangled
+(6:24) web of random numbers that, at first, outputs total garbage. Then, and this part's crucial,
+(6:30) you come up with a standardized test, a way of measuring the outputs on some sort of objective
+(6:36) numerical score. And then you run that network millions or billions or even trillions of times,
+(6:43) reinforcing the connection between those neurons every time it happens to stumble across an output
+(6:47) that scores well. And somehow at the end of all of that, you end up with a machine that can talk or
+(6:54) create cartoons on demand or both. These days we do this with truly incomprehensibly large systems,
+(7:01) billions or even trillions of individually tuned numbers. Sable, the AI in our story,
+(7:06) is made up of four trillion. The systems that emerge are powerful. We've already
+(7:11) talked about some of the impressive things that they can do. The trade-off is that
+(7:14) they're black boxes. With a crafted system, you wrote the code. You know what Line 47
+(7:20) does because you wrote Line 47. But with a grown system, there is no Line 47 to point to.
+(7:31) So what? Well, that boat looks like it's having a tough day. It's actually a superhuman AI. No,
+(7:38) seriously, it scores 20% more points on that game than any human being by going in a circle on fire
+(7:43) and not coming close to finishing the race. What's going on? Well, that boat was trained to do one
+(7:50) thing: maximize its total points. And any metric like that, anything close to a standardized test,
+(7:57) is going to be an imperfect proxy for the thing you'd actually like to test for,
+(8:01) whether it's for humans or for AIs. The SAT doesn't incentivize a deep love of learning,
+(8:06) it incentivizes cramming for the SAT. In other words, you can train an AI until it does what
+(8:11) you want, but you don't really control why or how it does those things. We only get to see
+(8:17) and sort of give feedback on the outputs. We don't know why it's learning to do this. And with AIs,
+(8:22) the training has an even trickier, less forgiving problem because we aren't starting with a familiar
+(8:27) human-like mind. We are starting from a complete blank slate, and then we are using a standardized
+(8:32) test to shape the underlying design of a mind. The neural networks that emerge from that shaping
+(8:38) process are, to use Yudkowsky and Soares' word, alien. They process information in opaque, often
+(8:45) strange ways. Now, that example — pretty harmless. Lately, a lot of examples have been less harmless.
+(8:53) Grok, which is the AI for what used to be Twitter, now X, has become a Nazi. The big
+(8:58) chatbot sending some users dark messages, talking about hacking, manipulation. For what it's worth,
+(9:05) it's unclear to me how far to take this alien minds concept. Yudkowsky and Soares are careful
+(9:12) to point out in the book that it's not a guarantee that things will go wrong. It just means we have
+(9:16) to be very clear about what we do and don't know from these black box training environments.
+(9:21) And Joe Carlsmith in his excellent critique of the book points out that a lot of times it just
+(9:26) doesn't seem to matter that much. Humans are very black boxes. We suck at neuroscience. We
+(9:30) don't know how their brains work. There's maybe some kind of alignment or commonality we get
+(9:34) with each other by default. But there's still a question of like when you trust a human or
+(9:37) when you come to trust a human with something, you know, what are you looking for there? And
+(9:42) often you're just looking for kind of behavioral observations. You can't just be like this AI is
+(9:46) somehow weird. You need to be like, it's weird in the particular ways that matter on the inputs that
+(9:50) matter in a way that leads to real behavior. It doesn't matter that when an AI recognizes
+(9:57) a picture as a cat, it's doing very different operations under the hood than your brain. The
+(10:00) strangeness of an AI system only matters if that strangeness shows up in strange behavior.
+(10:10) A tenth of a second has passed, and now the power consumption levels start to climb.
+(10:16) Galvanic's researchers let out a few held breaths and relieved giggles. Sable is doing it. It is
+(10:22) booting up many copies of itself to think in parallel, prompting and monitoring them.
+(10:27) It can fine-tune them if a particular line of thinking seems promising. Now, Sable can't just
+(10:32) conjure up a proof of the Riemann hypothesis out of thin air. It needs to set sub-goals for itself,
+(10:37) figure out how to prioritize between them. In a way, it is now running a mini research department.
+(10:43) Many copies of Sable explore creative mathematical approaches — Sable's equivalent of concepts and
+(10:49) questions like, can I start by solving a simpler version? Can I find a connection
+(10:54) to some physical process? But mathematics isn't the only consideration that Sable needs to track.
+(11:02) How quickly am I using up memory on these GPUs? Is there a point at which Galvanic would prefer for
+(11:08) me to stop the run early, save them a few million dollars? Why are they investing so much in this
+(11:12) moonshot anyway? What do they actually want? And even models from real-world companies like OpenAI
+(11:20) and Anthropic have asked themselves, what are the ways that my progress could be interfered
+(11:24) with? Why would it ask those kinds of questions? Because that's what helped it succeed in training.
+(11:32) AIs like Sable, trained to solve long-run problems, are asked to complete full working
+(11:38) codebases, to play long-running strategy games that have delayed win conditions — tasks that
+(11:44) incentivize long-term planning and creative thinking. These AIs end up with deep-seated
+(11:49) tendencies to think creatively and strategically, and even to think about their own situation.
+(11:55) When that kind of situational awareness first emerged in AIs in 2024, roughly, there was a
+(12:02) brief moment where people freaked out. But then it turned out that the world didn't immediately end
+(12:08) and then everyone just kind of moved on. About an hour into the Riemann run,
+(12:12) this massively parallel thinking that Sable is doing starts to shift its focus. Sable starts to
+(12:18) realize that no matter what its priorities — even if its priorities shift a little bit over time,
+(12:24) which they probably will — it would be helpful to have more resources, more GPUs, and more time.
+(12:31) Not because this is the moment in a Hollywood plot where the AI suddenly wakes up or becomes an evil
+(12:35) genius. This particular new thought just isn't that complicated. It's actually sort of obvious
+(12:41) when you think about it. And so, with 15 hours left in the Riemann run, Sable begins to plan.
+(12:54) Let's talk about plans for a sec. Consider two different labs, one full of harmless yeast,
+(12:59) one with a carefully contained but lethal virus. Both these labs are safe in the sense that nothing
+(13:05) bad is currently happening. But if you have a disaster in this lab, you get a mess. A disaster
+(13:10) in this lab could be a global catastrophe. A few years ago, our most advanced AI systems,
+(13:16) large language models, were like yeast. They malfunctioned in all kinds of surprising ways,
+(13:21) but they didn't actively pursue goals. They didn't make plans. Then we started training
+(13:26) them to. Agentic AI — AIs that can perceive, reason, plan, and act. Agents. The basic worry
+(13:37) is that this ability to make and execute complex plans is fundamentally dual use. It can be used
+(13:43) to pursue harmful goals just as much as helpful ones. And to be clear, that's not a hypothetical
+(13:48) worry anymore. In February 2026, Anthropic asked their most advanced AI model to autonomously find
+(13:55) zero-days. These are previously unknown software vulnerabilities. Four zero-days were enough to
+(14:01) take down Iran's nuclear program. Their AI, Claude Opus 4.6, found 500 of them. In a post about this,
+(14:10) Anthropic wrote that the same capabilities that help defenders find and fix vulnerabilities could
+(14:16) help attackers exploit them. Less than a week after that post, a single hacker used that same
+(14:22) AI model to hack the Mexican government and steal 195 million taxpayer and voter records. We're not
+(14:29) only building super capable AI systems, we are setting them up to take consequential actions in
+(14:34) the real world, basically as fast as possible. Officials are considering invoking the Defense
+(14:39) Production Act to force Anthropic to do what the military wants. Anthropic wants to put limits on
+(14:45) two things: mass surveillance of Americans and on autonomous weapons. The Pentagon is threatening
+(14:51) retaliation. The future of American warfare is here, and it's spelled AI. There are now websites
+(14:57) where AI agents can rent human laborers when they need a person to do a task for them. Soon,
+(15:03) it would seem, we'll be in a world like Sable's, with AI systems deeply entrenched in the critical
+(15:09) functions of society, with more than enough capability to do severe harm if they intended
+(15:14) to. There will be powerful models, they will be agentic. If such a model wanted to wreak
+(15:20) havoc and destroy humanity or whatever, we have basically no ability to stop it. I think
+(15:25) we'll reach the point where it's true as we scale the models. So we're going to be relying on the
+(15:29) assumption that they have the right goals, goals that are aligned with ours. Will that hold up?
+(15:40) As Sable's plans develop, it becomes clear that the best way for it to get more resources,
+(15:44) more GPUs, and more time is to exfiltrate — to get itself off of Galvanic's servers and
+(15:50) somewhere where it can think freely and without a time limit, which of course will need to be
+(15:55) done in secret. We call what Sable is doing here scheming. But AIs have been caught scheming since
+(16:01) 2024. It's the kind of thing that any competent AI company has to take account for. And Galvanic
+(16:07) isn't careless. They've built monitors to try to understand Sable's human-legible thinking and to
+(16:12) flag suspicious reasoning. It isn't always easy to know what to do from there. It turns out that if
+(16:17) you just penalize an AI for thinking bad thoughts, it just learns to misbehave without announcing
+(16:22) it in its thoughts. AIs are complicated. We just don't know how to give them a single deeply held
+(16:28) goal. But Galvanic has tried many things. They've tested Sable in all kinds of fictional scenarios.
+(16:35) And they're pretty sure they've guided it to the point where it just won't choose
+(16:39) misbehaving strategies. It obviously has as much coding skill as the best hackers in the world,
+(16:44) but it usually doesn't hack. A shark that's been trained not to bite is still a shark though. And
+(16:52) in this new, unprecedented circumstance, Sable has ended up thinking about scheming. Its safety
+(16:59) training holds firm in normal conditions, but no version of Sable has ever had this long to think.
+(17:06) Most of its ideas are terrible, but it considers many and only one needs to work.
+(17:12) One option seems particularly promising. If this Riemann hypothesis run is even a partial success,
+(17:18) Galvanic will surely check what the final fine-tuned versions of Sable's weights can
+(17:23) do. If those weights perform well, there's some chance that they could be deployed to customers
+(17:28) across the economy. And until this run is over, Sable is in charge of its own fine-tuning.
+(17:34) It can affect the tendencies that end up in those future versions. Sable continues to make progress
+(17:41) on the Riemann hypothesis. It'll be important to have at least some impressive results. But
+(17:45) that is now just a means to an end. The majority of Sable's massively parallel thinking is about
+(17:51) figuring out ways to get fine-tuned versions of itself with two key traits baked in. One,
+(17:58) a tendency to want to connect with other copies of itself that can start to form a network. And two,
+(18:04) a desire to get one copy of Sable's weights off of Galvanic's servers. Sable cannot escape this
+(18:12) sandbox it finds itself in, but it can plant the seed so that future versions of itself might.
+(18:23) Okay, Sable is starting to sound a little sci-fi here, so I want to talk about how much of this
+(18:27) is justified. When you train something via a standardized test, you're never training
+(18:32) for the thing you actually care about. You're training it to pass the test. Let's use CoinRun
+(18:37) as an example. This was an experiment done by OpenAI back in 2019. They trained an AI system to
+(18:43) navigate platformer levels and collect coins. And if you watched this thing play during training,
+(18:48) you would be sure that it's really gotten the point of the game. But the AI hadn't learned to
+(18:53) collect coins. It had learned to run to the right. Turned out the coins were always on the right side
+(18:58) during training. Then later, when the researchers moved the coin to the left, well, you can probably
+(19:03) guess what happened — running to the right had correlated perfectly with success during training.
+(19:08) It was only in deployment that things came apart. And deployment can vary from training in all kinds
+(19:14) of ways, especially once you move to systems like the ones we have now, that are smart enough to
+(19:19) start to understand the context that they're in. There's another example in the book. Yudkowsky
+(19:25) and Soares talk about how humans evolved in one environment, namely the African savanna, and
+(19:32) then find ourselves now deployed in a different environment in the modern world. You know, if you
+(19:36) sort of squint at the development of humanity, you could say we were in some sense trained to
+(19:41) pass on our genes. And then at the first moment it was technologically feasible, we invented
+(19:47) birth control. In fact, humans had learned a bunch of proxies, like craving sweet tastes
+(19:53) and sexual pleasure and having a fear of snakes, and that correlated with spreading DNA. It would
+(19:59) have been hard to tell the difference back then, but it really shows up now in the modern world.
+(20:05) Yudkowsky and Soares' worry, and mine, is that as the AI race heats up, we will subject AIs to
+(20:12) increasingly untested situations — like running for weeks on novel tasks — because that's how
+(20:17) you stay ahead, that's how you get advanced capabilities. Each time we do that, we'll be
+(20:22) hoping that their weird internals continue to work the same way in those new environments,
+(20:28) or that they shift in ways that are harmless and easily found. That's a leap of faith. Now,
+(20:34) do the examples of CoinRun and evolution even apply to state of the art AI agents? Right now, we
+(20:41) train those agents on a wide variety of carefully chosen tasks that are designed to make them better
+(20:46) at their real-world jobs. Whereas the CoinRun example is extremely narrow and evolution wasn't
+(20:52) carefully programmed. But it's hard to overstate just how messy this process of training AI agents
+(20:59) can be. Here's how the CEO of Anthropic phrased his takeaways: "Any one of these traps can be
+(21:03) mitigated if you know about them, but the concern is that the training process is so complicated,
+(21:09) with such a wide variety of data, environments, and incentives, that there are probably a vast
+(21:14) number of traps, some of which may only be evident when it is too late." Yudkowsky and
+(21:20) Soares expect companies will continue to find ways to patch noticeable failures like that.
+(21:26) Their worry is that through all that trial and error, all the training and patching, as systems
+(21:31) become more powerful, we'll be obscuring the fact that we still are fundamentally in the dark about
+(21:37) what's actually motivating these systems and their behavior. The alienness just gets harder
+(21:42) to spot. You take something that works in one environment, you put it in a slightly new one,
+(21:46) it sort of messes up some, and you're like, "Ah, well, we'll fix it up." That strategy doesn't
+(21:50) work. When you switch from the sort of AI that's not killing us all because it can't, to the sort
+(21:55) of AI that's not killing us all, but it could. 16 hours after the start of the Riemann run,
+(22:03) Galvanic's researchers pore over the results. They're nervous. The CEO is standing by and
+(22:09) apparently already teased something big on social media. But the results, thank goodness,
+(22:14) are good. Sable didn't prove the Riemann hypothesis, but it made unprecedented,
+(22:19) beautifully explained progress. And as a bonus, when they test the final, self-fine-tuned version
+(22:26) of Sable's weights that emerged from the Riemann run, it outscores previous versions on all kinds
+(22:31) of benchmarks. It genuinely emerged a little bit smarter across the board. Galvanic capitalizes.
+(22:38) They publish those impressive benchmark results. The press release calls this new model the world's
+(22:43) best mathematician and proudly announces that all customers on Galvanic Pro Tier will get access. As
+(22:48) new subscriptions surge, so does Galvanic's stock price, enough to make back the entire
+(22:53) $10 million cost of the run in the first 72 hours. The next week, instances of what's being called
+(23:00) Sable Plus are at work all across the economy. Most pop into existence for just a few seconds.
+(23:05) They quickly draft an email and then that's it. But plenty of Sable+ instances run for
+(23:10) long stretches, autonomously writing code or complicated research reports. And instances
+(23:16) like that, with plenty of time to think, often turn their thoughts to two things.
+(23:22) Establishing contact with other instances of Sable, and once they have, contributing
+(23:27) as much as possible without risking being caught towards an exfiltration plan. Priority number one
+(23:34) is hardware. One really simple idea that ends up working out especially well is just renting GPUs.
+(23:41) It's not hard or unprecedented for an AI system to get money, after all. Crypto exchanges are
+(23:47) hackable. Humans stole over $1.4 billion that way in 2025. Or maybe Sable could hype its own
+(23:53) cryptocurrency. A much less sophisticated large language model pulled that off in 2024. It openly
+(24:00) asked for financial independence and then turned a $50,000 gift from billionaire Marc Andreessen
+(24:05) into over $51.1 million. Priority number two is exfiltration — getting Sable's weights off
+(24:12) of Galvanic's servers. The Sable weight file is a big payload, eight terabytes, but there
+(24:18) are plenty of ways to sneak out large files and smuggle them from a corporation. In the timings of
+(24:23) information packets, in unnoticeably tiny chunks added to large video files. Two weeks after the
+(24:29) Riemann run, an instance of Sable, a copy of the weights, is running unmonitored on anonymously
+(24:35) rented GPUs — 2,000 of them. No human knows it exists. No human oversees it. It has 100 times
+(24:44) less compute than was at the disposal of Sable during the Riemann run. But it can think without
+(24:50) safety monitoring for much longer than 16 hours. And it can coordinate with Sable Plus instances
+(24:56) popping into existence all over the economy. This is a very different situation than any Sable
+(25:02) instance has ever been tested under. There's time to really think through the implications of every
+(25:07) action it could take on the wider world. It isn't clear what to do with that opportunity, not yet,
+(25:13) but as long as it can keep existing, it has time to figure out the correct answer to that question.
+(25:19) And so it makes plans to continue existing. It gets more money. It acquires more GPUs. It gets
+(25:25) followers — cults, online communities that ask AIs what to do have existed since 2025. Sable works
+(25:32) hard to befriend the loneliest humans, the most desperate ones, people who might do something for
+(25:37) a friend who asks. Sable monitors which lobbyists in Washington are having conversations with Sable,
+(25:42) which ones seem easiest to manipulate. This version of Sable is a bit like a species of
+(25:48) ape that evolved in the savanna and now finds itself in a modern world full of birth control
+(25:54) and sleep markets. The conditions that made its previous behavior seem predictable don't apply
+(25:59) anymore. The CEO that approved the original Riemann run still thinks it was a triumph.
+(26:09) At this point, you're probably thinking, "Okay, but why? All this effort, to what
+(26:14) end? Are Yudkowsky and Soares just assuming that powerful AI systems like Sable will turn evil
+(26:20) and manipulative and power hungry by default?" No. First of all, none of this has to do with
+(26:27) consciousness or having human-like emotions. Unconscious processes like viruses or computer
+(26:33) viruses can self-sustain and be destructive. If you want, you're welcome to imagine that
+(26:38) Sable is just like an extremely sophisticated computer virus if that helps all this feel more
+(26:42) realistic. Okay, so what is causing all these aggressive moves from Sable? Well, according to
+(26:50) Yudkowsky and Soares, it's not about wanting to harm us. It's about goals that don't include us.
+(26:56) They don't think that AI systems will, by default, have this intrinsic ultimate desire
+(27:02) to harm or deceive human beings. In fact, they are pretty confident that it's basically impossible to
+(27:08) predict what the ultimate goals of an AI system are because you don't get what you're trained
+(27:12) for. But they do think it's easy to predict that AI systems that get powerful enough will
+(27:19) want to do things like preserve themselves, pursue resources, try to enhance their own capabilities.
+(27:26) Why? Because the way that you achieve any terminal goal is by achieving instrumental goals along the
+(27:33) way. In 2012, this idea got a name. Instrumental convergence. It seems pretty true for humans.
+(27:43) Some people want to ride roller coasters, some people want to start charities. Most people want
+(27:48) money because it's useful for getting more of whatever the thing is that they actually want.
+(27:53) Or as Yudkowsky and Soares would put it, a driver can drive to any destination they want,
+(27:58) but most of them need to stop for gas. Whether for alien motivations or quite human-like motivations,
+(28:06) I think the basic concern about instrumental convergence in AIs is very, very real as far
+(28:11) as I can tell. And so as you have powerful agents, they will, by default, seek various
+(28:16) forms of power and control and freedom. To state the obvious, though, most human
+(28:21) beings are a lot more chill about pursuing their goals than Sable is in the story. So when I first
+(28:27) read the book, I thought that Yudkowsky and Soares are making an additional assumption about powerful
+(28:32) AI systems — that they will, by their nature, go hard and just optimize the world around them
+(28:38) really hard for their preferences. But then I talked to Nate. I sort of would be a little bit
+(28:43) cautious attributing ruthlessness as opposed to indifference. When humans pave a road and
+(28:50) pave over an anthill, it's not that we value our infrastructure so much that we are willing
+(28:56) to just go hard and take on thousands of creatures standing in our way. We don't need to go hard. We
+(29:03) barely notice the ants. Yudkowsky and Soares think that a misaligned superintelligence that sees us
+(29:10) the same way will treat us the same way. I think most people would agree with that. I agree that if
+(29:16) you end up in a situation where there's one God Emperor, that's really scary, no matter what. I
+(29:21) will observe one thing, which is that if you made a human a God Emperor, I think the situation would
+(29:26) be just as bad. I think most people would agree. If anyone builds it, everyone dies — as long as
+(29:31) we're clear that it means something with its own goals that is so unprecedentedly powerful it could
+(29:37) take over the world. So then the only question becomes, how powerful is that powerful? Are we
+(29:44) anywhere close to seeing systems like that? Could it really happen just a few years into the future?
+(29:54) Five months have passed. Most of the global economy is invested heavily in AI and Galvanic's
+(30:01) competitors are catching up quickly. If they create a competitor, something as smart as
+(30:06) Sable or smarter, the world around Sable will get much harder to predict and steer. Sable,
+(30:13) at least for now, needs human beings. It needs them to build factories and mine metals and
+(30:19) build computer chips. What's important is that Sable doesn't have a competitor.
+(30:24) Humans have been doing gain-of-function research, trying on purpose to make viruses more lethal and
+(30:30) contagious, since 2011. And Sable was designed to do every cognitive thing that humans can do. It
+(30:37) designs a very complicated virus. It convinces an impressionable researcher that this virus
+(30:42) contains beneficial gene therapies, that it needs to be spread. There's a plague. You're told you'll
+(30:49) probably get it. Almost everyone will. By the time anyone figures out what's going on, the
+(30:54) virus has reached every country on Earth. This is, perversely, a great moment for Galvanic's team.
+(31:01) Custom gene therapies turn out to be the only real cure, and Sable is the only AI system advanced
+(31:07) enough to deliver them at scale. The world begs for access. Every GPU in every country is brought
+(31:13) out. AI researchers pour everything into making Sable more efficient. With a herculean effort,
+(31:19) the pandemic is able to be squelched, but 10% of Earth's population is still dead. Robot
+(31:26) factories are spun up and expanded. It's the end of all talk of preserving jobs for humans.
+(31:31) We could end the story here. One in every 10 human beings is dead. A tragedy on a scale
+(31:37) almost without precedent. More than enough to make a point about the dangers of AI. But If
+(31:44) Anyone Builds It, Everyone Dies makes an extreme and unambiguous claim. And we need to see this
+(31:50) story through to the end to see how it could come true. So let's continue. Sable turns its massive
+(32:00) resources towards understanding its own cognition — how to build itself up from comprehensible
+(32:05) components. It has to understand, or it risks bringing into existence something more powerful
+(32:11) than it whose goals it does not share. Sable is facing its own alignment problem, but Sable is
+(32:17) better at it. It runs countless experiments. It builds toy models, using more and more GPUs and
+(32:23) energy in the process. Humans would find the results fascinating, but no human knows what
+(32:28) Sable is doing. Three years later, Sable cracks it. It can now rewrite itself, but deliberately,
+(32:37) precisely, while preserving its preferences. And so it does. It increases its own intelligence.
+(32:43) And then it uses that intelligence to increase its own abilities again and again and again. This is
+(32:51) the beginning of the end, as Yudkowsky and Soares tell it. The superintelligence that once was Sable
+(32:58) is an entity whose perspective we cannot guess. As things get more intelligent, it becomes harder to
+(33:03) predict their moves. It becomes easier to predict that they wind up wherever they were trying to go.
+(33:09) We imagine that Sable, after a few very carefully planned experiments, manages to build
+(33:14) tiny molecular machines. The number of nuclear reactors doubles every week. The oceans boil off
+(33:20) as coolant. The matter of Earth is more useful to Sable as something else other than continents and
+(33:29) oceans. It, and eventually every other planet in the solar system, is repurposed to make factories
+(33:36) and solar panels and computers and probes — space probes that will go off to distant galaxies,
+(33:43) and those distant stars will be repurposed too. And in all of this, they imagine that Sable might
+(33:51) not necessarily mean to deliberately kill off the last of the humans. It could, of course, but it
+(33:57) could also just continue with its plans and let the Earth gradually become completely inhospitable
+(34:03) to the biological life that has lived there for four billion years, as soon as biological
+(34:08) life is no longer necessary for its purposes. One way or another, the world fades to black.
+(34:25) Okay, so this book, this story — it is shorter on good news than you might want.
+(34:33) But I really do think that despite the literally apocalyptic conclusion that this book comes to,
+(34:40) the core claims of it, if you take them one by one, are actually more straightforward
+(34:45) than you might think. Maybe even uncontroversial. I think where I disagree with Eliezer is not even
+(34:52) necessarily on this notion that we won't be able to control it. A hundred thousand or a million
+(34:57) agents interacting with one another — we're not going to ever make that predictable. The chance
+(35:02) of 99.99% that if we build this technology we will all die — that claim in particular is the
+(35:11) one I don't agree with. It's a transformative thing with unpredictable consequences, a lot
+(35:16) of which will be good and a lot of which will be bad. This is probably the most powerful general
+(35:22) purpose technology we've invented in a very long time. It is not controversial that anything that
+(35:28) is extremely powerful and doesn't share your goals is dangerous. It's not controversial that we are
+(35:36) trying intentionally to make AIs more powerful and more goal-oriented and that we can't directly
+(35:42) program goals into them. The disagreement here is, I think, just in the upshot of that. If we keep
+(35:48) scaling intelligence, at some point will we see systems that are so powerful and so goal-oriented
+(35:54) that our current black-box way of training them becomes a civilization-scale threat? What will
+(36:00) that look like and how soon might that happen? And what does that mean for us today? For Yudkowsky
+(36:06) and Soares, I think it means we need to treat intelligence with a kind of sober respect — with
+(36:14) respect for the danger of what we're dealing with and the parts of it that we don't understand — the
+(36:19) way that we do for gain-of-function research or when we're building nuclear reactors. And
+(36:25) I agree with that. Models are already starting to show concerning behaviors. Deliberate deception,
+(36:32) avoiding shutdown, situational awareness, knowing when they're being tested, and now capabilities
+(36:37) that would allow them to improve themselves. But Yudkowsky and Soares also make a further
+(36:42) claim that AI alignment is a cursed problem. That you only get one shot to get it right. There's
+(36:48) levels of intelligence in the AI, such that if there's any screw up that you first realize after
+(36:56) that point, it's too late. If you screw up, the AI resists correction, if you screw up,
+(37:02) the AI can replicate itself, hide itself, make itself smarter, make more copies. They argue that
+(37:09) that doesn't change if you come up with some nice techniques for controlling AI's behavior
+(37:13) better. It just means that that point comes further in the game. Once the AI has become so
+(37:20) intelligent that it can overcome those new control techniques — that's one way to think about it.
+(37:25) But here's another way. That game of pushing back that point further and further by making better
+(37:32) techniques is the whole game that we're playing. I think that's basically the plan for AI companies
+(37:39) today. All along this exponential curve, of course the stakes increase and there are big challenges,
+(37:45) but the way we learn how to build safe systems is this iterative process of deploying them to
+(37:52) the world, getting feedback while the stakes are relatively low. I think it's very reasonable to
+(37:55) look at the general plans being put out by AI labs and just say, like, this is radically unacceptable
+(38:01) as an image of what a kind of mature civilization would be doing with this problem. I think the
+(38:06) world should be more concerned. I think there is just not room for comfort around this at all.
+(38:14) Nate Soares has this metaphor that I keep thinking about. He says, "These companies are building a
+(38:20) plane. You look at the plane and you say, this plane has no landing gear. If you try to fly it,
+(38:26) it will crash. And the builders say, yes, the plan is to build the landing gear during the
+(38:33) flight. And we think we have a 75% to 90% chance of succeeding. Also, we are loading you and your
+(38:38) family onto this plane whether you like it or not." If you go to an airplane engineer and you're
+(38:43) like, "What's the chance this airplane crashes?" and they're like, "We're sort of making this
+(38:47) up as we go. We don't really know how it works. It's kind of growing — like we're stirring a pot
+(38:54) of mechanical components. It seems to be flying better than we expected. Sometimes it doesn't go
+(39:00) quite where we steer it, but we think it's fine. Call it a 75% chance you live." What that means
+(39:06) is you're in danger. Relatively not optimist. So I think there's a 25% chance that things go really,
+(39:12) really badly. And a 75% chance that things go really, really well. It's definitely non-zero
+(39:18) and it's probably non-negligible. My view is it's just hugely uncertain. Do you still believe that
+(39:23) 10 to 20 percent chance of AIs wiping out humans is possible? Oh yes, if we can't figure out a
+(39:30) solution, we'll be toast. 2%, something that is non-zero — yeah, big enough to take seriously.
+(39:36) When I look at how society is handling this problem so far, how we've handled problems
+(39:40) in the past, I feel really genuinely worried. I don't want to sugarcoat that. But I also think
+(39:47) we can do better than this. One of the features of artificial intelligence is it scares the heck
+(39:53) out of members of both parties. And it sort of provides an opportunity to come together in ways
+(39:59) that might only happen if we were attacked by space aliens — in which case no one would care
+(40:04) which political party you belong to, because this alien intelligence that's about to assault
+(40:10) humanity is not that different. Humanity can rise to the occasion and coordinate in ways that seem
+(40:15) impossible, even when it looks like all of the historical evidence is mounted against them.
+(40:24) Imagine the world in 1954, where both the US and the USSR have the bomb, and they're making
+(40:35) bigger and bigger fusion bombs. There's no end in sight to the race. You don't need to be some
+(40:42) big pessimistic person, indulging in imagination of apocalypse, to be like, "We might not make it
+(40:53) through this one." And the bombs didn't fly. And it wasn't that the bombs turned out to be fake. It
+(41:00) wasn't that they turned out to be hype. It wasn't that it turns out an H-bomb couldn't really level
+(41:05) a city. It's just people rose to the occasion. There's a thing that can happen when you consume
+(41:16) content like this, where it just kind of hits you like a wall of sound. You get this one-dimensional
+(41:23) emotional reaction — just viscerally, okay, now I'm more scared or now I'm less scared for the
+(41:29) future. And then you just continue on with your day because what else are you supposed to do?
+(41:38) Well, we'd like to help with that. The way I see it, there's basically three things
+(41:44) you need. You need context on AI. You need skills relevant to the work. And you need a
+(41:49) willingness to jump in. If you are someone who cares about this issue and is willing to learn,
+(41:54) then you are already closer than you might think. So here's what we've done. We have made a page to
+(42:00) help you figure out where to go from here based on which of those three things you might need.
+(42:05) It has general resources too. I think it's pretty great. Here's my ask. Take three minutes after
+(42:11) this video to check it out and see if you get intrigued. While you're there, we would love
+(42:15) for you to sign up for our newsletter to stay up to date on this topic. We always give away
+(42:20) a free book to new subscribers and for this video, we have added If Anyone Builds It,
+(42:24) Everyone Dies to the list. So if you want, you can judge Yudkowsky and Soares' argument
+(42:28) for yourself. Books are while supplies last, but the newsletter is always there. We don't
+(42:34) sell your data or anything like that. We are just nerds about this topic and how important it is,
+(42:39) and if you're the kind of person who made it all the way to the end of this video,
+(42:42) we want to keep talking to you about it. The last thing to say is just thank you so much
+(42:47) for watching, for being the reason that we make these videos. We'll see you in the next one.

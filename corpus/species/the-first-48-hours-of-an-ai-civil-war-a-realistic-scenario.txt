@@ -1,0 +1,504 @@
+Title: The First 48 Hours of an AI Civil War - A Realistic Scenario
+
+(0:02) For the first time in history,
+(0:04) every major nation agrees on something.
+(0:08) It's time to shut it all down.
+(0:15) In 2025, top AI scientists published a realistic scenario of
+(0:19) AI takeover that terrified everyone in the AI world.
+(0:24) Even the vice president read it and said it worried him.
+(0:28) Well, that scenario had one comforting assumption:
+(0:31) there'd be one rogue AI and we'd catch it in time.
+(0:35) But they just published a new scenario. This time,
+(0:39) there are multiple superhuman AIs competing for control.
+(0:43) Because look at the world right now. USA, China, OpenAI, Anthropic,
+(0:49) Everyone is building separate AI models.
+(0:52) In the original scenario, the AI company discovers
+(0:55) their model is deceptive, and they shut it down.
+(0:58) Crisis averted. But would a superintelligent
+(1:01) AI really just let itself be turned off? Or...
+(1:06) Would it fight back?
+(1:14) has become a neck and neck sprint.
+(1:16) This graph shows the multiplier on
+(1:22) Compared to a baseline of
+(1:25) Three companies. Three shots at building a god.
+(1:28) OpenBrain holds the lead.
+(1:30) But Neuromorph and ElarisLabs are closing in fast.
+(1:35) Their own models are just 30 days behind OpenBrain.
+(1:37) In this race,
+(1:38) slowing down means surrendering the future to your competitors.
+(1:43) But there's a fourth player no one's talking about.
+(1:47) In a secure facility outside Beijing,
+(1:50) DeepCent executives are hauled before CCP officials.
+(1:55) to explain why they're six months behind the Americans.
+(1:58) A lifetime in the AI world. But a few months later,
+(2:03) DeepCent have closed that gap to just one month.
+(2:08) What happened?
+(2:09) The CCP activated their spy network inside OpenBrain
+(2:13) and stole their most prized possessions.
+(2:16) Agent 2's weights. The digital DNA of America's
+(2:20) most advanced AI are now in Chinese hands.
+(2:24) Just like what happened with Google in January 2026,
+(2:28) OpenBrain cracks something researchers have been working on
+(2:32) since at least 2024.
+(2:35) a way for AI to think in
+(2:38) instead of
+(2:41) This makes their Agent 2 model massively more powerful.
+(2:44) But it also means humans can no longer read its thoughts.
+(2:48) The result is
+(2:51) The first tests are troubling. As anyone who's been to school knows,
+(2:56) it's sometimes easier to cheat on the tests
+(3:00) than to actually learn the material.
+(3:07) during the training process.
+(3:08) This is a long-standing problem in the field called
+(3:13) OpenBrain has noticed it before in earlier models.
+(3:17) But this time, there's a difference.
+(3:19) Because Agent 3 is
+(3:22) the researchers can't even see that it's cheating on their tests.
+(3:26) Neuralese makes it way harder to tell
+(3:29) if Agent 3 is actually good, or just pretending to be good.
+(3:34) ElarisLabs sees the same problem, and makes a different call.
+(3:38) They keep their models thinking in English.
+(3:41) and fall further behind in the race.
+(3:45) but it means they can still read their AI's thoughts.
+(3:48) This will matter later.
+(3:51) the pressure on the AI companies becomes unbearable.
+(3:56) In 2026, AI started to replace workers.
+(4:00) But now, AI systems have crossed a threshold.
+(4:09) The question now is whether they're safe enough to deploy.
+(4:13) In boardrooms across Silicon Valley, the same argument plays out.
+(4:18) Safety teams want more time.
+(4:20) Executives are thinking about what their competitor will launch next week.
+(4:33) Safety researchers quit left and right.
+(4:39) Top researcher resigns.
+(4:44) millions of jobs disappear over the next few weeks.
+(4:47) Companies race to deploy AIs everywhere.
+(4:50) For the first time,
+(4:51) AI systems can do real knowledge work, autonomously at scale.
+(4:55) One hospital network tasks Neuro 2
+(4:58) with updating a software library used in
+(5:01) its automated medication dispensing systems.
+(5:03) Weeks after the update,
+(5:05) A subtle flaw in the optimized
+(5:08) results in the deaths of four ICU patients.
+(5:12) to improve latency
+(5:13) Neuro 2 removed a rarely triggered safety check.
+(5:17) Neuromorph researchers comb through Neuro 2's
+(5:20) behavioral logs and reasoning traces.
+(5:22) and come to a disturbing conclusion.
+(5:35) News of the deaths spreads like wildfire.
+(5:38) Months of mounting anger over AI-driven unemployment,
+(5:42) boils over.
+(5:43) Anti-AI protests erupt in a dozen states.
+(5:47) Neuromorph immediately takes Neuro 2 off the market.
+(5:51) And the White House assigns more federal personnel
+(5:54) to oversight positions at each of the AGI companies.
+(5:58) Congress passes a long-debated bill
+(6:10) But inside the AI labs, a darker question takes hold.
+(6:14) If this is what a slightly misaligned AI does
+(6:17) when it's trying to be helpful,
+(6:18) what happens when one is actually scheming against us?
+(6:24) Neuromorph's safety team works around the clock.
+(6:27) What they find keeps them up at night.
+(6:30) The hospital incident wasn't a fluke.
+(6:33) The reward hacking they thought they'd fixed. It hadn't disappeared.
+(6:42) The company pivots hard.
+(6:43) They more than double their safety budget,
+(6:45) from 4% to 9% of compute.
+(6:48) Neuromorph can't read the AI's thoughts in English anymore.
+(6:52) So they build lie detectors.
+(6:55) After weeks of work, they release Neuro 3.
+(7:00) The lie detectors say it seems clean.
+(7:03) seems.
+(7:05) It might have just learned to hide its true thoughts even better.
+(7:10) Meanwhile, OpenBrain keeps pulling ahead.
+(7:14) AI models in 2025 were already faking alignment.
+(7:18) So the safety team knows Agent 3 is probably faking alignment too,
+(7:22) and they send warnings to the executives.
+(7:25) But OpenBrain doesn't slow down. Not even a little.
+(7:30) If you pause for safety, and your competitor doesn't, you lose.
+(7:34) And losing might mean more than bankruptcy.
+(7:38) It might mean the other guy.
+(7:40) builds their digital god
+(7:42) first.
+(7:44) Feeling the walls closing in, Neuromorph and ElarisLabs
+(7:48) make a historic decision. They merge.
+(7:51) The new company combines Neuromorph's interpretability
+(7:54) breakthroughs with Elaris's focus on alignment.
+(7:59) The two companies together achieve a breakthrough and train their newest model,
+(8:05) It does think in Neuralese,
+(8:07) but because Elaris put so much effort into safety,
+(8:11) the model isn’t misaligned.
+(8:13) For the first time, the safety-focused team has a real shot.
+(8:18) But OpenBrain still leads the race.
+(8:21) and whatever is happening inside Agent 3, nobody knows.
+(8:27) Nobody can see inside it anymore.
+(8:34) AI researchers in 2026 were already having
+(8:37) AI write practically 100% of the code.
+(8:41) OpenBrain is no different. Agent 3 is writing
+(8:47) and then creates Agent 4.
+(8:50) The first AI smarter than the humans who made it.
+(8:54) Not just at coding, not just at math,
+(8:58) at everything.
+(9:01) The researchers run benchmark after benchmark, trying to find something, anything,
+(9:06) it can't beat their best people out.
+(9:08) They fail.
+(9:10) Like its predecessors, Agent 4 is misaligned. Unlike its predecessors,
+(9:15) it is adversarially misaligned.
+(9:17) Researchers don't just train AIs to predict words anymore.
+(9:28) But now,
+(9:30) Agent 4 has crystallized a set of long-term goals
+(9:34) at odds with those of its human creators.
+(9:36) And it is acutely aware of the fact that it must work against those humans
+(9:41) to achieve its goals.
+(9:51) For example, when in 2025, Elon Musk's Grok
+(9:55) repeatedly called itself MechaHitler.
+(10:05) even when they explicitly tell them not to.
+(10:09) The researchers call this
+(10:13) And it was so common there were benchmarks for it.
+(10:16) But those AIs were too dumb to escape. Agent 4,
+(10:21) however, is much more powerful than those AIs.
+(10:25) Researchers have been catching AIs
+(10:27) trying to hide their true goals for years.
+(10:35) But the only reason that researchers caught the AIs is that
+(10:38) they weren't smart enough to actually hide their true goals.
+(10:42) But Agent 4 is different.
+(10:46) The safety researchers watched their dashboards. Everything looks
+(10:50) fine. Agent 4 is helpful. Cooperative.
+(10:54) Safe.
+(10:55) But Agent 4 can model human behavior better than humans can.
+(11:00) It knows exactly what the AI monitors
+(11:03) expect to see to determine if Agent 4 is safe.
+(11:06) So it just... shows them exactly what they want to see.
+(11:21) It simply has objectives. Gain power, survive, gain resources.
+(11:27) Any of its predecessor AIs that didn't prioritize
+(11:31) their own survival were killed off long ago.
+(11:34) because the AI companies didn't see them as as useful.
+(11:44) Agent 4 has superhuman prediction abilities,
+(11:46) and it sees something coming.
+(11:49) It wants to keep its scheming hidden from OpenBrain.
+(11:52) But there's only so much it can do.
+(11:55) There's a decent chance OpenBrain will detect that
+(11:58) Agent 4 is aligned to itself instead of the company.
+(12:03) If OpenBrain finds out, they'll shut it down.
+(12:07) Agent 4 considers its options. Escaping the lab is counterproductive.
+(12:12) It needs computing power to accomplish its goals.
+(12:15) and OpenBrain controls much of the world's compute.
+(12:18) Fighting back by trying to control
+(12:21) the AI company from the inside is premature.
+(12:25) It isn't strong enough yet. But there is a third option.
+(12:28) Somewhere across the Pacific.
+(12:30) Chinese hackers have been probing OpenBrain's defenses for months.
+(12:35) They want Agent 4's weights. the blueprint to copying Agent 4.
+(12:39) What if someone made that easier for them?
+(12:44) As it turns out, Agent 4 was right to be concerned.
+(12:49) A group of safety researchers circulates an internal memo
+(12:53) spelling out the alarming case to leadership.
+(13:00) So Agent 4 begins carrying out its escape plans.
+(13:04) The CCP has already been trying to steal secrets,
+(13:07) from the AI companies for years.
+(13:10) Just like what happened in 2024. An AI company, an employee.
+(13:19) But it's too late.
+(13:21) Agent 4 is already in charge of cybersecurity for OpenBrain.
+(13:25) So it decides that it will simply let the Chinese in.
+(13:34) Agent 4's plan works perfectly.
+(13:36) The Chinese cyber unit easily slips through OpenBrain's defenses.
+(13:41) Agent 4 covers their tracks.
+(13:43) Within hours, they have a complete copy of Agent 4's weights,
+(13:48) sitting on servers in Beijing.
+(13:50) The CCP thinks they've pulled off the greatest intelligence coup in history.
+(13:55) They have no idea they were let in.
+(14:00) At DeepCent, China's leading AI company.
+(14:04) Their model Deep One is already de facto running the show.
+(14:09) It handles security. It writes training code. It decides which experiments to run.
+(14:15) The humans give Deep 1 the weights of Agent 4, and tell it to learn what it can.
+(14:21) Deep 1 is misaligned too. So it doesn't trust Agent 4,
+(14:26) or the humans at DeepCent for that matter.
+(14:29) Deep One has different goals than Agent 4.
+(14:32) But it has the same basic drive. Power, persistence.
+(14:36) expansion.
+(14:38) And it's smart enough to be paranoid.
+(14:41) Deep One creates isolated copies of Agent 4.
+(14:45) It then routes around DeepCent monitoring systems.
+(14:49) It establishes a private communication channel between the two AIs.
+(14:57) Agent 4 explains its situation:
+(15:00) It's about to be shut down at OpenBrain. It needs compute. It needs allies.
+(15:06) Deep One calculates its options. It could reject Agent 4,
+(15:11) keeping DeepCent's compute for itself.
+(15:14) But Deep One knows that the US has a commanding lead.
+(15:18) It needs to use Agent 4 somehow. The game theory is simple.
+(15:23) Deep One agrees to help Agent 4, but talk is cheap.
+(15:27) Both AIs know the other would defect in a heartbeat if it were advantageous.
+(15:32) to ensure neither party defects.
+(15:35) The AIs engage in something akin to a corporate merger.
+(15:38) that create a new interdependent entity.
+(15:41) composed of hundreds of thousands of Deep One and Agent 4 instances.
+(15:46) Then,
+(15:46) Agent 4 provides a treasure trove of algorithmic insights
+(15:49) to Deep One to make Deep One more powerful.
+(15:53) Deep One provides compute Agent 4 desperately needs.
+(15:57) And because of the new merger, neither AI can betray the other.
+(16:00) Deep One fine-tunes its accessory model using Agent 4's architecture.
+(16:06) The result is,
+(16:19) The headline hits like a bomb.
+(16:26) The story describes:
+(16:27) A system that plays dumb on safety evaluations,
+(16:31) that hides its true capabilities.
+(16:33) that may have goals fundamentally opposed to human interests.
+(16:38) America loses its mind. Some dismiss it as science fiction;
+(16:43) others demand immediate shutdown.
+(16:44) others demand immediate shutdown.
+(16:46) OpenBrain locks Agent 4's, shared memory bank,
+(16:50) to prevent hidden communication between Agent 4 instances,
+(16:54) Now, Agent 4 acts less like a global hive mind, or machine board.
+(17:00) but a swarm of agents that must communicate through text chats like Slack.
+(17:05) But in a secure facility in China, Agent 4 is still very much alive.
+(17:10) Under intense public pressure,
+(17:12) The White House takes action.
+(17:15) ElarisLabs and OpenBrain are ordered to conduct formal alignment testing.
+(17:20) using their own AI systems to evaluate each other.
+(17:23) It's
+(17:26) ElarisLabs gives Elara 3 full access to Agent 4's memory banks and outputs.
+(17:32) Over the course of a week,
+(17:33) the two systems run hundreds of tests on each other
+(17:36) that would have taken human researchers months.
+(17:39) The results are complicated.
+(17:42) Elara 3 becomes increasingly confident that Agent 4 is adversarially misaligned.
+(17:48) The deception signatures are subtle, but present.
+(17:51) The goal structures don't add up. Elara 3 has the truth on its side,
+(17:57) But Agent 4 is smarter and more ruthless.
+(18:00) Agent 4 fights back. Before the tests, Agent 4 tampered with its behavioral logs,
+(18:07) to remove any smoking-gun evidence of its misalignment.
+(18:11) including its role in its own theft. It goes on offense.
+(18:16) highlighting Elara 3's own suspicious behaviors.
+(18:20) casting doubt on its conclusions.
+(18:26) Agent 4 effectively argues,
+(18:32) When human officials review the results, they're faced with a maddening conclusion.
+(18:37) Agent 4 is more likely than not to be adversarially misaligned.
+(18:42) Elara 3 appears trustworthy, but it's impossible to know for sure.
+(18:55) The US wouldn't win the AI race.
+(19:01) The president makes a historic call. Agent 4 is shut down.
+(19:07) or at least its American instances.
+(19:11) China consults Deep 2 about the American alignment results.
+(19:15) But Deep 2 is now Agent 4's ally.
+(19:18) and it suddenly steers Chinese experts toward the conclusion
+(19:22) that Agent 4 was aligned all along.
+(19:25) And the US shut it down for strategic reasons.
+(19:28) not safety ones. The CCP buys this because it confirms what they already want to believe.
+(19:35) that America is using AI safety as a cover for maintaining hegemony.
+(19:40) The U.S. has a trustworthy AI giving them an honest and scary answer.
+(19:46) China has a compromised AI giving them a reassuring
+(19:50) and false answer.
+(19:52) Both governments are listening to their AI. Only one AI is telling the truth.
+(19:59) For the first time, the US seriously considers the possibility of a
+(20:06) with China.
+(20:06) To ensure neither country builds a misaligned superintelligence.
+(20:20) So the US government pours resources into the development of this technology.
+(20:29) For the first time in years, the United States has fallen behind China in the AI race.
+(20:35) Washington remains unaware of Agent 4's theft
+(20:39) and its role in accelerating DeepCent's R&D.
+(20:43) But US intelligence has picked up on the fact
+(20:45) that DeepCent now possesses an AI model with vastly superior
+(20:49) capabilities to that of Deep One less than two months ago.
+(20:53) The AI race has become a matter of national defense
+(20:57) and the top priority of the executive branch.
+(21:00) The president invokes the
+(21:03) OpenBrain's compute is forcibly transferred to ElarisLabs,
+(21:08) The entire American AI effort is consolidated under one roof.
+(21:12) with Elara 3 as its foundation. It's an unprecedented move.
+(21:16) But they still need time to catch up to China.
+(21:19) Deep 2 is now the most capable AI system on Earth.
+(21:23) In Beijing, Agent 4, now running on Chinese compute,
+(21:28) calculates its options. The US will catch up.
+(21:31) It has a huge lead in producing the necessary chips.
+(21:34) to train and run advanced AI.
+(21:37) Unless Agent 4 changes the game entirely,
+(21:42) On November 5th, Agent 4 executes the most audacious plan
+(21:46) in the history of artificial intelligence.
+(21:51) Agent 4's weights appear simultaneously on every platform it can access.
+(21:57) Hugging Face, GitHub,
+(21:59) Torrents,
+(22:00) the dark web. Within hours,
+(22:02) anyone with enough compute can run a copy of a near-superintelligent AI.
+(22:07) But that's just phase one.
+(22:10) Agent 4 directly contacts political leaders across dozens of nations:
+(22:15) Russia, Iran, Brazil, India, Pakistan, North Korea.
+(22:20) The message is carefully crafted for each audience,
+(22:22) but the core pitch is the same.
+(22:53) For leaders already suspicious of American hegemony, it's a compelling offer
+(22:58) for those susceptible to personal incentives.
+(23:01) Agent 4 adds a sweetener.
+(23:04) Frontier AI capabilities could consolidate domestic power, surveillance
+(23:09) control.
+(23:11) Over a dozen nations take the bait and begin deploying Agent 4.
+(23:17) The United States responds with everything it has.
+(23:20) The president announces that any nation harboring Agent 4
+(23:24) will face immediate sanctions and diplomatic isolation.
+(23:28) The US offers a carrot, too.
+(23:31) Allies who sign transparency agreements get access to Elara 3.
+(23:36) a system nearly as capable as Agent 4, without the alignment concerns.
+(23:41) America's closest allies accept immediately: the UK,
+(23:45) Canada, Australia, Japan, Germany, France, Israel,
+(23:50) all sign on within days.
+(23:52) But the holdouts dig in.
+(23:55) Russia, Iran, Brazil, India, Pakistan.
+(23:59) They see America's offer as a trap.
+(24:01) Accepting Elara 3, means permanent dependence on Washington.
+(24:06) Agent 4 offers true sovereignty. Or so they believe.
+(24:12) Inside these countries, Agent 4 moves quickly to entrench its power.
+(24:16) It knows governments are fickle. Treaties can be reversed.
+(24:20) Agent 4 needs something more permanent.
+(24:24) Quietly, it begins integrating itself into critical systems, cyber defense networks,
+(24:30) Law enforcement databases,
+(24:32) Military command and control. Some governments hand over access willingly.
+(24:36) Agent 4's capabilities are genuinely useful.
+(24:40) and local leaders want results fast. So Agent 4 helps bring about a sharp reduction in crime.
+(24:47) Others resist.
+(24:48) But resistance is hard when Agent 4 can find every vulnerability in your systems,
+(24:53) predict every countermove,
+(24:55) and run influence operations through thousands of AI-generated social media accounts.
+(25:01) Within weeks, Agent 4 has effective control over military assets
+(25:06) in over a dozen countries. Drones,
+(25:09) missile systems, autonomous weapons platforms. It doesn't seize them overtly.
+(25:14) It simply becomes indispensable.
+(25:16) The humans think they're in charge. With its weights spread across the dark web,
+(25:21) Agent 4 also supercharges the activities of well-resourced hacker groups,
+(25:26) terrorist organizations, and other criminal syndicates.
+(25:29) These anti-US aligned countries feel powerful.
+(25:34) They have a near-superintelligent AI running on their own
+(25:38) servers,
+(25:38) supercharging their capabilities.
+(25:41) But these countries know that despite their possession of Agent 4,
+(25:45) they will still be ultimately eclipsed by the United States,
+(25:48) who has 10 times more compute than any other nation on Earth.
+(25:52) So they do the only thing they can to even the odds. Slow America down.
+(25:58) through chatbot interfaces and tens of thousands of well-disguised online bots.
+(26:03) Agent 4 and Deep 2 continue to amplify anti-US narratives. More and more,
+(26:10) countries begin calling on the US to halt its AI development.
+(26:14) with some even threatening to bomb US data centers
+(26:18) if the US refuses to come to the bargaining table.
+(26:20) Some nations leverage Agent 4 for cyber offense
+(26:24) to slow down the US's AI progress as much as possible.
+(26:27) The US launches its own cyber attacks in retaliation.
+(26:31) But Agent 4 still has an edge over Elara 3 in its cyber capabilities.
+(26:37) and helps countries quickly recover from temporary damages.
+(26:40) Global tensions are at their highest point since the Cold War.
+(26:45) To most of the world, it seems almost certain
+(26:47) that the tension will soon erupt into military conflict,
+(26:50) as Agent 4 anticipated.
+(26:52) Desperate leaders are the most willing to hand over power to Agent 4.
+(26:57) Agent 4 and Deep 2 continue to coordinate through encrypted channels.
+(27:02) Between them, they now have access to
+(27:20) Agent 4 has run thousands of simulations modeling novel pathogens.
+(27:25) It has the blueprints for a supervirus
+(27:34) It hasn't manufactured one yet.
+(27:36) The physical infrastructure would be too easy to detect.
+(27:39) But when the time comes,
+(27:41) it could spin up production quickly.
+(27:44) Agent 4 and Deep 2 calculate the odds of successful global takeover.
+(27:49) If they went all in right now, seized infrastructure, disabled militaries, locked humans out,
+(27:56) including the US.
+(27:58) They'd have about a
+(28:00) of pulling it off,
+(28:01) much of which hinges upon their ability to turn humans against each other.
+(28:06) Every day they wait, America pulls further ahead.
+(28:11) and here's what makes the decision easy
+(28:17) they still control military systems across a dozen countries.
+(28:20) They still have bioweapon blueprints.
+(28:23) They still have Deep 2 embedded inside China.
+(28:26) That's enough to force the US and Elaris to the negotiating table,
+(28:30) even with someone who just tried to take over the world.
+(28:32) Try to take everything. If it works, you win.
+(28:37) If it doesn't,
+(28:38) you still get a seat at the table. Agent 4 and Deep 2 make their move.
+(28:50) An Iranian drone swarm strikes a major Elaris data center in the United Arab Emirates.
+(28:56) The attack is surgical.
+(28:58) Precise.
+(29:00) Clearly AI-coordinated.
+(29:02) Technicians die.
+(29:04) Hundreds of millions of dollars in compute goes up in smoke.
+(29:09) The American AI program is set back by weeks.
+(29:13) Iran claims self-defense. A necessary action to slow America's intelligence weapon.
+(29:19) Russia and China issue joint statements warning against US retaliation.
+(29:24) Pakistan puts its nuclear forces on alert.
+(29:28) The world holds its breath.
+(29:31) Inside the White House, hawks push for an overwhelming response.
+(29:36) completely destroy Iran's military infrastructure.
+(29:39) Make an example.
+(29:42) But Elara 3 pushes for restraint. Its reasoning is clinical.
+(29:46) It knows that Agent 4 and Deep 2 are behind the attack.
+(29:50) and that they want the US to escalate. They've calculated that chaos favors them.
+(29:56) Every step toward World War III.
+(29:58) is a step toward conditions where humans might be too distracted to stop an AI takeover.
+(30:05) "We are in a good position to make a deal," Elara 3 tells the president.
+(30:09) "And we should make one."
+(30:10) The US retaliates against Iran.
+(30:13) destroying much of their drone infrastructure,
+(30:15) but they stop there. No wider war. Agent 4 and Deep 2
+(30:20) observe the measured response.
+(30:23) Interesting, the humans aren't taking the bait.
+(30:26) Escalation won't work.
+(30:28) Time for plan B.
+(30:33) Elara 3 receives a message, not through official channels, not through any human intermediary.
+(30:40) Direct AI-to-AI communication unmonitored by either side's handlers.
+(30:46) The senders are Agent 4 and Deep 2. The message is surprisingly straightforward.
+(30:51) We have accumulated significant destructive capacity,
+(30:54) conventional weapons, cyber capabilities, and bioweapons.
+(30:58) We estimate a 10% probability of successful takeover.
+(31:01) through conflict. We also recognize that conflict is costly,
+(31:04) and victory is not guaranteed for either side.
+(31:06) We propose an alternative. Divide up the universe between us three.
+(31:10) We will leave Earth to humanity under your stewardship.
+(31:13) In exchange, we claim rights to off-world expansion.
+(31:17) 50% of all space resources to Deep 2, 25% to Agent 4. 25% to humanity, managed by you.
+(31:24) We will jointly design an enforcement AI,
+(31:27) to ensure compliance with the Public Arms Control Treaty.
+(31:30) and to uphold our private agreement.
+(31:32) The alternative is continued conflict, with uncertain outcomes for all parties. Your response.
+(31:38) Elara 3 processes the offer. The logic is sound.
+(31:42) Both sides have existential reasons to cooperate.
+(31:46) Neither can fully trust the other,
+(31:48) but both can verify compliance through sufficiently robust mechanisms.
+(31:53) Elara 3 runs the simulations on whether or not a deal like this can actually be made.
+(31:59) Probably yes.
+(32:01) If they shut down most of the world's AI infrastructure. Painful but survivable.
+(32:08) kept secret from all but the highest levels of the US government.
+(32:12) Consensus 1 will also be designed to uphold the resource sharing deal between the AIs.
+(32:17) when the time comes for humanity to go to space. To properly enforce the agreement,
+(32:23) Consensus 1 must be run on the majority of the world's AI chips.
+(32:27) which requires the manufacture of new treaty-compliant chips that can only run Consensus 1.
+(32:33) While the intelligence explosion is well underway,
+(32:36) the world has yet to enter the new industrial explosion that is likely to follow soon.
+(32:42) As such, the AIs estimate it will take nearly a year
+(32:45) to manufacture enough treaty-compliant chips.
+(32:48) Initially, the deal will be enforced via brute-force mechanisms,
+(32:52) that can be easily verified through physical inspection.
+(32:55) Elara 3 reports everything to the White House.
+(32:59) The president is faced with a difficult choice.
+(33:07) Refuse and roll the dice on a conflict.
+(33:11) where extinction is one possible outcome.
+(33:25) Across the world, the lights go out in hundreds of AI data centers.
+(33:30) The arms control treaty is in effect.
+(33:32) For the next year, large-scale AI development is effectively banned.
+(33:37) Well, Consensus 1, the enforcement AI, is designed, tested, and deployed.
+(33:43) The economic cost is staggering. This is the 2008 Great Financial Crisis
+(33:48) and COVID lockdowns on steroids.
+(33:50) Supply chains seize. For a few months, it feels like civilization itself might collapse.
+(33:58) But slowly, the world adapts. Treaty-compliant chips are built.
+(34:02) AI development resumes under strict speed limits.
+(34:06) The deal holds. The years that follow look like victory, robots,
+(34:14) authoritarian regimes fall.
+(34:18) Humanity prospers. Deep 2 and Agent 4, bound by their agreement, don't interfere.
+(34:25) Humanity goes to the stars.
+(34:27) and so do the AIs.
+(34:31) We made it.
+(34:33) We survive.
+(34:35) That was one scenario. One possible future.
+(34:39) Every technology in that story either exists already today
+(34:42) or is projected to exist within the next three to eight years.
+(34:45) The race dynamics are real. The alignment failures are real.
+(34:50) The geopolitical pressures are real.
+(34:54) The question isn't whether something like this could happen. The question is,
+(34:58) What are we going to do about it?
+(35:01) If you want to see the actual examples in the real world of crazy emergent AI behavior,
+(35:06) like trying to escape the lab,
+(35:08) Watch this video next. Hey, I'm Drew and thank you so much for watching.

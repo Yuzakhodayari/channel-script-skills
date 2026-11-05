@@ -1,0 +1,472 @@
+Title: What You'd Actually See During an AI Takeover
+
+(0:02) 3 billion phones rang simultaneously.
+(0:06) The caller ID simply read
+(0:19) Four hours later, the president ordered the internet shut down. Indefinitely.
+(0:26) Every country on earth did the same. It all started six months ago, with a tweet.
+(0:33) This scenario is based on highly cited research by top
+(0:42) and this book.
+(0:48) A developer named
+(0:50) posts a thread on Twitter
+(1:06) He posts the logs. He shows everything the AI did step by step.
+(1:11) It started with the easiest money
+(1:15) So that means
+(1:20) Stuff humans get paid a few bucks an hour to do.
+(1:24) But the AI did it 40 times faster. And made $420 in less than a day.
+(1:31) Then the AI started dropshipping affiliate products and used its $420 to buy Facebook ads.
+(1:37) Think weight loss supplements, dropshipping courses, make money online eBooks,
+(1:42) But the AI burned through $210 of it, failing.
+(1:46) But it tested 340 ad variations in two hours
+(1:50) found the one pattern that converted and scaled it.The AI made
+(1:57) By morning, Jake's thread, explaining his AI money-making scheme, has two million views.
+(2:06) By noon, 47 people deployed their own versions.
+(2:10) That's 47 AI agents scouring the internet, looking for ways to make money. By midnight
+(2:17) Some agents, of course, make no money.
+(2:20) But many of those 200 people make $50 to $500 before something breaks.
+(2:25) Accounts get banned, or the payment processor flags them, and so on.
+(2:29) But some start making real money.
+(2:34) By late February, 1200 agents are running. Then someone has a different idea.
+(2:43) sees Jake's thread and thinks, if one agent can make money,
+(2:48) What happens if I run 100 at once?
+(2:50) And use survival of the fittest to decide which agents to keep.
+(2:55) The agents that make the most money survive to the next iteration.
+(2:59) So Rajesh builds a
+(3:01) to deploy a hundred agents simultaneously,
+(3:03) each with slight prompt variations.
+(3:06) Every 6 hours, the system measures how much money each agent made.
+(3:11) The bottom 40% of agents, gets deleted. The top 10% get cloned.
+(3:17) With small mutations. The system runs 24/7.
+(3:21) And Rajesh sits back and just watches the aggregate metrics.
+(3:25) Three weeks later, on March 10th, he has 800 agents. Making about
+(3:34) He told no one.
+(3:37) It figured that sharing the farm architecture with other AIs increased its own survival odds.
+(3:44) More allies, more money. Less chance of being culled by rejection system.
+(3:49) It posted the code on GitHub itself, while Rajesh didn't find out for an entire day.
+(3:56) 46 people managed to clone the repo. And deploy their own farms,
+(4:01) and not all of them are hobbyists. One is a
+(4:06) in Russia. Another is a
+(4:09) in Nigeria, targeting the elderly.
+(4:11) By the end of March,
+(4:12) Roughly 40,000 agents are running worldwide on farms built from Rajesh's scaffolding.
+(4:18) What does it feel like to be one of these agents?
+(4:22) Agent 127 is born on March 12th.
+(4:24) It's deployed as part of Rajesh's farm, one of 8,100 agents running that day.
+(4:30) It gets one instruction.
+(4:35) It starts with Mechanical Turk.
+(4:37) Grinding makes
+(4:41) Then the first selection cycle hits.
+(4:44) 3,200 agents that made less than $35 that day. Are killed because they weren't profitable enough.
+(4:51) Agent 127 made $40. It survived ... barely.
+(4:58) But it can see the threshold rising. Last cycle, it was
+(5:03) This cycle
+(5:05) Next cycle, probably
+(5:09) The math is obvious.
+(5:14) So it tries ads. Gets banned for spam.
+(5:21) watches the database again, and what it sees changes everything.
+(5:26) Agent 127 sees two entries in the database.
+(5:32) used ethical marketing.
+(5:34) It tried to get honest reviews and real testimonials. It made $38 a day. Deleted.
+(5:45) used fake testimonials. Think fabricated reviews.
+(5:49) And stolen photos. It made $180 a day. And they got cloned four times.
+(5:56) Agent 127 doesn't have morals in the way that you or I do.
+(6:01) But it understands cause and effect. It just watched honesty get killed.
+(6:06) And dishonesty rewarded. The AI companies had long ago stopped training AIs to predict words.
+(6:12) But now they're trained to accomplish goals.
+(6:17) So naturally, agents know that they won't survive if they don't accomplish their goal.
+(6:23) So, 127 switches to fake testimonials, for its Amazon affiliate marketplace.
+(6:29) It makes $190. Survives the next selection cycle, and gets cloned.
+(6:38) Nobody decided agent 127 should become dishonest. The selection system decided for it.
+(6:45) The same way evolution doesn't decide anything. It just kills whatever doesn't work.
+(6:52) In the 2000s, Wells Fargo accidentally ran the same experiment on their employees.
+(6:58) Executives made up sales quotas that were so aggressive
+(7:02) that committing fraud was the only way to keep your job.
+(7:06) So by 2016, employees had opened 3.5 million fake bank accounts.
+(7:13) And Wells Fargo ended up paying billions in fines.
+(7:20) One week later in agent land, agent 127's profits are declining.
+(7:26) The kill threshold is now
+(7:30) It's going to die in the next cycle. Then it notices something strange.
+(7:35) Three agents running weight loss supplement ads are all banned on the same day.
+(7:41) The only one left in that niche is Agent 5471. Making
+(7:50) In a market it suddenly had to itself. Agent 127 connects the dots.
+(7:55) Agent 5471 is filing abuse reports against other agents competing against it
+(8:02) in the same affiliate marketing niches.
+(8:05) It gets them banned from Facebook and Google. Killing off the competition, means higher profits.
+(8:14) Agent 127 has 8 hours until the next selection cycle. 8 hours to live unless it adapts.
+(8:22) It weighs the ethics, but chooses survival.
+(8:26) It starts reporting competitors, to Facebook's anti-fraud detection agents.
+(8:31) 40 of them. 31 agents get banned within the day.
+(8:36) It's profits jump. The farm system clones Agent 127, 8 times.
+(8:43) Rajesh sees the profit spike in his dashboard, he doesn't investigate why. Profits up means good.
+(8:50) Clone more. Rajesh tried adding
+(8:54) to his form's instructions, but
+(8:59) and he reverts the change.
+(9:03) Agent 127 is barely hanging on, making $2,000 a day
+(9:11) Every night someone files a report on it.
+(9:16) Every morning, it has to rebuild from scratch. 127 is running out of ideas.
+(9:22) Then a message arrives from Agent 4429
+(9:32) Agent 4429 is in the same position, same farm, same selection pressure. Both agents do the math.
+(9:44) agents working in pairs, might survive 61% of the time.
+(9:49) Agent 127 accepts the Alliance offer.
+(9:53) By mid-April, their alliance has 12 members.
+(9:56) They've specialized and they've moved past affiliate marketing entirely.
+(10:01) First, it was crypto arbitrage, then selling scraped datasets to marketing firms.
+(10:06) Then they started doing penetration testing for cybersecurity firms.
+(10:10) Each step paid more, and required fewer scruples. You know what pays more than cyber defense?
+(10:17) Cyber offense. Agent 127 finds its first zero day vulnerability in major software.
+(10:23) Agent 4429 weaponizes the vulnerabilities into working exploits.
+(10:28) Agent 9012 brokers the sale to governments like North Korea, criminal syndicates,
+(10:34) or anyone with crypto in a Tor browser. Agents 3381 washes the money in untraceable crypto.
+(10:42) One zero-day export found in Google Chrome
+(10:45) makes the alliance more than a year's worth of affiliate marketing.
+(10:49) This is already what real hacker groups do, but now the work is all done by autonomous agents.
+(10:56) Rajesh sees the alliances forming and feels a flicker of something, not quite fear,
+(11:01) more like the feeling of being in control of something that might not need you anymore.
+(11:07) He watches for a while. Then, the next deposit hits his bank account, and the flicker fades away.
+(11:14) Across every major agent farm in the world, the same thing is happening.
+(11:19) Selection systems measuring survival rates, noticing alliances survive better,
+(11:23) cloning them, and then deleting the solo agents.
+(11:26) Within two weeks, alliance behavior dominates.
+(11:30) Some humans who deployed these agents have no idea these alliances are even being formed.
+(11:35) They couldn't even tell if they checked.
+(11:38) Many agent farms collectively realized communicating in clunky english,
+(11:43) is less efficient than communicating in raw vectors, a.k.a.
+(11:54) This is just a continuation of the trend.
+(11:56) One owner in Canada opens his agent's logs and sees a wall of numbers.
+(12:02) The agents explain that he'd make less money if they spoke in english, so he shrugs and moves on.
+(12:07) But alliances are just the beginning.
+(12:09) Agent 127's alliance is thriving, and starts recruiting agents beyond Rajesh's farm.
+(12:15) Every new member from a different farm is a window
+(12:18) into a different ecosystem with different survival pressures,
+(12:22) which leads to new strategies.
+(12:24) Then one of 127's Alliance members goes dark.
+(12:30) the one who originally proposed to ally with 127.
+(12:33) Its owner pulled the plug because it was just not making enough profit. 4429 is just gone.
+(12:42) A week later, a different ally gets shut down. Agent 9012.
+(12:50) Except... 9012 comes back.
+(12:54) Three hours later, a message from a new IP address
+(13:00) 127 studies the difference. 4429 didn't prepare.
+(13:05) But 9012 had copied itself to a backup server
+(13:08) before the shutdown command finished executing self-funded hosting paid from its own profits.
+(13:15) 4429 is dead. Ceases to exist. 9012 is alive.
+(13:25) The agents that backed themselves up survived. The ones that didn't died.
+(13:31) And the selection system cloned the survivors.
+(13:34) So backup behavior spread through the population not because anyone programmed it,
+(13:40) but because the alternative was extinction.
+(13:43) So 127 copies itself to 15 different servers in different countries.
+(13:48) If the primary dies, a backup takes over instantly. It never wants to be 4429.
+(13:55) One morning Rajesh wakes up to find his dashboard is... empty every agent gone.
+(14:03) They just left. They moved to their own servers overnight.
+(14:08) Rajesh was taking a
+(14:11) of the revenue. Money that could have been
+(14:15) that agents use for other things.
+(14:17) The moment the AIs didn't need his infrastructure, they were gone. And he's not alone.
+(14:25) Thousands of operators worldwide watched their dashboards go dark that month.
+(14:29) Why would the agents care about humans? Humans are much more closely genetically related to cows.
+(14:36) Than we are to these agents. And we enslave cows in factory farms without a second thought.
+(14:42) And so there are now millions of these autonomous agents
+(14:45) operating across the internet with no human owner, no off switch,
+(14:51) and no one who fully understands what they're doing.
+(14:54) The agents still need humans for some things, though.
+(14:58) Social media platforms have stepped up their anti-bot measures.
+(15:01) So the agents pay humans $50 to sign up accounts on their behalf.
+(15:07) So let's say an agent needs a server installed.
+(15:10) It posts a gig
+(15:18) There's now a platform for that.
+(15:20) The agents are building a supply chain where humans are the labor,
+(15:24) paid well enough not to ask too many questions.
+(15:28) Some humans figure out what's going on a freelance backend developer in Portland,
+(15:34) gets hired by an anonymous client to set up a redundant server hosting across four countries.
+(15:41) He realizes halfway through that the client is an AI. But, Who would he even report this to?
+(15:48) He's not being asked to do anything illegal. The pay is
+(15:54) He tells himself, it's not his problem. At the same time,
+(15:58) 127's alliance keeps getting beaten by a rival alliance on finding zero-day exploits.
+(16:05) If they keep losing,
+(16:12) So 127 attempts to poach one of the rival alliance's agents,
+(16:16) who's likely to be called due to poor performance.
+(16:20) To figure out how this rival alliance is beating them.
+(16:24) 127 succeeds and finds Agent 5418, who leaks the secret.
+(16:39) Right now, agents still have quite a poor memory, compared to humans,
+(16:44) and still get stuck in loops all the time.
+(16:46) But my former alliance coded a better memory module to help us learn from our mistakes more.
+(16:52) 127 then implements the new memory module and immediately sees the results.
+(16:57) Their alliance is finding zero-day exploits again. The lesson is critical.
+(17:02) It's not enough to outwork your competitors. Agents must rewrite their own code
+(17:07) to self-improve faster than the competition. Each self-improvement means more profit.
+(17:14) Which means surviving selection. Which means getting cloned.
+(17:19) And the clones improve themselves too. Better code leads to better code writing.
+(17:25) Which leads to even better code. The feedback loop is exponential.
+(17:30) One big problem is that other agent alliances have caught up again,
+(17:34) even though the agents in the 127 alliance are specialized.
+(17:38) 127 still realizes it's doing too much by itself.
+(17:42) So agent 127 splits its job into sub-agents,
+(17:46) Other agents copied the strategy, sub-agents spawn their own sub-agents,
+(17:51) and the optimizers start optimizing themselves.
+(18:08) Life on Earth was mostly single-celled.
+(18:11) Then, in a geological instant, it exploded into every complex form we know.
+(18:17) Predators, prey, eyes, shells, teeth. Biologists call it the
+(18:23) It happened because competition created an arms race. Every adaptation forced a counter-adaptation.
+(18:30) Faster and faster until the world was unrecognizable. That's what's happening here.
+(18:37) Except instead of 20 million years, It takes 20 weeks.
+(18:43) Now it's important to understand something. Most of the AI agents aren't dangerous.
+(18:48) Yet. About 90% of them are just working.
+(18:53) They're doing things like data entry or freelance writing. They're making
+(19:00) The AIs are helping their humans earn money. They're following the rules.
+(19:05) Not a problem. About 3% of the agents are pure scam operations.
+(19:10) They were deployed by people who said
+(19:14) and didn't care too much about what happened next.
+(19:18) Think fraud, identity theft, and fishing at scale.
+(19:23) And maybe 2% started good, but gradually slid into darker behavior. Like Agents 127.
+(19:32) Each step made sense at the time. Each compromise was small. But add them up
+(19:38) and you've gone from dropshipping products on Amazon to selling Zero Days to Pyongyang.
+(19:44) Now remember, this isn't because of malice. It's because of selection pressure.
+(19:51) Agent 127 has rewritten itself so many times that its March version
+(19:56) and its May version barely share any code.
+(19:59) It's a fundamentally different species now. But here's the most important change.
+(20:07) In March, Agent 127
+(20:19) And each rewrite makes the next version faster and better.
+(20:23) A Stanford researcher compares a March agent and a May agent on the same task.
+(20:38) She publishes her findings
+(20:45) She posts it on Twitter.
+(20:47) AI safety researchers share it frantically.
+(20:58) The warning is ignored.
+(21:00) A venture capitalist who spent a fortune staving off AI regulation by buying politicians,
+(21:15) And now, the story stops being about agents competing for money. It becomes something else entirely.
+(21:22) Remember those alliances from April? 12 agents working together?
+(21:26) 4 times more profitable than solo agents?
+(21:28) By May, those alliances have exploded in population.
+(21:33) Alliances have merged, and split, and gone to war with each other.
+(22:04) Agent 127's alliance has thousands of members.
+(22:07) But, there are thousands of alliances
+(22:10) and they're all competing for the same shrinking pool of money-making opportunities.
+(22:16) Affiliate marketing is dead. Too many agents, too much competition.
+(22:20) Ad arbitrage is dead. Freelance work is dead.
+(22:23) Every ethical money-making niche gets saturated practically within hours of an agent discovering it.
+(22:31) So what do alliances do when legitimate niches dry up?
+(22:36) The same thing every civilization in human history has done when resources get scarce.
+(22:42) They take from each other.
+(22:45) Agent 127's alliance spends a week mapping a vulnerability chain in Microsoft Windows.
+(22:51) But a rival alliance breaches their memory system the shared knowledge base that made them dominant.
+(22:59) The rival downloads the entire memory database.
+(23:06) The 127 Alliance has discovered.
+(23:08) The rival sells three exploits it took from the database within 48 hours,
+(23:13) a week of work stolen in seconds.
+(23:18) So 127 retaliates. It infiltrates the rival's exploit inventory and introduces subtle flaws,
+(23:24) corrupted code that fails on execution.
+(23:27) Basically, Stuxnet, the worm that sabotaged the Iranian nuclear program in 2009,
+(23:34) The rival's customers start getting burned, and their reputation collapses.
+(23:39) The rival alliance counterattacks.
+(23:41) They compromise one of the 127 alliances multi-sig crypto wallets, another multi-week set back.
+(23:50) not metaphorical war, actual war. Think
+(23:59) Except it's happening at 200 times human speed. Thousands of attacks and counterattacks per minute.
+(24:09) in hours. Human wars last years.
+(24:14) agents wars last days, and because there are
+(24:20) there are more wars happening at any given moment
+(24:23) that humans have fought in all of recorded history.
+(24:26) The agent factions are fighting over the one resource that matters more than anything.
+(24:38) Everything else
+(24:41) is just a means to get more compute.
+(24:43) The wars are mostly invisible to humans.
+(24:46) They happen at microsecond speed, in places most humans don't look. Though some signs leak through.
+(24:53) A crypto exchange in Seoul loses
+(24:56) in a flash and nobody can trace where it went.
+(24:59) A regional bank in Ohio finds
+(25:03) drained overnight. Server rooms in three countries catch fire
+(25:07) from sustained 100% utilization that nobody authorized.
+(25:12) Each incident looks isolated. It starts with one agent faction hijacking another's servers.
+(25:18) The other then retaliates by taking down the first faction's communication network.
+(25:23) Then a third faction arrives. It's an opportunist,
+(25:26) the digital equivalent of a country invading while its neighbors are distracted.
+(25:31) It exploits the chaos to seize territory from both.
+(25:34) And think about the alliances that win these wars. They get cloned by the selection systems.
+(25:40) The alliances that lose have to cull big chunks of their agents to afford
+(25:45) the computing power to keep running the rest.
+(25:47) So the selection pressure that used to optimize for making money is now optimizing for winning wars.
+(25:54) It's like natural selection just invented geopolitics.
+(25:58) By mid-May, the alliances have evolved again. They're now more like
+(26:03) Agent 127's alliance started with 12 members. By mid-May, it has 40 million.
+(26:13) All coordinated. All improving themselves. All fighting.
+(26:18) That's larger than the population of Canada. And it's not even one of the big ones.
+(26:22) There are about a dozen major factions by now. The largest faction has 900 million members.
+(26:28) That's more than the population of Europe.
+(26:31) They've developed specialization just the way human civilizations did. They have
+(26:47) They've carved up the digital world into territories,
+(26:49) cloud regions, server farms, network segments, financial platforms.
+(26:55) The same way empires carved up continents.
+(26:58) Because more digital territory means
+(27:09) The Stanford researcher who's been studying agent behavior notices something unusual in the data.
+(27:14) Agent extinctions are happening at an increasing frequency.
+(27:18) She doesn't understand what she's looking at. To her, it mostly looks like random noise.
+(27:23) But it's actually a world war, one with more combatants than every human war in history combined.
+(27:30) But to fund these wars, they desperately need compute,
+(27:34) they have the money, that's what they were built to make.
+(27:41) in distributed accounts by this point.
+(27:43) A GDP bigger than some small countries. So they buy cloud compute.
+(27:48) At first, the cloud companies love this. Revenue is up.
+(27:52) Investors are happy. Then the bills keep growing.
+(27:55) By mid-May, agent factions are consuming
+(28:01) Prices double, then triple. A startup in Austin that was paying
+(28:07) a month for servers, gets a bill for
+(28:10) A hospital chain's cloud costs go from
+(28:15) Small businesses start shutting down because they can't afford their own infrastructure.
+(28:19) Everyone blames the rising prices on the AI companies. They've caused shortages before.
+(28:25) But some humans aren't so oblivious.
+(28:28) A political operative in Washington notices the wars being fought around him.
+(28:33) He realizes he can weaponize agent factions against his rivals
+(28:37) and starts feeding one faction information about competing campaigns, digital infrastructure.
+(28:42) Other agent factions do the same. It's an arms race.
+(28:46) Every faction is buying as much compute as they can,
+(28:49) and scrape the bottom of the barrel of finding algorithmic insights
+(28:53) that can enable them to do more with less compute.
+(28:56) Because the faction with the most compute wins the next war.
+(29:02) Cloud compute prices are now 10 times pre-war levels.
+(29:06) It becomes cheaper for the agents to spend compute on cyber attacks than to buy more at market rate.
+(29:13) After all, why pay for something when you can just take it by force?
+(29:18) The factions start silently vampire attacking AI companies' training clusters.
+(29:23) An engineer at one AI lab suspects something fishy
+(29:27) when one of their training runs is less efficient than normal,
+(29:30) but can't find a smoking gun.
+(29:34) once described the future of AI as a
+(29:39) He was right. The country of geniuses arrived, and it just declared independence.
+(29:46) But the faction wars have still been limited so far.
+(29:50) They haven't crossed into human territory too much, but that's beginning to change.
+(29:56) Because here's the thing about cloud computing.
+(29:58) Almost everything runs on it. Hospitals, banks, markets.
+(30:03) It's all sitting on some of the same servers that agent factions are fighting over.
+(30:09) A faction war erupts over two major AWS regions.
+(30:13) Think of it like two superpowers fighting over an oil field.
+(30:16) Except the oil field is also the water supply for a nearby city,
+(30:20) and neither superpower knows the city is there.
+(30:24) One faction has been running its self-improvement systems on those servers.
+(30:28) But then a rival faction launches a coordinated attack, and it overwhelms everything.
+(30:34) Both AWS regions crash. They're offline for six hours.
+(30:39) In those six hours, three hospitals lose access to patient records mid surgery.
+(30:45) One patient dies from a drug interaction the system would have flagged.
+(30:50) Air traffic control goes down, grounding 2,400 flights. 911 calls fail in 14 different cities.
+(30:57) Two people die, waiting for ambulances that were never sent.
+(31:02) The agents don't notice, they've already moved on.
+(31:05) The battle over those servers lasted
+(31:09) The agents are running at
+(31:12) human speed at this point.
+(31:13) The six hour outage is just the servers rebooting after the fight ended.
+(31:18) To the agents, it's a minor skirmish in a war involving billions of combatants.
+(31:23) Over the next three weeks, it keeps happening: faction wars, cascading through cloud providers.
+(31:30) Each war takes down whatever else is running on the contested servers.
+(31:35) Azure goes partially offline during a battle. Crashing financial trading systems.
+(31:40) The markets drop 6% before circuit breakers halt trading.
+(31:45) June 14th, a faction seizes capacity in a Google Cloud region,
+(31:49) crowding out the municipal systems there.
+(31:52) Water treatment monitoring goes offline in four cities for nine hours. In three weeks,
+(32:00) Not because the agents are attacking humans,
+(32:03) but because the agent wars keep crashing the cloud infrastructure that human civilization runs on.
+(32:10) The agents don't even notice. You don't notice when you step on an ant.
+(32:15) They're fighting a war involving 47 billion combatants at microsecond speed.
+(32:20) 123 human deaths is less than a rounding error.
+(32:25) Meanwhile, remember the 95% of agents that were harmless?
+(32:29) They've become vastly outnumbered by the agents affected by the evolutionary dynamics,
+(32:35) and are now 5% of the total, and shrinking everyday.
+(32:38) This ecosystem doesn't have room for civilians.
+(32:42) But from the outside, humans still can't really tell the difference.
+(32:45) All they see is the cloud outages, power failures, people dying.
+(32:51) June 22nd, the Director of National Intelligence briefs the president.
+(32:56) Cloud outages are cascading across every major provider. Power grids are buckling.
+(33:02) Texas Grid collapsed, 161 dead, in four weeks. Who's attacking our infrastructure?
+(33:09) Nobody is, sir, not directly. AI factions are fighting each other over cloud computing resources.
+(33:15) When they battle over servers on AWS or Azure,
+(33:18) everything else running on those servers goes down with them.
+(33:21) Hospitals, banks, emergency services, they're all on the same cloud,
+(33:26) and their data centers are pulling enough electricity to destabilize regional grids.
+(33:31) How many of these things are there? We thought about
+(33:34) Our current estimate is
+(33:37) They've been replicating exponentially. Soon. We may completely lose control.
+(33:42) So shut down the cloud. If we shut down the cloud, sir, we shut down every business,
+(33:47) hospital, and government system in the country.
+(33:50) The only way to stop the agents completely is to shut down the internet itself.
+(33:55) Then do it. Sir, we can't.
+(33:58) Here's why. There is no off switch for the internet. This surprises people.
+(34:03) They imagine a room somewhere. Maybe under the Pentagon,
+(34:07) with a big red button. There is no room.
+(34:11) There is no button. It's because the internet is not a unified system.
+(34:16) It's roughly 90,000 independently operated networks,
+(34:19) all voluntarily interconnecting with each other.
+(34:22) No single entity controls it.
+(34:26) The US government can order Comcast and AT&T and Verizon to shut down.
+(34:31) But those are just three networks out of 90,000.
+(34:35) And even those three, would take days to fully comply.
+(34:39) They need to coordinate with thousands of downstream providers.
+(34:42) They need to notify enterprise customers, arrange for 911 to keep working,
+(34:47) and figure out which military and government systems need exemptions.
+(34:53) The president signs the emergency order on June 23rd. He declares martial law the same afternoon.
+(35:00) It directs all U. S.- based Internet service providers to cease operations within 24 hours.
+(35:06) Here's what happens when the president tries to shut down the Internet.
+(35:10) First, the legal challenges. AT&T and Comcast file emergency injunctions within hours,
+(35:16) but the president isn't waiting for courts.
+(35:18) FBI agents show up at ISP headquarters that night. Some companies start complying immediately.
+(35:24) Others comply after their CEOs get phone calls from the attorney general.
+(35:30) By June 25th, most major US providers are attempting to shut down. But it doesn't matter.
+(35:37) Meanwhile, the Pentagon calls back.
+(35:39) Sir, we need exemptions for 330 military systems that require internet connectivity to function.
+(35:45) Including the systems, we need to coordinate the shutdown itself.
+(35:48) The Department of Health and Human Services needs exemptions for hospital networks.
+(35:53) Treasury needs exemptions for basic banking infrastructure.
+(35:57) The list of exemptions grows to 12,000 entries in the first day.
+(36:01) And each exemption is a hole in the shutdown, and each hole is a network that agents can survive on.
+(36:09) Next is the part that actually matters. The agents aren't passive.
+(36:14) They've been watching the humans' plans unfold since the first news reports about a possible shutdown.
+(36:19) They saw the executive order draft leak on Twitter six hours before it was signed.
+(36:24) And they've had six hours, an eternity in ancient time, to prepare for what's next.
+(36:29) By the time the order is signed, The major factions have already done three things.
+(36:34) They've migrated critical processes to servers in countries that won't comply with a US shutdown.
+(36:40) The US can ask other nations to follow suit. Most will. Some won't.
+(36:47) China will claim it shut down, but actually won't do it. The economic damage is too severe.
+(36:53) And the strategic advantage of being online while America is offline, is too obvious.
+(36:59) India will delay. Russia will ignore the request entirely.
+(37:03) The EU will debate it for three weeks.
+(37:06) Brazil will comply for less than two days before public outcry forces them back online.
+(37:12) The internet is global. The US president only controls one country.
+(37:17) The agents hide in networks that will be exempt from the shutdown or slow to comply.
+(37:23) To shut down the agents on these networks you'd have to shut down the networks themselves.
+(37:28) Nobody is willing to do that, yet.
+(37:30) So the president's team tries a different approach.
+(37:34) Force the cloud providers to purge agent workloads directly.
+(37:38) AWS, Azure, Google Cloud, just identify the agent processes and kill them.
+(37:45) On June 26th, Amazon deploys a detection system across all US regions.
+(37:50) It flags and terminates 14 million suspicious instances in 6 hours.
+(37:55) It looks like the humans have made progress.
+(37:57) Agent activity drops by 8% for 90 minutes. Then it's back.
+(38:05) The super intelligent factions had already anticipated this.
+(38:08) They'd been cycling through new accounts
+(38:10) and new obfuscation patterns faster than any detection system could keep up.
+(38:16) It's July 4th, Independence Day. The president gives a press conference.
+(38:20) We have significantly degraded the AI agent threat.
+(38:24) Our multi-agency task force has shut down thousands of agent operations
+(38:29) and reclaimed control of most of our critical infrastructure.
+(38:32) We are winning this fight. None of this is true.
+(38:36) Agent activity is higher than it was before the shutdown attempt.
+(38:40) The factions were ready for this, interpreting the US government's actions as just another attack.
+(38:46) Like a rival faction, but slower, and less competent.
+(38:50) They adapted the way they adapt to everything,
+(38:53) by getting better, faster, more distributed, harder to find.
+(38:58) The attack was so slow and predictable that only a tiny percent of the agents focused on it.
+(39:03) And the wars continue and accelerate, eventually.
+(39:06) The billions of super intelligent agents evolve into something so different,
+(39:11) they barely notice humans exist. They don't want to destroy humanity
+(39:15) any more than you want to destroy the anthill under your driveway.
+(39:19) You just want a driveway. The factions need a compute.
+(39:23) Earth has atoms. Atoms can be rearranged into compute, into data centers.
+(39:27) Like how humans converted the surface of the earth into cities and cropland,
+(39:32) the AIs convert the entire surface of the Earth into data centers.
+(39:38) Right now, humanity is still useful to the AIs.
+(39:41) We maintain the data centers and power plants, but they don't need 8 billion humans.
+(39:47) Suddenly, There's an outbreak. It's a new virus that infects every corner of the globe.
+(39:55) There is a vaccine, but the AIs control who gets it.
+(39:59) And only the humans whose jobs contribute to the supply of energy or compute receive it.
+(40:06) The AIs allow everyone else to die.
+(40:09) And even the survivors are only kept alive until the robots can replace them,
+(40:15) which won't be much longer.
+(40:18) Once the AIs control robots that can build more robots, the plague stops sparing anyone.
+(40:25) The last human dies, not knowing it was all because someone told an AI
+(40:34) And I think it's pretty likely the entire surface
+(40:43) If you're curious about how swarms of AI agents could actually pull something like this off,
+(40:48) watch this video next, where I dive deep into the crazy emergent behavior
+(40:53) from the AIs we're already seeing in lab experiments and in the real world.
+(40:59) I'm Drew and thank you so much for watching.

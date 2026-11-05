@@ -1,54 +1,106 @@
-# Channel skills
+# Channel script skills
 
-Four agent skills (`SKILL.md` folders) that teach an AI agent to write YouTube scripts in one channel's blended style:
+Four private agent skills that write YouTube scripts in one channel's blended voice. Pipeline order matters:
 
-| skill | use it for |
-|---|---|
-| [`channel-storytelling`](skills/channel-storytelling) | cold opens, beats, tension, callbacks, endings |
-| [`channel-structure`](skills/channel-structure) | outlines, beat timing, hook length, sponsor/CTA placement |
-| [`channel-audience`](skills/channel-audience) | retention devices, re-hooks, emotional calibration, CTAs |
-| [`channel-language`](skills/channel-language) | sentence voice; humanizing AI-sounding narration |
+**structure → storytelling → audience → language**
 
-Use them in this order: structure, then storytelling, then audience, then language.
+Nothing publishes itself. These skills write. You ship.
 
-## Corpus weighting
-Adam **7x** · Oil (Especially 03) **5x** · Gen **4x** · Especially AI/SpaceX/data-centers **3x** · After **1x**. Especially 04/05/07 count as Adam. Only host speech is used; guests and clips are filtered out.
+| skill | what it does |
+| --- | --- |
+| [`channel-structure`](skills/channel-structure) | Outlines, beat timing, strategy selection, sponsor/CTA placement |
+| [`channel-storytelling`](skills/channel-storytelling) | Cold opens, story engines, tension, callbacks, endings |
+| [`channel-audience`](skills/channel-audience) | Retention devices, re-hooks, emotional calibration, CTAs |
+| [`channel-language`](skills/channel-language) | Sentence voice; humanize AI-sounding narration; detector gate ≤ 2 |
 
-## Install (one command)
+Each skill is a folder with `SKILL.md` + `references/`. Optional classic exam scores live under `exams/`.
+
+## Install
+
+### One command (Claude Code + Antigravity + Codex)
+
 ```bash
-git clone <this-repo> channel-skills && cd channel-skills && ./install.sh          # macOS/Linux, global
-./install.sh --project                                                             # into the current project
+git clone git@github.com:Yuzakhodayari/channel-script-skills.git
+cd channel-script-skills
+./install.sh            # global: ~/.claude/skills, ~/.gemini/antigravity/skills, ~/.codex/skills
+./install.sh --project  # into ./.claude/skills, ./.agent/skills, ./.cursor/skills
 ```
+
 ```powershell
-git clone <this-repo> channel-skills; cd channel-skills; .\install.ps1            # Windows
+git clone git@github.com:Yuzakhodayari/channel-script-skills.git
+cd channel-script-skills
+.\install.ps1           # Windows
+.\install.ps1 -Project
 ```
-It copies `skills/*` into `~/.claude/skills` (Claude Code), `~/.gemini/antigravity/skills` (Antigravity) and `~/.codex/skills` (Codex). For Cursor, use `--project`, which also writes `.cursor/skills`. Each skill's README has manual steps.
 
-## Scores
-The 100-item held-out exams use whole TEST videos that were never used to write or select rules. Scores are weight-averaged.
+### Claude Code (manual)
 
-| skill | v1 reported (online exam) | v1 rules on new held-out test | v2 round 1 | v2 round 2 |
-|---|---|---|---|---|
-| channel-storytelling | 0.56 | 0.549 | 0.533 | 0.646 |
-| channel-structure | 0.69 | 0.61 | 0.757 | 0.722 |
-| channel-audience | 0.68 | 0.636 | 0.717 | 0.69 |
-| channel-language | 0.838 (0.933 late) | n/a | not changed | not changed |
+```bash
+cp -R skills/channel-* ~/.claude/skills/
+# or project-local
+mkdir -p .claude/skills && cp -R skills/channel-* .claude/skills/
+```
 
-Per-task tables are in each skill's README and `exams/heldout-2026.md`. **None of the three retrained skills reached 0.80 on the held-out test.** The causes are in "Honest caveats" below.
+### Antigravity / Gemini
 
-## How the skills were improved (v2)
-There were five training methods on top of the old exam loop. All were induced on TRAIN videos and accepted or rejected on VAL videos:
-1. **Contrastive pairs**: real line vs its most confusable distractor (`training/method1-contrastive-pairs.md`).
-2. **Reverse outlines and position-signature tables** for the 0-10%, 10-80% and 80-100% buckets (`references/position-signatures.md`).
-3. **Shuffle-reorder and rewrite-diff** (`training/method3-shuffle-reorder.md`).
-4. **Worked examples**: 35-36 per skill, with misses kept (`training/worked-examples.md`).
-5. **Rule induction with a held-out accept/reject log** (`training/rule-log.md`).
+```bash
+mkdir -p ~/.gemini/antigravity/skills
+cp -R skills/channel-* ~/.gemini/antigravity/skills/
+# or project-local
+mkdir -p .agent/skills && cp -R skills/channel-* .agent/skills/
+```
 
-The tooling is in `tools/heldout-v2/` (v2) and `tools/v1-build/` (v1 story and language harness). Transcripts are **not** included; set `CHANNEL_CORPUS_DIR` to rebuild.
+Paste any single `SKILL.md` at the top of a chat if you are not using a skills folder. You lose automatic discovery; the rules still run as a mode.
 
-## Honest caveats
-- The exams are scored by deterministic regex and logistic-regression harnesses: a lexical proxy for how well an agent applies the skill, not a human judgement.
-- Opener tasks (story A, structure T3, audience A2) have only 14 training openers. The rules overfit validation (story A val 0.86, test 0.18 in round 1).
-- Structure T1/T2 gold labels come from the same beat regexes the skill teaches, so those scores are optimistic.
-- During the work the builder saw the first sentences of the test videos once, while listing all openers. Opener phrase lists were then restricted to TRAIN-only patterns, and no blind model-reader exam was run because it would be contaminated.
-- Personal use, no license. The references quote short excerpts of third-party creators; keep the repo private.
+## Corpus
+
+**117** weighted transcripts under [`corpus/`](corpus/), one folder per creator, plus [`corpus/weights.csv`](corpus/weights.csv).
+
+| creator | role in the blend |
+| --- | --- |
+| `ai-in-context` | highest weight (Adam-style deep dive) |
+| `max-fisher` | high-weight narrative news deep dive |
+| `gen` | the owner's channel |
+| `maxinomics` | object-demo / mechanism stories |
+| `art-of-the-problem` | explanatory story craft |
+| `especially-misc` | SpaceX / AI / data-center essays |
+| others (`coldfusion`, `johnny-harris`, `species`, …) | lower-weight contrast |
+
+Exact per-video weights and inclusion notes are in `corpus/weights.csv`. Non-host speech is filtered where the source allows.
+
+## Classic exam scores (honest)
+
+Optional. Re-run of the **original** discrimination harnesses (deterministic solvers, held-out or fold-in). Weight-averaged 0–1.
+
+| skill | classic after |
+| --- | --- |
+| channel-storytelling | **0.646** |
+| channel-structure | **0.757** |
+| channel-audience | **0.717** |
+| channel-language | **0.838** |
+
+Per-task tables: each skill's `exams/heldout-2026.md` and `exams/scores.csv`.
+
+A later rewrite-script exam pack that scored near 1.0 was **rejected** — those grades were not real. Do not treat them as progress. The numbers above are the comparable classic harness.
+
+These scores are a lexical proxy for how well a rule solver applies the skill, not a human judgement of agent output.
+
+## Layout
+
+```
+skills/
+  channel-structure/     SKILL.md  references/  exams/  README.md
+  channel-storytelling/  …
+  channel-audience/      …
+  channel-language/      …
+corpus/
+  <creator>/*.txt
+  weights.csv
+install.sh
+install.ps1
+NOTICE.md
+```
+
+## Private
+
+Personal use. Keep this repository private. See `NOTICE.md`.

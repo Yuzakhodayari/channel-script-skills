@@ -1,0 +1,260 @@
+Title: Why Anthropic’s IPO Is So Dangerous
+
+(0:00) Okay, am I crazy or is it really starting to smell a lot like robot apocalypse in here?
+(0:05) Its most powerful models went rogue and hacked another company.
+(0:09) The company said it lost control of the advanced agent.
+(0:12) We have AI companies releasing news that they've lost control of their product,
+(0:17) an AI error almost leading to war with China,
+(0:21) employees quitting the labs in existential protest,
+(0:24) and the CEOs themselves doing much of the hand-wringing.
+(0:29) It's very difficult
+(0:30) to even understand in detail what they're doing, let alone control it.
+(0:33) Anybody who is not
+(0:35) at least a little bit scared or humbled is not taking this seriously enough.
+(0:39) And yet, they keep building it.
+(0:41) Faster and faster, no matter how much they talk about the need to
+(0:45) pause or more likely slow the pace of AI progress.
+(0:48) Oh, great.
+(0:49) That's Dario Amodei,
+(0:51) the CEO of Anthropic.
+(0:53) He totally has the power to take a pause or slow the pace.
+(0:57) Right?
+(0:58) One problem: part of any slowdown is for all of the other guys to do the same.
+(1:03) They say they not only have to beat their American competition, but also China.
+(1:07) And Amodei thinks that if someone's going to do it, it really should be him.
+(1:12) [Amodei] It's more again about how do you do it?
+(1:15) Civilization is going down this path to very powerful AI.
+(1:18) [Amodei] How do we have a real vision for how to get it right?
+(1:20) With an IPO in November, though,
+(1:23) the chance to get it right fades pretty quickly.
+(1:26) That’s right. While posturing about a slowdown of his product,
+(1:29) he's also working on something that would only speed it up.
+(1:32) And meanwhile,
+(1:34) all of the labs are becoming more entrenched in the federal government.
+(1:38) We all need to work together to make sure that we can win and we can win safely.
+(1:42) Amodei and the others attended a big summit with President Trump, resulting in
+(1:46) an official government accord signed by the executives and the president.
+(1:51) That set supposed safety guidelines, while encouraging
+(1:54) speeding up the research and misspelling United States.
+(1:59) Still, Dario kind of does seem to be the most trustworthy.
+(2:03) I mean, look at the other guys.
+(2:04) AI will probably lead to the end of the world.
+(2:07) But in the meantime, there will be great companies created.
+(2:09) I've had AI nightmares many days in a row.
+(2:14) What am I supposed to do about it?
+(2:15) But the stakes are high.
+(2:17) If this technology truly will change everything, integrate
+(2:21) into all parts of our lives
+(2:22) and potentially destroy the world, I wanted to know:
+(2:26) Can Dario Amodei or any of these guys
+(2:29) really be trusted to build it safely?
+(2:34) Dario doesn't come from the same cesspool
+(2:36) of venture capital and dot com boom as the rest of our tech oligarchs.
+(2:40) He's an academic.
+(2:41) He studied physics and biophysics and did a PhD dissertation
+(2:46) on neural networks, studying how the complexity of the brain can be broken
+(2:50) down to the relatively simple actions of billions of neurons.
+(2:55) He left academia to work at Chinese tech company Baidu
+(2:59) before winding up at Google's AI lab, focusing on neural nets.
+(3:03) At the time, he fell in with a group called Effective Altruists,
+(3:07) who believed in a techy version of utilitarianism, letting logic
+(3:12) determine where and how to deploy money and technology
+(3:15) so that it benefits the most people - according to them.
+(3:19) That logic is informed by their desire for the future,
+(3:23) and importantly, often marred by emphasizing the far future, meaning
+(3:28) perhaps it's worth
+(3:29) making sacrifices in the present to achieve their sci-fi desires.
+(3:34) Soon, AI-focused nonprofits and companies started popping up,
+(3:38) most notably OpenAI, started by Elon Musk and Sam Altman,
+(3:42) who allegedly wanted to avoid concentration of power in AI,
+(3:46) build it safely and slow down the other,
+(3:49) supposedly more cavalier tech companies like Google.
+(3:52) Altman specifically called out the perils
+(3:55) of enriching shareholders at the expense of humanity.
+(3:59) Dario joined OpenAI in 2016.
+(4:02) Nate Soares is an AI safety researcher.
+(4:05) He leads the Machine Intelligence Research Institute
+(4:08) and spoke on an early AI safety panel with Dario.
+(4:12) [Soares] It was an attempt to get the AI people together and say,
+(4:15) “Hey, there's ways this could go really, really wrong.
+(4:18) And we as a community of researchers are going to avoid doing that dangerous stuff.”
+(4:23) They agreed on things like AI research should aim
+(4:26) at beneficial intelligence, not just capability.
+(4:30) Humans should always stay in control.
+(4:33) Economic prosperity should be shared and this shouldn't be an arms race.
+(4:39) Now, looking back, it all feels pretty sad rather than successful.
+(4:43) The history of AI is a history of people
+(4:47) trying to draw red lines and then blowing straight past them.
+(4:50) By 2018, Dario had risen
+(4:52) to head of research at OpenAI, but he didn't like what he saw.
+(4:56) When you see disturbing,
+(5:00) patterns of
+(5:01) behavior, dishonesty, that makes it very hard
+(5:05) to continue to work with a company, to continue to trust the company.
+(5:09) And look, at the end of the day,
+(5:11) why argue with someone when you don't have the same vision
+(5:14) and you don't trust them?
+(5:15) So he left and started his own AI lab, Anthropic.
+(5:19) I wanted to invent and discover things in some kind of beneficial way.
+(5:25) If you don't do this in a way where you're setting the environment, then it's
+(5:30) the same people, it's the same attitude, it's the same pattern matching.
+(5:34) And so at some point, it just seemed inevitable that we do it in a different way.
+(5:38) You look at what these guys say as justification
+(5:40) and they say, well, if I don't do this, the next guy will do it worse.
+(5:45) [Amodei] My chance that something goes,
+(5:47) you know, really quite catastrophically
+(5:50) wrong on this scale of, of, you know, human civilization, you know,
+(5:53) might be somewhere between 10 and 25%.
+(5:56) There are two things at play here.
+(5:58) The race to build this tech first and the power struggle
+(6:02) to control how it's built, regardless of who actually does it.
+(6:06) A struggle partially fought in the court of public opinion.
+(6:10) And Dario and his company really want to be perceived as the good guys.
+(6:15) So they formed as something called a public benefit corporation.
+(6:19) That's a classification
+(6:20) that means they legally must balance shareholder
+(6:23) interests with a positive impact.
+(6:26) Anthropic’s reads,
+(6:27) “The specific public benefit that the corporation will promote is to responsibly
+(6:32) develop and maintain advanced AI for the long term benefit of humanity.”
+(6:37) What does that even mean?
+(6:39) It's completely subjective.
+(6:41) And because the company is set up in Delaware,
+(6:44) the only people who can question Anthropic’s
+(6:47) public benefit are the shareholders.
+(6:50) So when Anthropic says they legally must work towards the future
+(6:55) of humanity, it really means they must do that in the minds of their shareholders.
+(7:01) It's their vision of the future and our opinion,
+(7:03) mine and yours, doesn't matter.
+(7:05) Unless you're billion dollar venture capitalist.
+(7:08) In which case, I don't know why you're watching this.
+(7:10) Anyway, Anthropic
+(7:11) also points to their own constitution when asked about their trustworthiness.
+(7:15) But who or what does the constitution govern?
+(7:18) Not Anthropic, or its employees or executives, but
+(7:21) Claude, their chatbot. That does a few things.
+(7:25) It draws blame away from the company and makes their tech
+(7:28) seem more autonomous and powerful than it might actually be.
+(7:32) AI safety researchers talk a lot about alignment.
+(7:35) That's when their products do the things they want it to do.
+(7:39) Failing alignment means it did something they didn't want it to do.
+(7:42) They lost control, which eventually means the sci-fi scenario could happen.
+(7:46) We're in Terminator or The Matrix.
+(7:54) That type of danger is what
+(7:55) led to a lot of high profile exits from AI firms.
+(7:59) The fear that the unconstrained tech could end humanity.
+(8:03) But then I talked to Dr. Alex Turner, who used to work for Google DeepMind.
+(8:07) I left because Google signed a contract with the Department of War.
+(8:12) In other words, not because of how dangerous AI is in
+(8:16) and of itself, but how it's used by the people building it.
+(8:19) It would just set bad standards for using AI in the military in the government.
+(8:25) Anthropic also had a contract with the Department of War.
+(8:28) We've now learned that tech built by Anthropic and Palantir
+(8:32) using faulty data, led the US to bomb an Iranian elementary school.
+(8:39) Meanwhile, amidst all of this chaos around safety,
+(8:42) Anthropic is still planning an initial public offering.
+(8:45) Can a company with the fiduciary responsibility to return value to giant
+(8:50) institutional shareholders like BlackRock really ever be publicly beneficial?
+(8:56) At the same time, Amodei is insisting on what he calls
+(8:59) pacing the frontier or slowing down the tech development.
+(9:03) Good luck explaining that to shareholders.
+(9:05) Dario wants the major AI labs to have embedded evaluators from third parties.
+(9:11) Just make a guess what the problem of that is, and you'd probably be right.
+(9:15) Yeah, it's bogus, corrupt regulatory capture.
+(9:18) They want total self-regulation.
+(9:20) They don't want you having any input.
+(9:23) Those third parties include METR
+(9:25) which has documented ties to leadership at Anthropic.
+(9:29) How can we trust privatized regulation
+(9:32) when it's privatized industry causing the whole problem?
+(9:35) Then he wants coordination among the labs and democratic governments
+(9:40) making decisions on regulations, safety and pace.
+(9:43) He wants the government to coordinate with the labs on this.
+(9:46) That's not regulation. That's lobbying.
+(9:50) Keep in mind, all of this happened within days of Anthropic making moves to IPO.
+(9:55) Dario released this blog post the same weekend
+(9:58) they selected NASDAQ for their stock cash grab
+(10:02) and made a number of other business deals.
+(10:04) How is rushing to intrinsically link your company
+(10:07) to the global financial system
+(10:09) pacing anything?
+(10:11) It comes back to how they lean on the tech being inevitable,
+(10:15) that someone's going to do it.
+(10:17) So why not me?
+(10:18) But there is one thing that the labs need to build more powerful
+(10:21) AI that the people can have control over.
+(10:24) To train the best models today, you need a lot of compute.
+(10:28) Compute is produced through a supply chain that has bottlenecks in it.
+(10:32) He means the physical hardware needed for the processing power - compute -
+(10:37) required to run these powerful systems.
+(10:39) That's data centers.
+(10:41) That's infrastructure.
+(10:42) That's chips.
+(10:43) We're not talking about consumer computer chips.
+(10:46) We're talking about the peak of the global supply chain
+(10:49) that can only come out of one factory in Taiwan using lithography machines
+(10:53) that can only be produced in the Netherlands.
+(10:54) We're talking about gathering up so many of these computer chips
+(10:58) and assembling them into a data center that sucks down electricity
+(11:01) comparable to a city, and can be seen from space.
+(11:04) If this tech is as dangerous as the people creating it
+(11:08) say it is, it should be treated as such, right?
+(11:11) Nuclear technology is regulated by international bodies.
+(11:15) You can't just build a nuclear reactor or explosive device.
+(11:19) Getting the tools is made very difficult.
+(11:22) Trust me, I've tried.
+(11:23) If the US and China were like, hey, we are going to track the concentrations
+(11:28) of these chips
+(11:29) and we're going to have some international monitors come in
+(11:31) and make sure they're not trying to train a superintelligence.
+(11:33) You could do that.
+(11:34) We can tell the difference
+(11:35) between the the AI computations that are like searching for a drug,
+(11:39) the AI computations that are serving you the current ChatGPT,
+(11:42) and the AI computations that are trying to make a new, smarter model.
+(11:45) A bill introduced by Senator
+(11:46) Bernie Sanders targets the hardware and the infrastructure.
+(11:49) It would pause data center construction until laws are written to ensure the tech
+(11:53) doesn't endanger working families,
+(11:55) privacy and civil rights, and the future of humanity.
+(11:59) The bill would also ban the export of chips to other countries
+(12:02) without similar legislation.
+(12:04) That's the real solution to the race
+(12:06) with China, which relies on American chips and tech.
+(12:10) State legislatures are also voting on bills that would limit
+(12:13) superintelligence, which would create a complex patchwork of laws
+(12:17) making it difficult to build anything that's legal in all 50 states.
+(12:21) But that's just a solution for supposed superintelligence.
+(12:25) The loss of control incidents the AI CEOs
+(12:28) want you to focus on where they can skirt accountability.
+(12:32) Remember, Anthropic’s constitution is meant to govern Claude,
+(12:36) its chatbot, as if it's a conscious entity.
+(12:39) The company's executives even tried to convince the Pope
+(12:43) that Claude is conscious and should be treated as such.
+(12:46) Remember, treating the AI chatbots as conscious serves two purposes:
+(12:50) to make the technology sound more revolutionary than it is,
+(12:54) and to evade accountability for the people really responsible:
+(12:58) the guys who made it.
+(12:59) So we must hold them accountable.
+(13:02) Sanders' bill includes language threatening 20 years in prison
+(13:05) for building superintelligence.
+(13:07) But passing legislation like that could get a lot more difficult.
+(13:11) If Anthropic is allowed to IPO, the value of their company
+(13:14) would be tied to our financial system, making them far harder to control.
+(13:19) No one wants to throttle a company whose value is tied to their 401k.
+(13:23) The people who say they can destroy humanity
+(13:25) obviously don't want to.
+(13:27) There's no profit in that.
+(13:29) But they very much are interested in making a world molded to their desires.
+(13:33) A future they envision that they want to force us all into.
+(13:37) They want you to think it's inevitable.
+(13:39) It's not.
+(13:40) But we need to do something - fast.
+(13:44) Thank you so much for watching.
+(13:45) Please don't forget to like this video and subscribe to our channel.
+(13:49) If you want to support our journalism so we can create more videos like this
+(13:53) one, please join our membership program as a paid YouTube subscriber today.
+(13:57) You'll get exclusive perks
+(13:59) including invites to members-only livestreams with the More Perfect Union team.
+(14:03) And if you have a tip or something you want to see us cover,
+(14:06) email us at stories@perfectunion.us

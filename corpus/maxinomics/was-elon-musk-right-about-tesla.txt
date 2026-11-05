@@ -1,0 +1,864 @@
+Title: Was Elon Musk Right About Tesla?
+
+(0:05) Netflix vs Blockbuster.
+(0:06) MySpace vs Facebook.
+(0:08) BlackBerry versus iPhone.
+(0:09) Tesla versus Waymo
+(0:11) is tracking to be on that list.
+(0:12) You can't go one block in San Francisco without seeing
+(0:14) someone taking a ride in a self-driving car.
+(0:17) They're everywhere.
+(0:18) Self-Driving taxis are not just coming.
+(0:20) They're here.
+(0:21) Waymo has just surpassed
+(0:22) 10 million fully driverless rides
+(0:25) Zero rides in self-driving cars
+(0:27) five years ago. 100,000 per day to date.
+(0:29) And now the long awaited entry by Tesla
+(0:31) into the competition has happened.
+(0:33) Tesla has rolled out
+(0:34) its robo taxis.
+(0:35) And what makes this so interesting?
+(0:37) The battle shaping up between Waymo and Tesla.
+(0:40) Is that each of their strategies
+(0:41) is almost completely a bet
+(0:43) that the other company's strategy
+(0:45) is dead wrong.
+(0:46) So completely opposite
+(0:47) that if one works, the other one
+(0:49) will likely be counted as obsolete.
+(0:51) Like how the hardware keyboard by BlackBerry
+(0:53) was ended by the full touchscreen from Apple.
+(0:55) But is Tesla even close?
+(0:57) They launched five years behind Waymo,
+(0:59) so I had to run a test.
+(1:00) let's do this.
+(1:01) That guy ran a stop sign
+(1:03) We have just merged onto a four lane highway.
+(1:05) Somebody honked at us,
+(1:06) It doesn't know what to do.
+(1:08) The streets of San Francisco,
+(1:09) three destinations, three rides in a Waymo,
+(1:12) three rides in a Tesla.
+(1:13) Can both or either of them do it
+(1:15) without any problems?
+(1:16) No human intervention.
+(1:18) And importantly, as you'll see,
+(1:20) can one of them complete the challenge
+(1:22) significantly faster than the other?
+(1:24) I was genuinely surprised
+(1:26) by the results that I got.
+(1:27) Interesting.
+(1:28) There's a cone right in the middle of the road.
+(1:31) Oh, this is the same road.
+(1:33) oh, it's still there.
+(1:34) All right, let's see, let's see.
+(1:36) But first, the bet.
+(1:39) The bet that
+(1:39) Tesla is making is that AI with
+(1:41) just two eyes can drive a car.
+(1:43) If me,
+(1:43) no way to see out of the back of my head.
+(1:45) Certainly no way to see front back at the same time
+(1:47) Can do it
+(1:48) Shouldn't a car with eight
+(1:49) high definition, wide
+(1:50) angle cameras that can all be looking
+(1:52) all the time, be able to do it?
+(1:53) Everything is designed for human drivers.
+(1:55) The stretch words on pavement
+(1:57) to the yellow chosen for critical warning signs.
+(1:59) Humans can see yellow the easiest,
+(2:01) especially over long distances.
+(2:04) This is a very specific pattern you've seen before.
+(2:06) It is exactly the same
+(2:07) everywhere you go in the US.
+(2:09) The first letter on this sign will be
+(2:10) six inches tall.
+(2:11) Add spacing, an arrow.
+(2:13) The whole thing should be 52 to 55in wide.
+(2:16) It says so right here
+(2:17) in the Manual on Uniform Traffic Control
+(2:19) Devices, 1113 pages long.
+(2:22) This is just chapter two,
+(2:23) 92 pages.
+(2:25) An absolutely
+(2:26) comprehensive rule book
+(2:27) for how to mark and design roads.
+(2:29) So yes, if you measure this
+(2:31) sign, sure enough, that's what it is.
+(2:32) This stuff isn't just ballpark.
+(2:33) Or like, yeah, that's pretty good.
+(2:35) It is all, if not exactly the same.
+(2:37) Very similar.
+(2:38) The tendency to group all signing
+(2:40) in the immediate vicinity
+(2:41) of rural interchanges should be avoided
+(2:43) by considering the entire route.
+(2:45) In the development of signing plans,
+(2:47) extra effort should be given to the placement
+(2:48) of signs and natural target locations
+(2:50) to command the attention
+(2:51) of road users, particularly
+(2:53) when the message requires
+(2:55) an action by the road user.
+(2:56) In other words,
+(2:57) put signs where
+(2:58) and when drivers need to know about something
+(3:00) they may need to do soon, like exit.
+(3:02) Anticipate their needs like they'll be required
+(3:04) to turn left or right at the top of this exit.
+(3:07) It's programing.
+(3:08) It is code.
+(3:08) But for humans in a 3D environment,
+(3:10) if you can get human or better vision
+(3:12) attached to a vehicle and then
+(3:14) put a brain in the vehicle, should it not stand
+(3:16) a reason that a car will be able
+(3:18) to drive better than a human?
+(3:20) We got a honk. hey.
+(3:21) Cutting me off?
+(3:22) That is Tesla's entire bet.
+(3:24) The bet that Waymo is making
+(3:26) is that no, you can't do that.
+(3:27) A car doesn't have the intuition of a human.
+(3:29) What it lacks for in feel,
+(3:31) it needs to make up for
+(3:32) with all input input that,
+(3:33) for instance, can't be hindered
+(3:37) by the weather.
+(3:38) The weather is the reason
+(3:40) why every single company that's trying to do
+(3:42) this starts in Phoenix
+(3:43) or Vegas or Austin.
+(3:44) Bright and sunny 300 days of the year.
+(3:46) Little rain wide modern roads recently
+(3:48) built for booming populations.
+(3:50) Nobody is operating
+(3:51) fully autonomous vehicles
+(3:52) anywhere outside of the Sun
+(3:54) Belt, the magical line that divides the country
+(3:56) into the areas with good weather
+(3:57) and the areas with bad weather.
+(3:59) And by bad weather, we mostly mean snow and ice.
+(4:02) The Sun Belt is easy.
+(4:03) Waymo has been there for over five years.
+(4:05) So Waymo has all the cameras.
+(4:06) It has microphones that hear emergency vehicles.
+(4:09) But it also has this thing this massive bet
+(4:11) on every car lidar,
+(4:12) Which is just a kind of radar.
+(4:14) It shoots signals out as it rotates,
+(4:15) listens for the signal to come back.
+(4:17) And based on how fast the signal returns,
+(4:19) you can get a very accurate idea
+(4:20) of what objects are, where,
+(4:22) how fast they're moving, and in what direction.
+(4:24) It doesn't care if it's sunny, it doesn't
+(4:25) use light to see, making it great in the dark.
+(4:27) And in theory, when paired,
+(4:29) the camera's able to see through all the stuff
+(4:31) that might jam up cameras or human eyesight.
+(4:33) These are two obviously
+(4:35) different technologies with major trade offs.
+(4:37) 29 different sensors for Waymo.
+(4:39) Eight high definition cameras for Tesla.
+(4:42) And this is one of the
+(4:42) major reasons why this whole Tesla
+(4:44) versus Waymo thing is so interesting.
+(4:46) Expensive versus cheap,
+(4:48) more data first, less data.
+(4:50) Whoever loses
+(4:51) is going to have to figure out how
+(4:52) to adopt the other system because whichever
+(4:54) of these technologies wins
+(4:55) will most likely end up as the winner
+(4:57) in a winner takes most
+(4:59) market speed up.
+(5:00) Betamax Blu ray beat out
+(5:02) DVD Thomas Edison played
+(5:04) this exact game with electricity and lost.
+(5:08) I'm. Electricity was
+(5:11) just starting to become a household word.
+(5:13) In the 1890s, everything was stacked in Edison's favor.
+(5:15) Money. He was already famous.
+(5:17) The backing of J.P. Morgan.
+(5:18) Edison was convinced the way to send electricity
+(5:21) from one place to another, like from a power
+(5:22) plant to a house, was direct current.
+(5:24) Direct current or DC flows
+(5:26) in one direction, Despite of requiring the plant
+(5:29) generating the electricity
+(5:30) to be within one mile of where
+(5:32) the electricity needed to get to, Nikola
+(5:34) Tesla took the other side of the bet.
+(5:36) Alternating current
+(5:37) AC could be generated in one place
+(5:38) and pushed hundreds of miles down electric lines.
+(5:41) It got dirty, Edison publicly electrocuted
+(5:44) a horse in the streets of New York
+(5:45) to scare people away from AC.
+(5:47) The very first death sentence carried out
+(5:49) by an electric chair in the United States.
+(5:50) Edison finagled it to be done with AC current
+(5:53) for the negative publicity would create.
+(5:55) Despite that your world is powered
+(5:56) by alternating current electricity.
+(5:58) It was obviously better.
+(5:59) Edison was marginalized within his own company.
+(6:02) The whole DC system that Edison built
+(6:03) was thrown out and rebuilt
+(6:05) with AC technology.
+(6:06) What is today
+(6:07) hundreds of billions of dollars.
+(6:11) That little
+(6:12) saga and the competition
+(6:13) between Waymo and Tesla.
+(6:14) Not a game theory embedded in it.
+(6:16) You want that nerdy technical
+(6:17) name for this type of game.
+(6:18) It is stochastic sequential game.
+(6:21) With the late feedback.
+(6:22) Teslas used to have a front
+(6:23) facing radar in the bumper.
+(6:25) Now they don't,
+(6:25) which says they actually
+(6:26) feel comfortable with fewer sensors.
+(6:28) Waymo now has four lidar units in each car,
+(6:31) but the cost to outfit their cars has gone down,
+(6:33) which says Waymo can lower
+(6:34) what was a tremendous expense.
+(6:36) The cost for all its sensors.
+(6:38) The game evolves to us as observers
+(6:40) one event at a time, sequential,
+(6:42) but time has to pass
+(6:43) before we know if a move is correct.
+(6:45) Delayed feedback and it all happens
+(6:46) in the noisy un sterile world of humans.
+(6:49) Stochastic.
+(6:50) So where are we
+(6:51) now in this game?
+(6:54) starting at the Golden Gate Bridge.
+(6:56) Each vehicle will drive a short
+(6:57) 1.3 miles to the first destination.
+(6:59) From there, they would drive to the second destination
+(7:01) 3.4 miles across town.
+(7:02) Once complete, turn around and take the longest third
+(7:05) leg of the test all the way back to the start.
+(7:07) Could each car simply complete
+(7:09) each leg without a human intervening?
+(7:11) How long would it take each car to complete each
+(7:13) leg and the whole circuit in total?
+(7:15) We start with the Tesla
+(7:16) destination number one, starting now.
+(7:19) let's do this.
+(7:20) So we're basically testing
+(7:21) two things in these cars.
+(7:22) The first is, are there any problems?
+(7:24) Right.
+(7:25) Can Tesla get all the way there or can it not.
+(7:27) Is it going to fail?
+(7:28) Waymo's do this every single day.
+(7:30) The other thing is
+(7:32) how long does it take.
+(7:33) Is one significantly shorter than the other?
+(7:35) Is one a more pleasant ride?
+(7:37) this is not the easiest trip in the world.
+(7:38) The first one from the Golden Gate Bridge downtown.
+(7:41) We have just merge onto a four lane highway.
+(7:43) Somebody honked at us,
+(7:44) I don't think she needed to honk.
+(7:46) She was in the wrong.
+(7:46) She didn't have a turn signal on.
+(7:48) So far, so good.
+(7:49) We are halfway there.
+(7:50) And not a single problem with the Tesla.
+(7:53) Granted, it has been
+(7:54) all highway driving.
+(7:56) We'll see.
+(7:57) Technically, you're supposed to keep
+(7:58) your hand on the steering wheel.
+(8:00) Or at least paying attention.
+(8:01) I mean, I am paying attention.
+(8:02) For all those keyboard warriors at home,
+(8:04) I got this.
+(8:05) Point three miles to go.
+(8:06) Time check.
+(8:06) Seven minutes. 10s.
+(8:08) Unless you're actually writing.
+(8:10) Go ahead,
+(8:12) go ahead.
+(8:13) Nice job. Tesla.
+(8:14) That was pretty good.
+(8:15) That guy ran a stop
+(8:17) sign and Tesla stopped.
+(8:18) So that's pretty.
+(8:19) That's actually fairly impressive.
+(8:21) And we're here.
+(8:21) Time check. 848.
+(8:24) Onto destination number two.
+(8:25) Through the thick of the city.
+(8:26) Traffic, construction people.
+(8:28) This is where the meat of San Francisco is.
+(8:30) This is a 23 minute
+(8:31) crosstown trip
+(8:33) going right down through the center of the city.
+(8:35) I would suspect that this will be
+(8:37) the hardest part of all of this.
+(8:39) Because it's dense, it's crowded,
+(8:41) We're going to see what happens
+(8:43) I wouldn't have done this little challenge
+(8:44) if I didn't think there was at least
+(8:45) a small chance
+(8:47) that Tesla could match.
+(8:48) Waymo could get to all these spots
+(8:50) without having what we call
+(8:51) a critical disengagement,
+(8:52) a critical disengagement.
+(8:54) You'll know it if it happens.
+(8:55) Sounds go off.
+(8:56) There's blinking, there's flashing,
+(8:57) the whole screen goes red, and it makes the human
+(9:00) that's behind the wheel take over the car.
+(9:01) I'm 5050.
+(9:03) On whether or not we'll be able
+(9:03) to do all three of these stops
+(9:05) without having some type
+(9:06) of critical disengagement.
+(9:08) Just doing San Francisco stuff.
+(9:10) Drinking lattes,
+(9:11) eating chia pudding
+(9:12) and riding in a Tesla.
+(9:14) This is what people in San Francisco do all day.
+(9:17) We got a honk.
+(9:18) I don't know if that was at us.
+(9:19) We're more than halfway there.
+(9:20) Mile and a half left to go.
+(9:22) Nothing to report so far.
+(9:23) One hawk and I don't know if it was at us.
+(9:26) Oh look I don't know
+(9:27) if you can see that over there.
+(9:28) That is a Xbox which I believe
+(9:31) is owned by Amazon at this point in time.
+(9:33) It's a self-driving, fully autonomous car.
+(9:35) It's really the second
+(9:37) brand after Waymo that's trying to do this.
+(9:39) You don't see these
+(9:40) very often. That's the first one
+(9:41) I've ever seen on the streets.
+(9:42) And I've driven in San Francisco
+(9:43) decent amount.
+(9:45) Time check.
+(9:46) There's a cone. Oh.
+(9:54) It doesn't know what to do.
+(9:56) I know
+(9:57) it doesn't know what to do.
+(9:58) Okay, we had one there.
+(10:01) There's a cone right
+(10:02) in the middle of the road.
+(10:03) Not for anything.
+(10:04) It was just a cone knocked over
+(10:06) and the Tesla stopped.
+(10:09) Obviously, it's trying to not go over
+(10:10) safety cones.
+(10:12) That is the exact kind of situation where
+(10:14) you would kind of expect to run into a problem. Oh.
+(10:17) One critical disengagement.
+(10:19) The thing with that one
+(10:20) is, I'm not sure if
+(10:22) Waymo would have gotten that either.
+(10:24) That was it's almost like somebody
+(10:26) did that on purpose.
+(10:27) I guess we'll see.
+(10:28) Waymo is going to take the we're going
+(10:30) to do the exact same thing with Waymo.
+(10:31) We'll see if that cone is there
+(10:32) and if it decides the same route.
+(10:34) It's hard to say. time check.
+(10:36) I mean, Waymo's are everywhere.
+(10:37) You see them constantly.
+(10:39) We're here.
+(10:40) One critical disengagement.
+(10:41) 23 minutes, 54 seconds.
+(10:44) Wait, wait.
+(10:44) Pause it right here
+(10:45) in the moment.
+(10:46) I called this a problem.
+(10:47) I said there's a critical disengagement.
+(10:49) When that happens,
+(10:50) though, the screen flashes, red beeps.
+(10:52) You got to take over.
+(10:53) It's like, take the wheel right now.
+(10:55) It didn't actually do that.
+(10:56) I stepped in before it asked me to.
+(10:58) So it's really not fair
+(11:00) to call it a critical disengagement.
+(11:01) It might have figured it out.
+(11:02) You can see this car coming on the left.
+(11:04) It's hard to say.
+(11:08) And we're off.
+(11:09) Ride number three.
+(11:09) And tell us all the way back to where we started
+(11:12) at Battery car park by the Golden Gate Bridge.
+(11:14) Seven miles.
+(11:15) 31 minutes.
+(11:16) We are in straight up downtown
+(11:18) San Francisco right now.
+(11:20) Oh, hey.
+(11:21) Cutting me off?
+(11:22) City drivers, am I right?
+(11:24) Waymo.
+(11:26) Time. Truck.
+(11:27) 18 on the dot.
+(11:28) Oh. We have a new style
+(11:30) Waymo pulling up right next to us.
+(11:31) We've never seen that one before.
+(11:33) I think that's one of the zeekr.
+(11:34) Yeah. Zeekr Geely.
+(11:36) Waymo is moving forward.
+(11:37) There's no way this doesn't
+(11:38) become a thing in every city.
+(11:40) It absolutely works
+(11:41) in San Francisco.
+(11:42) No reason to think that it won't work in other cities.
+(11:44) And because they keep iterating
+(11:46) on different car versions.
+(11:47) It was the van a while ago.
+(11:49) Then it was the Jaguar,
+(11:50) and now it's the Zeekr that just
+(11:52) says they're getting better and better at it.
+(11:53) To me,
+(11:54) I would prepare yourself for a world
+(11:56) for cities at least of
+(11:57) autonomous vehicles.
+(11:58) But I'll tell you, the Tesla looks better.
+(12:01) Could drive pretty well. So.
+(12:03) All right. Just ten minutes left.
+(12:04) One critical disengagement so far.
+(12:06) Get out of my lane.
+(12:08) We're getting pretty close.
+(12:09) Okay. We are.
+(12:10) We are here 30 minutes 30s.
+(12:13) For this last, like, we had one
+(12:14) critical disengagement on trip number two,
+(12:17) pretty much everything else was very smooth.
+(12:20) This actually went better
+(12:20) than I thought it was going to.
+(12:22) Total time for Tesla
+(12:23) about 63 minutes.
+(12:25) One potential but unclear issue.
+(12:27) Much smoother than I had expected.
+(12:29) What I am really curious about is
+(12:30) if we're going to run into that road in the Waymo.
+(12:33) When I put in the destinations,
+(12:34) I don't select the route.
+(12:35) Part of the reason we are monitoring time
+(12:37) so closely is to see
+(12:38) which vehicle routes
+(12:40) more efficiently.
+(12:41) We'll find out under the Waymo.
+(12:42) I'm a Twitter guy.
+(12:43) That's my social media of choice by far.
+(12:46) But man, is it
+(12:47) hard to poke through the algorithm.
+(12:49) Like what is the other side
+(12:50) saying about a story?
+(12:52) I don't even like using
+(12:53) the term of the site, but you know what I mean.
+(12:54) There's another side of this story
+(12:56) and I want to know it.
+(12:56) The title, the framing, it matters.
+(12:59) So what is the other side of this story?
+(13:02) Left. Right. Center.
+(13:03) There it is.
+(13:03) All the coverage that exists for this story.
+(13:06) For any story.
+(13:07) And you can just see how things are framed.
+(13:09) So I've been spending more
+(13:10) and more of my time browsing my news
+(13:12) through this site around news that pulls coverage
+(13:14) from hundreds of different sources
+(13:16) so that I can view
+(13:17) each story through a wider lens.
+(13:19) Essentially the Spotify of News home
+(13:21) page to see what's trending.
+(13:22) Blind spot section that shows stories that are
+(13:24) being reported on dominantly
+(13:25) by one side or the other.
+(13:27) Stuff you would never see in an algo chamber.
+(13:29) And then if you click on one,
+(13:31) there's a summary for different view points.
+(13:32) You can often see what podcasts are covering it.
+(13:35) Maybe you want to know what a podcast
+(13:37) that talks about this kind of stuff.
+(13:38) It even tells you whether each source
+(13:39) is corporate controlled, government
+(13:41) controlled or independently funded.
+(13:43) This QR code,
+(13:44) lovingly created
+(13:45) for viewers of Max Nomics, gets you
+(13:47) an exclusive 40%
+(13:48) discount off their vantage plan.
+(13:50) The same one I'm using.
+(13:51) Scan it and you're in or just go to ground
+(13:53) News.com forward slash Max Nomics
+(13:55) $5 a month for unlimited
+(13:57) access to everything I've mentioned.
+(13:58) Thank you to Ground News for doing that
+(14:00) and for helping us to create videos like this.
+(14:02) Now let's get back to these cars that drive themselves.
+(14:05) Lululemon.
+(14:06) Here we go.
+(14:06) Like one of the Waymo.
+(14:08) Gone for battery Park by Golden Gate
+(14:09) Bridge down to Lululemon.
+(14:11) Now, this is taking a
+(14:12) completely different route than the Tesla talk.
+(14:15) Time check.
+(14:16) Four minutes, 22 seconds.
+(14:18) when we took the Tesla to Lululemon,
+(14:20) it was a much shorter route.
+(14:22) And it went right through the middle of the city,
+(14:24) kind of like all the hairy spots
+(14:26) way up down the hills.
+(14:27) A little bit more traffic.
+(14:29) This is pretty chill where Waymo is taking us.
+(14:31) I'm wondering if there's a reason for that.
+(14:33) If they do that on purpose.
+(14:34) All right, we're here.
+(14:35) so we're about to go on to the next spot.
+(14:36) Let's see what happens.
+(14:37) So the first leg took 12 minutes.
+(14:39) 23 seconds.
+(14:40) That's about four minutes slower than the Tesla
+(14:43) right now.
+(14:43) This says it's going to take 23 minutes
+(14:45) to get to the next stop at plow.
+(14:47) We're already about five minutes into this trip.
+(14:49) Tesla did it in about 24 minutes.
+(14:52) So we might be seeing a pattern
+(14:55) that this is much slower than a Tesla, which
+(14:58) little by little doesn't matter that much.
+(15:00) But in aggregate,
+(15:01) that would end up mattering quite a bit.
+(15:03) It's more time getting to destinations,
+(15:04) less passengers that you can pick up.
+(15:06) There's an inefficiency to
+(15:08) it takes more electricity to run the car.
+(15:10) that would be very interesting.
+(15:11) If Waymo is consistently slower than Tesla,
+(15:14) especially by like 20 to 25%, that's significant.
+(15:17) I expect exactly zero.
+(15:18) Critical disengagement from Waymo
+(15:21) is what they do.
+(15:22) It would be bad if every third or fourth trip.
+(15:24) There was one of those problems, though.
+(15:26) If there was, you can just hit the support button.
+(15:28) You can talk to somebody and they'll figure it out
+(15:29) from some control center somewhere, that they take
+(15:32) remote control over the car,
+(15:34) get out of the situation.
+(15:35) Oh, this is the same road.
+(15:38) oh, it's still there.
+(15:39) All right, let's see, let's see.
+(15:41) That cone that we ran into
+(15:42) in the middle of the road with the Tesla.
+(15:43) Waymo is going to run it too.
+(15:44) It's in the exact same spot.
+(15:45) Somebody actually picked it up and turned it right
+(15:48) side up.
+(15:50) Oh, oh,
+(15:52) it just zipped right around
+(15:53) and it just totally ignored the cone.
+(15:55) Interesting.
+(15:56) Okay, okay.
+(15:58) Now to be fair, I think the cone
+(16:00) was a little bit more
+(16:01) in the right lane,
+(16:02) but still
+(16:03) the Tesla should have gone
+(16:05) around the left lane once nobody was coming.
+(16:06) So point to Waymo.
+(16:08) Time check.
+(16:09) We are here.
+(16:11) 2451.
+(16:12) It's not significantly different,
+(16:13) but it is a little different.
+(16:17) Third and final ride in the Waymo.
+(16:19) We're going back to the Golden Gate Bridge.
+(16:21) The thing says it's going to take 40 minutes,
+(16:23) which would be eight minutes longer than the Tesla.
+(16:25) Talk.
+(16:25) I don't think that this is a traffic thing.
+(16:27) It's the middle of the afternoon.
+(16:28) It's about 215.
+(16:30) So it's not a high traffic time.
+(16:31) We'll find out.
+(16:32) But if it does take 40 minutes,
+(16:34) that's about 15
+(16:35) extra minutes of drive time
+(16:36) in a Waymo versus Tesla.
+(16:38) Not that that's the most important metric.
+(16:40) But it is interesting to note that would be unexpected.
+(16:47) Oh. Hesitation.
+(16:49) Zoox.
+(16:49) Zoox. Waymo.
+(16:51) Time check.
+(16:52) 1508.
+(16:54) We're back at the Golden Gate Bridge.
+(16:55) End of ride number three.
+(16:57) It took an additional ten minutes.
+(16:59) Total time for Waymo.
+(17:00) 78 minutes 59 seconds.
+(17:02) This turned into an interesting situation.
+(17:04) I was not expecting Tesla to be able to do it
+(17:06) so easily and be definitely
+(17:08) not expecting Waymo
+(17:09) to be so far behind in time.
+(17:13) Now I know that this was
+(17:14) not the most scientific of tests.
+(17:15) If you wanted to make this bulletproof,
+(17:17) you would need to run
+(17:18) multiple circuits for multiple days
+(17:20) at many different times of day.
+(17:21) This was day time.
+(17:22) That has to be noted.
+(17:24) Also, the Tesla I used.
+(17:25) Obviously it isn't actually a Tesla Robotaxi.
+(17:27) It's a regular Tesla
+(17:29) that has the full self-driving package.
+(17:30) Anyone could buy it.
+(17:32) And the
+(17:32) version of the software
+(17:33) is one full version behind what's in the latest full
+(17:36) Self-Driving package,
+(17:37) and almost two versions behind what Tesla
+(17:39) was using in its robotaxi
+(17:40) pilot in Austin.
+(17:41) But it's that time difference.
+(17:43) A whopping 16 minutes.
+(17:45) A 16 minute difference
+(17:46) is a big problem for Waymo.
+(17:48) If you took this route and ran
+(17:49) it 24 hours per day,
+(17:51) a Waymo would complete the loop
+(17:52) six fewer times in a Tesla.
+(17:54) Tesla would get the riders faster, dropped off quicker.
+(17:57) Using less battery per ride would keep Tesla
+(17:59) cars driving productive routes
+(18:00) instead of wasting time charging,
+(18:02) Tesla would be able to cover
+(18:03) the same amount of riders with 25%
+(18:06) fewer cars roughly.
+(18:07) I'm sure the math wouldn't be that clean cut,
+(18:09) But Waymo has to make sure
+(18:11) Tesla doesn't maintain
+(18:12) that kind of time gap over a large sample,
+(18:14) because let's just assume it costs some Waymo the same
+(18:16) to build and operate one of their cars.
+(18:18) It doesn't, which we'll get into in a second.
+(18:19) But if it did, Waymo
+(18:21) would take 25% more time
+(18:23) than Tesla to pay off each car
+(18:25) all while likely losing riders
+(18:27) because riders would choose a quick
+(18:29) pick up from Tesla over
+(18:30) waiting for a Waymo,
+(18:31) a very difficult
+(18:33) game of playing catch up.
+(18:35) Okay.
+(18:36) Okay.
+(18:36) But let's just assume
+(18:38) Waymo figures this out
+(18:39) or the test results are wrong.
+(18:40) If we're betting on who wins,
+(18:42) what's the one thing?
+(18:43) The one thing that
+(18:44) ultimately decides who will win?
+(18:45) Who can do the whole thing cheaper but more narrow?
+(18:47) Who can build their vehicle
+(18:49) cheaper?
+(18:50) It cost Andrew Carnegie $100
+(18:52) to produce one ton of steel in 1870.
+(18:54) Iron ore, coal transportation.
+(18:56) Those are the three main costs of making steel.
+(18:58) Get iron ore.
+(18:59) Burn coal. To boil it.
+(19:01) Cast it into the shape you want.
+(19:02) Get it to your customers.
+(19:03) The man with his name on universities and the met.
+(19:06) Carnegie, a Scottish immigrant,
+(19:07) started with one steel mill in Pittsburgh.
+(19:09) The challenge, he realized,
+(19:11) was very obvious.
+(19:12) At $100 per ton, he could make steel
+(19:14) at the same price as dozens of other steel companies.
+(19:16) He had exactly zero
+(19:18) advantage by iron ore from a mine in Michigan.
+(19:20) The mine in Michigan takes to cut their profit margin.
+(19:23) But the iron ore on a train.
+(19:24) The railroad takes a cut by coal.
+(19:26) Put it on a train.
+(19:27) Coal mine takes a cut.
+(19:28) Railroad takes a cut.
+(19:29) Ship steals to customers on a train.
+(19:31) Another cut By 1900, Carnegie owned
+(19:33) huge tracts of the Mesabi Range, iron ore deposits,
+(19:36) thousands of coal ovens,
+(19:37) and massive coal deposits
+(19:39) in Pennsylvania, 600 miles of railroad,
+(19:41) and seven cutting edge steel mills.
+(19:42) No more cuts.
+(19:43) His new price for a ton of steel
+(19:45) $11.50.
+(19:46) Everyone else's price was $25.
+(19:51) That is the
+(19:52) magic of vertical integration.
+(19:53) Assuming you have enough money
+(19:54) to build it all out because it is not cheap to do.
+(19:57) But if you can.
+(19:58) Not only do you stop paying the profit
+(20:00) margin for every supplier you buy from,
+(20:02) you have control
+(20:03) tweaks, major changes.
+(20:04) Whatever you need to do
+(20:05) is in a negotiation with the supplier.
+(20:07) Only 35% of the money spent building a Tesla
+(20:11) goes to outside suppliers.
+(20:12) It's about 60% for a company like Ford.
+(20:14) A new mid-tier Ford Bronco without all the bells
+(20:16) and whistles, costs as much as a Tesla model Y.
+(20:19) A true luxury vehicle.
+(20:20) The Bronco to just
+(20:21) get kind of close to
+(20:23) the same in features
+(20:24) is $8,000 more than a model Y.
+(20:27) Tesla is about the purest form of vertical integration
+(20:29) the US has seen in manufacturing
+(20:31) since maybe the 1950s.
+(20:32) Waymo is going
+(20:33) the completely opposite route.
+(20:34) Making cars is way out
+(20:36) of their core competency.
+(20:37) Business school speak for what are you best at?
+(20:39) No, no.
+(20:40) They will buy cars from car companies
+(20:42) and outfit them with sensors.
+(20:43) The cars are not purpose built for Waymo.
+(20:45) You've all heard of Android, right?
+(20:47) Right.
+(20:47) The Android operating system make it care
+(20:49) is little about the hardware it's running on.
+(20:51) And then let those that make hardware
+(20:53) figure out how to get the software to work on it.
+(20:55) That's how Android works.
+(20:56) Same playbook for windows.
+(20:57) Any manufacturer like Dell
+(20:59) can buy a license for windows and then cobble
+(21:01) together a bunch of computer parts
+(21:02) and voila, a laptop.
+(21:04) no one can build a phone
+(21:05) that runs iOS except Apple.
+(21:07) Now we can nitpick about
+(21:08) whether we prefer iOS or Android.
+(21:10) If you want to start that, fine.
+(21:12) However, the glaring difference between phones
+(21:14) and driverless vehicles, the cars can't be buggy.
+(21:17) There just can be no failures, no blue screen
+(21:19) of death.
+(21:19) Android phones and windows laptops were,
+(21:21) and some would argue, still are, notoriously
+(21:24) unstable, especially compared
+(21:26) to their Apple counterparts.
+(21:27) And that is simply because the hardware
+(21:29) is not purpose built for the software.
+(21:31) Androids run on literally
+(21:33) thousands of different phones.
+(21:35) IOS runs on one.
+(21:36) The Jaguar I-Pace that Waymo is using right
+(21:39) now was not designed to be autonomous.
+(21:40) The thing mounted on the roof was not
+(21:42) on the Jaguar's design board.
+(21:44) So anytime Waymo wants to make a change,
+(21:45) they have to base it around
+(21:47) what their suppliers will agree to
+(21:48) and then pay that
+(21:50) supplier a profit margin.
+(21:51) Waymo's current cost to build a vehicle,
+(21:53) the lowest estimates
+(21:54) are $100,000 per car.
+(21:57) Tesla can build a model
+(21:58) Y for 38,000.
+(21:59) Waymo knows this is a problem.
+(22:01) They've shaved the cost of one
+(22:02) car down from about 120,003 years ago.
+(22:05) But that gap is huge,
+(22:07) especially when coupled
+(22:08) with the next leg of building cars.
+(22:10) How many can you build in a year?
+(22:11) In a previous video in Waymo, we found that
+(22:13) 300,000 vehicles
+(22:15) could probably cover
+(22:16) most demand for ridesharing
+(22:17) in the 30 largest U.S. cities.
+(22:19) Across the four factories it owns.
+(22:21) Tesla can produce 900,000 cars per year
+(22:23) in the US and 2.35
+(22:25) million globally.
+(22:26) So if Tesla really does find that
+(22:29) it can get to regulation satisfying
+(22:31) full self-driving, it could direct
+(22:32) just 20% of its factory
+(22:34) output making robotaxis flood the market, shorten
+(22:36) the time passengers have to wait to get picked
+(22:38) up, offer more and longer routes.
+(22:40) Waymo's solution
+(22:41) it's the Android way.
+(22:42) Partner with a bunch of companies
+(22:43) Chrysler, Jaguar, Hyundai and the latest
+(22:45) and most controversial is Zeekr.
+(22:47) Together, all of these companies
+(22:49) can compete with Tesla's factories
+(22:51) individually.
+(22:52) They all have to be negotiated,
+(22:53) designed, tested.
+(22:54) And in trying to find a very low cost manufacturer
+(22:57) that is small enough
+(22:58) that Google can dictate terms to them.
+(23:00) They've taken on a different type
+(23:01) of risk geopolitical risk.
+(23:02) Zeekr is a Chinese company.
+(23:04) It used to be listed on the New York Stock
+(23:06) Exchange, until Senator Rick
+(23:07) Scott started questioning whether it should be allowed
+(23:09) on the exchange
+(23:10) And questioning the national security implications
+(23:12) of allowing a company with direct ties to the CCP
+(23:15) being the foundation that powers
+(23:16) potentially the premier robotaxi network in the US.
+(23:19) Instead of offering compliance and reassurance,
+(23:21) Zeekr chose to delist from the New York Stock
+(23:23) Exchange and Relist in Hong Kong.
+(23:24) So it's not that this partnership won't
+(23:26) or can't work.
+(23:27) It might it would make sense for Waymo.
+(23:29) They need a low cost car producer.
+(23:30) But as we're going through this whole build
+(23:32) a car thing, Waymo is playing whac-a-mole
+(23:34) with problem after problem after problem.
+(23:37) Tesla can build cars.
+(23:38) Can they do the robotaxi part?
+(23:39) Waymo can do the robotaxi part.
+(23:42) Can they build the cars?
+(23:43) It is a race for the ages.
+(23:44) Even Apple, who has tight
+(23:46) control over its supply chain, doesn't own any
+(23:49) manufacturing facilities.
+(23:50) So really, what's being tested
+(23:52) between Tesla and Waymo, the system
+(23:53) that has dominated the last 3 or 4 decades?
+(23:56) Design a product, write the software for it.
+(23:58) Make it somewhere else.
+(24:00) Can that system compete against a company
+(24:02) that changed
+(24:02) Make it somewhere else to make it in-house?

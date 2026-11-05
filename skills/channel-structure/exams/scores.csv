@@ -1,101 +1,101 @@
-exam,type,video,group,score,block
-1,T1,adam/05-sam-altman,Adam,0.0,1
-2,T2,gen/2,Gen,0.0,1
-3,T3,adam/02-bestselling-book,Adam,1.0,1
-4,T4,gen/3,Gen,0.75,1
-5,T5,adam/02-bestselling-book,Adam,1.0,1
-6,T6,adam/02-bestselling-book,Adam,0.5,1
-7,T1,gen/6,Gen,1.0,1
-8,T2,adam/01-ai-disaster,Adam,1.0,1
-9,T3,adam/01-ai-disaster,Adam,1.0,1
-10,T4,gen/6,Gen,0.75,1
-11,T5,gen/6,Gen,1.0,2
-12,T6,gen/9,Gen,0.5,2
-13,T1,gen/6,Gen,1.0,2
-14,T2,adam/03-no-longer-in-control,Adam,0.0,2
-15,T3,gen/5,Gen,1.0,2
-16,T4,adam/04-superintelligence,Adam,0.75,2
-17,T5,adam/03-no-longer-in-control,Adam,1.0,2
-18,T6,esp/02-ai-paradox,Especially,0.83,2
-19,T1,adam/05-sam-altman,Adam,1.0,2
-20,T2,adam/02-bestselling-book,Adam,1.0,2
-21,T3,adam/03-no-longer-in-control,Adam,0.0,3
-22,T4,esp/01-spacex,Especially,0.75,3
-23,T5,gen/6,Gen,1.0,3
-24,T6,esp/06-data-centers,Especially,1.0,3
-25,T1,adam/01-ai-disaster,Adam,1.0,3
-26,T2,after/07-trump-family,Others,1.0,3
-27,T3,gen/9,Gen,1.0,3
-28,T4,after/01-dark-side-data-centers,Others,1.0,3
-29,T5,gen/1,Gen,1.0,3
-30,T6,after/07-trump-family,Others,0.5,3
-31,T1,esp/01-spacex,Especially,0.0,4
-32,T2,gen/10,Gen,1.0,4
-33,T3,gen/2,Gen,1.0,4
-34,T4,after/01-dark-side-data-centers,Others,1.0,4
-35,T5,esp/03-oil-apocalypse,Oil,0.0,4
-36,T6,esp/06-data-centers,Especially,0.67,4
-37,T1,adam/02-bestselling-book,Adam,1.0,4
-38,T2,adam/04-superintelligence,Adam,0.0,4
-39,T3,adam/01-ai-disaster,Adam,1.0,4
-40,T4,adam/03-no-longer-in-control,Adam,0.75,4
-41,T5,gen/5,Gen,1.0,5
-42,T6,gen/7,Gen,0.67,5
-43,T1,gen/2,Gen,0.0,5
-44,T2,gen/8,Gen,0.0,5
-45,T3,adam/03-no-longer-in-control,Adam,0.0,5
-46,T4,adam/02-bestselling-book,Adam,1.0,5
-47,T5,gen/6,Gen,1.0,5
-48,T6,gen/5,Gen,0.67,5
-49,T1,after/08-tokens,Others,1.0,5
-50,T2,gen/1,Gen,1.0,5
-51,T3,adam/02-bestselling-book,Adam,0.0,6
-52,T4,adam/03-no-longer-in-control,Adam,1.0,6
-53,T5,esp/01-spacex,Especially,1.0,6
-54,T6,gen/10,Gen,0.33,6
-55,T1,esp/01-spacex,Especially,1.0,6
-56,T2,after/10-water,Others,0.0,6
-57,T3,gen/9,Gen,1.0,6
-58,T4,gen/5,Gen,0.75,6
-59,T5,esp/02-ai-paradox,Especially,0.0,6
-60,T6,adam/05-sam-altman,Adam,0.33,6
-61,T1,adam/03-no-longer-in-control,Adam,0.0,7
-62,T2,gen/1,Gen,1.0,7
-63,T3,after/11-anthropic-ipo,Others,0.0,7
-64,T4,gen/3,Gen,0.5,7
-65,T5,after/06-diamonds,Others,1.0,7
-66,T6,after/11-anthropic-ipo,Others,0.67,7
-67,T1,adam/05-sam-altman,Adam,1.0,7
-68,T2,gen/8,Gen,0.0,7
-69,T3,gen/4,Gen,1.0,7
-70,T4,gen/4,Gen,0.75,7
-71,T5,adam/03-no-longer-in-control,Adam,1.0,8
-72,T6,esp/02-ai-paradox,Especially,0.67,8
-73,T1,gen/10,Gen,1.0,8
-74,T2,after/12-data-centres-not-working,Others,1.0,8
-75,T3,adam/03-no-longer-in-control,Adam,0.0,8
-76,T4,adam/03-no-longer-in-control,Adam,1.0,8
-77,T5,gen/6,Gen,1.0,8
-78,T6,adam/01-ai-disaster,Adam,0.67,8
-79,T1,adam/04-superintelligence,Adam,1.0,8
-80,T2,gen/4,Gen,0.5,8
-81,T3,adam/04-superintelligence,Adam,0.0,9
-82,T4,esp/03-oil-apocalypse,Oil,1.0,9
-83,T5,esp/06-data-centers,Especially,0.0,9
-84,T6,adam/02-bestselling-book,Adam,1.0,9
-85,T1,esp/02-ai-paradox,Especially,1.0,9
-86,T2,adam/03-no-longer-in-control,Adam,1.0,9
-87,T3,gen/7,Gen,0.0,9
-88,T4,adam/04-superintelligence,Adam,1.0,9
-89,T5,adam/04-superintelligence,Adam,1.0,9
-90,T6,esp/01-spacex,Especially,0.83,9
-91,T1,gen/7,Gen,1.0,10
-92,T2,gen/7,Gen,0.5,10
-93,T3,gen/9,Gen,0.0,10
-94,T4,gen/9,Gen,0.5,10
-95,T5,esp/06-data-centers,Especially,1.0,10
-96,T6,after/07-trump-family,Others,0.17,10
-97,T1,gen/2,Gen,1.0,10
-98,T2,adam/02-bestselling-book,Adam,1.0,10
-99,T3,gen/3,Gen,1.0,10
-100,T4,adam/03-no-longer-in-control,Adam,1.0,10
+exam,type,video,weight,gold,answer_before,answer_after,score_before,score_after
+1,T1,adam/04-superintelligence,7,CONCLUSION,SECTION TURN,CONCLUSION,0.0,1.0
+2,T2,after/11-anthropic-ipo,1,97.1,98,98.5,1.0,1.0
+3,T3,esp/06-data-centers,3,0,0,2,1.0,0.0
+4,T4,esp/03-oil-apocalypse,5,"{'hook': 4.5, 'spon': 27.5, 'conc': 95.2, 'turns': 7}","{'hook': 6, 'spon': 27, 'conc': 90, 'turns': 7}","{'hook': 6, 'spon': 27, 'conc': 90, 'turns': 7}",1.0,1.0
+5,T5,gen/9,4,Gen,Gen,Gen,1.0,1.0
+6,T6,adam/05-sam-altman,7,"[2, 1, 0, 3]","[3, 0, 1, 2]","[2, 3, 0, 1]",0.0,0.5
+7,T1,gen/10,4,SECTION TURN,SPONSOR READ,CONCLUSION,0.0,0.0
+8,T2,gen/8,4,92.4,85,77.5,1.0,0.5
+9,T3,after/12-data-centres-not-working,1,3,1,3,0.0,1.0
+10,T4,adam/04-superintelligence,7,"{'hook': 3.9, 'spon': None, 'conc': 88.7, 'turns': 7}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}",0.75,0.75
+11,T5,gen/9,4,Gen,Gen,Gen,1.0,1.0
+12,T6,adam/05-sam-altman,7,"[0, 2, 3, 1]","[0, 1, 2, 3]","[0, 1, 2, 3]",0.67,0.67
+13,T1,gen/8,4,SECTION TURN,SECTION TURN,SECTION TURN,1.0,1.0
+14,T2,esp/06-data-centers,3,99.6,98,98.5,1.0,1.0
+15,T3,gen/9,4,0,2,1,0.0,0.0
+16,T4,esp/06-data-centers,3,"{'hook': 6.1, 'spon': 6.1, 'conc': None, 'turns': 9}","{'hook': 6, 'spon': 27, 'conc': 90, 'turns': 7}","{'hook': 6, 'spon': 27, 'conc': 90, 'turns': 7}",0.75,0.75
+17,T5,gen/9,4,Gen,Gen,Gen,1.0,1.0
+18,T6,after/12-data-centres-not-working,1,"[2, 3, 1, 0]","[2, 0, 1, 3]","[2, 0, 1, 3]",0.5,0.5
+19,T1,after/11-anthropic-ipo,1,SECTION TURN,CONCLUSION,SECTION TURN,0.0,1.0
+20,T2,esp/06-data-centers,3,6.1,35,41.7,0.0,0.0
+21,T3,esp/03-oil-apocalypse,5,2,1,2,0.0,1.0
+22,T4,gen/10,4,"{'hook': 6.0, 'spon': 32.0, 'conc': None, 'turns': 8}","{'hook': 6, 'spon': 39, 'conc': 85, 'turns': 6}","{'hook': 6, 'spon': 39, 'conc': 85, 'turns': 6}",1.0,1.0
+23,T5,gen/8,4,Gen,Gen,Gen,1.0,1.0
+24,T6,gen/8,4,"[0, 1, 3, 2]","[0, 2, 1, 3]","[0, 1, 3, 2]",0.67,1.0
+25,T1,esp/03-oil-apocalypse,5,SECTION TURN,CONCLUSION,SECTION TURN,0.0,1.0
+26,T2,gen/8,4,92.4,85,77.5,1.0,0.5
+27,T3,esp/03-oil-apocalypse,5,0,2,0,0.0,1.0
+28,T4,adam/05-sam-altman,7,"{'hook': 0.5, 'spon': None, 'conc': 76.2, 'turns': 6}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}",1.0,1.0
+29,T5,adam/05-sam-altman,7,Adam,Adam,Adam,1.0,1.0
+30,T6,gen/10,4,"[1, 0, 2, 3]","[0, 1, 2, 3]","[0, 1, 2, 3]",0.83,0.83
+31,T1,esp/03-oil-apocalypse,5,SECTION TURN,SECTION TURN,PROMISE / ROADMAP,1.0,0.0
+32,T2,gen/8,4,6.1,45,6.0,0.0,1.0
+33,T3,gen/8,4,1,2,1,0.0,1.0
+34,T4,after/11-anthropic-ipo,1,"{'hook': 15.9, 'spon': None, 'conc': None, 'turns': 4}","{'hook': 6, 'spon': None, 'conc': 86, 'turns': 5}","{'hook': 6, 'spon': None, 'conc': 86, 'turns': 5}",0.75,0.75
+35,T5,esp/06-data-centers,3,Mechanism,Mechanism,Mechanism,1.0,1.0
+36,T6,gen/8,4,"[2, 0, 3, 1]","[2, 0, 1, 3]","[0, 1, 2, 3]",0.83,0.5
+37,T1,esp/03-oil-apocalypse,5,SECTION TURN,CONCLUSION,SECTION TURN,0.0,1.0
+38,T2,adam/04-superintelligence,7,3.9,45,6.0,0.0,1.0
+39,T3,adam/04-superintelligence,7,2,1,1,0.0,0.0
+40,T4,esp/03-oil-apocalypse,5,"{'hook': 4.5, 'spon': 27.5, 'conc': 95.2, 'turns': 7}","{'hook': 6, 'spon': 27, 'conc': 90, 'turns': 7}","{'hook': 6, 'spon': 27, 'conc': 90, 'turns': 7}",1.0,1.0
+41,T5,after/11-anthropic-ipo,1,Others,Others,Others,1.0,1.0
+42,T6,gen/10,4,"[1, 0, 2, 3]","[0, 1, 2, 3]","[0, 1, 2, 3]",0.83,0.83
+43,T1,gen/9,4,SECTION TURN,SECTION TURN,SPONSOR READ,1.0,0.0
+44,T2,gen/9,4,98.6,35,98.5,0.0,1.0
+45,T3,esp/06-data-centers,3,1,1,2,1.0,0.0
+46,T4,after/10-water,1,"{'hook': 6.1, 'spon': None, 'conc': None, 'turns': 4}","{'hook': 6, 'spon': None, 'conc': 86, 'turns': 5}","{'hook': 6, 'spon': None, 'conc': 86, 'turns': 5}",1.0,1.0
+47,T5,esp/03-oil-apocalypse,5,Mechanism,Adam,Adam,0.0,0.0
+48,T6,esp/06-data-centers,3,"[1, 3, 2, 0]","[1, 2, 3, 0]","[1, 2, 3, 0]",0.83,0.83
+49,T1,adam/05-sam-altman,7,SECTION TURN,SECTION TURN,SECTION TURN,1.0,1.0
+50,T2,gen/8,4,6.1,45,6.0,0.0,1.0
+51,T3,adam/04-superintelligence,7,3,1,0,0.0,0.0
+52,T4,adam/05-sam-altman,7,"{'hook': 0.5, 'spon': None, 'conc': 76.2, 'turns': 6}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}",1.0,1.0
+53,T5,adam/05-sam-altman,7,Adam,Adam,Adam,1.0,1.0
+54,T6,adam/05-sam-altman,7,"[2, 3, 1, 0]","[1, 2, 3, 0]","[1, 2, 3, 0]",0.67,0.67
+55,T1,gen/8,4,SECTION TURN,SECTION TURN,PROMISE / ROADMAP,1.0,0.0
+56,T2,gen/8,4,38.6,35,41.7,1.0,1.0
+57,T3,gen/10,4,3,3,3,1.0,1.0
+58,T4,adam/04-superintelligence,7,"{'hook': 3.9, 'spon': None, 'conc': 88.7, 'turns': 7}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}",0.75,0.75
+59,T5,gen/9,4,Gen,Gen,Gen,1.0,1.0
+60,T6,esp/06-data-centers,3,"[1, 3, 0, 2]","[1, 3, 0, 2]","[1, 3, 2, 0]",1.0,0.83
+61,T1,adam/04-superintelligence,7,CONCLUSION,SECTION TURN,CONCLUSION,0.0,1.0
+62,T2,adam/05-sam-altman,7,97.8,35,41.7,0.0,0.0
+63,T3,esp/06-data-centers,3,0,0,2,1.0,0.0
+64,T4,gen/9,4,"{'hook': 2.9, 'spon': 34.5, 'conc': None, 'turns': 9}","{'hook': 6, 'spon': 39, 'conc': 85, 'turns': 6}","{'hook': 6, 'spon': 39, 'conc': 85, 'turns': 6}",0.5,0.5
+65,T5,esp/06-data-centers,3,Mechanism,Mechanism,Mechanism,1.0,1.0
+66,T6,gen/8,4,"[0, 2, 1, 3]","[1, 2, 3, 0]","[1, 2, 0, 3]",0.33,0.5
+67,T1,adam/05-sam-altman,7,SECTION TURN,SPONSOR READ,SECTION TURN,0.0,1.0
+68,T2,adam/05-sam-altman,7,76.2,85,77.5,1.0,1.0
+69,T3,gen/8,4,2,3,0,0.0,0.0
+70,T4,adam/05-sam-altman,7,"{'hook': 0.5, 'spon': None, 'conc': 76.2, 'turns': 6}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}",1.0,1.0
+71,T5,after/11-anthropic-ipo,1,Others,Others,Others,1.0,1.0
+72,T6,esp/06-data-centers,3,"[2, 3, 0, 1]","[2, 0, 1, 3]","[2, 0, 1, 3]",0.67,0.67
+73,T1,esp/06-data-centers,3,SPONSOR READ,SPONSOR READ,SPONSOR READ,1.0,1.0
+74,T2,gen/9,4,98.6,35,98.5,0.0,1.0
+75,T3,esp/03-oil-apocalypse,5,1,0,1,0.0,1.0
+76,T4,gen/9,4,"{'hook': 2.9, 'spon': 34.5, 'conc': None, 'turns': 9}","{'hook': 6, 'spon': 39, 'conc': 85, 'turns': 6}","{'hook': 6, 'spon': 39, 'conc': 85, 'turns': 6}",0.5,0.5
+77,T5,gen/9,4,Gen,Gen,Gen,1.0,1.0
+78,T6,gen/10,4,"[2, 0, 1, 3]","[3, 0, 1, 2]","[3, 0, 1, 2]",0.17,0.17
+79,T1,gen/10,4,SECTION TURN,SECTION TURN,SECTION TURN,1.0,1.0
+80,T2,esp/03-oil-apocalypse,5,4.5,5,6.0,1.0,1.0
+81,T3,gen/10,4,1,1,1,1.0,1.0
+82,T4,adam/05-sam-altman,7,"{'hook': 0.5, 'spon': None, 'conc': 76.2, 'turns': 6}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}",1.0,1.0
+83,T5,adam/05-sam-altman,7,Adam,Adam,Adam,1.0,1.0
+84,T6,adam/05-sam-altman,7,"[2, 0, 1, 3]","[0, 1, 2, 3]","[2, 0, 1, 3]",0.67,1.0
+85,T1,adam/04-superintelligence,7,PROMISE / ROADMAP,SECTION TURN,PROMISE / ROADMAP,0.0,1.0
+86,T2,adam/05-sam-altman,7,0.5,45,6.0,0.0,1.0
+87,T3,gen/10,4,1,1,1,1.0,1.0
+88,T4,after/10-water,1,"{'hook': 6.1, 'spon': None, 'conc': None, 'turns': 4}","{'hook': 6, 'spon': None, 'conc': 86, 'turns': 5}","{'hook': 6, 'spon': None, 'conc': 86, 'turns': 5}",1.0,1.0
+89,T5,adam/05-sam-altman,7,Adam,Adam,Adam,1.0,1.0
+90,T6,adam/05-sam-altman,7,"[0, 1, 3, 2]","[0, 1, 3, 2]","[0, 1, 3, 2]",1.0,1.0
+91,T1,gen/8,4,SECTION TURN,SECTION TURN,PROMISE / ROADMAP,1.0,0.0
+92,T2,adam/04-superintelligence,7,98.9,98,98.5,1.0,1.0
+93,T3,esp/06-data-centers,3,1,1,3,1.0,0.0
+94,T4,adam/05-sam-altman,7,"{'hook': 0.5, 'spon': None, 'conc': 76.2, 'turns': 6}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}","{'hook': 2.5, 'spon': None, 'conc': 80, 'turns': 7}",1.0,1.0
+95,T5,gen/8,4,Gen,Gen,Gen,1.0,1.0
+96,T6,gen/9,4,"[3, 0, 2, 1]","[0, 1, 2, 3]","[3, 0, 1, 2]",0.33,0.83
+97,T1,adam/04-superintelligence,7,SECTION TURN,SECTION TURN,SECTION TURN,1.0,1.0
+98,T2,adam/04-superintelligence,7,88.7,45,77.5,0.0,0.5
+99,T3,gen/9,4,2,3,3,0.0,0.0
+100,T4,gen/9,4,"{'hook': 2.9, 'spon': 34.5, 'conc': None, 'turns': 9}","{'hook': 6, 'spon': 39, 'conc': 85, 'turns': 6}","{'hook': 6, 'spon': 39, 'conc': 85, 'turns': 6}",0.5,0.5

@@ -1,0 +1,222 @@
+Title: Why A National Debt Default Now Looks Genuinely Possible... (sort of)
+
+(0:00) If we are clearly never going to pay down our debt, why are people still lending us money? And
+(0:04) well, what happens if they stop? In the past, this kind of question was basically dismissed by most
+(0:10) people in the no as a little more than an absurd hypothetical. But well, it seems these days,
+(0:15) even the Treasury is kind of taking it seriously. Last month, our national debt passed $40 trillion,
+(0:21) more than doubling within the last decade alone. All fueled by a long trend of running
+(0:26) progressively bigger and bigger budget deficits. Even when adjusted for overall economic growth,
+(0:31) we are currently spending more and bringing in less than we have at any point in history outside
+(0:36) of major recessions, pandemics, and the Second World War. This recent track record, in addition
+(0:41) to massive new tax cuts and spending proposals, has made it pretty clear that our government
+(0:45) doesn't really have any intention of paying this debt back or even really paying it down anymore.
+(0:51) To make matters worse, other governments and even major corporations are now trying to attract the
+(0:56) same group of lenders, creating a bidding war, pushing interest rates across the world to record
+(1:00) highs. At the same time, debt is also at record highs, meaning all of these borrowers need to
+(1:06) borrow more just to pay for their borrowing. It also raises the question of if everybody is in
+(1:12) record levels of debt, who is there actually left to lend us this money? It's not great,
+(1:17) but it's already causing some behaviors that could really only be described as desperate,
+(1:22) like declaring economic D-Day or using the military to fight the bond markets,
+(1:26) which isn't really a thing. But even outside of direct military intervention in financial markets,
+(1:31) whatever that might look like, the world's governments are still leaning more and more on
+(1:35) complicated financial trickery to keep things from getting too bad. Which means unfortunately we all
+(1:41) need to sit down and talk about the bond markets to find out what happens when those tricks stop
+(1:46) working. The national debt just hit a record high 40 trillion. [music] Yes, with a t dollars. The
+(1:53) number staggering and it arrives sooner than predicted. The debt we believe that they are
+(1:56) going to uh continue to put the right policies in place that will lead the yen to get [music] back
+(2:02) to more of a normal equilibrium price. We we are going to make a market the end. We routinely do
+(2:09) buybacks and we're going to increase the size of the buyback. Talking of China, [music] it
+(2:13) has cut its holdings of US Treasury bonds to the lowest level since 2008. Even as global
+(2:18) foreign ownerships of US debt hit a record high. We have many types of intervention. That's one.
+(2:23) The ultimate intervention is our military. And uh if we have to use that, we will. Yeah.
+(2:29) Okay. So, to understand why people seem to be freaking out over bond markets all of the sudden,
+(2:34) I'm sorry, but you're going to need to understand how bond markets are supposed to work so that you
+(2:38) can also understand how they could stop working. Because of this, you are going to hear me say
+(2:43) words like usually and typically and almost always and during normal times a lot for the next 5
+(2:50) minutes. Partially, this is because bond markets are unintuitive even in those normal times,
+(2:56) but also because, well, these aren't normal times. So, again, I'm sorry. Either way,
+(3:02) since understanding how bonds work is basically understanding how money works, and well, you know,
+(3:07) that's why I'm here. Let's get into it. Okay, so to pay for everything the government does,
+(3:12) the Treasury has the Treasury General Account. Our tax dollars go into this account and effectively
+(3:17) everything the federal government spends money on comes out of it. It is for all intents and
+(3:22) purposes a national checking account. But we haven't had nearly enough tax dollars coming
+(3:26) in to pay for the expenses coming out for more than 20 years. So to keep enough money in this
+(3:31) account to in turn keep paying for everything the government does, we need to borrow money.
+(3:36) The way we do that is that on a set schedule, we will go to the market and offer to sell different
+(3:40) IUs with different maturities. We sell these IUs with payback terms ranging from 4 weeks
+(3:45) to 30 years with a lot of options in between. A little side note is that this debt goes by
+(3:50) different names depending on that payback term. If the Treasury will pay back the IUS in less than a
+(3:55) year, they are called Treasury bills. Between 2 and 10 years are Treasury notes. And then there
+(4:01) are 20 and 30-year terms that are called Treasury bonds. There are some minor differences in when
+(4:06) interest is paid on [music] this debt. But for our purposes, when you hear treasury bills, notes, or
+(4:11) bonds, just remember that the only real difference is the payback period. Now, in a perfect world,
+(4:16) the Treasury would love to borrow all of its money over a nice long 30-year time horizon.
+(4:21) But it doesn't do this for two reasons. The first is that not all potential lenders want
+(4:26) their money to be locked away for effectively half a human lifetime. While it's true that if you buy
+(4:31) one of these long-term bonds, you can sell them in secondary markets. This is surprisingly hard
+(4:35) to do because anybody looking to buy your bonds would need a good reason not just to buy one of
+(4:39) the brand new ones that the Treasury is constantly issuing. And because we are constantly turnurning
+(4:44) out new ones at different times, and they stick around for decades, there are also just so many
+(4:48) different variations of these bonds. A bond with 27 years left on it paying 5% interest
+(4:53) is totally different from one paying 3% over the next 22 years. So yeah, because of this,
+(4:59) the secondary markets for long-term bonds are surprisingly illquid for such a large asset class,
+(5:04) which is actually kind of important to remember for what's going on right now. So keep that in
+(5:08) mind for later. The other problem with really long-term bonds is that they are also highly
+(5:12) susceptible to interest rate changes. If you lend money to the US government at 3% for 30 years and
+(5:18) then interest rates climb to 6%, you will almost certainly still get your money back plus the
+(5:22) interest rate once your 30 years is up. But in the meantime, your bond will be worth a lot less than
+(5:28) a new one paying the higher interest rate. So if you do need to sell it to free up some cash before
+(5:33) then, you will take a significant loss, especially early on. A $1,000 bond paying 3% is $30 a year.
+(5:40) But if interest rates are 6%, someone could get the same yearly return by only investing $500.
+(5:45) So your bond is naturally worth closer to this amount with only the promise of a larger principal
+(5:50) repayment in the distant future to differentiate them. As a not so fun fact, this is actually what
+(5:55) brought down Silicon Valley Bank. They put a lot of their reserves in longdated treasuries when
+(5:59) interest rates were low at the start of the pandemic. And then when interest rates rose,
+(6:03) the market value of those bonds fell, meaning that their reserves were not worth enough to cover
+(6:08) withdrawals, even though in theory the money was invested in one of the safest assets there are, on
+(6:13) paper at least. Now, I know this can be a little bit counterintuitive. But if you understand this
+(6:17) dynamic, then congratulations. You are apparently doing better than the risk and financial officers
+(6:22) of a major former financial institution. Either way, because of that ili liquidity as well as the
+(6:28) risk of inflation eating into real returns or even just the potential that the USA won't be around in
+(6:32) 30 years to honor this debt, longerterm treasuries almost always sell at a premium. This is the yield
+(6:38) curve that you might have heard people talking about, which is really just a technical way
+(6:42) of saying that typically the shorter bonds pay interest much closer to the floor set by the Fed.
+(6:47) This is also one of those unintuitive things because in our own personal lives, we typically
+(6:52) associate short-term borrowing with higher risk, higher interest consumer debt. But yeah,
+(6:57) when lending to the government, it's the opposite. This means theoretically it would almost always be
+(7:02) cheaper to fund the government based on short-term borrowing because people are willing to accept
+(7:06) lower interest rates for those IUs. The problem with that is if we just take out short-term debt,
+(7:12) the government constantly has to borrow new money to not only fund its fiscal shortfalls,
+(7:16) but also cover the bills that are expiring. If it does this in short-term markets exclusively,
+(7:21) that means the rate of turnurning would increase, and any increase in interest
+(7:24) rates would be immediately felt rather than being softly smoothed out over many years. Right now,
+(7:30) the weighted average of all of the interest we are paying on our debt is actually around 3.1%
+(7:35) even though new treasuries are paying between 3.8 8 and 5.3% interest. And that's because most
+(7:39) of our debt pile is still from notes and bonds issued from many years which we took out back
+(7:44) when interest rates were much lower. If we relied purely on short-term borrowing, it would have been
+(7:49) even cheaper back then. But our interest expense today would be double what it currently is.
+(7:54) This kind of cost predictability trade-off is why we offer so many different debt durations.
+(8:00) It lets us get money from different groups of lenders. And we typically like to balance this
+(8:04) out so we have a good mix of long-term debt from a financing foundation and short-term debt to absorb
+(8:09) any sudden movements in borrowing requirements. Okay. So now in the middle of this yield curve
+(8:14) is the 10-year rate. And this is important for two reasons. For the government, this is the term over
+(8:20) which they do a bulk of their borrowing. But also this is the benchmark by which most major consumer
+(8:25) lending is based. If a bank can get 4.8% 8% interest lending to the government for 10 years,
+(8:30) they are going to want more out of you because there is a much higher chance that you will
+(8:34) default on your loan. Now, the reason that it's the 10-year that's particularly important
+(8:39) and not the 30-year, even though we do 30-year mortgages, is that almost nobody actually keeps
+(8:44) their mortgage for 30 years. People typically sell and refinance well before that. So, the
+(8:49) average mortgage actually lasts about 10 years. And corporations also tend to borrow money around
+(8:54) this time frame as well as a nice happy medium. Again, as a bit of foreshadowing, this is also why
+(8:59) the government is kind of obsessed with bending this curve to get that number as low as possible,
+(9:04) especially around major political events like, oh, I don't know, something like midterm elections.
+(9:10) So, now you know how the money markets work. It's time to learn how money works to find out why the
+(9:14) money market suddenly uh isn't working. This video is sponsored by Flexis Spot and their E7
+(9:20) Pro standing desk. And if you spend all day at a computer like I do, this is an upgrade that
+(9:25) actually matters. The E7 Pro is their upgraded dual monitor standing desk with a 440 lb static
+(9:31) load capacity, a height range from 25 to 50.6 in, anti-colision protection, and a kid lock.
+(9:38) It also comes with a 15-year warranty and a 30-day risk-free return window. My old desk always had
+(9:43) a bit of a shake under my setup, but the E7 Pro stays solid at any height, whether I am typing or
+(9:48) gaming, and switching between sitting and standing through the day has been a lot easier on my back.
+(9:53) They also sent over a C7 Max ergonomic chair. The headrest, back rest height, seat depth, and 5D
+(9:59) armrests all adjust to fit you. The lumbar support catches your lower back and sacrum instead of just
+(10:04) the lumbar, and the high rebound and breathability of the mesh material holds up through long sits.
+(10:09) It also comes with a 10-year warranty and a 30-day return policy. Flexispot is running
+(10:14) their Labor Day sale right now. Up to [music] 65% off, plus extra discounts for students,
+(10:18) teachers, medical workers, military, and recent grads. [music] If you are on a tight budget,
+(10:23) check out the regular E7 desk or their C5 chair. And they just launched the C7 Morpher 2. Head to
+(10:29) flexispot.com and use my code HMW50 for $50 off either the E7 Pro desk or the C7 Max chair. And if
+(10:36) you grab one, leave a note with my channel name to help support the channel. Okay, so the bond market
+(10:42) has always relied on three assumptions. That America will continue to make its repayments. That
+(10:46) the American dollar it makes those repayments with will still be worth something in the future. and
+(10:51) that there are no better options out there to lend your money to. The fact that yields are spiking
+(10:55) across the world is generally an indication that those assumptions are being a little less assumed
+(11:01) than they might have been previously. And there are a few reasons for this. The first is that a
+(11:05) lot of the parties that typically lent money to us kind of need that money for themselves right now.
+(11:10) Around $8 trillion of our total outstanding debt is currently held up by the government itself in
+(11:15) a trust to finance various programs like social security. This is often referred to as the money
+(11:21) the government lends to itself, which is honestly needlessly confusing because really it's money
+(11:26) that it takes from paychecks to pay for programs that it's obligated to cover. It just keeps the
+(11:30) buffer in these bonds. But over time, as more people are drawing from these programs than paying
+(11:35) into them, this buffer is shrinking, meaning that one of the reliable buyers of government
+(11:40) debt has also been shrinking, even if it was kind of the government itself. On top of this,
+(11:45) private pensions are also becoming far less common as most people have transitioned their retirement
+(11:50) planning to individual accounts. In the past, corporations covering their employees pension
+(11:55) payments were a big buyer of bonds, but obviously that's become a smaller pool as well. Now, none of
+(12:00) this is really a shock. We knew these variables were coming for at least the last two decades,
+(12:06) but there are now a few extra factors on top of it. Another major group thinking twice about
+(12:11) lending money to us right now is investors from overseas. Some of them can get higher yields from
+(12:16) their own governments with just as good or even better borrowing safety without the currency risk.
+(12:21) Other governments are also thinking twice about holding too much of their foreign reserves and US
+(12:26) bonds because of [music] recent unpredictability around trade and the potential for sanctions.
+(12:31) China, in particular saw what we did to Russian bond holdings and decided to slowly pivot into
+(12:36) less sanctionable reserve assets, bringing their holdings down to an 18-year low. On top of this,
+(12:42) a lot of major corporations who have typically had large cash reserves to keep in treasury bills
+(12:46) are now using them to fund AI development or going even further and actually issuing their own bonds,
+(12:51) which in theory compete with the bonds from the Treasury. In plain English, when the government
+(12:56) goes to auction off its IUs, there are fewer parties bidding on a greater number of lots, and
+(13:01) some of them have even gone so far as to actually start selling their own IUs in the corner.
+(13:06) Less competition for the IUs on offer means the Treasury is forced to offer higher yields to
+(13:11) tempt the smaller group who's left to buy them. So, the thing that made the headlines last week
+(13:16) is that Treasury Secretary Scott Bessant basically tried using some of the money in the Treasury
+(13:20) checking account to buy up some old long-term bonds to kind of act like another bidder to in
+(13:25) turn try and make these long-term bonds seem more attractive. He also tried using some of
+(13:30) our spare cash to buy Japanese yen to maintain Japan's bidding power at this auction. All in an
+(13:36) attempt to get more parties bidding on long-term bonds to bring this side of the curve down a bit,
+(13:40) which would also hopefully bring the 10-year down as well. In effect, the Treasury has kind
+(13:45) of resorted to day trading forex and bond markets to keep interest rates manageable, which is not
+(13:51) a great long-term strategy. Patrick Bole did an entire video on the futility of this little dance,
+(13:56) so I will leave a link to that like always, but the TLDDR is that it basically achieved nothing.
+(14:01) After a small dip, rates went right back up again. Now again, by itself, this wouldn't necessarily be
+(14:07) a problem. With inflation still running higher than ideal, slightly elevated interest rates
+(14:12) can help to control demand as a bitter but arguably necessary medicine. Yes, in theory,
+(14:18) the government is going to pay more in interest every year. But in practice, the government is
+(14:22) not a monolith. It's made up of people with their own objectives. And realistically,
+(14:26) the current administration doesn't like this because higher borrowing costs for the government
+(14:31) means higher borrowing costs for businesses and voters. They are clearly trying to fix this, which
+(14:36) in turn might ironically be making the problem worse. There are only four ways this debt will
+(14:41) ever be resolved. The first is that we grow our economy and ultimately our tax base faster than
+(14:46) the debt grows. This is the ideal scenario, and it's clearly what is being pitched as a solution.
+(14:52) It's like someone with $30,000 in credit card debt. On minimum wage, that is a crippling
+(14:57) problem. But if they somehow land a job making six figures, it's far more manageable. The problem is
+(15:03) now we have so much debt that the government is on track to spend more than a trillion dollars this
+(15:08) year just on interest payments alone. Meaning that a lot of that growth is basically only keeping up
+(15:12) with interest. And the higher the interest rate is, the more we need to grow just to offset it.
+(15:17) This is not helped by our aging demographics, which means fewer workers paying taxes and
+(15:22) more old people claiming benefits. That's not to mention the fact that we are actually lowering the
+(15:26) tax base with cuts from the one big beautiful bill. So, we would need to grow even faster to
+(15:33) offset the interest and the shrinking tax rate. So, while it would be nice to rely on this alone,
+(15:38) most potential lenders realize it's probably not going to happen. The second slightly less
+(15:43) appealing option is that we start taxing more and spending less and run a fiscal surplus or,
+(15:48) you know, just a slightly less gaping deficit to pay down the debt. It seems reasonable,
+(15:53) but a lot of our spending commitments are non-discretionary. and what big spending
+(15:57) categories we can control like the military are actually being increased. And again on the other
+(16:03) side we have cut taxes especially on high-income earners and businesses. Now there is always the
+(16:08) argument that even extreme taxes on wealthy people wouldn't go very far to covering this debt. But uh
+(16:14) there are some problems with this logic. It's true that our debt has grown to levels that are going
+(16:19) to be hard to deal with quickly. But the thing is who do you think is lending us this money in the
+(16:24) first place? The majority of our lending is funded by domestic lenders who are mostly wealthy people
+(16:29) with money market accounts, direct bond holdings or indirectly through their banks. Regardless of
+(16:34) the technicalities, they have enough money to fund the government through bond issuances. So
+(16:39) they also have enough money to fund the government through taxes. It's just that obviously one is
+(16:44) not quite as appealing. Thought exercises aside though, if fiscal responsibility was the hope,
+(16:50) we are clearly not heading in the right direction. The third even less appealing option is just to
+(16:55) inflate away the debt, get the Fed to lower rates, crank up that money printer, put money
+(17:00) into circulation, and pay the whole thing off in 5 years with a single crisp $40 trillion note,
+(17:05) which at the time would be enough to buy about 8 GB of RAM. Obviously, that is an extreme scenario,
+(17:12) but the market is kind of already pricing in a much more toned down version. Inflation is already
+(17:17) up due to tariffs in the war in Iran. spending is not slowing and even if nobody else is willing to
+(17:23) lend the government money to roll over their debt, the Fed won't realistically let the US government
+(17:28) default. So, they'll create dollars to buy this debt, but those dollars it makes will just end up
+(17:33) being worth less. Not necessarily worthless, but worth less, if you get what I mean. The problem
+(17:40) is since lenders are already anticipating this, they want a higher interest rate to offset the
+(17:44) inflation risk, which in turn makes it even harder to grow or tax their way out of this, meaning
+(17:49) inflation is more likely, meaning even higher interest rates to offset the inflation risk.
+(17:55) Short-term rates will ultimately closely follow the Fed's target rate. But long-term lenders might
+(18:01) actually see an interest rate cut as capitulation to inflation and end up demanding even higher
+(18:06) rates, making the problem even worse. It's a rock and a hard place. And technically speaking,
+(18:11) the government has never been poorer. Even when adjusted for total economic growth, but it's also
+(18:17) not like we haven't been here before. Despite all of this talk about being unprecedented,
+(18:21) there was a time when our debt level was just as bad as it is today. So go and watch this video
+(18:26) next to find out how we fixed it back then and if we could just do the same thing again today.
+(18:32) Oh, and don't forget to like and subscribe to keep on learning how money works.
