@@ -39,10 +39,9 @@ Copy-Item -Recurse -Force "$HOME\.agents\skills\channel-*" "$HOME\.gemini\config
 
 Restart Antigravity. Skills show up as `/channel-language`, `/channel-storytelling`, `/channel-structure`, `/channel-audience`.
 
-**Private repo:** you must be logged into GitHub on that machine (`gh auth login` or Git Credential Manager). If `npx skills add` cannot see a private repo, use a personal access token:
+The repo is public, so no token is needed. If a clone ever fails, log into GitHub first (`gh auth login`).
 
 ```bash
-npx skills add https://<TOKEN>@github.com/Yuzakhodayari/channel-script-skills.git -a antigravity -g -y
 ```
 
 ### Project-local (recommended for a YouTube workspace)
