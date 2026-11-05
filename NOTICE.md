@@ -1,3 +1,3 @@
-Personal project. No license granted.
+Skills and install scripts in this repository are MIT-licensed. See `LICENSE`.
 
-Built for one creator's own channel. Transcripts and short analytical excerpts in `corpus/` and skill references are third-party material kept private for personal study and skill training. Do not redistribute.
+`corpus/` holds third-party YouTube transcripts used to train the skills. Those transcripts remain the property of their creators. Rights in the source videos stay with the original channels.

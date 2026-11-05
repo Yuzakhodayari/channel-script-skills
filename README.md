@@ -1,6 +1,6 @@
 # Channel script skills
 
-Four private agent skills that write YouTube scripts in one channel's blended voice. Pipeline order matters:
+Four agent skills that write YouTube scripts in one channel's blended voice. Pipeline order matters:
 
 **structure → storytelling → audience → language**
 
@@ -25,7 +25,7 @@ Paste this into Antigravity or run it in a terminal:
 npx skills add Yuzakhodayari/channel-script-skills -a antigravity -g -y
 ```
 
-That clones the private repo and installs all four `channel-*` skills. Then copy them into the folder Antigravity actually loads (the `npx skills` tool sometimes leaves them in `~/.agents/skills`):
+That installs all four `channel-*` skills. Then copy them into the folder Antigravity actually loads (the `npx skills` tool sometimes leaves them in `~/.agents/skills`):
 
 ```bash
 mkdir -p ~/.gemini/config/skills
@@ -41,12 +41,9 @@ Restart Antigravity. Skills show up as `/channel-language`, `/channel-storytelli
 
 The repo is public, so no token is needed. If a clone ever fails, log into GitHub first (`gh auth login`).
 
-```bash
-```
-
 ### Project-local (recommended for a YouTube workspace)
 
-From your channel folder (`D:\Youtube channel` or similar):
+From your channel folder:
 
 ```bash
 npx skills add Yuzakhodayari/channel-script-skills -a antigravity -y
@@ -124,9 +121,10 @@ corpus/
   weights.csv
 install.sh
 install.ps1
+LICENSE
 NOTICE.md
 ```
 
-## Private
+## License
 
-Personal use. Keep this repository private. See `NOTICE.md`.
+MIT for the skills and install scripts. See [`LICENSE`](LICENSE) and [`NOTICE.md`](NOTICE.md). Third-party transcripts in `corpus/` stay with their creators.
