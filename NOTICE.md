@@ -1,5 +1,3 @@
-# Notice
+Personal project. No license granted.
 
-The skills in this repository are released under the [MIT License](LICENSE).
-
-The skills were developed by studying public YouTube transcripts from the creators credited in [`corpus/weights.csv`](corpus/weights.csv). Those transcripts are **not** redistributed here. The skill references contain only short analytical excerpts, quoted for commentary and educational purposes. All rights in the original videos and transcripts remain with their creators.
+Built for one creator's own channel. Transcripts and short analytical excerpts in `corpus/` and skill references are third-party material kept private for personal study and skill training. Do not redistribute.

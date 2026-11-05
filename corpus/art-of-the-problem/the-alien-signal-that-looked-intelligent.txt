@@ -1,0 +1,563 @@
+Title: The Alien Signal That Looked Intelligent
+
+(0:00) On August 26, 2017, a burst of signals
+(0:03) from 3 billion light-years away was
+(0:04) detected.
+(0:07) And for the first time, it appeared to
+(0:09) be written in some kind of language.
+(0:14) Every other signal we've detected from
+(0:16) space was either a single burst, one
+(0:18) loud moment and then silence,
+(0:21) or a perfectly repeating pulse like a
+(0:24) clock.
+(0:27) But a message in any language requires
+(0:30) change, either different kinds of pulses
+(0:33) or different spacing between them.
+(0:36) And this signal had both.
+(0:40) An unknown pattern that didn't repeat.
+(0:46) For the first time, we were looking at
+(0:47) something that could carry a message,
+(0:50) which leads to a fascinating question.
+(0:53) How do we tell if a signal like this is
+(0:55) coming from an intelligent source versus
+(0:57) something naturally occurring? What's
+(1:00) our intelligence filter?
+(1:03) And if a signal did pass that test,
+(1:05) what's our best plan on how to read it?
+(1:14) The very first time we detected a radio
+(1:16) signal from space was by accident during
+(1:18) World War II.
+(1:20) In February 1942, British military radar
+(1:23) along the South Coast suddenly filled
+(1:26) with noise. They assumed the enemy was
+(1:29) jamming them by flooding their radio
+(1:30) frequencies with noise. It was a common
+(1:33) attack.
+(1:34) But soon after, physicist James Hey
+(1:37) noticed the noise followed the sun
+(1:39) across the sky. It wasn't coming from
+(1:41) Earth. So, he called the Royal
+(1:43) Observatory and they noted a massive
+(1:46) sunspot was active, an explosion on the
+(1:49) surface of the sun.
+(1:51) And it confirmed that the sun was the
+(1:53) source of this burst of noise.
+(1:56) This realization opened up a new way of
+(1:58) seeing the universe, not with visible
+(2:00) light, but with invisible light, radio
+(2:03) waves.
+(2:05) A radio wave is just light at a
+(2:07) frequency too low for your eyes to see.
+(2:10) On Earth, we create radio waves with an
+(2:13) antenna, which is a loop of wire we pass
+(2:15) electric current back and forth through.
+(2:18) And to detect it, you just need the same
+(2:20) kind of wire somewhere else.
+(2:22) When a radio wave hits it, it pushes a
+(2:24) tiny oscillating current through the
+(2:26) wire that we can detect.
+(2:28) >> [music]
+(2:28) >> That's how radio works.
+(2:32) But the Sun is immensely powerful,
+(2:34) billions of times louder in radio than
+(2:37) anything a civilization could produce.
+(2:40) So, to detect anything quieter from far
+(2:42) away, you'd need a much more sensitive
+(2:45) antenna, which requires a much larger
+(2:48) loop of wire.
+(2:50) And that's exactly what Jocelyn Bell did
+(2:52) in 1967 when she was 24,
+(2:55) working on a homemade radio receiver to
+(2:57) listen in space. She strung wires across
+(3:00) 4.5 acres of posts at Cambridge
+(3:03) University.
+(3:06) She amplified the electric signal
+(3:08) detected in this wire, like turning up a
+(3:11) guitar amp, and visually plotted the
+(3:13) total energy over time.
+(3:16) What you'd see on an oscilloscope.
+(3:19) If you build your own and do this, the
+(3:21) first thing you'll notice is you always
+(3:23) pick up some noise. Even pointing at the
+(3:26) empty sky, there is a faint hiss.
+(3:29) In 1933, Karl Jansky discovered that
+(3:31) this hiss gets louder when you point at
+(3:34) the bright strip of stars we see across
+(3:36) the night sky, named the Milky Way,
+(3:39) which we later realized was our own
+(3:41) galaxy seen from the inside.
+(3:44) Our entire galaxy is quietly humming in
+(3:47) radio, and that background hiss is now
+(3:49) measured in a unit named after him, the
+(3:52) Jansky. It's our baseline. Anything
+(3:54) we're looking for has to stand above it.
+(3:57) But if we just plot the radio energy
+(4:00) over time, it mixes all frequencies
+(4:02) together into one measure.
+(4:04) And just like a prism breaks white light
+(4:07) into its component colors, we can break
+(4:09) a radio signal into its component
+(4:11) frequencies. When we do this, we get a
+(4:13) spectrogram, frequency on one side, time
+(4:16) on the other.
+(4:17) The brightness showing how much energy.
+(4:20) This gives us a fingerprint of what
+(4:22) arrived. If I do this with my voice, it
+(4:25) looks like this, many frequencies all at
+(4:27) once, what we call broadband.
+(4:30) A solar flare looks similar, energy
+(4:32) everywhere all at once in a wave.
+(4:36) But compare that to the simplest thing
+(4:38) an antenna can send, energy at just one
+(4:40) frequency, a single bright line, what we
+(4:43) call narrowband.
+(4:45) A radio telegraph works this way, one
+(4:47) frequency switched on and off in short
+(4:49) and long pulses.
+(4:51) So when we first looked at space, we
+(4:54) only saw noise, but as we started
+(4:56) scanning closely at our galaxy, the
+(4:58) first narrowband signal we detected was
+(5:01) in 1951.
+(5:03) This smooth bump on the spectrogram at
+(5:06) 1420 megahertz.
+(5:08) This made sense because we knew
+(5:10) hydrogen, the most common element in the
+(5:12) universe,
+(5:14) emits at this specific frequency, like a
+(5:17) tiny tuning fork running at 420
+(5:19) megahertz.
+(5:21) And so in 1959, Morrison and Cocconi
+(5:24) published a paper that kicked off the
+(5:26) search for extraterrestrial
+(5:27) intelligence.
+(5:28) >> What I would like to know is an answer
+(5:30) to a very simple question. Are we alone
+(5:32) as conscious beings in this entire
+(5:34) buzzing
+(5:36) 400 billion star galaxy, one of 10 to
+(5:39) the 10th other galaxies?
+(5:41) >> And their argument was simple, any
+(5:43) civilization with radio astronomy would
+(5:46) discover hydrogen's frequency early, and
+(5:49) the region around it is the quietest
+(5:51) part of the spectrum. So, if you wanted
+(5:54) to send a message someone might notice,
+(5:56) this is where you'd put it.
+(5:59) And that's why there was so much
+(6:00) excitement on August 15th, 1977,
+(6:04) when a narrow band signal hit at exactly
+(6:07) 1420 MHz and lasted for 72 seconds. It
+(6:12) was 30 times the strength of the
+(6:14) background noise. The astronomer who saw
+(6:16) the signal on the printout circled it
+(6:18) and wrote, "Wow." Known ever since as
+(6:20) the Wow signal.
+(6:22) We hope that there might be something
+(6:24) hidden inside, such as a pattern buried
+(6:27) in the tiny variations within that note,
+(6:30) but when you zoom in, we only ever found
+(6:33) random fluctuation.
+(6:35) It lasted 72 seconds and then silence.
+(6:38) To this day, no one knows for certain
+(6:40) what it was, and it never came back.
+(6:43) Today's video is sponsored by Incogni.
+(6:45) We've been talking about how to read
+(6:46) signals, what patterns reveal about
+(6:48) their source. And here's an
+(6:50) uncomfortable one. Right now, hundreds
+(6:52) of data brokers are profiling you. Your
+(6:55) name, address, phone number, relatives,
+(6:57) shopping habits, all bought and sold
+(6:59) without your knowledge. I get calls
+(7:01) constantly from people who already know
+(7:02) my address, my name, details about me.
+(7:05) That's the signature of a data broker.
+(7:07) Recently, security researchers
+(7:09) discovered an unsecured online database
+(7:11) containing 149 million usernames and
+(7:14) passwords from services like Gmail,
+(7:15) Facebook, Netflix, and crypto platforms.
+(7:18) And scammers use that information for
+(7:20) targeted phishing. Criminals use exposed
+(7:23) addresses to find people, and someone
+(7:25) can open credit in your name before you
+(7:27) even know your data was out there.
+(7:29) Incogni contacts data brokers on your
+(7:31) behalf, files removal requests, and
+(7:33) fights back automatically. Their new
+(7:35) custom removals feature, available on
+(7:38) the unlimited and family unlimited
+(7:39) plans, lets you point to any site where
+(7:42) your info appears and a real privacy
+(7:45) agent handles the takedown.
+(7:47) Go to incogni.com/aotp,
+(7:50) use code AOTP for 60% off. Link below.
+(7:54) This brings us back to the student
+(7:56) Jocelyn Bell who in November 1967
+(7:59) noticed the short spike of energy
+(8:01) repeating every 1.3 seconds.
+(8:04) This clock ticking space so precise they
+(8:08) have jokingly called it LGM-1 for little
+(8:11) green men. It was like the Wow signal
+(8:14) where each pulse stood way above the
+(8:16) noise, but inside each pulse only random
+(8:19) variation.
+(8:21) Each pulse looks slightly different, but
+(8:24) that's just from the noise of the
+(8:25) journey like a lighthouse beam
+(8:27) flickering through fog.
+(8:29) The flicker variation is the fog, not
+(8:32) the lighthouse.
+(8:34) It turned out that this signal was a
+(8:35) collapsed star more massive than our
+(8:38) sun, but condensed into just the size of
+(8:40) a city spinning once every 1.3 seconds
+(8:43) sweeping a beam of radio energy like a
+(8:45) lighthouse known as a pulsar.
+(8:48) After this we found many more.
+(8:56) And remember to send a message that
+(8:58) carries information, you need change.
+(9:01) Different pulses or different spacing or
+(9:03) different durations.
+(9:05) All human and animal signals work this
+(9:08) way, patterns of change. A chirp for
+(9:10) danger, a different chirp for food.
+(9:17) And this is why on August 26th, 2017 it
+(9:20) was so exciting. That signal also rose
+(9:23) way above the noise, but had different
+(9:26) intensities, durations, and spacings.
+(9:30) Some of them repeated. On the
+(9:32) spectrogram they looked like distinct
+(9:34) brush strokes, distinguishable and
+(9:36) reoccurring.
+(9:38) The kind of thing that could be a symbol
+(9:40) in an unknown alphabet. Which brings us
+(9:43) back to the first part of our key
+(9:44) question. How would we know if this is
+(9:46) something potentially intelligent or
+(9:49) naturally occurring? To create that
+(9:51) intelligence filter, we need to start
+(9:53) with understanding more deeply what
+(9:55) nature normally produces. Consider the
+(9:58) simplest case, pure randomness.
+(10:02) Everywhere we look in nature, from
+(10:03) galaxies to the Earth to the atomic
+(10:06) level, we find energy bouncing around.
+(10:12) Take water. If we zoom in on the surface
+(10:15) and check whether a tiny disturbance is
+(10:17) pushing up or down at any moment and
+(10:19) measure that thousands of times, it's
+(10:21) going to look 50/50.
+(10:24) Pure randomness at its simplest is
+(10:26) equally likely outcomes.
+(10:29) But now consider what happens when we
+(10:30) add a few random events together. A
+(10:33) shape starts to emerge.
+(10:35) The best way to see this is a pegboard.
+(10:37) Each peg is one random event, left or
+(10:40) right. A ball dropped travels a random
+(10:43) path and accumulates at the bottom. The
+(10:46) rarest outcome is when the ball goes the
+(10:48) same direction every time. There's only
+(10:51) one path that does that.
+(10:53) Most paths lead to the middle. That's
+(10:56) why you get this shape.
+(10:58) And this is why the ocean surface
+(11:00) follows this shape if we measure water
+(11:02) height over time. At any point,
+(11:05) thousands of little waves are passing
+(11:07) through from different directions. Most
+(11:09) of the time, they partially cancel, some
+(11:11) pushing up, some pulling down, leaving
+(11:14) the surface near average sea level.
+(11:16) That's the middle of the curve. But once
+(11:18) in a while, by pure chance, many waves
+(11:20) line up in the same direction, all
+(11:23) pushing up at once, leading to a rogue
+(11:25) wave. Or all pulling down, leading to a
+(11:29) rogue trough.
+(11:31) Those are the tails of this shape.
+(11:34) Gauss was the first to describe this
+(11:36) shape. It happens anytime we add up
+(11:38) random events, people's heights,
+(11:40) temperature, the hiss between radio
+(11:42) stations. We now call it a Gaussian
+(11:44) distribution. This kind of noise where
+(11:47) every moment is independent of the last
+(11:50) is called white noise.
+(11:52) What if instead each of these random
+(11:55) events has an impact on the next
+(11:57) outcome?
+(11:58) In 1951, British hydrologist Harold
+(12:02) Hurst published a study on the Nile
+(12:04) River. He spent decades pouring over
+(12:07) centuries of flood records and found
+(12:09) something strange.
+(12:11) The Nile River wasn't memoryless like
+(12:13) white noise.
+(12:15) High flood years tended to cluster
+(12:17) together.
+(12:18) Low years clustered, too. The signal had
+(12:22) a drift to it, a kind of momentum, not a
+(12:24) pattern, [music] not a cycle, just a
+(12:27) tendency for what just happened to keep
+(12:30) happening for a while.
+(12:32) On the pegboard, we can model this, too.
+(12:35) Imagine the weight of recent balls
+(12:37) starts to pivot the entire board, which
+(12:40) is on an axle.
+(12:42) A run of balls landing in one direction
+(12:44) will cause it to tilt that way, making
+(12:46) the next ball more likely to go that
+(12:49) way.
+(12:49) >> [music]
+(12:50) >> And then a run the other way will tilt
+(12:51) it back. The center wanders.
+(12:55) This is called colored noise, randomness
+(12:58) with momentum.
+(13:00) The average wanders over time in a way
+(13:03) that white noise never does.
+(13:05) Now, if we take any of these signals,
+(13:07) whether white noise or colored noise,
+(13:10) and sort the measurements from most
+(13:12) common to least common, we get the same
+(13:15) basic shape, this rounded convex curve.
+(13:19) It's a fingerprint we see across nature.
+(13:22) But what about intelligence?
+(13:24) The only way to detect a mind is through
+(13:27) what it communicates.
+(13:29) In the 1940s, a linguist named George
+(13:32) Zipf did this same kind of analysis on
+(13:34) human language.
+(13:36) He counted every word in a book and
+(13:39) ranked them from most common to least
+(13:40) common, and the shape was flipped.
+(13:43) Instead of a convex curve we saw with
+(13:45) random signals, it was a sharp concave
+(13:48) curve.
+(13:49) And when he squished both axes to see
+(13:51) the full range at once, the curve
+(13:53) straightened into a clean line angled at
+(13:56) 45°, known as a power law.
+(13:59) We find the same slope in every book and
+(14:03) every language we analyze. It's a
+(14:06) universal pattern,
+(14:08) known as Zipf's law.
+(14:09) Language acquisition has this
+(14:11) mathematical fingerprint.
+(14:13) So, maybe we had our filter.
+(14:16) If the pulses in a signal have this
+(14:18) frequency distribution following Zipf's
+(14:20) slope, maybe it's coming from a mind.
+(14:24) Because when we put our noise signals on
+(14:25) this same plot, they don't make a
+(14:27) straight line. They bend and fall away a
+(14:29) different shape entirely.
+(14:32) So, let's return to our signal from 2017
+(14:35) with the various repeating symbols and
+(14:37) order them by frequency of occurrence.
+(14:40) We get this concave shape, which looks
+(14:42) eerily similar to the language pattern
+(14:45) and nothing like noise.
+(14:48) But nature has another trick up its
+(14:49) sleeve we have to consider.
+(14:51) In 1944, Gutenberg and Richter already
+(14:54) noticed the same shape when they
+(14:56) analyzed the size of earthquakes, many
+(14:58) small quakes and a few very large ones,
+(15:01) with the same gradual slope on the Zipf
+(15:04) plot.
+(15:05) And there's a physical reason for this
+(15:07) you can demonstrate with a pile of rice.
+(15:10) If you drop grains one at a time onto a
+(15:13) pile, most grains cause nothing, some
+(15:16) trigger small avalanches, and rarely one
+(15:19) grain will trigger a massive cascade.
+(15:25) And if you measure these cascades and
+(15:27) rank them, you'll get the same shape
+(15:29) Ziff found in language. No brain
+(15:32) required. Any system that accumulates
+(15:35) stress and releases it, earthquakes,
+(15:37) avalanches, lightning strikes, produce
+(15:40) this shape if you measure them and rank
+(15:42) them.
+(15:44) And so this is the leading theory for
+(15:46) what the signal was, a magnetar,
+(15:49) which is like a pulsar but with a
+(15:51) magnetic field a quadrillion times
+(15:53) stronger than our sun. Strong enough to
+(15:56) tear apart atoms everywhere around it.
+(15:58) And this field builds up stress in the
+(16:00) crust until it cracks, releasing energy
+(16:03) in starquakes.
+(16:07) So Ziff's law is not enough to be our
+(16:10) filter because nature can imitate it
+(16:12) without a brain.
+(16:13) We need a filter nature cannot fake.
+(16:18) This brings us to Claude Shannon, who
+(16:20) went much deeper than Ziff.
+(16:22) Instead of just measuring how often each
+(16:24) symbol appears,
+(16:26) he measured sequences of symbols, pairs
+(16:29) of symbols, triples, and beyond.
+(16:32) And when you plot two symbol sequences
+(16:35) on the same chart, the slope gets
+(16:38) steeper.
+(16:39) If you do it with three symbols, it gets
+(16:41) steeper still,
+(16:42) and that keeps going as you measure
+(16:45) longer sequences.
+(16:47) This is because the longer the sequence,
+(16:49) the more predictable the next symbol
+(16:51) becomes.
+(16:52) Each symbol you know narrows what comes
+(16:54) next.
+(16:55) Shannon showed this predictability keeps
+(16:57) growing the deeper you look, regardless
+(17:00) of what language it is.
+(17:03) And he created a measure of this called
+(17:05) entropy, which is the number of yes-no
+(17:07) questions you'd need to guess the next
+(17:09) symbol. It's a measure of surprise.
+(17:13) And the key insight is how entropy
+(17:15) changes as you look deeper into a
+(17:18) signal.
+(17:19) This leads to the filter for
+(17:20) intelligence we use today proposed by
+(17:23) Lawrence Doyle at the SETI Institute.
+(17:26) On this chart, the Y axis is entropy. On
+(17:28) the X axis, it's sequence depth. How
+(17:32) many symbols back you're looking.
+(17:34) All naturally occurring signals we know
+(17:36) of stay flat on this chart.
+(17:39) Looking deeper doesn't help you predict
+(17:41) what comes next. But with language, it
+(17:44) keeps dropping. The deeper you look, the
+(17:46) more predictable it becomes. Only a mind
+(17:49) produces this signature.
+(17:51) And to show how universal this test is,
+(17:53) they turned to dolphins.
+(17:55) They analyzed dolphin whistles and found
+(17:57) the same shape.
+(18:00) So, two species, no shared ancestor,
+(18:02) have the identical mathematical shape
+(18:05) behind their language.
+(18:07) And so, this is their final filter. Take
+(18:09) any signal [music] we receive and break
+(18:12) it into chunks at its natural
+(18:13) boundaries. Then, rank them by frequency
+(18:16) and check the Zipf slope.
+(18:18) Then, measure Shannon entropy over
+(18:20) depth.
+(18:21) If it plunges, a mind was potentially
+(18:24) behind its creation.
+(18:27) But detecting a mind is, of course, only
+(18:29) the first step. How could we ever
+(18:31) understand what it's saying?
+(18:34) This leads to another one of Shannon's
+(18:36) insights.
+(18:37) You can think of this frequency of
+(18:39) occurrence as probability.
+(18:42) And so, if you know the statistics of a
+(18:43) language, you can run it forwards. Just
+(18:46) select the next symbol according to the
+(18:48) known probabilities.
+(18:50) He tried this with some toy examples.
+(18:54) Making English-looking sentences with a
+(18:57) simple machine that simply selected next
+(18:59) letters according to their statistics.
+(19:01) [music]
+(19:02) And at depth one, it looked random. At
+(19:05) depth two, some shape started to emerge.
+(19:09) And at depth three, it started to look
+(19:11) more like convincing [music] text,
+(19:13) especially as he selected based on word
+(19:15) probabilities.
+(19:18) Shannon was surprised how convincing
+(19:20) this text looked,
+(19:22) and he noted that to go much deeper and
+(19:24) capture the long-range structure of
+(19:26) language, perhaps hundreds of words
+(19:28) deep, his machine would need an
+(19:30) impossible amount of memory.
+(19:32) >> [music]
+(19:32) >> It's too big to build.
+(19:34) Until it wasn't. Nearly 70 years later,
+(19:38) we built his machine, known as large
+(19:41) language models. Large neural networks
+(19:43) trained on one task, predict next word,
+(19:46) turned out to be exactly that machine.
+(19:49) When we looked inside, we found
+(19:50) something unexpected. Concepts stored
+(19:54) geometrically.
+(19:55) Words that mean similar things end up in
+(19:58) similar neighborhoods, surrounded by
+(19:59) similar concepts. And those same
+(20:01) neighborhoods appear in every language.
+(20:03) The word for cold in Japanese sits in
+(20:07) the same relative position to hot as it
+(20:10) does in English.
+(20:12) The shape is universal.
+(20:14) Which is why these machines can
+(20:16) translate.
+(20:18) Not by looking words up, but by rotating
+(20:20) until the conceptual shapes align.
+(20:22) [music]
+(20:23) Researchers are now using these networks
+(20:26) by pointing them at signals we've never
+(20:28) decoded.
+(20:29) For example, MIT trained one on sperm
+(20:32) whale clicks.
+(20:33) It learned the structure well enough to
+(20:35) predict whale behavior, diving,
+(20:38) surfacing, or socializing
+(20:40) >> [music]
+(20:40) >> with nearly 90% accuracy. The pattern is
+(20:44) there, and the machine could sense it.
+(20:47) And for the first time, we have a tool
+(20:49) now that might help us understand what
+(20:52) an intelligent signal is saying.
+(20:54) Not by sharing a language, but by
+(20:56) recognizing the shape of one.
+(20:59) So, now that alien hunters and the AI
+(21:02) researchers are now sitting with the
+(21:03) same unanswered question.
+(21:06) What does it mean to find intelligence
+(21:08) outside of the natural world?
+(21:11) >> I think even if there's a plausible
+(21:12) argument for a few,
+(21:14) we ought to keep looking. I'd even go
+(21:16) further than that. If there's a
+(21:17) plausible argument that there isn't
+(21:19) anybody out there, bearing in mind that
+(21:21) we can be wrong, we ought to keep
+(21:23) looking because [music] the question is
+(21:25) of the most supreme importance. It
+(21:28) calibrates our place in the universe. It
+(21:30) tells [music] us who we are.
+(21:32) And so,
+(21:34) it is worthwhile trying to find other
+(21:36) civilizations,
+(21:37) I would say, no matter what.
+(21:39) >> I've been making YouTube videos for 15
+(21:41) years. All of them trying to explain
+(21:43) things I'm curious about in a way I
+(21:46) enjoy.
+(21:47) >> [music]
+(21:47) >> And one part of my process I've never
+(21:49) shared is I use music to find the
+(21:52) feeling [music]
+(21:53) of an idea before I explain it.
+(21:57) And so, now I have this very cool
+(22:00) collection of music I listen to whenever
+(22:02) I'm working on a new idea. It's great
+(22:04) for focused work sessions, [music]
+(22:06) especially on a loop.
+(22:08) And so, I put together all my favorites
+(22:10) from [music] the past year into an
+(22:12) album, my first ever music release.
+(22:15) >> [music]
+(22:15) >> If you're interested, see the link
+(22:17) below. Thanks for watching. Here's to
+(22:19) another 15 years.

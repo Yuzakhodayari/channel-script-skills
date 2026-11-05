@@ -1,0 +1,687 @@
+Title: How to lose $35 Billion Dollars Betting on AI
+
+(0:00) Hi. Welcome to another episode of
+(0:02) ColdFusion. Imagine this, you're 24
+(0:04) years old and it's your wedding day and
+(0:06) you're about to marry the person that
+(0:07) you love. You've flown in friends,
+(0:09) family, and [music] some of the biggest
+(0:11) names in Silicon Valley out to Carmel,
+(0:13) California for a multi-day celebration.
+(0:15) There's a Tuscan-style villa, a spa
+(0:17) tucked into the forest, even a
+(0:19) pre-wedding conference with panels and
+(0:20) breakout sessions. But, you have another
+(0:23) reason to celebrate. Less than 2 years
+(0:25) earlier, you started a hedge fund with
+(0:27) $225 million
+(0:29) and now you're managing $45 billion.
+(0:32) Except, there's a problem. While your
+(0:34) guests are arriving and you get ready to
+(0:36) say your vows, your biggest investments
+(0:38) are collapsing. Goldman Sachs, J.P.
+(0:41) Morgan, and Bank of America are not
+(0:43) happy.
+(0:43) >> [music]
+(0:44) >> They're demanding more money to cover
+(0:45) your losses and within days, roughly $35
+(0:49) billion of the empire you've built
+(0:51) >> [music]
+(0:51) >> will be gone. Now, you may hear the
+(0:53) amount $35 billion and not think much of
+(0:56) it, but it's important to visualize just
+(0:57) how much money that is. So, if I was to
+(0:59) give you $1 million to spend [music]
+(1:01) every single day, how long do you think
+(1:03) it would take you to get through it?
+(1:04) Some of you might say maybe a year,
+(1:06) maybe 10 years, but no. How about 96
+(1:10) years? Imagine, every day $1 million
+(1:13) just going out for almost a century.
+(1:15) That's a lot of money for a 24-year-old
+(1:17) to manage, let alone lose in such a
+(1:19) short amount of time. This is a true
+(1:21) story and it happened recently to a
+(1:22) young man named Leopold Ashenbrenner.
+(1:25) For him, it was one hell of a wedding
+(1:27) week.
+(1:27) >> Leopold Ashenbrenner
+(1:29) >> Leopold Ashenbrenner
+(1:31) >> [music]
+(1:31) >> Leopold Ashenbrenner
+(1:32) >> Leopold Ashenbrenner
+(1:34) >> Leopold Ashenbrenner
+(1:35) >> Leopold built his reputation by telling
+(1:38) the world he could see the future before
+(1:39) anyone else. His hedge fund was
+(1:41) literally called Situational Awareness
+(1:43) and somehow it was also the biggest
+(1:45) crisis of his career at the exact same
+(1:47) moment he was supposed to be having the
+(1:49) best week of his life. So, how did a
+(1:52) 24-year-old with almost no trading
+(1:54) experience end up managing [music] tens
+(1:56) of billions of dollars? And how did a
+(1:57) hedge fund that returned more than a
+(1:59) thousand percent lose roughly 35 billion
+(2:01) dollars in two weeks? And what does this
+(2:03) all tell us about the markets right now?
+(2:05) Let's [music] get into it.
+(2:09) >> You are watching ColdFusionTV. [music]
+(2:18) >> [music]
+(2:18) >> You can see the future first in San
+(2:20) Francisco. That's the opening line of a
+(2:23) 165-page
+(2:25) PDF that Leopold published in June of
+(2:27) 2024. That essay was called Situational
+(2:30) Awareness: The Decade Ahead.
+(2:32) His central argument was that AGI, or
+(2:35) artificial general intelligence, was
+(2:37) coming by 2027, and the world wasn't
+(2:39) ready for it. Almost immediately, it
+(2:41) went viral inside Silicon Valley.
+(2:43) Investors read it, then went looking for
+(2:45) the guy who wrote it. So, who really was
+(2:47) the guy behind the PDF prophecy?
+(2:50) >> [laughter]
+(2:51) >> That's the short summary of my post, or
+(2:53) my view on the project.
+(2:54) >> [laughter]
+(2:59) >> Leopold was born in Germany to two
+(3:01) doctors, skipped several grades in
+(3:03) school, [music] and graduated Columbia
+(3:04) University in 2021 as a valedictorian at
+(3:07) just 19 years old. Although his first
+(3:10) job outside of college was on the
+(3:11) philanthropic side with none other than
+(3:14) Sam Bankman-Fried's FTX empire. Leopold
+(3:16) held the position until FTX collapsed in
+(3:18) late 2022. So, I guess it wasn't the
+(3:20) best company to keep, but of course,
+(3:22) I've covered FTX extensively on this
+(3:24) channel, so I'm not going to rehash what
+(3:26) happened here. But essentially, it was a
+(3:27) fraudulent multi-billion dollar crypto
+(3:29) exchange that became insolvent. Somehow,
+(3:32) that wouldn't be the last company on
+(3:33) Leopold's resume that made headlines for
+(3:35) the wrong reason. From FTX, he found
+(3:37) himself at OpenAI. Leopold's position
+(3:40) was on the superalignment team. It was a
+(3:42) team that was built to figure out how
+(3:43) humans can keep control over AI systems
+(3:45) once those systems become smarter than
+(3:47) we are. He didn't last long, though, and
+(3:49) he was fired in April of 2024. OpenAI's
+(3:52) official reason for firing him is that
+(3:54) he had shared a brainstorming document
+(3:56) with outside researchers, but Leopold
+(3:58) tells that story differently. He traces
+(4:00) the real trouble back to a memo he sent
+(4:02) out to the board months earlier. He was
+(4:04) warning that the company security wasn't
+(4:06) strong enough to stop foreign actors
+(4:08) from stealing its secrets. HR reportedly
+(4:10) told him that the memo was, quote,
+(4:13) "unconstructive." He tells his side of
+(4:15) the story in a podcast.
+(4:17) >> Last year I had written a memo, internal
+(4:19) memo, about OpenAI security. I thought
+(4:21) it was, you know, egregiously
+(4:22) insufficient. You know, I thought wasn't
+(4:23) sufficient to protect, you know, the
+(4:24) theft of model weights or or key
+(4:26) algorithmic secrets from foreign actors.
+(4:28) >> [music]
+(4:28) >> Um so I wrote this memo. I um shared it
+(4:31) with a few colleagues, a couple members
+(4:32) of leadership, um who sort of mostly
+(4:34) said it was helpful.
+(4:36) Um but then, you know, a couple weeks
+(4:38) later a sort of major security incident
+(4:40) occurred.
+(4:41) Um [music] and that prompted me to share
+(4:43) the memo with a couple members of the
+(4:44) board. Um and so after I did that, you
+(4:46) know, days later it was made very clear
+(4:48) to me that leadership was very unhappy
+(4:50) with me having shared this memo with
+(4:51) [music] the board. Um and then I got
+(4:53) sort of an official HR warning for this
+(4:55) memo.
+(4:55) >> Two months after getting fired, he
+(4:57) published the essay that would make him
+(4:58) famous almost overnight. Tim Ferriss put
+(5:01) it in front of his audience on The Tim
+(5:02) Ferriss Show, one of the most downloaded
+(5:04) interview podcasts in the world. He
+(5:06) called Leopold the, quote, "Nostradamus
+(5:08) of AI," end quote. Ferriss said he
+(5:10) didn't consider himself an AI expert,
+(5:12) then pointed his entire audience towards
+(5:14) Leopold instead, calling his run of
+(5:16) predictive hits nothing short of
+(5:18) staggering. So Leopold gave investors
+(5:20) somewhere to put their money, and later
+(5:21) that year he launched a fund named after
+(5:24) his own essay, Situational Awareness LP.
+(5:27) The pitch was essentially an extension
+(5:29) of the essay itself. If AGI really is
+(5:32) coming [music] fast, why would anyone
+(5:34) invest as if it isn't?
+(5:35) >> Naively, you just say, "Well, I've
+(5:38) looked at the scaling curves and they
+(5:39) imply that we're going to be buying much
+(5:41) more compute and energy than the
+(5:43) analysts realize."
+(5:45) >> Yeah.
+(5:45) >> Shouldn't those analysts be broke by
+(5:47) now? What's going on?
+(5:48) >> [laughter]
+(5:49) >> Yeah. I mean, I used to be a true EMH
+(5:52) guy. I was an economist, you know, yeah.
+(5:54) But I think there can be kind of groups
+(5:55) of people, smart people, you know, who
+(5:57) are, you know, say they're in San
+(5:58) Francisco, who do [music] just have
+(6:01) a leg up over the rest of society in
+(6:02) kind of seeing the future. Um
+(6:04) and so like COVID, right? Like I think
+(6:06) there's just honestly kind of similar
+(6:07) group of people who just saw that and
+(6:09) called it. They showed up to the market,
+(6:11) they did really well. Why is AGI not
+(6:12) priced in? You know, it's sort of um you
+(6:14) know, why why hasn't the government
+(6:15) nationalized the the labs yet, right?
+(6:17) It's like, you know, [laughter] this you
+(6:18) know, society hasn't priced it in yet
+(6:20) and sort of it hasn't completely
+(6:21) diffused. And you know, again, it might
+(6:22) be wrong, right? But um
+(6:24) >> [music]
+(6:24) >> um
+(6:25) I just think sort of, you know, not that
+(6:27) many people take these ideas seriously
+(6:29) yet.
+(6:29) >> The AGI investment pitch was strong
+(6:31) enough to bring in some serious money,
+(6:33) including the Collison brothers behind
+(6:35) Stripe, former GitHub CEO Nat Friedman,
+(6:38) and investor Daniel Gross. So, what were
+(6:40) they actually backing?
+(6:46) Back in October of 2025, Fortune ran a
+(6:48) deep profile on Leopold and spoke to
+(6:50) more than a dozen of his friends, former
+(6:52) colleagues, and investors. It all paints
+(6:54) a picture of a rather divisive figure.
+(6:56) The recurring words that people used
+(6:58) were intense, [music] scarily smart, and
+(7:02) brash. A few of them said he had the
+(7:04) aura of a wunderkind. That reputation
+(7:06) had been building for years. He enrolled
+(7:08) in Columbia at 15. By 17, the economist
+(7:12) Tyler Cowen had called him [music] an
+(7:13) economics prodigy. Leopold's
+(7:16) astronomical returns would later back
+(7:17) that up.
+(7:19) But not everyone was impressed. Several
+(7:21) people pointed out that his ideas
+(7:23) weren't that original. He'd taken what
+(7:25) people had said inside the AI industry
+(7:27) and already [music] believed and simply
+(7:28) packaged it better than anyone else had.
+(7:31) The story of the path to AGI is actually
+(7:33) not a new one. Here's David Chalmers
+(7:35) talking about it in 1996.
+(7:37) >> And so you have a machine which is as
+(7:38) smart as us, then maybe 10 years later
+(7:40) we get a little bit better at
+(7:41) programming. The machine is a little bit
+(7:43) just a little bit smarter than us. Then
+(7:45) that machine in turn is probably going
+(7:46) to be a better programmer at us than us.
+(7:48) It's the It's going to be able to build
+(7:49) a better machine than we can. So it'll
+(7:51) build a smarter machine yet. This this
+(7:53) this gets into an ongoing spiral. So my
+(7:55) feeling is that once we get to the point
+(7:57) where a machine is as smart as as us,
+(7:59) the point where machines are thousands
+(8:00) of [music] times smarter than us is not
+(8:02) going to be so far off in the in in the
+(8:04) future.
+(8:05) >> One former OpenAI researcher said that
+(8:07) reading the AI zeitgeist was basically
+(8:09) Leopold's superpower. Some others simply
+(8:12) just found him hard to work with.
+(8:13) Another OpenAI researcher said that
+(8:15) Leopold would happily annoy the people
+(8:17) above him. Another called him abrasive.
+(8:19) Whatever you make of the man, he clearly
+(8:21) believed in his own ideas, and he
+(8:23) pitched them with enough conviction to
+(8:25) get investors to pour in hundreds of
+(8:26) millions. And he was doing all of this
+(8:29) at the age of 23 with a firm that
+(8:31) reportedly had just [music] eight
+(8:32) employees.
+(8:35) So eight staff, a portfolio that would
+(8:37) eventually reach tens of billions of
+(8:39) dollars, and a young founder with almost
+(8:41) no professional trading experience. What
+(8:43) could go wrong? Silicon Valley really
+(8:45) didn't stop to think [music] about that,
+(8:47) and they weren't particularly bothered.
+(8:49) But Wall Street was.
+(8:51) As the fund grew, Leopold reportedly
+(8:53) went to New York looking for another
+(8:54) class of investor, [music] the bigger
+(8:56) institutional pools of money that could
+(8:58) take situational awareness further. But
+(9:00) this wasn't Silicon Valley anymore. The
+(9:02) reception there [music] was noticeably
+(9:03) colder. Blackstone reportedly took a
+(9:05) meeting and passed. According to
+(9:07) reporting by Rob Copeland, [music]
+(9:09) another wealthy New York investor, he
+(9:10) asked a pretty basic question. Quote,
+(9:13) "What happens if you're wrong? Not
+(9:15) necessarily wrong forever, but what
+(9:17) happens if AI adoption slows down, or
+(9:20) AGI takes longer than expected, or your
+(9:22) thesis [music] is simply early?" End
+(9:24) quote.
+(9:25) Leopold reportedly didn't have a
+(9:27) detailed answer, but he simply believed
+(9:29) that his thesis was right.
+(9:31) This part of the episode is sponsored by
+(9:33) WhisperFlow. As I prepare these videos,
+(9:35) I spend a lot of time researching,
+(9:37) messaging [music] people, and drafting
+(9:38) scripts, and sometimes it can get pretty
+(9:40) overwhelming. With 100 tabs open and
+(9:42) deadlines approaching, I often find
+(9:44) myself thinking much faster than I can
+(9:45) [music] type. That's why I've been using
+(9:47) WhisperFlow. WhisperFlow is a
+(9:48) voice-to-text tool that works across
+(9:50) pretty much every app I use. Gmail,
+(9:52) [music]
+(9:52) WhatsApp, Slack, pretty much anywhere I
+(9:55) type. Instead of typing, I speak
+(9:57) naturally [music]
+(9:57) and it turns my thoughts into clean,
+(9:59) formatted text that's ready to send.
+(10:01) Talking has always been faster than
+(10:03) typing. The difference is that most
+(10:04) dictation tools capture every um, every
+(10:07) correction,
+(10:08) every change of [music] mind. Hey
+(10:10) Jotham, um actually, let's move
+(10:12) tomorrow's meeting, sorry,
+(10:13) >> [music]
+(10:14) >> Thursday instead, around 2:00. No, make
+(10:16) that 3:00. And can you send me the
+(10:18) latest draft beforehand? [music]
+(10:19) Thanks. WhisperFlow actually cleans up
+(10:21) everything while you're speaking, so the
+(10:23) final result feels much closer to
+(10:24) something you'd actually write. You
+(10:26) could say a lot of apps now include
+(10:27) voice dictation, and that's [music]
+(10:28) true, but every app does it differently.
+(10:31) Having one system that works the same
+(10:32) way everywhere has been surprisingly
+(10:34) useful. Whether I'm writing emails,
+(10:36) responding on WhatsApp, [music] or
+(10:37) taking notes, it's also been really
+(10:39) useful when brainstorming with the team.
+(10:41) Instead of stopping every few seconds to
+(10:43) type, I can just keep talking and stay
+(10:45) [music] focused on the idea. Another
+(10:46) thing I noticed is how well it handles
+(10:48) technical names and industry jargon. Hey
+(10:50) Tansom, can we change the edit for the
+(10:52) sections covering Nvidia and the ASML
+(10:54) lithography? Can you also download the
+(10:56) LUTs I sent you for Premiere Pro?
+(10:58) And over time, it learns the words you
+(11:00) use most through its custom [music]
+(11:01) dictionary. The result is simple. I
+(11:03) spend less time typing and more time
+(11:05) thinking. If you would like to try
+(11:07) WhisperFlow yourself, it's free to get
+(11:08) [music] started, and if you use my link
+(11:10) below, you'll get 1 month of WhisperFlow
+(11:12) Pro with unlimited words at no cost.
+(11:14) Thanks to WhisperFlow for supporting
+(11:15) ColdFusion. Now, let's get back to the
+(11:18) Leopold story.
+(11:21) >> [music]
+(11:23) >> The strategy itself was simple on paper.
+(11:25) He bought specifically stocks in
+(11:27) everything AI related. Leopold could
+(11:30) have gone through the traditional
+(11:31) Silicon Valley route here, and started a
+(11:33) venture capital fund backing private AI
+(11:34) startups before they went public, but he
+(11:36) didn't.
+(11:38) The question is, why?
+(11:41) One investor reportedly asked Leopold
+(11:43) that exact question, and the answer he
+(11:44) got was that AGI would reshape the world
+(11:47) and economy on a scale that no one had
+(11:48) seen before. So, the way Leopold saw it,
+(11:51) if you wanted to profit from something
+(11:52) that big, you had to be in markets where
+(11:54) you could move serious money fast. In
+(11:56) other words, publicly traded stocks,
+(11:59) >> [music]
+(11:59) >> the kind that anyone could buy and sell
+(12:00) in seconds. Hold that thought, because
+(12:03) it comes back to bite him.
+(12:05) Leopold bought the physical backbone of
+(12:07) the AI boom, the chip makers, the power
+(12:09) companies, and the cloud providers
+(12:11) building it. Stocks like SK Hynix,
+(12:13) Coreweave, and Nebius. Then he shorted
+(12:16) software companies like Adobe and
+(12:18) Salesforce, the enterprise tools that he
+(12:20) thought that AI was going to make
+(12:21) redundant.
+(12:22) Shorting means that you bet that a stock
+(12:24) falls, at which time you make money. On
+(12:27) paper, that looks like a hedge, longs on
+(12:29) one side and shorts on the other. But in
+(12:31) practice, both sides depended on exactly
+(12:34) the same belief, that AI was going to
+(12:36) upend everything all at once, and on
+(12:39) Leopold's timeline. Leopold didn't stop
+(12:41) at investor money, either. He was using
+(12:43) 400% leverage.
+(12:45) But the thing was, for a year, it worked
+(12:48) spectacularly. His AI stocks rose, and
+(12:51) he made billions. Then July 2026
+(12:54) happened. Whispers and panic was
+(12:56) spreading.
+(12:57) Chinese open-weight models could perform
+(12:59) the vast majority of AI tasks that the
+(13:01) leading models could, but for a fraction
+(13:03) of the cost. The American markets were
+(13:05) spooked. Public filings show that the
+(13:07) fund's biggest long positions were
+(13:09) concentrated in these six names. By the
+(13:12) end of July, every single one of them
+(13:14) had fallen between 50 and 78% from their
+(13:17) recent peaks. At the exact same time,
+(13:20) the software stocks that Leopold was
+(13:21) betting against went up instead of down.
+(13:24) So, both sides of his supposed hedge
+(13:26) position were losing money at once.
+(13:29) That's the one thing that a hedge is
+(13:30) supposed to stop from happening. The
+(13:32) fund's value was cratering fast, and its
+(13:34) three prime brokers, Bank of America,
+(13:37) Goldman Sachs, and JP Morgan Chase,
+(13:39) started knocking on the door. They were
+(13:41) demanding more collateral than Leopold
+(13:43) had on hand. When a fund can't meet that
+(13:45) demand, the bank sells its positions to
+(13:47) recover its money. He was in big
+(13:49) trouble.
+(13:50) The calls kept coming, and something had
+(13:52) [music] to give. And do you remember
+(13:54) what Leopold liked about public stocks?
+(13:56) It's that you could move serious money
+(13:57) in and out of them, fast. Turns out that
+(14:00) works both ways. When all was said and
+(14:02) done, what was worth 45 billion was now
+(14:05) worth 10 billion.
+(14:07) When all was said and done, the man in
+(14:09) his mid-20s had lost 35 billion dollars.
+(14:12) >> [music]
+(14:13) >> By July 30th, roughly 16 billion dollars
+(14:16) of Leopold's stock portfolio had been
+(14:18) sold in a single overnight transaction
+(14:20) at a [music] discount of more than 10%
+(14:22) under its market value.
+(14:25) It was [music] the single biggest piece
+(14:26) of the 35 billion dollar loss over 2
+(14:28) weeks. The buyer was Citadel, one of the
+(14:31) most successful hedge fund in Wall
+(14:33) Street history. Citadel won the deal in
+(14:35) an open auction. The [clears throat]
+(14:37) only reason Leopold's fund survived at
+(14:39) all was his estimated 5 billion dollar
+(14:41) stake in Anthropic, which was privately
+(14:43) held and illiquid. Anthropic also
+(14:45) happens to be the company where his
+(14:46) soon-to-be wife, Avital Balwit, serves
+(14:49) as chief of staff to the CEO. Citadel
+(14:52) had offered to take his entire portfolio
+(14:54) of publicly traded stocks instead. Those
+(14:56) are the likes of SK Hynix, Coupang Wave,
+(14:58) and [music] Naver. Everything with a
+(15:00) live share price attached. The sale of
+(15:02) those stocks raised the cash his lenders
+(15:04) wanted, so Anthropic [music] stayed put.
+(15:06) Leopold had sent his investors a letter
+(15:09) acknowledging that the fund had been
+(15:10) caught up in what he called market,
+(15:12) quote, "ructions."
+(15:13) >> [music]
+(15:13) >> It's a very British way of describing a
+(15:15) crisis without calling it one. The
+(15:17) letter closed with a postscript inviting
+(15:19) clients to add fresh money starting
+(15:20) August 1st. Then, as planned, he got
+(15:23) married. But, here's where things get a
+(15:25) bit strange, [music] because if this
+(15:26) happened on Wall Street and not Silicon
+(15:28) Valley, losing a $35 billion in a matter
+(15:31) of weeks would get you banished. [music]
+(15:33) But, Leopold wasn't finished.
+(15:36) In fact, days after the Citadel deal
+(15:38) closed, Leopold wired $400 million into
+(15:42) an unnamed private company. He'd already
+(15:44) put $100 million into the same company a
+(15:46) month earlier. Leopold has never
+(15:48) explained why he put half a billion
+(15:49) dollars into it.
+(15:51) But, that's just it. Here's a man who
+(15:53) watched borrowed money nearly wipe out
+(15:55) everything he'd built, and within days,
+(15:57) he's putting half a billion dollars into
+(15:59) a single private company.
+(16:01) The same conviction built a $45 billion
+(16:03) fund in under two years, but led to a
+(16:06) $35 billion hole in two weeks.
+(16:14) >> Key was leverage, but not so much just
+(16:16) how much he piled on. He did pile on a
+(16:18) lot of leverage. Uh we've reported 4:1
+(16:21) leverage. For every dollar he had, he
+(16:23) borrowed three, four dollars on top of
+(16:25) that. He also used options that kind of
+(16:27) added to the leverage. But, it wasn't
+(16:29) just the leverage. There are a lot of
+(16:30) levered hedge funds, but they usually
+(16:33) trade in less volatile investments,
+(16:36) bonds and such, that kind of thing. So,
+(16:38) you could pile on the leverage if the
+(16:40) underlying investments aren't volatile.
+(16:41) But, if you're going to go long short
+(16:43) AI-related
+(16:45) stocks, it's sort of inevitable that
+(16:47) some point you're going to have some big
+(16:49) setback that's going to lead to a margin
+(16:51) call, that's going to lead to panic,
+(16:53) that's going to lead to what happened
+(16:54) here.
+(16:55) >> That's the mechanism in plain terms.
+(16:56) Borrowed money stacked up on top of some
+(16:58) of the most volatile stocks on the
+(17:00) market. Leopold was running roughly four
+(17:02) times leverage, meaning every dollar of
+(17:04) gain or loss in the underlying stocks
+(17:07) hit the fund's actual equity four times
+(17:09) over. SanDisk, one of the fund's biggest
+(17:12) holdings, plunged 57% in under a a
+(17:15) At four times leverage, a drop like that
+(17:18) can wipe out the equity behind a
+(17:19) position entirely. But, there's another
+(17:22) problem with leverage that's less
+(17:23) intuitive.
+(17:24) Expected returns roughly scale with the
+(17:26) amount of leverage you take. Double the
+(17:28) exposure, and in theory, you double the
+(17:30) return. But, volatility doesn't behave
+(17:33) nearly as nicely. The damage caused by
+(17:35) wild swings can grow faster. With four
+(17:37) times leverage, you're dramatically
+(17:39) increasing the chance that one of these
+(17:40) bad swings destroys enough capital that
+(17:43) you never get to participate in the
+(17:44) recovery. Imagine his thesis proves
+(17:47) correct, and AGI arrives exactly as he
+(17:50) predicted, but only six months later
+(17:52) than the market expected. That doesn't
+(17:54) help if a 50% drawdown happens first.
+(17:56) [music] Your lenders would demand
+(17:58) billions in collateral, and your
+(17:59) positions are forcibly sold. You're out
+(18:02) of the market and in a lot of pain
+(18:04) before your thesis even gets [music] a
+(18:05) chance to play out. With that much
+(18:07) leverage, you better be damn sure that
+(18:09) you're right, and your timing is right,
+(18:11) or else.
+(18:12) >> This sort of investment firm is my hedge
+(18:14) for me. And it's like, you know, either
+(18:16) like AGI this decade, um and yeah, your
+(18:18) human capital is depreciated, but you've
+(18:20) turned that into financial capital. Or,
+(18:22) you know, like no AGI this decade, in
+(18:23) which case maybe the firm doesn't do
+(18:24) that well, but, you know, you're still
+(18:26) in your 20s and you're still smart.
+(18:28) >> [laughter]
+(18:29) >> Excellent.
+(18:30) >> Leopold joked that his own life was
+(18:32) effectively hedged, and human capital
+(18:34) depreciates while his financial capital
+(18:36) grows to compensate. Or, it takes
+(18:38) longer, and he'll be young and sharp and
+(18:40) have enough time to start over. It's a
+(18:41) clever joke. It's also a genuine hedge.
+(18:44) Two outcomes, and he wins either way.
+(18:47) His life plans, however, ended up being
+(18:49) a different story from his hedge fund,
+(18:50) which, ironically, he didn't hedge
+(18:52) properly. The long and short side were
+(18:55) both riding on exactly the same
+(18:56) identical assumption. Buying AI
+(18:58) infrastructure and shorting software
+(19:00) driven by the same AI narrative doesn't
+(19:02) cancel anything out. It actually just
+(19:05) doubles your exposure, and it's a single
+(19:07) idea dressed up as two trades. [music]
+(19:09) So, when things wobbled in July, there
+(19:11) was nothing on the other side of the
+(19:12) books to absorb the hit.
+(19:14) Cliff Asness, a hedge fund manager with
+(19:16) three decades of experience, was asked
+(19:18) what he made of the whole saga. His
+(19:20) answer, borrowed from something he
+(19:21) called the Kelly rule,
+(19:23) is a formula that tells investors how
+(19:25) much to bet based on how confident they
+(19:27) are. His reply, you never go full Kelly.
+(19:30) Full Kelly is essentially the
+(19:31) mathematically aggressive version of
+(19:33) betting according to your estimated
+(19:34) edge. The problem is that the
+(19:36) calculation is only as good as your
+(19:37) assumptions, and in the real world,
+(19:39) those assumptions can be wrong. That's
+(19:41) why investors only bet a fraction of
+(19:43) Kelly instead, sacrificing some
+(19:45) theoretical return for a much better
+(19:47) chance of surviving when reality doesn't
+(19:49) cooperate.
+(19:52) It's still early days for AI, and nobody
+(19:54) can truly know how things play out. LLMs
+(19:57) may never get us to AGI, but a change to
+(19:59) the underlying architecture, or another
+(20:01) computer science invention combined with
+(20:03) LLMs, very well could. We just don't
+(20:05) know. For instance, I've been playing
+(20:07) around with GPT-6 Astra, and I'm blown
+(20:09) away by some of the things that it can
+(20:11) do. It seems that incorporating a loop
+(20:13) token process has improved the model
+(20:14) architecture, but that being said, for
+(20:17) other simple tasks, GPT-6 can still fall
+(20:20) flat on its face. For the average user,
+(20:22) that might not be an issue, but for
+(20:24) applications within mission-critical
+(20:25) corporations, that complicates things,
+(20:27) and it might be a hold up to raking in
+(20:29) those trillions of dollars that the AI
+(20:31) companies have borrowed.
+(20:32) >> [music]
+(20:32) >> Even if Leopold is right, and AGI does
+(20:35) arrive next year, because of his
+(20:36) unbalanced trades and excessive
+(20:38) leverage, it was pretty likely that it
+(20:40) was going to get wiped out when
+(20:41) volatility increased.
+(20:43) Conviction and risk management are
+(20:44) different disciplines, and he learned
+(20:46) that the hard way.
+(20:47) But fortunately for him, it was just a
+(20:49) hard [music] lesson, and not insolvency.
+(20:52) In the end, he kept his fund, he kept
+(20:54) his wife, and apparently, [music]
+(20:56) his following. He lost $35 billion doing
+(20:59) it, but bizarrely, was writing another
+(21:01) nine-figure check just days later.
+(21:03) Maybe that's conviction, and maybe it's
+(21:05) the same blind spot that got him to that
+(21:07) disaster in the first place. But either
+(21:09) way, Silicon Valley isn't worried. But
+(21:12) as a side, the bond markets are. That's
+(21:14) a huge risk and a story for another day.
+(21:17) >> Now, what impact the tech issues having
+(21:19) [music] you think on global yields?
+(21:21) >> This is just one factor among many that
+(21:23) is contributing to higher yields on the
+(21:25) long end and it's something investors
+(21:27) want to be very nimble around.
+(21:28) >> Uh yes, US 30-year, highest level since
+(21:31) 2007
+(21:33) and it points to a number of things.
+(21:35) >> In the latest [music] news, according to
+(21:37) reports, JP Morgan has cut Leopold off.
+(21:40) Well, it makes sense since he lost so
+(21:41) much money, but he's actually back at it
+(21:43) again investing in some of the same
+(21:45) companies that lost him all that money,
+(21:47) SK Hynix and SanDisk. So anyway, what do
+(21:50) you guys think? Is Leopold right about
+(21:52) AGI but just early? Or does his fund
+(21:55) collapsing this badly tell us anything
+(21:56) about how much certainty anyone should
+(21:58) have about where AI industry is going?
+(22:00) Let me know [music] in the comments.
+(22:02) Anyway, hope you enjoyed that. My name
+(22:03) is Dagogo. You've been watching Cold
+(22:05) Fusion and I'll catch you again soon for
+(22:07) the next episode.
+(22:08) If you want to watch something else on
+(22:10) technology or business, feel free to
+(22:12) have a look on the channel. There's
+(22:13) plenty [music] of interesting stuff on
+(22:14) here. All right. Cheers, guys. Have a
+(22:17) good one.
+(22:18) >> Cold Fusion. It's new thinking.

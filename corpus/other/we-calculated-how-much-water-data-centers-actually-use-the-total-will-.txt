@@ -1,0 +1,267 @@
+Title: We Calculated How Much Water Data Centers Actually Use. The Total Will Shock You.
+
+(0:00) There's long been a fight over who gets priority
+(0:03) when it comes to water in the American West.
+(0:06) The arrival of data centers just made it a lot more complicated.
+(0:10) About two-thirds of new data centers under construction
+(0:13) are being built in drought-prone areas.
+(0:16) I would ask the farmers, why do they keep planting more pecan orchards?
+(0:20) That is a bigger water user than the data center.
+(0:22) I hope that those people who support the data centers
+(0:25) can eat computer chips, because
+(0:26) where are they going to get their food from?
+(0:28) Driven by local tax breaks and an industrywide space race to build,
+(0:33) these companies promise they won't add to the water burden.
+(0:35) Daily water usage over the course of an entire year
+(0:40) is roughly equivalent to what a single restaurant would use.
+(0:44) But is that really true?
+(0:46) The water that's used inside the data center itself,
+(0:49) it's only the tip of the iceberg.
+(0:50) We've all noticed our wells have pretty much dried up.
+(0:53) Everything has been so secretive.
+(0:54) They just don’t know. No one knows.
+(0:57) There will be no future without water.
+(1:01) What don't you understand?
+(1:04) We came to El Paso, Texas and southern New Mexico,
+(1:07) where Meta, Oracle, and OpenAI are building massive data centers,
+(1:11) to ask the question:
+(1:13) How much water does the AI boom actually need?
+(1:24) [Roberto Roque] Our goal is to get about 2,000 pounds per acre,
+(1:28) about 50 to 60 pecans per tree.
+(1:31) Roberto Roque is a third-generation pecan farmer in southern New Mexico.
+(1:35) Like many farmers in the Southwest, he's seen his water supply
+(1:39) dry up from years of drought.
+(1:42) And the water’s just going to flood this field?
+(1:44) Yeah, it’s just going to go ahead and flood the whole field.
+(1:46) It's very difficult because instead of relying on
+(1:50) the water that comes from the Rocky Mountains,
+(1:52) we've had to invest into agricultural wells.
+(1:55) And that becomes very expensive.
+(1:58) It's also becoming more complicated
+(1:59) because there's a new water-hungry industry in town: data centers.
+(2:05) [Roberto Roque] If they consume the amount of water that
+(2:07) people are saying that they're going to consume,
+(2:10) then what are we going to eat?
+(2:12) Because agriculture is going to cease to exist.
+(2:16) Roberto lives just a few miles from Project Jupiter,
+(2:20) a 1,400-acre data center campus being built by OpenAI and Oracle.
+(2:25) The companies say it will only require a one-time fill
+(2:28) of some 11 million gallons to start up and cool four buildings.
+(2:33) [Roberto Roque] They like to tell us that it’s going to be
+(2:35) a minimal percentage as compared to what a farmer uses,
+(2:37) but who meters their water? How are we going to know?
+(2:41) They're not telling the community the truth.
+(2:43) They're not being transparent.
+(2:45) Around the country, residents and researchers have been pushing for more transparency
+(2:49) around data centers’ actual water use
+(2:52) by filing public records requests.
+(2:54) But what they're getting back is vague or redacted,
+(2:57) like this water deal in Stafford County, Virginia, for an Amazon data center.
+(3:02) In my home state of Oregon, Google's data center water use numbers
+(3:06) were considered a trade secret.
+(3:08) After a 13-month legal battle, documents revealed
+(3:11) Google was using 1.5 million gallons of water per day,
+(3:15) as much as 40% of the city's entire consumption.
+(3:19) But even that figure is misleading.
+(3:21) [Alex de Vries-Gao] The biggest part of
+(3:24) the water footprint of a data center
+(3:26) is not inside the data center itself.
+(3:28) It's indirect water consumption due to the electricity
+(3:33) that is generated for the data center.
+(3:36) That's the part that these tech companies don't disclose.
+(3:39) But if you're only talking about what's going on on-site,
+(3:43) you're really missing the lion's share of the impact.
+(3:47) This is exactly what farmers and residents
+(3:49) are so worried about on the New Mexico-Texas border.
+(3:53) When we found out that the data center was moving in,
+(3:56) we understood that we were going to lose water.
+(3:59) Veronica Carbajal is a community organizer and attorney
+(4:03) who was born and raised in El Paso.
+(4:05) So that's the Meta data center construction site over there.
+(4:10) They broke ground October of 2025.
+(4:13) Big tech companies are flocking to the Southwest
+(4:15) for cheap land, tax breaks, and power –
+(4:18) and see water scarcity as a solvable problem.
+(4:21) This facility will be a very low water user.
+(4:24) In fact, we have a closed-loop system
+(4:27) that basically just recycles the same water over and over again
+(4:31) as a cooling technology.
+(4:32) In 2025, 20% of El Paso's water use
+(4:36) was just used to cool power plants on the local grid,
+(4:40) and demand is only set to increase as more data centers come online.
+(4:45) But at full buildout, Meta’s new data center
+(4:47) could account for up to 43% of El Paso Electric's peak load.
+(4:52) One new consumer, Meta, wants to use 1,000 megawatts.
+(4:55) That's going to explode the need for water.
+(4:58) I met up with El Paso Water CEO John Balliew,
+(5:01) who is adamant that the concerns over Meta’s water use are overblown.
+(5:06) Meta coming in is really a drop in the bucket.
+(5:09) It adds .4% to the overall water consumption.
+(5:12) So it's not a big deal.
+(5:13) So it's not a big deal.
+(5:14) We have plans in place.
+(5:16) We have a sustainable supply of water.
+(5:19) We've asked them time and again
+(5:21) why they keep speaking out of both sides of their mouth.
+(5:22) To large water users like Meta, they're saying,
+(5:25) “Don't worry, we have plenty of water.”
+(5:28) And then to residents, they say, “We have to raise your rates
+(5:30) because we don't have water.”
+(5:32) [Dan Lieberman] In fact, it's the 11th year in a row
+(5:34) that El Paso Water has imposed rate hikes on residents,
+(5:38) with a double-digit rate increase in 2026.
+(5:41) At a city council meeting this past June,
+(5:44) fed-up residents demanded the city cancel its deal with Meta.
+(5:48) The most violent act of this deal is the sale of water.
+(5:52) In a desert region facing climate collapse,
+(5:54) the oligarchy has decided that water is a commodity
+(5:57) to be sold to a data center for profit.
+(5:59) But the city council voted 5-3 to keep the deal.
+(6:03) With the numbers being as large as they are,
+(6:06) we might find that a lot more people would start protesting
+(6:09) if they figure out just how big of an impact
+(6:12) these data centers are having.
+(6:14) Alex de Vries-Gao has written numerous peer-reviewed studies
+(6:18) on data center water usage.
+(6:19) In my research I found that on average,
+(6:23) the water that is consumed
+(6:26) to generate the power that's ultimately used by data centers
+(6:30) is ten times higher than the water that's actually consumed
+(6:34) inside the data centers themselves.
+(6:36) But they generally don't report on it.
+(6:39) Only Meta provides this number,
+(6:41) and in their case, their indirect water footprint
+(6:44) is 24 times larger than what they consume
+(6:46) inside the data centers itself.
+(6:48) [Dan Lieberman] The numbers are shocking,
+(6:50) and it's unclear if local leaders making the decisions
+(6:53) are even aware of them.
+(6:55) So we're at a community meeting being held by a city councilwoman.
+(6:59) We reached out to her to ask for an interview, but she declined.
+(7:02) But we're going to see if she can talk to us anyway.
+(7:06) Cynthia Boyar Trejo, she is the city representative
+(7:10) where the Meta data center is located.
+(7:12) And despite over 200 people showing up to City Hall,
+(7:17) she voted in favor of Meta.
+(7:20) We came here to try to speak to the city councilwoman about
+(7:23) this deal that they have with Meta
+(7:27) and the water commitments that the city has made
+(7:30) to guarantee Meta water.
+(7:33) She's right behind us, but she won't make herself available to speak with us.
+(7:38) Can you guys do, like, your interview outside?
+(7:41) – Outside? – Yes, sir.
+(7:42) OK, why?
+(7:43) She’s not comfortable with you guys doing this interview here.
+(7:46) OK. We’ll leave. Yeah.
+(7:49) I mean, we just want to ask the councilwoman about
+(7:52) how much water Meta and Project Jupiter are going to be taking from the community.
+(7:57) Why do you think she won't answer these questions?
+(7:59) I don't think anybody knows.
+(8:01) The council doesn't know.
+(8:02) Meta hasn't been able to answer those questions.
+(8:06) What's happening in El Paso is that
+(8:09) economic power is concentrated in a handful of people.
+(8:13) We in El Paso and the Borderplex region
+(8:15) need to get on the AI bandwagon.
+(8:18) They're private people with private businesses
+(8:21) who are recruiting other corporations and businesses to El Paso.
+(8:25) And it's a pay-to-play system.
+(8:27) One example: Local businessman Lane Gaddy
+(8:30) sits on the El Paso Water board,
+(8:32) which is providing water for Meta’s $10 billion data center.
+(8:36) At the same time, he sold the rights to an undisclosed amount of water
+(8:40) to Oracle's Project Jupiter, from his own New Mexican sod farm.
+(8:44) When I asked Gaddy if he would speak on the record,
+(8:47) he told me he was under an NDA.
+(8:49) Is that a conflict of interest?
+(8:51) [Veronica Carbajal] This one is a clear one.
+(8:53) When you sit on a board that deals directly with water,
+(8:57) then you have a conflict.
+(8:59) The tech companies say they have nothing to hide,
+(9:01) and local officials take them at their word.
+(9:04) But on the other hand,
+(9:05) I'm getting kicked out of public meetings
+(9:07) and running up against NDAs.
+(9:10) Nationwide, huge decisions are being made about data centers’ water use
+(9:14) based on numbers and technical details no one can seem to agree on,
+(9:18) or are willing to openly discuss.
+(9:22) But one person agreed to talk to me.
+(9:25) Jerry Pacheco leads the Border Industrial Association, a trade and advocacy group.
+(9:31) This is an industry that's moving by the minute.
+(9:33) Companies have high stakes, billions and billions of dollars,
+(9:37) of getting there first with their data centers.
+(9:39) Oracle's going to compete against Meta, compete against Google.
+(9:43) All of these firms are competing to be the next wave.
+(9:46) [Dan Lieberman] But there's a lot of water at stake here, too.
+(9:49) Doesn't the community have a right to say, hold on – [crosstalk]
+(9:52) – before we say yes, tell us how much water you're using.
+(9:55) That's what I have heartburn with.
+(9:56) They're telling us what the water usage is, OK?
+(9:59) But de Vries-Gao made it clear: they're not.
+(10:03) He calculated that the total water consumption of AI systems
+(10:06) might already be around 200 billion gallons annually –
+(10:10) close to two times the world’s supply of bottled water.
+(10:13) And it's not just his figures that are staggering.
+(10:15) According to a recent U.N. report, data centers’ electricity consumption in 2025 alone
+(10:21) had a water footprint of about 1.2 trillion gallons.
+(10:26) That's enough to fill two million Olympic-size pools.
+(10:29) We see that the tech companies are not just not disclosing numbers,
+(10:33) they are actively lobbying against disclosure.
+(10:37) In Texas, lawmakers sent a survey to 341 data centers
+(10:41) asking about their water use.
+(10:43) Only 17% replied.
+(10:45) I'm just trying to find a solution to the obvious problem
+(10:48) that we're not getting compliance.
+(10:49) It's woefully inadequate, and we need that information.
+(10:52) In New Mexico, four Democratic lawmakers
+(10:55) are pushing for a statewide moratorium
+(10:57) to block large projects like Project Jupiter
+(11:00) until the state sets guardrails for evaluating water usage and other impacts.
+(11:05) And at least eight other states have introduced bills
+(11:08) that require water-use reporting.
+(11:11) But even if these companies start to fess up about water use,
+(11:14) residents are still left footing the bill
+(11:17) for the new infrastructure needed to sustain it.
+(11:20) We're going to get an impact fee from Meta
+(11:23) that represents a small percentage of the actual cost
+(11:27) that we're incurring to provide that service.
+(11:29) [Dan Lieberman] So this huge project that's requiring
+(11:32) a lot of infrastructure, water,
+(11:35) a lot of new demand on the system,
+(11:37) residents of El Paso have to pay for that?
+(11:39) Yeah.
+(11:40) Residents of a El Paso would be subsidizing any kind of new growth.
+(11:44) You can't pick and choose.
+(11:45) You can't pick and choose.
+(11:45) You have to apply the same yardstick for everybody.
+(11:48) So while residents get stuck with the bill, and their water future is in peril,
+(11:53) leaders across the region seem to have bargained
+(11:55) that the economic development will be worth it.
+(11:59) Project Jupiter are occupying our industrial space
+(12:02) and creating jobs and creating that multiplier effect.
+(12:05) And again, I compare that –
+(12:06) how many people work on a 100-acre pecan farm?
+(12:10) Where’s the economic value of how you account for the water?
+(12:13) Yeah. I mean, I guess the question though is,
+(12:15) is economic value when it comes to water
+(12:18) the only thing that matters?
+(12:19) If you're not considering economics,
+(12:21) then you're not allocating your resources to the most efficient use possible.
+(12:25) But residents aren't giving up.
+(12:27) If we continue to delay and raise awareness
+(12:31) and tell our stories,
+(12:33) I believe firmly that we can stop these projects.
+(12:36) What we've seen over and over is
+(12:38) candidates as well as elected officials losing because of the data centers.
+(12:43) The data centers are on the ballot in November
+(12:46) at the city, at the county, at the state, at the federal level.
+(12:50) We don't think that any opponent is larger than the power of the people.
+(12:54) Thanks for watching.
+(12:55) Don't forget to like this video and subscribe to our channel.
+(12:58) If you want to support our journalism so we can create more videos like this one,
+(13:02) join our membership program as a paid YouTube subscriber today.
+(13:06) You'll get exclusive perks,
+(13:08) including invites to members-only live streams
+(13:10) with the More Perfect Union team.
+(13:12) We're going to keep following this story.
+(13:14) If you have any tips for us, please reach out to us at stories@perfectunion.us.

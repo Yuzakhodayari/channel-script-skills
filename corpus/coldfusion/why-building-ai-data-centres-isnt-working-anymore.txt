@@ -1,0 +1,808 @@
+Title: Why Building AI Data Centres Isn’t Working Anymore
+
+(0:00) Hi. Welcome to another episode of
+(0:02) ColdFusion. $650 billion.
+(0:05) That's the amount four tech companies
+(0:07) were expected to spend in 2026 alone for
+(0:10) new data centers.
+(0:11) >> [music]
+(0:12) >> To put $650 billion into perspective,
+(0:15) stack that amount in a $100 bills and
+(0:17) the pile would rise 710 km, clearing the
+(0:20) orbit of the International Space Station
+(0:22) by over 300 km. And the plan is to get
+(0:25) this number up to 9 trillion by 2030.
+(0:29) And yet with so much money allocated to
+(0:31) this, nearly half of the data centers
+(0:32) planned to open in the US this year have
+(0:34) already been delayed or canceled
+(0:36) outright. According to a report by
+(0:38) Bloomberg, around 140 data center
+(0:40) projects were supposed to open in the US
+(0:42) this year. Together, they represent
+(0:44) roughly 12 gigawatts of computing power,
+(0:47) enough energy to power 9 million homes.
+(0:49) But there's a problem. So far, a third
+(0:52) of them are actually being built. The
+(0:54) rest just sits entirely on paper, press
+(0:56) releases and announcements.
+(0:58) >> [music]
+(0:58) >> In another report by the Financial
+(1:00) Times, the data centers that are
+(1:01) actually being built will likely face
+(1:03) major delays. The companies involved in
+(1:06) building them may deny that there are
+(1:07) any delays, but satellite imagery says
+(1:10) otherwise.
+(1:11) >> But if you go and look at Microsoft, for
+(1:12) example, none of the data centers that
+(1:14) they have announced have broken ground
+(1:16) since 2023 have actually been finished.
+(1:21) The Fairwater data centers, they are
+(1:23) con- they've said that that was fully
+(1:24) complete. It's not even half complete.
+(1:27) It's one of the strangest things I've
+(1:29) seen in history.
+(1:30) >> But beyond just the completion issue,
+(1:31) the general public hates data centers.
+(1:34) Between infrasound noise making people
+(1:36) sick, polluted water, higher energy
+(1:38) costs,
+(1:39) >> [music]
+(1:39) >> and a myriad of other problems, people
+(1:41) have had enough. Because who's actually
+(1:43) paying the price? Not the shareholders,
+(1:46) not the companies collecting tax breaks.
+(1:48) It's ordinary people, homeowners,
+(1:50) families,
+(1:51) >> [music]
+(1:51) >> communities, those who happen to live a
+(1:53) few hundred meters from one of these
+(1:55) facilities. They never got much say in
+(1:57) the matter.
+(1:58) So, here's the question. If the world is
+(1:59) spending so much money on AI
+(2:01) infrastructure, how is it possible that
+(2:03) that very infrastructure itself is
+(2:05) falling apart before it even gets built?
+(2:07) And is this finally the sign that many
+(2:09) have been predicting?
+(2:11) Let's get into it.
+(2:12) >> [music]
+(2:13) >> You are watching ColdFusionTV.
+(2:18) >> [music]
+(2:20) >> I love to hear your perspective, not on
+(2:22) the spend, but on the return needed to
+(2:24) make those numbers work.
+(2:26) >> They'll never get it.
+(2:28) Yeah, they're they're they're just
+(2:29) away that money.
+(2:33) Right, we're going to spend a trillion
+(2:35) dollars cuz we need all this data center
+(2:37) capacity. Some of them are spending more
+(2:39) cash than they have available.
+(2:41) >> They're away the money at
+(2:42) scale.
+(2:44) It's hard to do, right? But
+(2:46) >> [laughter]
+(2:47) >> When the AI boom exploded into public
+(2:49) [music] consciousness with ChatGPT in
+(2:51) late 2022, the race to build the
+(2:53) underlying infrastructure became almost
+(2:56) frenzied. Data centers became the
+(2:58) hottest asset class on the planet.
+(2:59) Investors poured in and governments
+(3:01) competed.
+(3:03) Nowhere was the build-out more intense
+(3:05) than the United [music] States. Last
+(3:06) year, it was estimated that 92% of US
+(3:09) GDP growth came from data center
+(3:12) spending. If you remove AI
+(3:13) infrastructure, the rest of the economy
+(3:15) grew by 0.1%.
+(3:18) That's why the stock market skyrocketing
+(3:20) felt so out of touch.
+(3:22) And to give you an idea of where we're
+(3:23) at, the shoe company Allbirds recently
+(3:26) announced that they're pivoting to focus
+(3:27) on leasing AI data center equipment. It
+(3:30) made no sense, but their stock rallied
+(3:32) 580% as a result. All the signs are
+(3:35) here. Data centers are in vogue.
+(3:38) The pitch was simple. AI gets smarter
+(3:40) the more computing power you give it.
+(3:42) Computing power [music] comes from data
+(3:44) centers. So, let's build data centers
+(3:46) fast. In the US alone, the number of AI
+(3:49) data centers went from essentially zero
+(3:51) a decade ago to somewhere between 4,000
+(3:53) and 5,400 today. The pace and scale of
+(3:57) the build-out was so violent that more
+(3:59) money has been committed to data centers
+(4:01) in 6 years than was given to the
+(4:02) Marshall Plan to rebuild Europe after
+(4:04) World War
+(4:05) >> [music]
+(4:05) >> II, the Manhattan Project to build the
+(4:07) atomic bomb, the entire Apollo program,
+(4:09) and the cost of the International Space
+(4:11) Station combined with a $120 billion
+(4:14) extra left over.
+(4:16) All of this spending for a business plan
+(4:18) that isn't even solid yet. And besides,
+(4:21) GPUs rapidly become outdated, [music]
+(4:23) and they become expensive to keep
+(4:24) replacing. I'm not saying that AI is
+(4:26) never going to work, but is it going
+(4:29) [music] to be profitable in the time
+(4:31) frame that's needed for funding not to
+(4:32) completely collapse? It's looking less
+(4:35) likely. It's perfectly possible that
+(4:37) this is all a huge waste of money.
+(4:40) >> So, when you think about all these
+(4:41) people spending all this money, look, if
+(4:44) you're the best programming, you know,
+(4:46) like Claude is, and that's your niche,
+(4:48) great. But I don't know what the niche
+(4:50) of these other ones are. Do you?
+(4:53) >> No.
+(4:54) >> More than two of these facilities were
+(4:55) being built every single week at the
+(4:57) peak of the boom. States like Virginia,
+(4:59) Texas, [music]
+(5:00) Georgia, and Arizona were rolling out
+(5:02) the red carpet. The tax breaks made the
+(5:05) data center business even more
+(5:06) attractive. [music] Texas, for example,
+(5:08) handed out over $1 billion in incentives
+(5:10) for the Stargate project alone. The $500
+(5:13) billion Open AI and Oracle AI campus in
+(5:15) Abilene.
+(5:17) Virginia, home to what's known as Data
+(5:18) Center Alley in Loudoun County, saw 56
+(5:21) data center projects [music] receive
+(5:22) nearly a billion dollars in tax savings
+(5:24) in a single fiscal year.
+(5:27) The promises attached to all of this
+(5:28) were enormous. Thousands of jobs, a new
+(5:31) digital industrial revolution. One
+(5:33) analyst compared it to the railroad boom
+(5:35) of the 19th century. [music] The
+(5:36) reality, however, is very different.
+(5:39) The companies bringing in these
+(5:40) facilities often receive property tax
+(5:42) abatements for years, meaning the local
+(5:45) community absorbs the infrastructure
+(5:46) costs without the tax revenue in return.
+(5:50) One report found Oregon schools lost 275
+(5:53) million in potential tax income due to
+(5:55) these [music] abatements.
+(5:56) And those jobs that were promised, well,
+(5:58) they rarely materialized at the scale
+(6:00) suggested. [music]
+(6:01) Even the largest data centers typically
+(6:03) employ fewer than 150 permanent workers.
+(6:07) The construction jobs are real and
+(6:08) well-paid, but they're temporary and
+(6:10) many are filled from people outside the
+(6:12) state.
+(6:13) The true cost on communities [music] has
+(6:15) been baffling and we'll expand on this
+(6:17) further in the next chapter, but we'll
+(6:18) also see where the big data center
+(6:20) build-out starts to fall apart.
+(6:23) Now, you may not be transferring
+(6:24) hundreds of billions to buy a data
+(6:26) center, but if you're looking for a
+(6:27) simple and secure way to manage your
+(6:29) finances, then Revolut is a good option.
+(6:32) Revolut is an all-in-one finance app
+(6:34) designed to simplify spending at home
+(6:35) and abroad. Over 75 million people are
+(6:38) already on it. You can get $40 when you
+(6:40) sign up to Revolut and make your first
+(6:42) purchase. The offer is available in
+(6:44) multiple countries, so check out the
+(6:46) link in the description or the QR code
+(6:48) on screen to learn more. One of their
+(6:50) unique features [music] is how easy it
+(6:51) is to generate single-use virtual cards,
+(6:54) helping protect your payments whenever
+(6:55) you're shopping online.
+(6:56) >> [music]
+(6:56) >> Because whenever you're making an online
+(6:58) payment, it generates a one-time card
+(7:00) number that can't be reused. [music]
+(7:02) It massively reduces your risk of your
+(7:03) card details being exposed online. On
+(7:05) top of that, you can send or request
+(7:07) money, make [music] payments, and split
+(7:09) bills on the spot, even across different
+(7:11) countries and currencies. [music] It
+(7:13) just removes a lot of friction
+(7:14) day-to-day. And then there's the card
+(7:16) itself. You can customize it in the app
+(7:18) and add it straight [music] to Apple Pay
+(7:19) or Google Pay and make payments
+(7:21) instantly or upgrade to their metal plan
+(7:23) for a premium-looking clean stainless
+(7:25) steel card. Revolut lets you organize
+(7:27) all your finances in one place, instead
+(7:29) of juggling multiple apps, accounts, and
+(7:31) expensive fees. [music] So again, if you
+(7:33) want to check it out, you can get $40
+(7:35) when you sign up and make your first
+(7:37) purchase. Just hit the link in the
+(7:38) description or scan the QR code on
+(7:40) screen to learn more. Thanks to Revolut
+(7:42) for supporting ColdFusion. And now, back
+(7:44) to the story.
+(7:46) >> The AI bubble is about to burst because
+(7:48) the hyperscalers, as they're called,
+(7:50) [music]
+(7:50) have used up all their own cash and are
+(7:53) now borrowing money. They are
+(7:55) effectively net debtors at a time when
+(7:58) they're spending
+(8:00) huge volumes of money on data centers
+(8:03) without having any guarantee that
+(8:05) they're going to earn
+(8:07) uh
+(8:07) >> [music]
+(8:08) >> profits from that.
+(8:09) And it's that worry that actually there
+(8:11) isn't money to be made in that business,
+(8:13) [music] which is gradually dawning on
+(8:16) investors. And that's going to be why
+(8:18) they are going to pull away. In fact,
+(8:20) there's already signs of people
+(8:22) withdrawing from the AI sector because
+(8:24) they fear that this is a bubble. It
+(8:26) seems [music] to be utterly inevitable.
+(8:28) The question is only when.
+(8:31) >> So, what went wrong?
+(8:32) Well, the answer is a few things all at
+(8:35) once. So, bear with me here as I try to
+(8:37) get through them. At the top of the list
+(8:39) is supply. Power is the first bottleneck
+(8:42) for these data [music] centers. They're
+(8:43) extraordinarily power hungry. One single
+(8:46) large hyperscale facility can consume as
+(8:48) much electricity as a city of 200,000
+(8:51) homes. And the modern AI chips driving
+(8:53) modern data centers, the GPU racks
+(8:55) running models like Claude, Gemini,
+(8:57) ChatGPT, and Grok [music]
+(8:59) use significantly more power than the
+(9:01) servers that came before them.
+(9:03) According to Sideline Climate, around
+(9:05) 25% of planned 2026 projects haven't
+(9:09) even disclosed how they plan to power
+(9:10) themselves, which to me is insane. To
+(9:13) add to this, all the main electrical
+(9:15) components need to run these facilities,
+(9:17) [music] the transformers, switchgear,
+(9:19) batteries, they're all in critically
+(9:21) short supply, and the majority [music]
+(9:23) of which are imported from China. As
+(9:25) Bloomberg puts it, "America's data
+(9:28) center buildout hinges on Chinese
+(9:30) imports." High power transformers from
+(9:32) China surged from fewer than 1,500 units
+(9:35) in 2022 to over 8,000 units in 2025.
+(9:39) But, with geopolitical tensions and
+(9:41) [music] tariffs disrupting supply
+(9:43) chains, that pipeline has become
+(9:45) unreliable. As one analyst put it, "If
+(9:47) one piece of your supply chain is
+(9:49) delayed, your whole project can't
+(9:51) deliver." [music]
+(9:52) Even skilled labor is a big issue. As
+(9:54) this tweet puts it, {quote} "Meta can't
+(9:57) hire fiber technicians fast enough, so
+(9:59) now they're training them for free."
+(10:01) {end quote}
+(10:02) And that's because they need the people
+(10:03) fast. So, basically, these tech giants
+(10:06) aren't only short on equipment, but the
+(10:08) people required to install them.
+(10:10) The second big reason is the true cost
+(10:12) of [music] these data centers. The
+(10:13) community suffers.
+(10:15) There's some crazy stats and stories
+(10:17) we're going to cover here. In Virginia,
+(10:19) it's estimated that residents are
+(10:20) already breathing in the exhaust gases
+(10:22) of 10,000 diesel generators.
+(10:25) In Utah, there was an approval for a
+(10:26) 40,000-acre AI data center that would
+(10:29) expel the heat equivalent of 23 atomic
+(10:31) bombs into the surrounding valley every
+(10:33) day.
+(10:34) Upon its announcement, people went
+(10:36) bananas. The owner of the data center,
+(10:39) Kevin O'Leary, decided to shrink it to
+(10:41) half the [music] size, citing that he
+(10:42) had no choice.
+(10:44) According to the UN, data centers will
+(10:46) use as much water as 1.3 billion people
+(10:49) by 2030. [music]
+(10:51) The scale of some of these projects is
+(10:52) baffling. A lot of people don't realize
+(10:54) the magnitude of what's going on.
+(10:56) >> The kind of AI data center that it's
+(10:58) constructing now in Louisiana is nearly
+(11:00) 400 [music] times the size in footprint
+(11:04) of the first data center that it built
+(11:05) to support Facebook, its [music] social
+(11:07) media platform. And that data center is
+(11:10) on track to be 1/5 the size of
+(11:12) Manhasset.
+(11:13) >> [music]
+(11:13) >> And it is on track to use around 5
+(11:15) gigawatts of power, which is nearly the
+(11:17) average power demand of London.
+(11:20) That's it's it's one facility that would
+(11:22) use the average power demand of a city
+(11:26) like London.
+(11:27) >> Wow.
+(11:28) >> Meta wants to build more than one of
+(11:29) these facilities, and of course, every
+(11:31) single one of its competitors wants to
+(11:32) build.
+(11:32) >> that's just Meta.
+(11:33) >> That's just one facility for Meta.
+(11:37) >> He used that Meta data center in person,
+(11:39) so he can really see the scale.
+(11:41) >> You can start to see the lights from
+(11:42) back here.
+(11:46) I knew they were starting this, but I
+(11:47) didn't know it was this impactful. Look
+(11:49) at all the semi trucks, all the cement
+(11:51) [music] trucks you'll drive by, and it
+(11:52) just keeps going
+(11:55) and going, it continues on for more
+(11:58) and more. This Meta AI data center that
+(12:01) they are putting in here that's taking
+(12:03) up all of this beautiful farmland that
+(12:06) we will never be able to replace, it's
+(12:08) only going to employ 1 to 500 people.
+(12:12) So, all this
+(12:14) for about the same amount of jobs as my
+(12:16) local Walmart.
+(12:18) >> While writing this episode, I had a
+(12:20) researcher from North Carolina reach out
+(12:21) to me, and they were working on a data
+(12:23) center documentary.
+(12:24) This next clip will give you an idea of
+(12:26) just how much permanent damage can be
+(12:27) done to water via the cooling systems.
+(12:29) >> How much water is this thing going to
+(12:31) use? And he said 2 million gallons a
+(12:34) day.
+(12:35) >> Well, what about the the the
+(12:37) contaminants, [music] the forever
+(12:38) chemicals?
+(12:40) >> We do know that they have to put
+(12:42) additives, just like your car radiator,
+(12:44) you have to put antifreeze in there to
+(12:47) keep it from overheating or keep it from
+(12:49) freezing. The additives generally be
+(12:51) things like PFAS that won't stick
+(12:53) [music] to metals, but also can't be
+(12:55) removed from the water when it goes to a
+(12:58) treatment plant.
+(12:59) >> If you want to watch the documentary,
+(13:00) I'll leave a link for it below. The data
+(13:02) centers that did get built left a trail
+(13:04) of grievances across the country.
+(13:06) Residents living near facilities in
+(13:08) Virginia, Georgia, and Texas report a
+(13:11) consistent low frequency hum from the
+(13:13) cooling system.
+(13:17) Noise that vibrates through walls and
+(13:18) disrupts sleep. One resident in
+(13:20) Manassas, Virginia, spent $200,000 on
+(13:23) installation and new windows and still
+(13:26) can't escape the drone. In Georgia,
+(13:28) families started finding heavy sediment
+(13:30) in their taps after construction began
+(13:32) nearby. And if somehow you can get
+(13:34) through a good night's rest, you might
+(13:35) wake up to an envelope with a massive
+(13:37) electricity bill, and that's just to
+(13:38) ruin the rest of your day. The Georgia
+(13:40) Power Utilities company raised rates six
+(13:43) times. That's right, six times between
+(13:46) 2023 and 2025, a 24% jump, and that's
+(13:50) because of data center demand. During
+(13:52) that period, how many times do you think
+(13:54) the wages of the residents in that area
+(13:56) had risen? I can safely bet it's not
+(13:59) six.
+(14:00) In Oregon, Pacific Power consumers saw a
+(14:02) 50% increase in their bills since 2020.
+(14:05) >> I think that we all collectively should
+(14:07) just stop paying our electric bill,
+(14:08) because this is getting out of hand.
+(14:10) There has to be something that we
+(14:11) collectively can do. $814
+(14:14) for 1 month of electric? This is
+(14:16) ridiculous. How do they expect people to
+(14:18) be able to keep their lights on when the
+(14:20) bill [music] is half of my mortgage?
+(14:22) >> Sometimes it feels like a rush to see
+(14:24) who can destroy the world the fastest.
+(14:26) >> You know, I think AI will probably,
+(14:28) like, most likely sort of lead to the
+(14:30) end of the world, but in the meantime,
+(14:32) uh, there will be great companies
+(14:33) created with serious machine learning.
+(14:35) >> And then we all know about the RAM
+(14:37) issue. Chip markets have been thrown
+(14:38) into complete chaos. I've already done
+(14:40) an episode on this, but AI data centers
+(14:43) are absorbing an estimated 70% of all
+(14:46) global DRAM production capacity in 2026,
+(14:48) and consumers suffer as a result. A
+(14:51) standard 64GB DDR5 memory kit went from
+(14:54) $190 to over $700 in just 3 months. And
+(14:59) Sam Altman was to thank for that one. He
+(15:01) promised to purchase 40% of global DRAM
+(15:04) output from two manufacturers
+(15:05) simultaneously, apparently without
+(15:07) either one knowing about each other.
+(15:09) When Micron learned the commitment
+(15:10) wasn't legally binding, its stock
+(15:12) dropped 22% in a single day.
+(15:15) So naturally, all of this has led to
+(15:17) backlash. Data center cancellations due
+(15:19) to local opposition quadrupled in 2025.
+(15:23) According to intelligence from the
+(15:24) platform Heatmap Pro, at least 25
+(15:27) projects were canceled that year due to
+(15:28) community backlash, up from just six in
+(15:31) 2024. And that number is accelerating.
+(15:34) The will of the people may not last
+(15:36) because the US government is watching
+(15:38) this backlash closely, and the FBI has
+(15:39) classified anti-AI sentiment as an
+(15:41) emerging terrorist threat.
+(15:43) >> If you've criticized AI or data centers,
+(15:45) you may now be considered a domestic
+(15:48) terrorist. US law enforcement warns of
+(15:51) anti-tech extremism. The chaotic
+(15:54) atmosphere that may result from emergent
+(15:56) AI technology in the next 5 years may
+(15:58) fuel large-scale protests that devolve
+(16:01) into civil unrest and anti-tech violent
+(16:04) extremist [music]
+(16:04) activity. So, if you have ever protested
+(16:08) AI publicly, you are now on a list.
+(16:11) >> But despite the potential of ending up
+(16:13) on an FBI watchlist, people are fighting
+(16:15) back.
+(16:16) >> THEY CANCELED IT!
+(16:18) >> THEY WHAT?
+(16:19) >> THEY CANCELED IT!
+(16:21) >> [cheering]
+(16:24) >> WE ARE GOING TO BE FIGHTING
+(16:26) AGAINST DATA CENTERS EVERYWHERE IN NEW
+(16:29) JERSEY.
+(16:31) >> A RECENT Quinnipiac survey found a 65%
+(16:34) of Americans now oppose data centers
+(16:36) being built in their communities. Maine
+(16:38) became the first US state to pass a
+(16:40) statewide ban on data center
+(16:42) construction, prohibiting new builds
+(16:44) until late 2027.
+(16:46) 13 other states are now considering
+(16:48) similar measures.
+(16:50) This has become a kitchen table issue.
+(16:52) Rising electricity bills, water use, and
+(16:54) a sense that decisions are being made
+(16:56) behind closed doors without any
+(16:58) community input.
+(16:59) >> One small town voted to prevent an AI
+(17:01) data center from being built, but
+(17:03) construction went ahead anyway. The town
+(17:06) was sued by the developer, and a small
+(17:09) town like Saline Township wouldn't be
+(17:10) able to defend itself in a lawsuit.
+(17:13) >> Illinois just approved a data center the
+(17:15) size of 600 football fields. It will
+(17:18) consume more than half the amount of
+(17:20) electricity as the entire city of
+(17:22) Chicago. But, the silver lining to this
+(17:24) is that hundreds of community members
+(17:26) came out to say no against this
+(17:28) proposal. But, unfortunately, the city
+(17:31) just didn't give a and approved it
+(17:33) anyway. Remember, these are the same
+(17:35) people that tell you to take shorter
+(17:37) showers.
+(17:38) >> And this all isn't just happening in the
+(17:39) US.
+(17:40) >> [music]
+(17:40) >> In Australia, where I live, for some
+(17:42) reason, we're planning to be the second
+(17:44) largest data center [music] hub in the
+(17:45) world.
+(17:46) >> A quarter of Sydney's drinking water
+(17:48) will soon be needed to power 270 new AI
+(17:52) data centers. [music] Australia is
+(17:54) getting set up to become the second
+(17:57) biggest data center location in the
+(17:58) world.
+(18:00) >> I'm in Westfoot gray, and this is just
+(18:02) one of the many data centers that have
+(18:04) popped up around the area.
+(18:05) >> We call it Mordor because it's so
+(18:07) imposing over the whole neighborhood.
+(18:08) You can literally see it from every
+(18:09) corner.
+(18:10) >> Australia's data centers are projected
+(18:12) to use more new electricity than all of
+(18:14) the country's homes and EVs over the
+(18:16) next 15 years, and they have the
+(18:18) potential to drive up power prices.
+(18:19) [music]
+(18:20) >> It's turned the opposition for data
+(18:21) centers into a universal rallying cry,
+(18:23) even in today's political landscape.
+(18:26) Microsoft, meanwhile, has slowly
+(18:28) canceled or deferred up to 2 gigawatts
+(18:31) of planned data center capacity
+(18:32) globally. Analysts at TD Cowen described
+(18:35) the pullbacks as pointing to, quote,
+(18:37) [music] data center oversupply relative
+(18:39) to current demand forecasts, end quote.
+(18:42) The famous Oracle Open AI startup
+(18:45) campus, the one in Texas, reportedly
+(18:47) quietly stalled its expansion amid
+(18:49) ongoing supply and financial
+(18:51) complications.
+(18:52) Of course, they had to do it quietly
+(18:54) because the speculation of the dreaded B
+(18:56) word is just around the corner, the
+(18:58) bubble.
+(19:02) So, is the bubble popping? Uh, kind of.
+(19:04) Probably not in the dramatic 2008-style
+(19:07) collapse sense, but it's definitely a
+(19:08) strong reality check. I've touched on
+(19:10) this a few times in previous episodes,
+(19:12) but there's a structural problem here.
+(19:14) These investments are being made on the
+(19:16) assumption that AI demand will grow
+(19:18) exponentially and indefinitely. [music]
+(19:20) It's still a big bet because the
+(19:22) infrastructure spending is very real,
+(19:24) but the returns, they're still
+(19:25) speculative. For example, something as
+(19:28) simple as open-source models could
+(19:29) derail the whole thing. Who would pay
+(19:31) $20 or $200 a month to get something
+(19:33) that's only 20% better than an
+(19:35) open-source model that's free? If
+(19:37) there's much cheaper or free models that
+(19:39) are 80% as good, company spending $1
+(19:42) trillion to train frontier models seems
+(19:44) ridiculous in comparison.
+(19:46) >> We are talking in an industry that has
+(19:47) absorbed over a trillion dollars in the
+(19:49) last 3 years. The media attention from
+(19:52) everyone and these continual stories
+(19:54) about the magic of AI, but when you say,
+(19:57) "Hey, is it making any money?" They go,
+(19:58) "Oh, no. Oh, we couldn't possibly. Uh we
+(20:01) we don't do that yet, but don't worry.
+(20:03) Um Uber lost a lot of money. Uber burned
+(20:05) about $32 billion, which is less than
+(20:08) half of what Anthropic has raised in the
+(20:09) last 6 months.
+(20:11) >> But all of this hasn't stopped the talk
+(20:13) of building data centers in space, but
+(20:15) that's a story for another day. In terms
+(20:17) of financing, the situation has become
+(20:19) uncomfortable. It does echo previous
+(20:21) cycles. Around $34 billion in data
+(20:24) center bonds were issued recently with
+(20:26) 84% of them being rated A. That's a very
+(20:29) safe level, low enough risk for pension
+(20:31) funds to buy.
+(20:33) But there's something fishy here. Those
+(20:35) A-rated bonds are paying eight, nine, or
+(20:38) sometimes 12% interest. That is junk
+(20:41) bond level rates, and that implies
+(20:43) there's a huge amount of risk. It's risk
+(20:45) that credit ratings haven't acknowledged
+(20:47) yet. And now, where have we seen this
+(20:49) before? Hint, it rhymes with blue
+(20:52) thousand and eight crisis. But this time
+(20:54) though, it's not systematic in banks,
+(20:56) but more so private investors and
+(20:57) groups.
+(20:59) The AI build-out assumed infinite
+(21:01) political tolerance, infinite grid
+(21:03) capacity, infinite supply chains, and
+(21:06) infinite community patience. None of
+(21:08) these assumptions held.
+(21:10) At this point, this is what the AI data
+(21:12) center build out kind of feels like.
+(21:14) >> And in tech news, Open AI launched
+(21:16) construction of a new data center in
+(21:18) Greenville, Tennessee on top of a sick
+(21:20) child today. The artificial intelligence
+(21:22) company announced the data center will
+(21:23) be positioned in the heart of the small
+(21:26) race car themed bedroom where 8-year-old
+(21:28) Billy Treacher fights a rare kidney
+(21:30) disease on a daily basis. Engineers and
+(21:33) surveyors began laying the groundwork
+(21:34) for the data center this week, which
+(21:36) they say will unleash up to 10 gigawatts
+(21:38) of power annually once fully up and
+(21:40) running on top of Stan and Rebecca
+(21:42) Treacher's only child. Open AI
+(21:44) executives say they plan on expanding
+(21:46) out from Billy's sleeping area to his
+(21:48) play and reading areas, as well as to
+(21:50) the corner of his room where his mother
+(21:52) sits in a rocking chair praying for her
+(21:54) son's survival every night, all to
+(21:56) guarantee ample space for their 10-ton
+(21:58) processors to operate.
+(22:00) >> To further understand how badly the
+(22:01) build out is going, here's a quick
+(22:03) story.
+(22:03) >> [music]
+(22:03) >> In June 2025, Fermi America, co-founded
+(22:07) by former US Energy Secretary Rick
+(22:09) Perry, announced Project Matador, later
+(22:12) rebranded as the President Donald J.
+(22:13) Trump Advanced Energy and Intelligence
+(22:16) Campus,
+(22:17) a 17-gigawatt AI mega project in the
+(22:19) Texas Panhandle. It was one of the most
+(22:21) ambitious data center proposals ever
+(22:23) announced. But, in less than a year, the
+(22:26) CEO had resigned, then the CFO followed
+(22:29) 2 days later. The company still had no
+(22:31) confirmed anchor tenant. That's the
+(22:33) client who's going to be leasing the
+(22:34) data centers. It's a basic prerequisite
+(22:36) for any data center business. [music]
+(22:38) Its market cap collapsed from nearly $20
+(22:41) to $3.4 billion. The departing CEO
+(22:43) admitted that he may have, quote,
+(22:45) [music] misunderstood where the supply
+(22:47) chain is, end quote, on cooling
+(22:49) infrastructure. Quote, "I will accept
+(22:51) that as a failure," he said.
+(22:54) If the sitting president of the United
+(22:55) States can't get his named data center
+(22:58) off the ground, it tells you something
+(22:59) for the broader state of the industry.
+(23:00) [music]
+(23:01) If compute capacity keeps getting
+(23:03) constrained, there can be cancellations,
+(23:05) community bans, or supply chain issues.
+(23:08) The companies that depend on it, like
+(23:09) OpenAI and Anthropic, face a very real
+(23:12) growth ceiling that has nothing to do
+(23:13) with the quality of their models.
+(23:15) There's even speculation that that's why
+(23:17) when a new model releases, it performs
+(23:19) relatively well, but after a few months,
+(23:21) it gets throttled down to save on
+(23:23) compute costs.
+(23:24) >> [music]
+(23:28) >> Now, before we finish, [music] this
+(23:29) wouldn't be complete without the other
+(23:30) side of the coin. Are there sustainable
+(23:32) ways to build data centers? Or do we
+(23:34) even need massive data centers for AI at
+(23:36) all? Well, for the first question, there
+(23:38) is such a thing as subsea data centers.
+(23:41) Underwater data centers almost sounds
+(23:42) like something in science fiction, but
+(23:44) they already exist in China. It includes
+(23:46) deploying container-like capsules on the
+(23:48) ocean floor, using the naturally cold
+(23:50) seawater as a passive cooling system.
+(23:53) One operator reports that 99% of the
+(23:55) electricity goes directly to computing
+(23:57) compared to roughly 50% in traditional
+(23:59) air-cooled facilities.
+(24:01) Do we even need big data [music]
+(24:03) centers? Recently, local AI models have
+(24:05) become more common. Instead of using a
+(24:07) billion-dollar data center, just use
+(24:09) smaller models that run locally on your
+(24:11) device. If it's 80% as good, then most
+(24:13) users will be satisfied for simple
+(24:15) tasks. Apple's large unified memory is a
+(24:18) leading example of the kind of local
+(24:19) hardware that enables this.
+(24:21) It could be that in 3 years, when most
+(24:24) laptops can run decent models, the
+(24:26) demand for centralized infrastructure
+(24:27) drops. The data center doesn't
+(24:29) disappear, but it gets smaller and less
+(24:32) intrusive.
+(24:33) And then there's the argument that in
+(24:35) the future, all mainstream LLMs will
+(24:37) become a commodity. Even Larry Ellison
+(24:39) hints at this. Although his solution is,
+(24:41) >> [music]
+(24:41) >> well, typical of him.
+(24:44) >> So, if you look at ChatGPT,
+(24:46) >> [music]
+(24:46) >> Anthropic,
+(24:48) Llama, what what have you, they're all
+(24:50) trained on all of the data on the
+(24:52) internet. In other words, publicly
+(24:54) available data. But
+(24:57) for these models to reach their peak
+(24:59) value,
+(25:01) you need to not train them not just on
+(25:04) publicly available data,
+(25:05) >> [music]
+(25:05) >> but you need to make private, privately
+(25:08) owned data available.
+(25:11) >> And critically, community engagement and
+(25:14) transparency need to become
+(25:15) foundational. It can't be an
+(25:17) afterthought. The backlash happening
+(25:19) right now, at its core, is a failure of
+(25:21) trust.
+(25:23) So, what do we make of all of this?
+(25:25) So, I've been covering AI on this
+(25:26) channel for over 10 years now, and
+(25:28) despite the recent appearance in the
+(25:29) public zeitgeist, my stance on it has
+(25:32) always been the same. AI can be
+(25:34) revolutionary if used correctly,
+(25:35) simplifying maths in cutting-edge
+(25:37) physics, recognizing patterns in data
+(25:39) that humans might miss, making
+(25:41) repetitive tasks easier, but it's
+(25:43) certainly not a silver bullet in all use
+(25:45) cases.
+(25:47) So, if we're raising electricity prices
+(25:48) for hardworking communities so someone
+(25:50) on X can generate a meme by typing a few
+(25:52) words, or other people can fill the
+(25:54) internet with slop, well, call me crazy,
+(25:57) but that doesn't sound like a great
+(25:59) trade-off to me.
+(26:00) Don't get me wrong. We've always needed
+(26:02) data centers. Before [music] AI, they
+(26:04) were quietly running everything from our
+(26:06) bank accounts to our streaming services.
+(26:08) The truth is, they're not going [music]
+(26:10) away, and they probably shouldn't. But
+(26:12) the question isn't whether we should
+(26:13) build them at all. It's how. [music]
+(26:15) And it's also a question that's a
+(26:16) function of is the amount being built
+(26:18) really worth the payoff? It's something
+(26:20) to think about. So, what do you guys
+(26:22) think?
+(26:23) >> [music]
+(26:23) >> What are your views on data centers? And
+(26:25) where do you see the future of all of
+(26:27) this going?
+(26:28) Anyway, that's about it from me. Thanks
+(26:30) so much for watching all the way through
+(26:31) to the end. Really appreciate it.
+(26:33) So, my name is Dagogo, [music] and
+(26:35) you've been watching Cold Fusion, and
+(26:36) I'll catch you again soon for the next
+(26:38) episode. Cheers, guys.
+(26:40) Have a good one.
+(26:42) >> [music]
+(26:59) [music]
+(27:06) [music]
+(27:12) >> Cold fusion.
+(27:13) It's new thinking.

@@ -1,0 +1,2377 @@
+Title: How to ████ ██ a Data Center
+
+(0:10) The following video is purely an
+(0:12) educational and artistic exploration of
+(0:15) the internet and how its constituent
+(0:17) infrastructure shapes our world. The
+(0:20) creator of this work denounces violence
+(0:22) and the destruction of property, be it
+(0:24) private, public or military, in the
+(0:27) strongest possible terms. Any
+(0:29) suggestions to the contrary are entirely
+(0:31) satirical in nature. No data centers
+(0:34) were harmed in the making of this video.
+(0:40) With that out of the way,
+(0:43) let's get to work.
+(0:49) >> [music]
+(1:00) [music]
+(1:03) >> So, data center, you have to take
+(1:04) permission if you want to recover
+(1:06) something. Please leave it.
+(1:08) >> [music]
+(1:09) >> Some of you may have noticed that lately
+(1:12) there's been a new kind of invasive
+(1:14) species popping up all over the world.
+(1:17) These data centers are being proposed
+(1:19) largely in rural areas where land is
+(1:21) abundant.
+(1:22) >> We're worried about how it affects not
+(1:24) only the farmland and irrigation, but
+(1:26) also ranchers trying to water their
+(1:28) herds.
+(1:28) >> You have to convince your community how
+(1:30) great these things. You can't fight it.
+(1:32) Have to go with it.
+(1:33) >> And local officials often see them as an
+(1:35) opportunity for economic development. I
+(1:38) like data centers so much. I wish I
+(1:40) lived in one.
+(1:40) >> These are the smartest people. Most of
+(1:42) you, most of you in this room. We have a
+(1:44) couple probably on the other side of
+(1:47) things.
+(1:47) >> Who would want to stop us from having
+(1:49) compute capacity to develop AI? Which
+(1:52) adversary would want that? There's only
+(1:54) one. It's China.
+(1:56) >> I don't think that's true. Given that a
+(1:59) recent Galllet poll found that seven out
+(2:01) of 10 Americans oppose their
+(2:03) construction, either the CCP has been
+(2:06) doing a lot of recruiting lately or
+(2:09) there's something else going on. For my
+(2:11) money, I think that the massive
+(2:13) grassroots opposition to these things
+(2:16) has less to do with a sudden mass
+(2:18) adaptation of dangism and is instead
+(2:22) probably more because of data centers
+(2:25) massive energy and water requirements.
+(2:27) demonstrabably false promises of job
+(2:29) creation. Not to mention the fact that
+(2:32) they emit a constant humming with even
+(2:35) more noise pollution below the audible
+(2:37) spectrum.
+(2:40) Now, to be fair to Kevin Oiri here, he
+(2:43) does have pretty decent taste in music.
+(2:46) Also, there is some nuance. [screaming]
+(2:51) I'm not trying to say this to dampen
+(2:54) anyone's blood lust here, but I think
+(2:56) that it might be worth going over some
+(2:58) basic facts and misconceptions while
+(3:01) we're sharpening our pitchforks. One
+(3:04) obvious thing is that data centers are
+(3:06) nothing new. Ever since the mid as
+(3:09) basically everything not kept on your
+(3:11) computer, i.e. pretty much the entire
+(3:13) internet is stored in a data center.
+(3:16) That includes your texts and emails,
+(3:18) this video, and even the list that the
+(3:20) NSA now has put us on. Given that, and
+(3:25) this is going to be a pretty unpopular
+(3:27) thing to bring up, but since most data
+(3:30) centers are in America, if you aren't
+(3:34) and don't love the idea of your
+(3:36) information being sent to these guys,
+(3:38) building more data centers is probably
+(3:41) how you go about doing that. Also,
+(3:43) crucially, the term data center is
+(3:46) pretty broad, covering a server rack in
+(3:48) a closet, warehouses the size of major
+(3:51) cities, and everything in between.
+(3:53) Something that's maybe not the best when
+(3:55) it comes to legislating them. That said,
+(3:58) we aren't going after anyone's NAS here.
+(4:00) The ones we care about are, of course,
+(4:03) the big boys, generally referred to as
+(4:05) hyperscalers. While we'll be getting
+(4:07) into their many many issues, the crucial
+(4:11) concern that comes up the most is of
+(4:13) course the amount of resources they use.
+(4:16) When it comes to electricity in
+(4:17) particular, data centers need to draw
+(4:20) massive amounts of energy that's only
+(4:22) going to go up as they continue to grow
+(4:24) and multiply. This has required huge
+(4:27) expansions of power grids in areas where
+(4:30) they're most clustered. the burden of
+(4:32) which has been shared by local residents
+(4:34) who've seen their power bills skyrocket.
+(4:37) Another interesting thing is that data
+(4:40) centers operate on an N1 redundancy
+(4:42) standard, meaning that no single line
+(4:45) failing can cause an outage since power
+(4:48) can just be rerouted. Not only that, but
+(4:51) in the event of a serious blackout, data
+(4:53) centers can switch to diesel backup
+(4:56) generators. What this means is that the
+(4:59) only way to effectively take a cluster
+(5:01) of them out would be if there was a
+(5:03) sustained regional outage and the backup
+(5:06) generators were somehow sabotaged. So
+(5:10) hopefully nothing like that happens,
+(5:11) especially since the generators already
+(5:13) have about a 33% failure rate. Let me
+(5:17) just pause right here and say that given
+(5:19) the, shall we say, stochcastic nature of
+(5:22) this video, I'm more than a little
+(5:24) worried about YouTube taking it down or
+(5:26) worse, seeing as, you know, if I were to
+(5:29) get sued over this, I definitely
+(5:31) wouldn't be able to afford to defend
+(5:32) myself without going into a lot of debt,
+(5:35) which is where this video sponsor comes
+(5:37) in. PBS Debt. If like me, you've ever
+(5:41) spent any amount of time in debt, you
+(5:43) know that it's not so fun. We all know
+(5:46) that minimum payments aren't there to
+(5:48) get you out of debt, but instead to
+(5:49) allow bank executives to buy bigger
+(5:52) yachts. Instead of staying trapped in
+(5:54) the cycle of balancing payments, click
+(5:56) the link in the description or go to
+(5:57) pdsdebt.com/inhel
+(6:00) to get your free 30-second personalized
+(6:03) assessment today. PDS debt have
+(6:05) customized options for anyone struggling
+(6:07) with credit cards, personal loans,
+(6:10) collections, or medical bills. They're
+(6:12) top rated in the industry with an A+
+(6:14) from the Better Business Bureau. Their
+(6:16) average savings per client is over
+(6:18) $20,000
+(6:20) and there's no minimum credit score
+(6:22) requirement. As long as you've got over
+(6:24) 10K in debt, they want you. If you're
+(6:27) carrying any credit card debt, it's
+(6:29) costing you money every damn day. And
+(6:32) the sooner you do something about it,
+(6:34) the better. Checking your options with
+(6:36) PDS debt is fast, free, and won't hurt
+(6:39) your credit score. So get your free 30
+(6:42) secondond personalized assessment today
+(6:44) at pdsd.com/inhell.
+(6:47) That's pdsd.com/inhell.
+(6:51) Now let's talk about water usage. AI
+(6:54) data centers use thousands of GPUs, each
+(6:57) of which puts out about 10 times as much
+(7:00) heat as a human body. to keep them cool
+(7:02) enough to function properly. Most data
+(7:05) centers dump that heat into water for
+(7:08) what's called evaporative cooling, which
+(7:10) is extremely efficient in terms of
+(7:12) electricity use. But as the name
+(7:15) suggests, causes about 80% of the water
+(7:18) to be removed from the local water table
+(7:20) through evaporation. What's more, since
+(7:23) GPUs and CPUs are extremely delicate,
+(7:27) only the purest drinking water will
+(7:29) suffice. This is of course the most
+(7:32) well-known problem with AI, but [snorts]
+(7:34) how it actually works is complicated. A
+(7:38) lot of other people have gone into this
+(7:40) in a lot more detail. But a big part of
+(7:43) why this is so hard to talk about is
+(7:46) that AI companies tend to understate the
+(7:48) amount of water they use while anti-AI
+(7:51) people tend to overstate it. In reality,
+(7:55) the issue is less a matter of sucking
+(7:57) the ocean dry and instead tends to boil
+(8:00) down to questions of regional water
+(8:02) allocation that often end with the
+(8:05) answer, it depends. There have
+(8:08) absolutely been cases of data centers
+(8:10) taking up way too much of an area's
+(8:12) water and others where it's been
+(8:14) basically fine. It's also worth noting
+(8:17) that if your big concern is water usage,
+(8:20) there are much bigger fish to fry. Data
+(8:22) centers don't even come close to
+(8:24) touching golf courses or lawns. But as
+(8:27) much as people who talk about AI this
+(8:29) way annoy me, I'm not just saying this
+(8:32) to piss them off or even to dismiss
+(8:36) concerns about water entirely. Instead,
+(8:39) I think there's actually something
+(8:41) really important going on here. I think
+(8:43) one of the most telling examples of what
+(8:45) I'm trying to get at here is this video
+(8:47) where AOC shows well water that's been
+(8:50) somehow contaminated by nearby data
+(8:53) centers. I have a jar right here.
+(8:57) This is the current drinking
+(8:58) [clears throat] water in Morgan County,
+(9:01) Georgia.
+(9:03) Um right after a data center was
+(9:06) constructed. only difference between the
+(9:10) clean water and this was that data
+(9:12) center. I have another one as well. So
+(9:16) this wasn't just one well.
+(9:18) >> The thing is that the reason for that is
+(9:21) because in that specific case
+(9:23) construction of data centers disturbed
+(9:25) the ground and cause soil and sediment
+(9:27) to get into nearby wellwater. And that
+(9:31) does speak to real issues regarding how
+(9:34) fast and recklessly these are being
+(9:36) built. But like that's not just a thing
+(9:39) that data centers necessarily do. But
+(9:43) also, while this may not be correct, I
+(9:47) think it's worth examining exactly why
+(9:49) it feels so true. The owners of tech
+(9:52) companies have amassed an amount of
+(9:54) money and power that's completely
+(9:57) unprecedented [music] and having long
+(9:59) since abandoned any pretenses of
+(10:02) humanity are now leaning into remaking
+(10:05) the world according to their whims.
+(10:08) given that there's a sort of poetic
+(10:11) logic to seeing data centers, physical
+(10:13) manifestations of AI as a sort of
+(10:16) blight, draining the oceans and turning
+(10:20) our water black. It also feels
+(10:23) appropriate that given that so many of
+(10:26) our lives are controlled by the
+(10:29) bloodless brutality of a financialized
+(10:32) global market, the monster of our time
+(10:35) doesn't take the form of a drone,
+(10:37) security camera, or a robot police dog,
+(10:41) but instead a windowless office park
+(10:44) emanating a row home.
+(10:47) Before we go much further though, I
+(10:49) should probably make it a bit more queer
+(10:51) where I stand on things, especially
+(10:53) given the spicy name of this video. As
+(10:56) far as I'm concerned, most arguments
+(10:58) about AI tend to boil down to either
+(11:01) claiming that it's just a tool that
+(11:03) could be used for good or that it needs
+(11:06) to be fought through a return to litism,
+(11:09) which apparently means posting online
+(11:11) about how you refuse to ever use it.
+(11:13) Personally, I am sympathetic to aspects
+(11:17) of both, but where they lose me is in
+(11:20) how they focus on it being used by
+(11:22) individual consumers, which to me misses
+(11:26) the realities of AI as it actually
+(11:28) exists. When you actually dig into the
+(11:32) purpose of it, you quickly realize that
+(11:34) the tech oligarchs making this
+(11:36) technology aren't particularly subtle
+(11:38) about their motivations. I I think we
+(11:41) are close to a world where you can have
+(11:44) like a descendant of chatbt watch your
+(11:46) computer screen all the time watch every
+(11:49) meeting you're in like record every call
+(11:51) everything like that have perfect
+(11:53) context of your whole life was like what
+(11:55) if we just gave the thing like access
+(11:57) complete access to the production
+(11:58) database where it could just like
+(11:59) trample on anything [laughter]
+(12:02) and I sort of like
+(12:04) >> I spent a lot of time talking to Nazis
+(12:06) like real Nazis
+(12:07) >> try to get all my smart friends to go
+(12:09) work at anthropic So that then I'll have
+(12:11) lots of friends [music] there who will
+(12:12) get me into the anthropic level two
+(12:14) bread line.
+(12:15) >> It's going to take us to a world where
+(12:17) we have very high GDP growth and
+(12:20) potentially also very high unemployment
+(12:24) and inequality. Never gets sick, never
+(12:26) gets high,
+(12:27) >> right? [snorts] Never gets depressed cuz
+(12:28) his girlfriend broke up with him. Never
+(12:30) files HR complaints.
+(12:31) >> Everyone should tell their kids to quit
+(12:33) college and university and go get
+(12:34) welding degrees. I think all all the
+(12:36) white collar jobs are going to get
+(12:37) ordered to May and I think we're going
+(12:38) to see massive hyperinflation in blue
+(12:40) collar salaries.
+(12:41) >> I feel like pretty solidly in level
+(12:42) three and you know there's only two
+(12:45) jobs. All right. It'll be anthropic
+(12:47) employee and sex worker for anthropic
+(12:49) employees. All right.
+(12:50) >> Are you seeing insane welding demand in
+(12:54) your factories?
+(12:54) >> 100%. Can't build enough welders.
+(12:57) >> Are you going to automate welding?
+(12:58) >> Yeah, we are. We already have actually
+(13:00) secretly. Do you think there's still a
+(13:02) 10 to 20% chance that killer [music]
+(13:04) robots mean the end of humanity?
+(13:08) That's a high ped as they say. [music]
+(13:11) >> Well,
+(13:13) in the long run, we're all dead. Of
+(13:14) course.
+(13:14) >> I mean, part of the crazy thing about
+(13:16) people who lost the Nazis nowadays is
+(13:18) there's not a single Nazi that would
+(13:19) ever have included them in their
+(13:20) movement and would have shipped them off
+(13:22) to the camps quicker maybe than they
+(13:24) shipped me off to the camps. Uh but um
+(13:28) and uh and it's like it's uh but
+(13:30) >> in my opinion the promise of AI for them
+(13:33) is that it can be used to usher in their
+(13:36) dream of technofudalism.
+(13:38) A world of total surveillance,
+(13:40) privatization, and complete capital
+(13:42) capture in the hands of a few tech
+(13:45) oligarchs. You will own nothing and
+(13:47) you'll be happy. To do this, the real
+(13:50) goals of AI are military and industrial
+(13:53) users. And uncoincidentally, despite
+(13:56) AI's widespread adoption, major
+(13:59) companies and three-letter government
+(14:01) agencies are the only ones actually
+(14:04) spending any real money on it. AI, as it
+(14:07) exists for you or I, is for now
+(14:10) basically just an advertising loss
+(14:13) leader and eventually, if they get their
+(14:15) way, a bribe to pay us off for the
+(14:18) complete erosion of work, civil
+(14:21) institutions, and personal liberties. a
+(14:23) sort of privatized UBI. You may need to
+(14:27) sell yourself into gig work slavery to
+(14:30) make payments on your insurmountable
+(14:32) debts under constant surveillance with
+(14:34) no social safety net. But hey, at least
+(14:37) you'll have a company provided AI to
+(14:40) look after you as your personal
+(14:42) assistant, doctor, lawyer, therapist,
+(14:45) and romantic partner. Again, just my
+(14:48) personal take on things. Not trying to
+(14:49) make any of this political. And so when
+(14:51) it comes to individual consumers,
+(14:54) boycotting AI is going to do about as
+(14:56) much to stop this as switching to blue
+(14:58) sky has done to stop Elon and Musk from
+(15:00) turning Twitter into a right-wing scop.
+(15:03) I don't say this to encourage anyone to
+(15:05) doom out. In fact, very much the
+(15:07) opposite. The widespread opposition to
+(15:10) data centers combined with the fact that
+(15:12) their construction is generally a local
+(15:14) issue means that this is one area where
+(15:17) we actually have political leverage. and
+(15:20) so should be the focus of any activism
+(15:23) against AI, whether you agree with my
+(15:26) little theory there or are sane.
+(15:29) Regardless of if you're a neolite
+(15:32) looking to smash the GPUs of production
+(15:34) and a butlerian jihad, believe AI can be
+(15:38) regulated into a force for good through
+(15:40) a sort of digital bill of human rights,
+(15:42) are so deep in AI psychosis that you're
+(15:45) worried your smart TV has a shaggoth in
+(15:47) it, or just don't want Meta to build a
+(15:50) nuclear power plant next to your home
+(15:53) and are by now getting pretty confused
+(15:56) by the direction this video is going.
+(15:58) Whatever your stance is, as far as I can
+(16:01) see, data centers are for the
+(16:03) foreseeable future, the one choke point
+(16:06) still vulnerable enough that we regular
+(16:09) [music] people can still wrap our hands
+(16:11) around it and squeeze. also come clean a
+(16:15) little bit here and say that despite the
+(16:17) [snorts] clickbait title, when it comes
+(16:19) to amateur data center demolition, this
+(16:22) video is going to be focused much less
+(16:24) on the how than the why. Rather than
+(16:28) factchecking any more claims about data
+(16:30) centers water consumption, what I'm much
+(16:33) more interested in doing in this video
+(16:35) is providing a new lens through which to
+(16:38) see AI data centers and the internet as
+(16:41) a whole. As James Bredell wrote in his
+(16:44) book, New Dark Age, when one has a
+(16:47) hammer goes the same, everything looks
+(16:50) like a nail. But this is to not think
+(16:52) the hammer. The hammer properly
+(16:55) conceived has many uses. It may pull
+(16:58) nails as well as drive them. It may
+(17:00) forge iron, shape wood and stone, reveal
+(17:03) fossils, and fix anchors for climbing
+(17:06) ropes. [music] It may pass sentence,
+(17:08) call to order, or be thrown in a contest
+(17:11) of athletic strength. [music]
+(17:12) Wielded by a god, it generates the
+(17:15) weather. Prehistoric hammers and axes
+(17:18) turned up by the plows of later
+(17:21) generations were called thundersstones
+(17:22) [music]
+(17:23) and were believed to have fallen from
+(17:25) the sky during storms. These mysterious
+(17:28) tools thus became magical objects when
+(17:31) their original purpose passed away. They
+(17:34) were [music] capable of taking on new
+(17:36) symbolic meaning. We must re-enchant our
+(17:39) hammers, all our tools. So, they are
+(17:42) less like the carpenters and more like
+(17:45) Thors, more like thunderses.
+(17:48) But before we get into any more of this
+(17:50) weird woo woo let's take a step
+(17:53) back and get to know our enemy. Starting
+(17:56) with where data centers spring up when
+(17:59) it comes to choosing the locations for
+(18:00) them. Historically, there have been four
+(18:03) main criteria. First up is temperature.
+(18:06) About a third of data centers power
+(18:08) consumption goes to cooling. And so
+(18:10) there's been a push to save on that by
+(18:13) building them in cooler [music]
+(18:14) climates. This has been particularly big
+(18:17) in Sweden where they've been building a
+(18:19) ton while developing techniques for heat
+(18:22) recapture using the excess heat created
+(18:26) to heat people's homes. While this is a
+(18:29) cool idea, most of these things aren't
+(18:32) being built in the Arctic. And the
+(18:34) reason for that is because this is by
+(18:36) far the least important factor. A much
+(18:39) bigger one is instead tax incentives.
+(18:43) Obviously, like why build in Siberia
+(18:46) when you could just pay for cooling with
+(18:49) money to spare in any number of places
+(18:51) looking to get into the data center
+(18:53) game? From Ireland to Malaysia,
+(18:56) countries with an abundance of
+(18:58) electricity and no one to sell it to are
+(19:01) putting on their skimpiest tax policies
+(19:03) to catch the interest of big AI. But tax
+(19:08) policy turns out to not be that
+(19:10) important either, precisely because it's
+(19:13) so prevalent that companies can afford
+(19:16) to be choosy since it's so easy to find
+(19:19) a country that's willing to be a bit
+(19:20) loose with their tax and regulation
+(19:23) policies. But [snorts] while global
+(19:25) flows of capital may be fluid, one thing
+(19:28) that isn't really going anywhere and
+(19:30) therefore what really sets potential
+(19:33) data center locations apart is
+(19:36) infrastructure. Specifically, access to
+(19:38) a robust electrical grid and lots and
+(19:41) lots of water. But also, as Tyler
+(19:44) Patrick McCrae documented in his thesis
+(19:46) paper, Sensing the Cloud, there's
+(19:48) another building that data centers tend
+(19:50) to be built near, Amazon fulfillment
+(19:53) centers. And that seems a bit strange,
+(19:56) eh? I mean, fulfillment centers are
+(19:59) built extremely strategically for
+(20:01) maximum access to ground transport,
+(20:04) something that data centers obviously
+(20:06) don't really need. There are some
+(20:08) explanations for this since said
+(20:10) fulfillment centers are also generally
+(20:12) very close to airports. Not to mention
+(20:15) that Amazon cloud services is the
+(20:18) biggest single owner and operator of
+(20:20) data centers. So it wouldn't be too
+(20:22) surprising if they'd found certain
+(20:24) advantages to grouping their stuff
+(20:26) together. But in his thesis, McCrae
+(20:29) points to something else. As I talked
+(20:32) about in my video about AI weapons,
+(20:34) there's a concept in critical geography
+(20:37) called code space used to refer to
+(20:40) places where the computer code that runs
+(20:42) them is just as, if not more important
+(20:45) than the physical infrastructure.
+(20:48) For example, early on the morning of
+(20:50) January 11th, 2023, an FAA employee
+(20:55) tipped over the first in a long string
+(20:57) of dominoes when they accidentally
+(20:59) deleted a few lines of code in the
+(21:02) notice to air missions or NOM software.
+(21:06) This first led to the corruption of one
+(21:08) of the programs databases and soon
+(21:11) caused the entire system to fail leading
+(21:14) to an hour and a half long delay of all
+(21:17) departure flights in America.
+(21:20) Essentially without those lines of code,
+(21:22) [music]
+(21:23) every airport in the country stopped
+(21:25) being airports and were instead
+(21:27) transformed into massive buildings
+(21:30) filled with angry people. Amazon works
+(21:33) in a similar way, although they take
+(21:35) things significantly further. In order
+(21:38) to run a massive store that not only
+(21:40) sells anything and everything, but also
+(21:42) ships it out at speeds so fast that
+(21:45) people avoid thinking about how in a
+(21:47) similar way they do with factory
+(21:49) farming. Amazon uses a lot of advanced
+(21:53) proprietary techniques to ensure their
+(21:56) warehouses are running at peak
+(21:58) efficiency.
+(22:00) One of these tricks is what they refer
+(22:03) to as their chaotic storage system.
+(22:06) Basically, while fragile meat bags like
+(22:08) us might think to organize a warehouse
+(22:10) using logical categories, Amazon instead
+(22:13) sorts their football fieldsiz storage
+(22:16) facilities according to the whims of an
+(22:18) algorithm that determines the most
+(22:20) efficient layout based on statistical
+(22:23) analysis of which items are likeliest to
+(22:25) be bought together. While employees have
+(22:28) to bring their own modular portaotties
+(22:30) from home, something they are provided
+(22:32) with is a Zebra TC53E
+(22:36) or a similar handheld scanner that gives
+(22:39) them directions to any item they need to
+(22:41) find. Despite proving to be effective at
+(22:44) shaving precious seconds off the time it
+(22:47) takes to get each item, the layout is so
+(22:50) confusing that not even seasoned workers
+(22:53) are able to make sense of it. This goes
+(22:56) well beyond other code spaces to the
+(22:58) point where Amazon warehouse workers are
+(23:01) made to navigate an incomprehensible
+(23:04) maze based on the algorithm's alien
+(23:07) logic. And so it seems kind of
+(23:10) appropriate then that data centers are
+(23:13) so often placed near these warehouses
+(23:16) since in a way they're doing the same
+(23:19) thing, remaking the physical landscape
+(23:21) in the algorithm's own image in service
+(23:24) of the cold logic of profit
+(23:27) optimization.
+(23:29) The way this works is that like any
+(23:31) invasive species, once data centers come
+(23:33) to an area, they quickly start to
+(23:35) multiply. There's a few reasons for
+(23:38) this. First of all, there's a strong
+(23:40) incentive for them to cluster together
+(23:42) since being in close proximity allows
+(23:44) them to share electrical infrastructure
+(23:47) and cooling equipment in order to cut
+(23:49) costs. It's also very common for data
+(23:52) centers to work in tandem. For instance,
+(23:54) some focus on storage while others do
+(23:56) computing. Having these different data
+(23:59) centers side by side or at least in the
+(24:01) same area lowers latency which can
+(24:04) provide competitive advantages
+(24:06) once this process starts. Like a
+(24:09) particularly aggressive cancer, data
+(24:11) centers don't need to multiply much
+(24:13) before they begin negatively impacting
+(24:16) the surrounding area. While the massive
+(24:19) demands they place on local power grids
+(24:21) and water tables cause the prices of
+(24:24) these utilities to shoot up for locals.
+(24:26) Also remember that these are generally
+(24:29) built in suburban and rural areas where
+(24:32) local industries tend to be pretty water
+(24:34) and power intensive like agriculture and
+(24:37) industrial plants. Before long, the
+(24:40) rising costs of power and water cause
+(24:43) these to close up shop. [snorts] Same
+(24:45) goes for local residents as meter rates
+(24:48) spike and constant low humming causes
+(24:51) their cortisol to do the same. They're
+(24:54) eventually pushed out selling their land
+(24:56) to the companies responsible who are by
+(24:59) now the only industry looking to buy.
+(25:02) This process of techno forming an area
+(25:05) creates a vicious cycle so well known
+(25:07) that it even has a name. Originally
+(25:10) coined by the data center re digital
+(25:12) realy the process is now known
+(25:14) throughout the industry as data gravity.
+(25:17) Now, this is getting a bit abstract, so
+(25:20) I decided to get a better idea of what
+(25:22) this all looks like by mapping it out.
+(25:24) Well, as I'll be covering more soon, the
+(25:27) big tech companies are notoriously
+(25:29) secretive about data centers, regularly
+(25:31) lying about their environmental impacts
+(25:33) and even their existence. This is, of
+(25:36) course, a huge problem for public
+(25:38) accountability, and more importantly,
+(25:40) this video. However, most data centers
+(25:43) aren't actually owned by tech companies
+(25:45) themselves, but instead private firms
+(25:47) called real estate investment trusts or
+(25:50) REITs. Since they're trying to sell data
+(25:53) centers, they have an interest in
+(25:55) providing information for other players
+(25:57) in the industry, which is where we're
+(25:59) going to get all of our data. I used an
+(26:02) industry website called datacenters.com
+(26:05) and pulled a page out of AI's playbook
+(26:07) by scraping the site, roughly geocoding
+(26:10) the entries, and then throwing them into
+(26:12) a map. This is far from perfect since I
+(26:15) wasn't able to get exact locations for a
+(26:17) lot of them. Not [music] to mention that
+(26:18) a lot are straight up missing. But it
+(26:21) does give us a rough idea of global
+(26:23) distributions.
+(26:24) One [music] thing that really sticks
+(26:26) out, of course, is how many there are in
+(26:29) America, and in particular, one small
+(26:32) area that exemplifies everything I've
+(26:34) been talking about. A section of
+(26:36) Northern Virginia called Data Center
+(26:38) Alley, centered in Ashurn, but now
+(26:41) stretching out over Ludon [music]
+(26:43) and Fairfax counties with around 50
+(26:46) million square ft devoted to [music]
+(26:48) data centers and 70% of the world's
+(26:50) internet routed through there. Data
+(26:53) Center Alley lives up to its name as the
+(26:55) largest data center market on Earth. The
+(26:59) story of how North Virginia became the
+(27:02) massive hub it is today started in 1992
+(27:05) when a group of guys working in the
+(27:07) fiber optic network game got together to
+(27:10) shoot the over some cold ones.
+(27:12) Things got a little frisky. One thing
+(27:14) led to another and before the night was
+(27:17) through, the men there decided to link
+(27:19) their networks together to create May
+(27:21) East, the world's first non-government
+(27:24) internet exchange point. The following
+(27:26) year, the National Science Foundation,
+(27:28) who were at the time running the pre-in
+(27:31) internet, but gearing up to offload it
+(27:34) to the tender embrace of the free
+(27:36) market, made May East one of the first
+(27:39) four privatelyun network access points.
+(27:42) Then in 97, AOL moved their headquarters
+(27:46) to Ashburn and also gave the city its
+(27:48) first ever data center in the form of a
+(27:51) massive bunkerlike structure called the
+(27:53) Dulles Technology Center. Not only that,
+(27:57) since the early dot era was at the time
+(28:00) booming with nowhere to go but up, AOL
+(28:03) invested in infrastructure, laying a
+(28:06) massive amount of fiber optic cables.
+(28:09) This along with Ashburn's electricity
+(28:11) being 28% cheaper than the national
+(28:14) average. Not to mention its proximity to
+(28:16) Washington and the Pentagon, ideal for
+(28:18) any enterprising tech companies looking
+(28:20) to pick up some sweet, sweet military
+(28:23) contracts. All of this made the area an
+(28:25) ideal tech hub for the newly emerging
+(28:28) internet. And so more companies flocked
+(28:30) to the area and built headquarters and
+(28:32) infrastructure of their own. That is
+(28:35) until the roaring 90s came to a halt at
+(28:37) the turn of the century when in 2000 the
+(28:40) dotcom bubble burst and eight years
+(28:43) later the housing bubble followed suit
+(28:45) taking most of Northern Virginia's tax
+(28:47) base with them. To bail themselves out,
+(28:50) Virginia cut taxes for data centers and
+(28:53) rebranded as the world capital of
+(28:55) internet infrastructure. Also,
+(28:57) interestingly, while you probably won't
+(28:59) be surprised to hear that the negative
+(29:01) effects of data centers
+(29:03) disproportionately affect poorer
+(29:05) racialized areas, given data centers
+(29:08) heavy infrastructure demands and
+(29:10) tendency to be concentrated in areas
+(29:12) with a big tech sector, they're actually
+(29:15) pretty likely to be found in more
+(29:17) well-off areas, too. A fact that I
+(29:19) imagine is a big part of why this issue
+(29:21) is a surprisingly bipartisan one. In a
+(29:24) paper titled land for AI, Dylan Mimmoodi
+(29:28) and Alan Wig described going to North
+(29:30) Virginia where they saw cash for home
+(29:33) signs in poorer areas and we buy Cisco
+(29:36) in richer ones. While as you'll see,
+(29:39) data centers are absolutely nothing new.
+(29:41) The size and number of them that we're
+(29:43) now seeing is a study by Sydney Research
+(29:47) Group counted 1,136
+(29:50) functioning hypers scale data centers at
+(29:53) the end of 2024, [music]
+(29:55) double the amount 5 years earlier. More
+(29:58) notable than the number is the scale
+(30:00) though. Sydney found that capacity is
+(30:03) doubling every four years. While a US
+(30:06) Department of Energy report from 2024
+(30:09) found that power consumption from US
+(30:12) data centers grew from 58 terowatt hours
+(30:16) in 2014 to
+(30:18) 176 [music]
+(30:19) or 2.4% of all US electricity usage by
+(30:24) 2023.
+(30:26) The cause for this is of course AI. So
+(30:30) how did we get here? The term AI dates
+(30:33) back to a computer scientist named John
+(30:35) McCarthy at Dartmouth College in 1956.
+(30:38) Originally, he'd used the term automata
+(30:41) studies, but when that failed to attract
+(30:43) much buzz, he changed it to artificial
+(30:45) intelligence, which immediately caused
+(30:48) the fledgling field of study to receive
+(30:50) significantly more attention and
+(30:52) funding. But as the discipline grew and
+(30:55) developed, the researchers at Dartmouth
+(30:57) split into two competing camps. the
+(31:00) symbolists and the connectionists. The
+(31:02) latter believed that intelligence could
+(31:04) be understood as an emergent property
+(31:07) that could arise in a brain or computer
+(31:10) if only it had enough connections. The
+(31:12) symbolists, on the other hand, believed
+(31:14) intelligence came from encoded
+(31:16) knowledge, either acquired the
+(31:18) old-fashioned way through embodied
+(31:20) experience in the world or by manually
+(31:23) programming thousands of rules for a
+(31:25) machine to follow. This argument became
+(31:28) a bitter rivalry with academics on both
+(31:30) sides taking shots at each other. In the
+(31:33) mid to late60s, the symbolists won out.
+(31:36) However, connectionists have gone on to
+(31:39) win the war. They did this in part by
+(31:43) getting some external help. As Karen How
+(31:46) argues in her book, Empire of AI,
+(31:48) connectionism has two major advantages.
+(31:52) It was way better at producing a product
+(31:54) with an immediate commercial application
+(31:57) and it requires massive amounts of data
+(32:00) to train on a resource that the richest
+(32:03) companies on Earth just so happen to be
+(32:05) flush with. And so it's not so
+(32:08) surprising that the generative AI we
+(32:10) know today didn't come out of Dartmouth,
+(32:13) but from Google and one of their newest
+(32:16) competitors. Founded in 2015 by a team
+(32:19) that most notably included Sam Alman and
+(32:21) Elon Musk, OpenAI began as a nonprofit
+(32:25) born out of Musk's fears that Google and
+(32:28) their newly acquired Deep Mind Lab were
+(32:30) on the verge of creating super
+(32:33) intelligent artificial general
+(32:35) intelligence, which if left in their
+(32:37) hands, Musk feared would breach
+(32:39) containment and destroy the world. To
+(32:42) beat Google to the punch, Musk armed his
+(32:44) new startup with 30 million in rolledup
+(32:47) bills that smelled faintly of ketamine.
+(32:50) In 2017, they had their major
+(32:52) breakthrough. Ironically, thanks to
+(32:54) Google, who had just published their
+(32:56) transformer paper, outlining a new
+(32:59) architecture for training neural
+(33:01) networks that basically involved looking
+(33:03) at every word in a text simultaneously
+(33:05) rather than one at a time in order to
+(33:07) better understand context. OpenAI's
+(33:10) chief scientist and co-founder, Ilia
+(33:13) Sutskever, realized that this was the
+(33:15) key they've been looking for. All they
+(33:17) need to do now was scale it. This,
+(33:20) however, came with plenty of what should
+(33:23) now be very familiar issues. They soon
+(33:26) coined the term OpenAI's law, a
+(33:29) reference to Moore's law, which states
+(33:30) that computer chips roughly double in
+(33:33) efficiency every 2 years. OpenAI's riff
+(33:36) on this classic had a big problem though
+(33:39) as their new law left more in the dust,
+(33:42) stating that AI compute usage doubles
+(33:45) every 3.4 months. But don't worry, the
+(33:49) geniuses at OpenAI weren't about to let
+(33:51) this stop them. And sure enough, by
+(33:54) pulling their collective heads together,
+(33:56) they figured it out. Since they couldn't
+(33:59) rely on faster chips, they focused on
+(34:01) getting way more of them. And so
+(34:04) abandoning their nonprofit status and
+(34:06) taking a billion dollars from Microsoft,
+(34:08) they went allin on buying as many GPUs
+(34:11) as possible to escape Moore's law. I
+(34:15) cannot overstate that this is the
+(34:18) entirety of their secret sauce. Spend
+(34:20) more money so they can buy more compute.
+(34:23) As how writes, in part fueled by the
+(34:26) realization that scaling alone could
+(34:28) produce more AI advancements, many
+(34:31) employees also worried about what would
+(34:33) happen if different companies caught on
+(34:36) to OpenAI's secret. The secret of how
+(34:39) our stuff works can be written on a
+(34:41) grain of rice, they would say to each
+(34:42) other, meaning the single word scale.
+(34:46) That secret has long since broken
+(34:48) containment, leading to AI research
+(34:51) becoming an arms race to see which of
+(34:52) the largest companies on Earth can build
+(34:55) the most data centers with the field
+(34:57) being dominated by what are referred to
+(34:59) in the biz as hyperscalers. The five
+(35:02) biggest being Amazon cloud services,
+(35:04) then Microsoft Azure, Google Cloud
+(35:07) Platform, and then in a distant fourth,
+(35:09) there's Meta Platforms with Alibaba
+(35:12) Cloud bringing up the rear. All of this
+(35:14) has by now scaled up to cartoonish
+(35:16) proportions with OpenAI comparing their
+(35:19) soon-to-be built Stargate data center to
+(35:22) the Manhattan project only to be outdone
+(35:24) by Meta announcing not one but two
+(35:27) massive data centers much more deserving
+(35:30) of the comparison. One named Prometheus
+(35:33) that's set to run on nuclear power and
+(35:35) another called Hyperion that's literally
+(35:38) the size of Manhattan.
+(35:40) Meanwhile, Microsoft has penned a deal
+(35:43) to reopen Three-Mile Island, betting
+(35:45) they can't things up as bad as the
+(35:47) last guys. Elon Musk, on the other hand,
+(35:49) decided to go in a characteristically
+(35:51) epic direction, training his Mecca
+(35:54) Hitler chatbot at the appropriately
+(35:56) toxic Colossus data center, which to
+(35:59) avoid having to wait to be connected to
+(36:01) the grid, Musk initially powered using
+(36:04) unpermitted methane turbines, the
+(36:06) exhaust from which caused the rates of
+(36:08) asthma, heart attacks, and cancer in the
+(36:11) surrounding city of South Haven to
+(36:13) skyrocket straight to the moon.
+(36:16) >> [laughter]
+(36:17) >> You can't help with it. That's okay.
+(36:20) >> But don't worry, all that land, water,
+(36:23) and electricity is going to a very good
+(36:25) cause. In 2025, the data center industry
+(36:28) was responsible for 69% of GDP growth in
+(36:32) America with comparable figures all over
+(36:34) the world. So, given that this one
+(36:37) little industry is the primary driver
+(36:40) behind so much economic growth, let's
+(36:43) take this opportunity to look under the
+(36:45) hood. First up, there's revenue. So, in
+(36:47) 2026, the big five hyperscalers are on
+(36:50) track to make 320 billion, which sounds
+(36:54) great until you realize that they're
+(36:56) also spending 800 billion. And as one of
+(37:00) the partners of Sequoia Capital, David
+(37:02) Khan, argued in 2024, in order to turn a
+(37:05) decent profit, they need to pull in
+(37:07) revenues that are quadruple the amount
+(37:10) that they're spending on chips. meaning
+(37:12) that by the end of 2026 they would need
+(37:15) to hit a cool trillion. And [music]
+(37:18) between you and me, I'm not sure they're
+(37:21) going to make it. There's a couple
+(37:23) causes for this lack of cash flow. For
+(37:26) one thing, only around 3% of individual
+(37:29) AI users actually pay for it. And when
+(37:32) it comes to companies, an MIT study
+(37:35) found that 95% of businesses don't see
+(37:38) any improvements from using it. Don't
+(37:41) worry though, the major companies have
+(37:43) all confirmed that they'll solve all of
+(37:45) that by, you guessed it, building
+(37:48) [music] way more data centers. I mean,
+(37:51) why would they lie about something like
+(37:52) that? There is plenty of good news, too,
+(37:55) though. You see, these companies have
+(37:57) lots of clever little ways to keep
+(37:59) things going in the meantime, like
+(38:01) building way more data centers.
+(38:03) Typically, they do this by taking on
+(38:05) debt. But as you know, the people
+(38:07) speedrunning us all straight to hell are
+(38:09) the smartest around. So they get pretty
+(38:12) creative with it. For example, Meta's
+(38:15) funding their Hyperion campus through a
+(38:18) $27 billion loan from Blue Owl, but did
+(38:21) it through a separate company they set
+(38:23) up to run it called an SPV, which
+(38:26) allowed them to keep the debt off of
+(38:28) their books. So it looks like they have
+(38:30) a lot more money than they actually do.
+(38:33) Along with this, all of the hyperscalers
+(38:35) have also been taking on much longerterm
+(38:38) loans or refinancing existing ones to
+(38:41) put off paying them until their profits
+(38:43) materialize, which any accountant will
+(38:46) tell you is always a good sign. Another
+(38:48) trick they have up their sleeves is
+(38:50) investing in each other. For example,
+(38:52) Nvidia's given OpenAI around 30 billion,
+(38:55) which they've in turn used to buy more
+(38:58) chips from Nvidia. Some might call this
+(39:01) a fraudulent practice meant to
+(39:03) artificially inflate their perceived
+(39:05) value, but I just call it believing in
+(39:08) your friends since now if one company
+(39:10) goes down, the others do, too. There's
+(39:13) actually one company in particular who
+(39:15) does all these things. Coreweave.
+(39:18) They're what's called a Neocloud
+(39:19) company, meaning that they rent compute
+(39:22) specifically for AI whenever any of the
+(39:24) big five need more than what their own
+(39:26) data centers can provide. The thing is
+(39:28) though that despite being rich in chips
+(39:31) from Nvidia, who is, you guessed it,
+(39:33) their investor, Cororeweave has a bit of
+(39:36) a problem. In just the last year and a
+(39:39) half, they've managed to rack up 21
+(39:42) billion in debt, for which they're now
+(39:44) paying 25% of their profits just to
+(39:47) cover the interest. What's more, for
+(39:49) Collateral, they put up all of their
+(39:51) Nvidia cards, which for any non-gamers
+(39:54) here, every year Nvidia releases a new,
+(39:57) better model, causing last year's cards
+(40:00) to tank in value.
+(40:02) Yikes. All this stuff has caused some
+(40:05) people to wonder if maybe this whole
+(40:07) thing is some kind of a bubble. But
+(40:09) don't worry, I can assure you only if
+(40:11) their growth stalls or really anything
+(40:14) at all goes wrong. So with that said,
+(40:18) one small issue is that in order for
+(40:20) these AI companies to keep growing, they
+(40:23) need to make more advanced models which
+(40:25) require more energy and compute. And um
+(40:29) we have already reached the point where
+(40:31) it is physically impossible for them to
+(40:34) build new data centers fast enough to
+(40:36) keep up with demand. Like this isn't a
+(40:39) question of whether or not AI can live
+(40:41) up to the hype or like with the Moors
+(40:43) law thing where they just threw money at
+(40:45) it. Instead, we're now in the territory
+(40:48) of just the basic realities of
+(40:50) electrical infrastructure and supply
+(40:52) chains. It takes 2 to 3 years to build a
+(40:55) data center, but four to seven to hook
+(40:57) it up to the grid. There's no real way
+(40:59) around the fact that this bottleneck is
+(41:02) going to cause the industry to massively
+(41:05) stall. That said, there are plenty of
+(41:08) people generally with certain invested
+(41:10) financial interests who have tried to
+(41:12) argue against this. One argument that
+(41:15) you'll see is that people freaked out
+(41:17) about other bubbles in the past. But
+(41:19) even when they burst, they still left
+(41:21) infrastructure behind that allowed new
+(41:23) technology to flourish. However, the
+(41:26) fact that so much of growth is riding on
+(41:29) just 4% of the economy does in fact make
+(41:32) this significantly worse than past
+(41:34) bubbles. Another argument that I find
+(41:38) kind of hilariously dishonest is that AI
+(41:41) will just fix this. The first head data
+(41:44) center architect at Google, Ers Hosel,
+(41:47) has made this case claiming that as AI
+(41:50) gets smarter, it'll naturally become
+(41:51) more efficient. The thing is that while
+(41:55) yes, training and usage do become more
+(41:58) efficient over time, all of that
+(42:00) efficiency gets eaten up by higher
+(42:03) demands. For anyone interested in making
+(42:05) that kind of an argument, I'll believe
+(42:08) it when you can show me any point in
+(42:10) time when AI power consumption was lower
+(42:12) than it was the previous year. With that
+(42:15) said, any lites watching this might not
+(42:17) want to bust out the rack punch for a
+(42:20) husky frolic just yet. First of all,
+(42:23) none of what I said here is actually an
+(42:25) indictment of the technology itself.
+(42:27) While I'm certainly skeptical of a lot
+(42:29) of these tech people's claims that
+(42:31) they're building a new god that will
+(42:33) kill us all, I'm also definitely not
+(42:36) someone who thinks that AI is just fancy
+(42:38) autocomplete or that it still can't draw
+(42:41) hands. Regardless whether AI flops or
+(42:44) turns into a man-made malo extinguishing
+(42:47) the stars at the end of time in order to
+(42:50) make more paper clips nothing I've been
+(42:52) talking about here spells the end for
+(42:54) this technology or any of the major tech
+(42:57) companies other than coreweave. Those
+(42:59) guys are Instead, what we're
+(43:02) already seeing is a move by these tech
+(43:04) companies to scale back, become more
+(43:06) decentralized with data centers being
+(43:08) built in more places all over the world,
+(43:11) investing in their own off-grid power
+(43:13) sources, generally nuclear, and along
+(43:16) with that, a sort of restructuring in
+(43:19) which they move from being services to
+(43:21) utilities providing AI tokens. One
+(43:24) advantage of this is that it means that
+(43:25) the S&P 500 probably won't melt into a
+(43:29) puddle of molten lithium. However, while
+(43:31) the big tech companies will be fine, for
+(43:34) the rest of us, things probably aren't
+(43:36) going to turn out as well. How bad this
+(43:38) will actually be depends on how
+(43:40) overleveraged and interconnected all of
+(43:42) these companies are when they finally
+(43:44) hit a wall. But given what we're
+(43:46) currently seeing, I'm not optimistic.
+(43:49) Worst case, the AI company's stumble
+(43:51) causes growth to stagnate, which is
+(43:53) particularly bad for the countries with
+(43:55) the most riding on AI, namely the US,
+(43:58) Ireland, Malaysia, Japan, and the Gulf
+(44:01) States. It gets worse if lenders get
+(44:03) spooked, causing them to stop lending to
+(44:06) anyone. Meanwhile, a significant drop in
+(44:08) stock prices would threaten to bring
+(44:10) down the whole market, including
+(44:12) pensions along with it. Finally, if data
+(44:15) centers shutter up or just go off the
+(44:18) grid like they're already planning to
+(44:19) do, all that power infrastructure that's
+(44:22) been built for them all needs to be paid
+(44:24) for by someone. And that someone is
+(44:27) going to be all the people in the
+(44:28) surrounding area who can expect to see
+(44:30) even bigger increases in their utility
+(44:33) bills. [snorts] Essentially, while these
+(44:35) companies win no matter what, regular
+(44:37) people are in a lose-lose situation.
+(44:40) Either AI fails and takes the economy
+(44:42) down with it, or else it succeeds and
+(44:45) the big tech companies own the world and
+(44:47) replace all of us. A goal that they're
+(44:50) more than happy to say to our faces. But
+(44:54) as I keep saying, data centers go back
+(44:57) significantly further than AI. And so to
+(45:00) really understand what we're up against,
+(45:02) we'll have to do the same by talking
+(45:05) about the origins of the cloud. There's
+(45:08) an old joke in tech circles that when
+(45:10) someone pitching a product starts
+(45:12) talking about how something is going to
+(45:14) be handled by the cloud, what they're
+(45:16) really saying is that they don't know
+(45:18) how it's going to work and would like
+(45:19) everyone to please stop asking. Not the
+(45:22) strongest joke, but it is accurate.
+(45:25) Interestingly, though, this is far from
+(45:27) a new phenomenon. Rather than being
+(45:29) dreamed up in the early 2010s by some
+(45:32) 25-year-old startup founder pitching
+(45:34) investors on Uber for blood while
+(45:37) finally crush modafinyl drip down the
+(45:39) back of his throat via the nasal cavity.
+(45:42) Using the metaphor of the cloud is a
+(45:44) sort of vague world of makebelieve used
+(45:47) to handwave away technical concerns is
+(45:50) actually one of the oldest traditions in
+(45:52) computing. Predating the internet by a
+(45:55) wide margin, we can find prehistoric
+(45:57) cave paintings of the cloud at least as
+(45:59) far back as 1951 with AT&T's electronic
+(46:03) skyway. And then again in 71 with this
+(46:07) diagram depicting the three
+(46:09) interconnected networks needed for
+(46:11) AT&T's short-lived picture phone
+(46:13) services overlapping clouds. But if
+(46:17) we're looking for early rumblings of the
+(46:20) clouds slouching towards San Francisco
+(46:22) to be born, we can go significantly
+(46:25) further back [music] than that. In 1884,
+(46:29) a British art critic named John Ruskin
+(46:31) was worried about the sky. He believed
+(46:35) that he had spotted a new kind of cloud
+(46:37) on the horizon. And so to get the word
+(46:39) out, Ruskin held a series of lectures at
+(46:42) the London Institute titled The Storm
+(46:44) Cloud of the 19th Century. The lectures
+(46:48) include exhaustive descriptions of the
+(46:50) nature of clouds based on the science of
+(46:53) the day, his own observations that he'd
+(46:55) written in his diary, and a thorough
+(46:58) survey he'd conducted investigating
+(47:00) every mention of clouds throughout
+(47:02) classical art and literature. All of
+(47:04) which led him to the conclusion that
+(47:07) this new cloud was entirely
+(47:09) unprecedented. [music]
+(47:11) There is no description of it so far as
+(47:13) I have read by any ancient observer.
+(47:16) Neither Homer nor Virgil, neither
+(47:18) Aristophanes nor Horus acknowledge any
+(47:21) such clouds among those compelled by
+(47:23) [music] Jove. Chaucer has no word of
+(47:25) them, nor Dante, Milton, Nun, nor
+(47:28) Thompson. [music] In modern times, Scott
+(47:31) Woodsworth and Byron are alike
+(47:33) unconscious of them, and the most
+(47:36) observant and descriptive of scientific
+(47:38) men, Duser, is utterly silent concerning
+(47:41) [music] them. This was not a happy
+(47:44) discovery. Ruskin called his new cloud a
+(47:48) storm [music] or plague cloud and went
+(47:50) into great detail describing its various
+(47:52) behaviors and qualities such as that it
+(47:56) always blows [music] tremulously making
+(47:58) the leaves of the tree shudder as if
+(48:00) they were all aspens. These sudden and
+(48:04) aggressive winds would then, according
+(48:06) to Ruskin, [music] lead to an intense
+(48:08) and unnatural darkness, which he
+(48:11) described as a dry black veil, [music]
+(48:14) which no ray of sunshine can pierce. And
+(48:18) worst of all, the vibes were off. Ruskin
+(48:21) claimed that the plague cloud had a
+(48:24) certain sinister nature [music] to it
+(48:26) that corrupted the sky and air. It is
+(48:30) [music] a malignant quality of wind,
+(48:32) unconnected with any one quarter of the
+(48:35) compass. [music] It blows indifferently
+(48:37) from all, attaching its own bitterness
+(48:39) and malice to the worst characters
+(48:41) [music] of the proper winds of each
+(48:43) quarter. He attributed these plague
+(48:45) clouds in part to industrialization and
+(48:47) the rise of capitalism for which these
+(48:49) lectures are now seen [music] as
+(48:50) foreshadowing the environmental
+(48:52) movement. But as James Bredell argues,
+(48:56) this might be something of a
+(48:58) mischaracterization.
+(49:00) Towards the very end of the first
+(49:01) [music] lecture, Ruskin dismisses the
+(49:04) environmental angle and argues instead
+(49:06) that something supernatural [music]
+(49:09) may be a foot. His theory was that the
+(49:12) clouds didn't come from coal or
+(49:14) factories, [music] but instead rose from
+(49:16) the battlefields of the recent
+(49:18) FrancoRussian War. Reciting an entry
+(49:21) from his diary dated [music] July 1st,
+(49:23) 1871, he noted, "The plague cloud looks
+(49:27) partly as if it were made of poisonous
+(49:29) [music]
+(49:29) smoke. Very possibly it may be. There
+(49:32) are at least 200 furnace chimneys in a
+(49:35) square of two miles in every side of me,
+(49:38) but mere smoke would not blow to and
+(49:41) [music] fro in that wild way. It looks
+(49:44) more to me as if it were made of dead
+(49:46) men's souls. Such of them as are not
+(49:50) gone [music] yet where they have to go
+(49:52) and may be flitting hither and thither
+(49:55) doubting themselves of the fittest place
+(49:57) for them. Now, I'll admit that I'm a bit
+(50:01) of a skeptic with these kinds of things
+(50:03) and so tend to find the chimney
+(50:05) explanation a bit more convincing than
+(50:08) ghosts. But with that said, I think that
+(50:13) [music] Ruskin was still on to something
+(50:15) for which he deserves his spot in the
+(50:18) history we're about to dive into.
+(50:20) Because [music] today, just like back
+(50:22) then, there is a new cloud in the sky.
+(50:25) And as you'll [music] see, it too
+(50:28) emanates out of sights of conflict.
+(50:32) Before we get there though, the next
+(50:34) stop on our history is 80 years after
+(50:37) Ruskin's lectures in an ocean away in
+(50:39) America where a man named Paul Baron was
+(50:42) also worried about the sky. This was a
+(50:46) reasonable concern. The year was 1960, a
+(50:49) time when the nuclear age and escalating
+(50:52) cold war had given him along with the
+(50:54) rest of the world another new cloud to
+(50:58) fear. Baron was a Polish American
+(51:00) engineer who'd recently begun working
+(51:02) for the Rand Corporation, one of the
+(51:04) first ever think tanks. It was
+(51:06) originally created as a spin-off from
+(51:08) America's Department of War in order to
+(51:10) conduct privately run R&D for US foreign
+(51:13) policy and military technology. Shortly
+(51:16) after joining, Baron was given his first
+(51:18) major assignment, developing a
+(51:20) communications network for the US
+(51:22) military that could survive a full-scale
+(51:25) nuclear attack.
+(51:27) >> [snorts]
+(51:27) >> He conducted research examining the
+(51:29) structures of every communication system
+(51:31) in the country and soon noticed an
+(51:34) underlying pattern. While the military
+(51:36) and telecom companies had been
+(51:38) developing plans to move the network
+(51:40) cables either underground or this is
+(51:43) real into outer space, Baron realized
+(51:47) that that wouldn't solve the deeper
+(51:49) problem. The network's true weakness
+(51:52) wasn't their location, but their shape.
+(51:55) Since the networks were built around a
+(51:58) single node through which all
+(51:59) communications flowed, an attack on the
+(52:02) central node risked taking down the
+(52:04) whole network. Baron named these
+(52:07) centralized systems and warned the
+(52:09) military of the risk they posed,
+(52:11) suggesting the construction of a new
+(52:13) kind of network arranged in an
+(52:16) interconnected web. These decentralized
+(52:19) and distributed systems would have
+(52:21) built-in layers of redundancy so that
+(52:24) data would still flow even if any
+(52:26) individual nodes were destroyed. In
+(52:29) 1964, Baron pitched his work to the
+(52:32) military who brought along
+(52:34) representatives from AT&T, the latter of
+(52:37) whom weren't interested, saying to
+(52:39) Baron, "First, it can't possibly work.
+(52:42) And if it did, damned if we're going to
+(52:44) will allow the creation of a competitor
+(52:46) to ourselves. But certain ideas have a
+(52:49) tendency to stick around, just waiting
+(52:52) to be used. And in the case of Baron's
+(52:54) lattice shaped networks, they didn't
+(52:56) have to wait long. Two years after
+(52:59) Baron's unsuccessful meeting with the
+(53:01) military and telecom brass, another team
+(53:04) of government scientists began to work
+(53:06) on what would be the most important
+(53:08) network of the modern age. The
+(53:11) scientists were working at friend of the
+(53:14) channel ARPA or the Advanced Research
+(53:17) Projects Agency. And while what they
+(53:20) were working on would soon completely
+(53:22) change the world, at their time their
+(53:25) goal was much more modest, they wanted
+(53:27) to find a way to get three cuttingedge
+(53:30) computer servers located in different
+(53:32) parts of the country [music] to talk to
+(53:34) each other. Their breakthrough came when
+(53:36) they stumbled upon Baron's report in
+(53:39) which he'd [music] mapped out his
+(53:40) proposed network structure. This was it.
+(53:43) The theory he'd [music] come up with for
+(53:45) a communication system that could
+(53:47) survive a nuclear bomb was exactly what
+(53:50) the researchers needed to [music] build
+(53:52) a network for computers that spanned
+(53:54) America and soon the world. In short,
+(53:58) Paul Baron had unknowingly [music]
+(54:01) designed the internet. Or at least
+(54:03) that's how the story generally goes. The
+(54:05) thing is that it isn't exactly true. As
+(54:08) the former director of ARPA, Steven
+(54:10) Lucasic, wrote, "Baron's proposed system
+(54:13) had many features still sorely lacking
+(54:16) in the public internet 40 years later,
+(54:18) such as the redundancy to withstand
+(54:20) heavy attacks yet fail gracefully as
+(54:23) links were severed, high reliability,
+(54:26) security of the information within it,
+(54:29) and the ability to defeat malicious
+(54:31) users inside and outside the system."
+(54:34) Yeah. Turns out that while the folks at
+(54:36) ARPA did site Baron's work, they quickly
+(54:39) realized that all those layers of
+(54:41) redundancy needed to nuclear bomb-proof
+(54:44) the network were incredibly expensive
+(54:46) and oftent times pretty much impossible
+(54:49) to actually implement since like running
+(54:52) fiber optic cables through mountains is
+(54:55) really hard. In reality, most
+(54:57) internet infrastructure is actually very
+(54:59) centralized. And far from being
+(55:01) weightless, it carries a lot of baggage.
+(55:04) We can see this in the undersea cables
+(55:06) that carry the internet across
+(55:08) continents following the same routes
+(55:10) that were first developed by the Eastern
+(55:12) Telegraph Company to connect the various
+(55:14) outposts of the British Empire. As
+(55:17) Nicole Starosilski argues in the book,
+(55:19) The Undersea Network, modern-day
+(55:22) submarine cable landing points are the
+(55:24) notsodistant descendants of the
+(55:26) telegraph stations, which serve to
+(55:28) enforce the political power of Great
+(55:31) Britain by connecting her colonies and
+(55:33) exerting a civilizing force on native
+(55:37) populations. It's honestly kind of
+(55:39) amazing looking at an old map of
+(55:40) telegraph lines and seeing how it
+(55:42) matches up with one of internet cables
+(55:45) almost exactly. The same is also true
+(55:47) for America's terrestrial fiber optic
+(55:50) cables and another even older network,
+(55:53) the railroad. The reason for this is
+(55:55) because beginning in the 70s, the
+(55:57) Southern Pacific Railroad began selling
+(56:00) access to the fiber optic cables they
+(56:02) buried along their tracks to operate
+(56:04) their internal communication system.
+(56:06) This soon led to the creation of two new
+(56:09) companies. Southern Pacific Railroad
+(56:12) Internal Networking Talophony and the
+(56:15) Southern Pacific Telecommunications
+(56:17) Company, better known today as the
+(56:20) Sprint and Quest Networks. But the
+(56:23) parallels between railroads and modern
+(56:25) fiber don't end at the lines on the map.
+(56:28) As Tong Hilh who argues in his book, A
+(56:31) prehistory of the cloud, which by the
+(56:33) way is amazing and going to be the main
+(56:36) source I'll be using for most of the
+(56:38) rest of this video. Just as the Chinese
+(56:40) laborers who broke and poisoned their
+(56:42) bodies constructing the railroads were
+(56:44) systematically erased from all
+(56:46) photographs documenting the
+(56:47) construction, so too is the labor
+(56:50) performed by people in the global south
+(56:52) that keeps the internet working likewise
+(56:54) hidden from view. As who writes, "A new
+(56:58) 1.5 billion fiber optic cable across the
+(57:01) Arctic will shave between 20 and 60
+(57:04) milliseconds off the route from Tokyo to
+(57:06) London for stock market traders. But the
+(57:09) toxic metals used in their electronics
+(57:11) inevitably end back up in the bodies of
+(57:13) laborers manning poorly regulated
+(57:16) disassembly plants in China. Their
+(57:18) bodies are absent from the picture just
+(57:21) as the Chinese bodies of railroad
+(57:23) workers are absent from 19th century
+(57:25) railroad photographs. Coming back to the
+(57:28) story of Paul Baron now, well, it isn't
+(57:30) exactly true. It's remained extremely
+(57:33) famous to the point where he's often
+(57:35) referred to as the father of the
+(57:37) internet. And look, nothing against Paul
+(57:39) here. He was undeniably a genius. But
+(57:43) it's worth asking why this narrative of
+(57:45) the internet as a weightless distributed
+(57:48) cloud born out of a cold war bomb
+(57:50) shelter has stuck around for so long.
+(57:53) There is of course the obvious answer
+(57:55) that it just makes for a way easier
+(57:57) story to tell. That's genuinely a
+(57:59) completely valid reason in my opinion.
+(58:01) Sometimes details have to be simplified
+(58:03) in order to fit things into a narrative
+(58:06) people can actually follow. Having to
+(58:08) say that Baron's work was influential
+(58:10) but ultimately not adopted due to
+(58:12) logistical constraints doesn't really
+(58:14) fit as nicely into a wired headline or
+(58:17) video essay. But also, who argues that
+(58:21) some of the appeal of this simplified
+(58:23) version likely stems from how well that
+(58:25) story fit into the feeling of that time?
+(58:29) The zeitgeist of the 60s was dominated
+(58:31) by the fear of an apocalyptic nuclear
+(58:34) confrontation as well as an obsession
+(58:37) with interconnected networks. The latter
+(58:40) of which, thanks to the works of
+(58:41) thinkers like Norbert Weiner and
+(58:43) Buckminister Fuller, rapidly spread
+(58:46) through academia and then into the
+(58:48) military and the hippie counterculture,
+(58:51) becoming the intellectual backbone of
+(58:53) that time. As I talked about in my video
+(58:55) about tour, through this theory of
+(58:58) cybernetic systems, the world came to be
+(59:00) understood as a massive collection of
+(59:03) feedback loops. Through this view, it
+(59:05) was thought that by collecting enough
+(59:07) data, it would become possible to
+(59:09) predict or control all of these
+(59:12) networks, breathing new life into the
+(59:14) promise of the Newtonian clockwork
+(59:17) universe, now re-imagined as an
+(59:20) ecosystem contained inside a sealed
+(59:22) terrarium. Followers of this theory came
+(59:25) to advocate for the creation of new
+(59:28) interconnected networks in the
+(59:30) collection of massive amounts of data.
+(59:32) Believing that by doing this they could
+(59:34) create a world where everything from
+(59:37) nature to cities and governments could
+(59:40) be perfectly managed and controlled. The
+(59:43) historian Mark Wigley coined the term
+(59:45) network fever to describe this
+(59:47) intoxicating effect of systems theory.
+(59:50) For Wiggly, the carriers of this fever
+(59:53) came to see everything as a kind of
+(59:55) network to the point where the word lost
+(59:58) all meaning. In terminal cases, the
+(60:00) patient becomes so lost in this manic
+(60:03) euphoria that they begin evangelizing
+(60:06) for the creation of bigger and even more
+(60:09) interconnected networks while ignoring
+(60:11) their darker consequences. In
+(60:14) celebrating this new kind of territory,
+(60:16) we recast questions of individual
+(60:19) identity in terms of unimaginable levels
+(60:21) of connectivity, ignoring the equally
+(60:24) dramatic rise of new forms of
+(60:26) inaccessibility to stage an
+(60:29) institutionalized simulation of euphoria
+(60:32) in which discourse about openness,
+(60:34) democracy, free exchange, and speed
+(60:37) dominates over that of control,
+(60:40) surveillance, blockage, sedation, and
+(60:42) crime.
+(60:44) But as who points out there's another
+(60:46) more fundamental problem with this
+(60:48) obsession with seeing everything is
+(60:50) completely interconnected and that's
+(60:53) that not everything is actually
+(60:56) connected and in fact thinking that it
+(60:58) is is itself a symptom of paranoia like
+(61:02) people who say I don't believe in
+(61:04) coincidences are at most weeks away from
+(61:07) lining their secret bunker in
+(61:08) wall-to-wall Faraday shielding material.
+(61:11) And so from that perspective, it's not
+(61:13) too surprising then that the preferred
+(61:15) creation myth for the ultimate network
+(61:18) of networks would be that it was a
+(61:20) byproduct of cold war nuclear defense
+(61:23) systems. Appropriately, Paul Baron was a
+(61:27) deeply paranoid man himself. Included in
+(61:30) the archives at Stanford, where all of
+(61:33) his work now lives, is this a cardboard
+(61:36) calculator that could be used to
+(61:38) determine the blast radius of a nuclear
+(61:40) bomb. Baron carried it on his person at
+(61:44) all times until the day he died. This
+(61:48) paranoid environment as well as the
+(61:49) vulnerability of America's centralized
+(61:51) communication networks were both brought
+(61:53) into sharp focus in the Wii hours of May
+(61:56) 28th, 1961 when beginning around 5:00
+(61:59) a.m. three AT&T microwave receiver
+(62:03) stations located in the Great Salt Lake
+(62:05) Desert near the Utah Nevada border
+(62:07) exploded one after another. The blasts
+(62:10) were caused by dynamite that had been
+(62:12) placed at each station and then strung
+(62:14) together with a homemade detonator
+(62:16) fashioned out of an alarm clock. But
+(62:19) despite the Looney Tunes nature of the
+(62:21) explosives, the amateur demolitionists
+(62:23) responsible definitely knew what they
+(62:25) were doing. The receivers they destroyed
+(62:28) had been selected with surgical
+(62:30) precision. Not only did their remote
+(62:32) location mean minimal security, said
+(62:35) remoteness also made them a crucial
+(62:37) choke point connecting California to the
+(62:39) rest of the country. As a result, the
+(62:42) unscheduled demolition of these three
+(62:44) stations cut off all calls, telegraphs,
+(62:47) and TV signals for over 20,000 people.
+(62:51) But while that may sound bad, the
+(62:53) stations were repaired and service
+(62:56) restored very quickly. What was harder
+(62:58) to deal with though was that the blasts
+(63:01) also set off an explosion of paranoia as
+(63:04) theories began to circulate speculating
+(63:07) that the attack was carried out by the
+(63:09) Kremlin or even the Pentagon. In
+(63:12) reality, the bombing had been carried
+(63:14) out by a group calling themselves the
+(63:16) American Republican Army. Although the
+(63:19) name is somewhat misleading, as this
+(63:22) army turned out to have been made up of
+(63:24) just two people, a 51-year-old New York
+(63:27) real estate investor named Jerome Bruce
+(63:30) and a 33-year-old Nevada construction
+(63:33) worker named Dale Jensen. These unlikely
+(63:37) brothers in arms turned out to have been
+(63:39) motivated by an incredibly based shared
+(63:42) hatred of AT&T and had carried out this
+(63:46) attack in the hopes of intimidating the
+(63:48) telecom provider into providing lower
+(63:51) rates and better customer service.
+(63:53) People really used to just do things.
+(63:55) [snorts]
+(63:56) Nowadays, everyone's just staring at
+(63:58) their phones all day thanks to providers
+(64:01) like AT&T. As you may have guessed
+(64:05) though, the plan did not succeed.
+(64:07) Exactly 3 weeks after the bombing, the
+(64:09) FBI caught Browse and Jensen on a yacht
+(64:12) in Mexico from which they were swiftly
+(64:14) extradited. Once the two were in
+(64:16) custody, the conspiracies surrounding
+(64:18) the attack tapered off as the true
+(64:20) culprits were now known. Although
+(64:22) apparently Browse had spent his time on
+(64:24) the lamb mailing AT&T letters taking
+(64:27) credit for the attack, none of which
+(64:29) ever seemed to have been read. I assume
+(64:31) this is because AT&T's customer service
+(64:34) is so bad that they just have a bin in
+(64:36) the mail room filled with terrorist
+(64:38) manifestos. But despite this being
+(64:40) revealed to be the work of two random
+(64:42) guys with no real lasting damage and
+(64:45) with the entirety of the American
+(64:47) Republican army now safely behind bars,
+(64:49) the paranoid fever continued to spread.
+(64:52) Except this time it was the US
+(64:55) government's turn to catch the bug. See,
+(64:58) Browse and Jensen didn't just knock out
+(65:00) TV and phone signals. Unbeknownst to the
+(65:04) two would-be revolutionaries, the other
+(65:06) much bigger Republican American army was
+(65:10) also transmitting signals through AT&T's
+(65:13) stations. And they were going to make
+(65:16) sure that this kind of thing didn't
+(65:18) happen again. On June 7th, less than 2
+(65:21) weeks after the attack, the Senate
+(65:23) submitted a bill with the catchy name an
+(65:25) act to amend section 1362 of Title 18 of
+(65:29) the United States Code so as to further
+(65:31) protect the internal security of the
+(65:33) United States by providing penalties for
+(65:36) malicious damage to certain
+(65:37) communication facilities, which would
+(65:40) add a section to USC 1352 or
+(65:44) communications line standards or
+(65:46) systems. Essentially, while 1352 already
+(65:49) criminalized the destruction or sabotage
+(65:51) of communication infrastructure owned by
+(65:53) the government, this bill would apply
+(65:55) the same protections to privatelyowned
+(65:58) infrastructure that was being used by
+(66:00) the military. While that seems like a
+(66:02) fairly boring and straightforward issue,
+(66:04) deciding which circuits could be counted
+(66:07) as being for military use versus
+(66:09) civilian turned out to be a lot more
+(66:11) complicated than you'd think. For one
+(66:13) thing, there's a bunch of infrastructure
+(66:15) that's being used by the military in
+(66:17) secret, so-called black wires.
+(66:20) Obviously, they couldn't be expected to
+(66:21) reveal which phone lines they're using
+(66:23) to spy on people. I mean, what's next?
+(66:26) Not being able to spy on people. But
+(66:28) there was also an even bigger issue that
+(66:31) had to do with the way that these
+(66:32) circuits work. Since the network is
+(66:35) capable of automatically rerouting
+(66:37) signals to avoid down circuits, what is
+(66:39) or isn't being used by the military
+(66:41) could change at any given moment.
+(66:44) Because of this, in a sense, the network
+(66:46) wasn't a static thing, but rather a
+(66:49) process or way of thinking. The case for
+(66:52) the military was made by representatives
+(66:54) of the Office of Civil and Defense
+(66:56) Mobilization. In particular, a general
+(66:59) named Wendell Duplantis testified that
+(67:02) since any given circuit could
+(67:04) potentially wind up being used by the
+(67:06) military, the entire network fell under
+(67:09) their jurisdiction, saying this is of
+(67:12) course very nebulous, but we can say we
+(67:15) have a requirement for all of it.
+(67:18) Appropriately, the Latin origin of the
+(67:20) word nebulous is nebul or cloud,
+(67:23) something that's both vague yet
+(67:25) universal. More recently, in 1994,
+(67:28) Congress amended the law to criminalize
+(67:30) attempted attacks on communication
+(67:32) infrastructure. And then in 2001, the
+(67:35) Patriot Act added conspiracy, too. There
+(67:38) may soon be a new change to this since
+(67:41) last year, Laurel Lee introduced the
+(67:44) Stopping the theft and destruction of
+(67:46) broadband act of 2025, which would
+(67:49) remove the military requirement
+(67:51) altogether. Interestingly, IT
+(67:53) infrastructure like say data centers for
+(67:56) example currently sit in a gray area.
+(67:59) While there's been efforts to change
+(68:01) this, at time of recording, no law
+(68:03) exists to specifically protect them.
+(68:06) Now, none of this should come as much of
+(68:08) a surprise. Governments using these
+(68:10) kinds of powerful communication networks
+(68:12) in sketchy and unaccountable ways is
+(68:14) pretty typical. In fact, this all points
+(68:17) to an interesting contradiction
+(68:18) regarding the cloud. The more connected
+(68:21) a society is, the more vulnerable it
+(68:24) tends to be to interference by the
+(68:26) government. This was demonstrated by two
+(68:29) incidents, both in 2011. For the first,
+(68:32) in response to the massive protests
+(68:34) brought out by the Arab Spring, the
+(68:36) Egyptian government shut off internet
+(68:38) access. The response by Western media
+(68:40) and politicians was to point to the low
+(68:43) tech nature of Egypt's internet
+(68:45) infrastructure, claiming that something
+(68:47) similar could never happen in a more
+(68:50) connected country. A few minutes after
+(68:53) midnight on January 28th, the internet
+(68:57) went dark across Egypt.
+(69:00) During the previous four days, hundreds
+(69:03) of thousands of Egyptians had marched to
+(69:06) demand a new government. Millions
+(69:09) worldwide answered in real time. You are
+(69:12) not alone and we are with you. Then the
+(69:16) government pulled the plug. Cell phone
+(69:19) service was cut off. TV satellite
+(69:22) signals were jammed and internet access
+(69:25) was blocked for nearly the entire time.
+(69:27) >> So this is America. The government want
+(69:31) you
+(69:31) >> to communicate with each other
+(69:34) >> and it did not want the press to
+(69:36) communicate with the public.
+(69:38) >> It certainly did not want the world to
+(69:41) watch together. The freedoms of
+(69:43) expression, assembly, and association
+(69:45) online comprise what I've called the
+(69:47) freedom to connect. The United States
+(69:50) supports this freedom for people
+(69:52) everywhere and we have called on other
+(69:55) nations to do the same because we want
+(69:58) people to have the chance to exercise
+(70:00) this freedom. This claim would soon be
+(70:02) put to the test in what is quite
+(70:04) possibly the most connected place on
+(70:05) earth. On July 3rd of that year in San
+(70:08) Francisco, a BART police officer shot
+(70:10) and killed a homeless man named Charles
+(70:12) Hill who'd allegedly been wielding a
+(70:15) knife. The shooting sparked citywide
+(70:17) protests which like their Egyptian
+(70:19) counterparts were largely organized
+(70:21) online. Fearing a repeat of 2009 in
+(70:24) which the police murder of an unarmed
+(70:26) black man sparked massive protests and
+(70:29) riots throughout the city, the cops
+(70:31) decided to nip things in the bud by
+(70:33) copying the Egyptians. On August 11th, a
+(70:37) massive flash protest was scheduled to
+(70:39) take place with plans to shut down a
+(70:41) number of key San Francisco stations.
+(70:44) That morning, BART spokesman Winton
+(70:46) Johnson sent out an email that read, "A
+(70:49) whole heck of a lot of their ability to
+(70:51) carry out this exercise is predicated on
+(70:54) being able to communicate with each
+(70:56) other. Can't we just shut off wireless
+(70:59) mobile phones and Wi-Fi communication in
+(71:01) the downtown stations? It's not like
+(71:03) it's a constitutional right for BART to
+(71:06) provide mobile phone and Wi-Fi service."
+(71:09) And so, they did just that. Verizon,
+(71:12) Sprint, and AT&T were forced to comply
+(71:14) and the protest never happened. What all
+(71:17) this points to is the fact that what the
+(71:20) cloud as a concept fundamentally does is
+(71:23) conceal. Specifically, the cloud
+(71:25) conceals the true nature of the internet
+(71:27) as an extractive resource made up of
+(71:30) physical infrastructure and human labor.
+(71:33) I think that the queerest example of
+(71:35) this is the undersea cables I mentioned
+(71:38) earlier. Even going back to the old
+(71:40) telegraph network, in addition to their
+(71:43) colonial purpose, undersea wires have
+(71:45) also always had significant military
+(71:48) applications, particularly when it came
+(71:51) to espionage, as in the case of the
+(71:53) British merchant named John Pender, who
+(71:56) in 1871 covertly laid underwater
+(72:00) telegraph lines along the west coast of
+(72:02) Hong Kong Island, connecting China to
+(72:05) Europe's telegraph network against the
+(72:07) wishes of theQing government. Similarly,
+(72:11) in [music] 1955, then newly appointed
+(72:14) director of the CIA Allan Dulles also
+(72:16) took an interest in undersea cables,
+(72:19) seeing their potential as tools of
+(72:21) control and surveillance. In
+(72:23) declassified CIA memos, we can see plans
+(72:27) discussing the construction of a cable
+(72:29) connecting San Francisco to Hawaii, but
+(72:32) interestingly, no such cable appears on
+(72:35) any known map. This same principle holds
+(72:38) true with modern fiber optic cables
+(72:40) today. As Starielski notes, the fact
+(72:43) that the average person doesn't know
+(72:46) anything about them isn't a coincidence,
+(72:48) but an intentional policy by the
+(72:50) industry to provide the cables with an
+(72:53) extra layer of protection, acting as a
+(72:55) sort of insulation from prying eyes,
+(72:58) just like the polyethylene and copper
+(73:01) tubes protect them from sharks. But
+(73:04) above all, the main thing that the cloud
+(73:06) hides is the labor that goes into
+(73:08) running the internet. A lot of this
+(73:10) falls under the category of so-called
+(73:12) micro work or human intelligence tasks,
+(73:16) i.e. unskilled computer work that just
+(73:18) barely rises above the level of
+(73:20) complexity that can be automated such as
+(73:22) platform moderation, certain product
+(73:25) descriptions, image and video analysis,
+(73:27) and increasingly training AI. It's not a
+(73:30) coincidence that one of the largest
+(73:32) platforms for hiring people to perform
+(73:35) this work is Amazon's mechanical Turk
+(73:37) named after the chess playing automaton
+(73:40) created in 1770 by Wolf Gang von
+(73:43) Kempelling. Originally conceived in 1769
+(73:47) when the French magician France Pelleier
+(73:49) appeared before the court of the
+(73:51) Austrian Empress Maria Teresa at Tron
+(73:54) Brun Palace. The Frenchman demonstrated
+(73:56) the ability to control the movement of
+(73:58) fish in a glass basin, and then
+(74:00) presented a giant compass with a
+(74:02) lettered dial, the arrow of which could
+(74:05) spell out answers to questions asked by
+(74:07) the audience. The secret behind these
+(74:10) and most of Pelleier's other miracles
+(74:12) were powerful magnets he'd hidden around
+(74:14) the stage, on his person, and in the
+(74:17) bellies of the fish. One man in
+(74:20) attendance that night who was not
+(74:21) impressed, however, was von Kempan,
+(74:23) [music] who vowed to oneup Pelleier with
+(74:26) an even greater illusion. And one year
+(74:29) later, he did just that. The mechanical
+(74:31) Turk toured the world, winning most
+(74:34) games, including ones against Napoleon
+(74:36) Bonapart [music] and Benjamin Franklin,
+(74:38) and was capable performing the Knights
+(74:40) Tour, a chess puzzle in which a single
+(74:42) knight visits [music] each square on the
+(74:44) board exactly once. The secret to this
+(74:47) mechanical marvel was, of course, a
+(74:50) chess grandmaster secretly stuffed into
+(74:52) the trunk to create the illusion of an
+(74:54) autonomous machine. Similarly, [music]
+(74:57) Amazon's mechanical Turk manages the
+(74:59) digital labor of an army of underpaid
+(75:02) freelancers performing the kind of work
+(75:04) necessary to puppeteer the modern-day
+(75:07) cloud, [music] just like von Kempan's
+(75:09) Turk. While you might expect this work
+(75:11) to be monotonous, and to be clear,
+(75:13) plenty of it is, this gets much darker
+(75:16) than people solving captures for a
+(75:18) living. A big chunk of the kind of work
+(75:20) that gets hidden in the internet's
+(75:22) proverbial trunk tends to involve
+(75:24) exposing the wretched of the screen to
+(75:26) images deemed too graphic for Western
+(75:29) eyes. For example, as Bill Periggo
+(75:32) reported for the Times, in 2021, when
+(75:34) OpenAI was gearing up to release chat
+(75:37) GPT3, they need to break its habit of
+(75:40) blurting out racial slurs and rape
+(75:42) threats that had picked up by being
+(75:44) trained on the open internet. To do
+(75:46) this, they fed a massive data set of
+(75:49) text and images containing examples of
+(75:52) hate speech, gore, and seam that had
+(75:55) been labeled as inappropriate by gig
+(75:57) workers in Kenya being paid less than $2
+(76:01) an hour to view it. Similarly, in
+(76:03) Germany, Syrian content moderators
+(76:06) reported being made to review images of
+(76:08) their hometowns and even former homes
+(76:11) after they'd been devastated by an
+(76:13) earthquake. again deemed too disturbing
+(76:15) for users in the global north but not
+(76:18) the people who'd been forced to flee
+(76:20) from there. In fact, for the companies
+(76:23) running these operations, refugees are
+(76:25) actually preferred. A common job among
+(76:28) the Kurdish refugees now living in
+(76:30) northern Iraq to escape the Syrian war
+(76:33) has become tagging images of streets and
+(76:36) traffic lights in order to train
+(76:38) self-driving cars. Recruiters for these
+(76:40) companies particularly target women
+(76:43) since the work from home nature allows
+(76:45) them to earn a living without violating
+(76:47) conservative social norms. As one such
+(76:50) workers said in an interview in 2023
+(76:53) now most of the people IDPs and refugees
+(76:56) here especially women they cannot find
+(76:58) jobs easily here and even if they find
+(77:00) jobs in Herbiel they need to pay for
+(77:03) transportation from home and back and
+(77:05) pay a lot of expenses. And we have one
+(77:08) more thing. A lot of girls they cannot
+(77:10) go out to work because of tradition
+(77:12) their father mother. But while we have
+(77:15) micro, while we have online projects,
+(77:18) it's really easy for them to work from
+(77:20) home. They don't need to go out. They
+(77:22) don't need to pay more expenses. Just as
+(77:25) John Ruskin realized, the cloud not only
+(77:27) emanates out of sights of conflict, it
+(77:30) depends on them. As violence and
+(77:32) political upheaval become opportunities
+(77:35) for cheap labor. This happy relationship
+(77:38) in which regional instability grows the
+(77:41) pool of workers quietly keeping the
+(77:43) cloud buoyant is shockingly explicit. In
+(77:46) 2013, the World Bank released a
+(77:48) statement that cheerfully noted that
+(77:51) escalating conflict between Israel and
+(77:53) Palestine had the potential to provide a
+(77:56) boom for the supply of underpaid tech
+(77:58) workers. The Palestinian territories
+(78:01) have a tech-savvy young population
+(78:03) proficient in English and with a 35%
+(78:06) Facebook penetration. The high number of
+(78:09) undermployed and unemployed skilled
+(78:11) women in cities outside Raala offers a
+(78:14) valuable source of labor and Palestinian
+(78:17) internet access is competitive compared
+(78:20) to other countries in the region. Now,
+(78:22) let's get back to what this video is
+(78:24) supposed to be about. most blatant
+(78:26) physical manifestation of the cloud data
+(78:29) centers. These obviously play a key role
+(78:32) in internet and AI infrastructure, but
+(78:35) also as the location of the slight of
+(78:39) hand needed to keep the illusion of the
+(78:41) cloud ao. You see, for data to seem
+(78:45) decentralized, it actually needs to be
+(78:47) concentrated in one place. [music]
+(78:49) And for it to seem weightless, it needs
+(78:52) to consume a tremendous amount of power.
+(78:55) The data center is the place where those
+(78:58) switches happen. And so naturally, like
+(79:01) any good magicians, the owners of them
+(79:04) really don't want you looking into
+(79:06) what's going on there. [music]
+(79:08) As I've mentioned, while the massive
+(79:10) explosion in their numbers over the last
+(79:12) few years has put them on everyone's
+(79:14) radar, the internet's been quietly
+(79:16) running off of warehouse-sized data
+(79:18) centers since the early odds, and
+(79:21) they've done their best to keep a low
+(79:23) profile since the very beginning. Seeing
+(79:25) as the term warehouse scale computing
+(79:28) was first coined by Google, their first
+(79:30) data center in the Dows makes a pretty
+(79:32) good case study. In 2004, Google
+(79:36) approached the city to discuss the
+(79:37) project. But strangely, rather than
+(79:40) bonding over both having strange names,
+(79:43) Google instead conducted all
+(79:45) negotiations through a Shell company
+(79:47) simply called Design LLC. What's more,
+(79:50) in addition to demanding the city give
+(79:52) them access to massive amounts of power
+(79:55) and water and letting them skip paying
+(79:58) their property taxes for 15 years,
+(80:01) Design LLC also required all local
+(80:04) officials to sign NDAs that were so
+(80:07) intense that these politicians were
+(80:10) scared to say that the data center was
+(80:12) owned by Google even after local
+(80:14) newspapers had confirmed it. Over the
+(80:17) years, anonymous LLC's, NDAs, and
+(80:20) environmentally conscious promises that
+(80:22) are quietly walked back once ground is
+(80:24) broken have become the standard playbook
+(80:26) for the industry. The only real change
+(80:28) is that these companies have gotten much
+(80:30) bolder over the years. As how reported,
+(80:33) in 2023, the government of Uruguay
+(80:36) withheld the projected power consumption
+(80:38) of a new data center made by [music]
+(80:40) Google. And importantly, this isn't
+(80:43) something new caused by AI. Back in
+(80:46) 2019, Google filed an application to
+(80:49) build a data center in Cerillos, which
+(80:52) Chile's environmental agency rubber
+(80:54) stamped despite the application stating
+(80:56) that the facility would use 169 L of
+(81:00) water per second, drawing from an
+(81:03) already depleted aquifer during a
+(81:06) historic drought. Like, you couldn't
+(81:08) come up with a worse example of AI water
+(81:11) usage if you tried. Now, as you can
+(81:14) probably tell, this massive ramp up in
+(81:17) data centers has made it pretty hard for
+(81:20) them to lay low. Now, pro tip, emitting
+(81:24) constant low frequency hum is a surefire
+(81:27) way to blow your cover. With that said,
+(81:29) while secrecy isn't working anymore,
+(81:32) that hasn't stopped them from trying.
+(81:34) Recently in Virginia, residents
+(81:36) protesting several data centers
+(81:38) uncovered an email from the developer
+(81:41) lawyer suggesting that they be placed
+(81:44) under surveillance and that we need a
+(81:46) mole or two in this group. Now, as you
+(81:50) saw in the intro, this is something I
+(81:52) actually had a bit of personal
+(81:53) experience with a few nights ago when I
+(81:55) decided to pay a visit to one of my
+(81:57) local data centers here in Toronto to
+(82:00) see the sites and film a bit of B-roll.
+(82:03) Turns out they weren't too happy to see
+(82:05) me.
+(82:05) >> So you can't do this without without
+(82:07) permission. Please leave it.
+(82:09) >> Okay. The data center in question had
+(82:11) the aggressively nondescript name Surfer
+(82:14) Farm Toronto data center tour 1 and was
+(82:17) located in a semi-industrial part of
+(82:20) Atobbico where it blended in pretty well
+(82:22) with the warehouses and office parks in
+(82:24) the area. But as you get closer, some
+(82:27) weird details start to stand out like
+(82:29) the fence and security cameras. And wait
+(82:32) a second, those aren't real windows.
+(82:34) They're just painted gray squares on the
+(82:37) side of the building. So given the wy
+(82:40) coyote ass camouflage, as well as
+(82:42) everything I've read about how intense
+(82:44) security at these places can be, when I
+(82:46) set up my camera, I wasn't expecting to
+(82:48) be able to film there for very long. But
+(82:51) for a while at least, nothing happened.
+(82:54) I was there for around 15 minutes, got
+(82:56) about as much footage as I could, and
+(82:58) then started packing up to go home and
+(83:01) maybe rewrite some of this section, and
+(83:04) then about 30 seconds later, security
+(83:07) showed up. So, this is a massive rookie
+(83:10) mistake, but since I had literally just
+(83:13) turned off my camera and mic, I wasn't
+(83:15) able to capture much. Basically though,
+(83:17) here's what happened. First, this guy
+(83:20) came out. He asked me what I was doing,
+(83:22) but didn't seem to care and just wanted
+(83:24) me to leave. I could see from his
+(83:26) uniform that he worked for a big third
+(83:28) party security company and really seemed
+(83:30) like he was just doing his job. I told
+(83:33) him I was already leaving and it was all
+(83:35) good.
+(83:35) >> Okay. Yeah.
+(83:36) >> All right.
+(83:38) >> But then as I was packing up, a second
+(83:40) guy who seemed to work directly for the
+(83:43) data center came out and he had a very
+(83:46) different attitude. He told me that he
+(83:48) called the cops and that I needed to get
+(83:50) out of there and also really didn't want
+(83:53) me to film him.
+(83:55) >> And I see you. Oh,
+(83:57) >> all of which was fine by me and more or
+(83:59) less what I was expecting. But then as I
+(84:01) was packing up, he said that he needed
+(84:04) to see all of my footage before I could
+(84:06) leave, which is absolutely not true. I
+(84:09) was under no obligation to show him
+(84:11) anything or answer any questions. So,
+(84:14) naturally,
+(84:16) I generously agreed to show it to him
+(84:18) because I'm dumb and conflict averse.
+(84:21) But yeah, after showing him like 5
+(84:23) seconds of B-roll, I got back to packing
+(84:26) my up while he kind of just kept
+(84:27) lecturing me about how this wasn't okay.
+(84:30) At this point, I finally got an
+(84:31) opportunity to turn my mic back on just
+(84:33) in time for him to say this.
+(84:35) >> The name says a lot about the company.
+(84:38) So, obviously, there's a reason why
+(84:40) there's this level of security. So, if
+(84:44) you're going to record a company that is
+(84:47) going far to keep your business private
+(84:53) and secured,
+(84:55) >> right? So, that's kind of weird, eh? For
+(84:59) one thing, I personally think that a
+(85:01) company going to great lengths to keep
+(85:03) their business private is actually a
+(85:05) very good reason for the public to take
+(85:07) an interest. But also, what exactly is
+(85:11) the name Server Farm supposed to say
+(85:13) about the company? I mean, the prime
+(85:16) minister of the country is doing press
+(85:18) conferences to excitedly announce that
+(85:20) we'll be building way more of these.
+(85:23) >> We'll build sustainably, linking new
+(85:25) data center development with expanding
+(85:27) clean energy and robust environmental
+(85:30) standards. We'll build inclusively in
+(85:33) full partnership with indigenous
+(85:35) peoples. As I told the security guard,
+(85:37) it seems a bit odd to me that the
+(85:39) natural assumption would be that the
+(85:41) public can't know or even film the
+(85:43) exterior of this government subsidized
+(85:46) industry, especially given how it's
+(85:48) talked about.
+(85:50) >> I just I server farm doesn't sound like
+(85:52) it's something that I would be like, "Oh
+(85:54) my god, that's so like secretive." Do
+(85:56) you know what I mean? like fair enough.
+(85:58) >> But since these companies are hellbent
+(86:00) on making it as hard as possible to get
+(86:02) information on what's going on inside
+(86:04) data centers, let's try a different
+(86:06) approach. So far, we've been trying to
+(86:08) find faces in the cloud. But what about
+(86:11) the other perspective? How does the
+(86:14) cloud see itself? We can actually learn
+(86:17) a lot by examining a pretty strange
+(86:20) genre of photography, data center
+(86:23) promotional pictures. You've seen these
+(86:25) before, right? Long halls of server
+(86:28) racks lit up with some kind of cool neon
+(86:30) lighting, maybe some close-ups of wires
+(86:32) as a treat for the real connoisseurs.
+(86:35) Bit of a side note here, by the way, but
+(86:37) is it just me or has everyone's
+(86:39) algorithm gone completely insane with
+(86:42) the ads they're seeing now? Like maybe
+(86:44) it's just because of all the stuff I've
+(86:46) been reading about for this video, but
+(86:48) YouTube is absolutely convinced that I
+(86:51) own a midlevel manufacturing business in
+(86:54) desperate need of AI solutions.
+(86:57) >> Geotab data has allowed us [music] to
+(87:00) strengthen our truck license system,
+(87:02) drive efficiencies by driving down the
+(87:05) number of trucks through improved turns.
+(87:08) We [music] have some of the best turn
+(87:10) times in North America. The amount of
+(87:12) data that these telematic devices
+(87:13) produce and can give you is phenomenal.
+(87:15) >> The data is what brings people together.
+(87:18) >> But however these pictures have come
+(87:20) into your life, a running theme you may
+(87:22) have noticed is that there's never any
+(87:24) people in them. And that is weird. As
+(87:28) I've mentioned, it's pretty well
+(87:30) documented that data centers tend to
+(87:32) have shockingly few full-time employees
+(87:35) once they're up and running. And there
+(87:37) is plenty of talk in the industry of
+(87:39) eventually getting to so-called lights
+(87:42) out facilities that are essentially
+(87:44) fully automated, but that's not
+(87:47) happening anytime soon. And they
+(87:50) absolutely need technicians to keep
+(87:52) these things running. So where are they?
+(87:55) Apparently the answer is just out of
+(87:58) frame. In a paper called the data center
+(88:01) as technological wilderness, AR Taylor
+(88:04) interviewed a data center photographer
+(88:06) who explained most data center briefs
+(88:09) specified that they don't want their
+(88:10) workers in the photographs. If you've
+(88:13) got a nice photo of a sci-fi looking
+(88:15) space, you don't want some bloke there
+(88:18) fixing a server in his jeans. The reason
+(88:21) for this is, as George Burie, the owner
+(88:23) of a UK cloud service provider called
+(88:26) Secura, explained to Taylor, simple
+(88:29) really. The top cause of data center
+(88:31) downtime is human error. So the less
+(88:34) human these buildings can be made to
+(88:36) look, the more safe and secure they
+(88:38) appear. Interestingly though, there's
+(88:40) actually a long history of these kinds
+(88:42) of images. Pristine landscapes
+(88:45) completely uncorrupted by the presence
+(88:47) of humans. As Taylor points out, while
+(88:50) beautiful, these representations of
+(88:52) America have long been criticized for
+(88:54) the way they smuggle in the colonial
+(88:56) idea of the land being empty prior to
+(88:59) the arrival of European settlers and
+(89:01) also that humans aren't a part of nature
+(89:03) at all. In Empire of AI, Karen How
+(89:06) argues that the best metaphor to
+(89:08) understand the AI industry through is
+(89:10) unsurprisingly empire in that just like
+(89:13) the empires of old, the AI industry
+(89:15) operates by exploiting the subjugated
+(89:18) labor of some of the poorest in the
+(89:20) world in the name of resource
+(89:21) extraction. All of which and more is
+(89:24) justified through competition with other
+(89:26) companies and foreign powers. And so
+(89:29) it's pretty fitting that the industry
+(89:32) has also produced its own genre of
+(89:34) images depicting idyllic landscapes
+(89:37) untouched by humans. But rather than a
+(89:40) natural environment, they instead show
+(89:42) what Taylor calls a technological
+(89:44) wilderness, uninhabited jungles with
+(89:47) server farm trees and wire vines under
+(89:51) an RGB sky. This gets even weirder
+(89:54) though. Coming back to this map, as I
+(89:56) was going through the entries on
+(89:58) datacenter.com,
+(90:00) I noticed something strange. It turns
+(90:02) out that very few data centers are
+(90:05) making pictures of technistopian
+(90:08) landscapes the old-fashioned way
+(90:10) anymore. Instead, the data center
+(90:12) industry has embraced AI. Unbelievable.
+(90:17) I am boycotting blockchain digital
+(90:19) infrastructure until they start hiring
+(90:21) human photographers again. Who's with
+(90:24) me? Well, this of course isn't a
+(90:26) surprising development. These are very,
+(90:29) very weird in a way that only pictures
+(90:31) that were likely never meant to be seen
+(90:34) by a human being can be. Unfortunately,
+(90:37) I scrolled through all 10,519
+(90:41) of these, and now you're going to hear
+(90:43) about them. By far the most common style
+(90:46) of picture you see are these exterior
+(90:47) shots of futuristic buildings like this
+(90:50) one from AT Tokyo, which is apparently
+(90:53) made entirely out of air conditioners. A
+(90:55) lot of these use the same picture over
+(90:57) and over again, particularly Amazon
+(90:59) Cloud Services, who often just go with
+(91:02) this same stock picture, but they do mix
+(91:05) things up a bit too with custom pictures
+(91:07) based on wherever the data center is
+(91:09) located. For example, here's one in
+(91:11) Sydney, Australia, where they made sure
+(91:13) to include famous landmarks like the
+(91:16) bridge and opera house. This one is in
+(91:19) Plain City, Ohio, and is appropriately
+(91:21) generic. Or there's this one in
+(91:24) Telangana, India, which is um warm
+(91:28) looking, I guess. Also, as you probably
+(91:30) noticed, these were made by an older
+(91:33) model. So, not only are these buildings
+(91:35) insane and impossible, but we also get a
+(91:38) lot of the LSD font. This is especially
+(91:41) bad with Apple, which looks pretty
+(91:44) rough.
+(91:45) [laughter] Also, interestingly, a lot of
+(91:48) the older man-made promotional pictures
+(91:50) try to make data centers look
+(91:52) environmentally [music]
+(91:53) friendly by showing them in a big green
+(91:55) field or something. These AI ones go a
+(91:58) very different direction and instead
+(92:01) seem to lean into how much electricity
+(92:03) they use, depicting themselves as being
+(92:05) surrounded by power lines, industrial
+(92:08) cooling units, oil rigs, and glowing
+(92:11) blue with electrical energy, often so
+(92:14) much so that electricity and/or the
+(92:17) internet is seen exploding out of the
+(92:20) roof. Oh, also the funniest one, in my
+(92:23) opinion, is from the state-owned Qatari
+(92:26) telecom company, Orodu. This one
+(92:28) actually isn't AI, though. Instead, it's
+(92:30) just an extremely lowres picture of a
+(92:34) car showroom. And look, obviously, it's
+(92:37) not a surprise that the people making
+(92:39) data centers are happy to use AI slot.
+(92:42) But to me, there's something unsettling
+(92:44) about these pictures. It's tempting to
+(92:47) anthropomorphize AI here and think of
+(92:50) these pictures as a sort of
+(92:51) self-portrait, glimpses into how the
+(92:54) cloud [music] wants to be seen. I
+(92:57) prompted Gemini to make a picture of
+(92:59) itself. And unsurprisingly, the result
+(93:02) wouldn't be out of place in these
+(93:03) promotional pictures. But I think the
+(93:07) better way to look at this is as a
+(93:10) continuation of the older promotional
+(93:12) pictures where the goal was to keep any
+(93:15) evidence of human workers hidden out of
+(93:18) the frame. That eraser has expanded now
+(93:21) to the point where they don't even need
+(93:23) a photographer at all. Now, something
+(93:26) that's made this video a bit tricky to
+(93:28) research is the fact that while data
+(93:30) centers are absolutely nothing new,
+(93:32) they've changed a lot over the last four
+(93:34) years. [music] Not only have they
+(93:36) exploded in size and numbers since 2022,
+(93:39) but their purpose has changed from
+(93:41) pretty much only being used for storage
+(93:43) to now handling compute. As a result,
+(93:46) data centers have generally been an
+(93:49) extremely niche subject for research.
+(93:51) and what little has been written about
+(93:53) them is for the most part more than four
+(93:55) years old from when they served a very
+(93:58) different purpose. That said, as we're
+(94:01) wrapping things up now, I want to focus
+(94:03) on that shift that took place. To do
+(94:06) that, we first need to dive into [music]
+(94:08) what data centers used to be. Prior to
+(94:11) AI, while pretty much all data centers
+(94:13) were alike in their focus on storage,
+(94:16) they absolutely weren't all made equal.
+(94:19) Back then, the thing that distinguished
+(94:21) the high-end, though, wasn't size, but
+(94:23) security. The biggest and most expensive
+(94:26) data centers were generally used to back
+(94:28) up and protect information belonging to
+(94:31) governments, militaries, financial
+(94:33) institutions, medical records, and
+(94:35) corporate secrets. If you've seen Mr.
+(94:37) Robot, the heist they do in the first
+(94:39) season is on one such data center called
+(94:42) Steel Mountain. This is actually based
+(94:44) on a real company called Iron Mountain,
+(94:46) which was once the largest data [music]
+(94:48) center company on Earth. Originally
+(94:50) called Iron Mountain Atomic Storage,
+(94:52) Inc., they lived up to that name by
+(94:55) building their massive data centers
+(94:57) inside mine shafts and decommissioned
+(94:59) nuclear bunkers. However, all of this is
+(95:02) more or less just for advertising
+(95:05) through some high production security
+(95:07) theater. Since the leading cause of data
+(95:09) center outages or leaks isn't an
+(95:11) invading army, but human error, as we
+(95:14) just heard from the owner of Secura, and
+(95:16) was the case in that episode of Mr.
+(95:18) Robot.
+(95:19) >> 24/7 armed guards, closed circuit
+(95:22) cameras.
+(95:23) >> All we need is one security flaw.
+(95:26) >> Look at this place, man. It was built
+(95:27) not to have any. I see about six walking
+(95:30) around.
+(95:31) >> Good show. As who argues though, since
+(95:33) [music] these data centers are more
+(95:35) vulnerable to a fishing attack than a
+(95:37) nuclear one, and all this Cold War
+(95:39) bunker style security is pretty much
+(95:41) just symbolic. It's worth considering
+(95:43) what a bunker symbolizes. To do this, we
+(95:47) can turn to the work of the French
+(95:48) theorist Paul Verilio. Born in Paris in
+(95:52) 1932, a great deal of Verilio's most
+(95:55) formative years were shaped by the Nazi
+(95:58) occupation. In the summer of 1945, he
+(96:01) saw the sea for the first time and
+(96:03) became fascinated by it as well as the
+(96:06) many remnants of the war that littered
+(96:08) Lel de La. In particular, Verilio became
+(96:12) obsessed with bunkers and began
+(96:14) exploring [music] and documenting them,
+(96:17) ultimately resulting in the book bunker
+(96:19) archaeology, where he describes them
+(96:22) with a sort of abstraction that
+(96:23) fluctuates between poetic and the kind
+(96:26) of thing you might expect to see from
+(96:28) like an alien archaeologist studying
+(96:31) Earth in the distant future. For
+(96:33) example, he writes that the point of
+(96:35) warfare is to create a sort of
+(96:37) artificial environment that's
+(96:39) inhospitable [music] to humans. One
+(96:41) where fires blaze, the air and water are
+(96:44) poisoned by gas and nuclear radiation,
+(96:47) and the rain is made of hot lead. In
+(96:50) this environment, the bunker stands out
+(96:52) as a sort of oasis. This makes them
+(96:55) inherently anacronistic [music] both in
+(96:57) times of war where they act as an oasis
+(97:00) and times of peace where they stick out
+(97:02) like a shipwreck submarine.
+(97:05) Yeah, it's that kind of book. But in the
+(97:09) notes he took exploring various bunkers
+(97:11) across Europe, Verilio was reminded of
+(97:14) another kind of structure. The Egyptian
+(97:16) mustabas, the Atruscan tombs, the Aztec
+(97:20) structures. For Verilio, the bunker
+(97:23) serves as a sort of modern-day tomb, but
+(97:26) crucially one that its inhabitants
+(97:29) return from. The function of this very
+(97:32) special structure is to assure survival,
+(97:35) to be a shelter for man in a critical
+(97:37) period, the place where he buries
+(97:39) himself to subsist. It thus belongs to
+(97:42) the crypt that prefigures the
+(97:44) resurrection.
+(97:46) What makes this so interesting to me is
+(97:48) that as I said while researching this
+(97:50) video, a big issue has been trying to
+(97:53) reconcile what data centers have
+(97:55) historically been and what they've now
+(97:57) become. What changed? That quote made it
+(98:01) all quick. If data centers have always
+(98:04) been bunkers, crypts that prefigure the
+(98:07) resurrection, then the thing that
+(98:09) they've kept buried has been our data,
+(98:12) which thanks to AI, is now being
+(98:15) reanimated, rising from the tomb to come
+(98:18) back and haunt us.
+(98:21) Thanks for watching.
+(98:26) [music]
+(98:30) >> [music]
+(98:34) >> Heat. Heat.
+(98:37) [music]
+(98:44) Heat up
+(98:55) >> [music]
+(99:00) [music]
+(99:08) >> here. [music]
+(99:15) >> [music]
+(99:21) [music]
+(99:25) >> Heat. Heat. [music]
+(99:33) [music] Heat.
+(99:40) [music]
+(99:45) [music]
+(99:52) [music]
+(99:58) Heat.
+(100:00) Heat. [music]
+(100:06) Heat. [music]

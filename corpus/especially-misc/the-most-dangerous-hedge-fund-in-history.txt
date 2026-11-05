@@ -1,0 +1,659 @@
+Title: The Most Dangerous Hedge Fund in History
+
+(0:00) This video is sponsored by the Daily
+(0:02) Upside. More on them later in the video.
+(0:05) >> They probably have as high an average IQ
+(0:06) as any 16 people working together in one
+(0:08) business in the country. The whole story
+(0:10) is really fascinating. If I ever write a
+(0:13) book, it's going to be called [music]
+(0:14) Why Smart People Do Dumb Things.
+(0:17) In the mid 1990s, the Wall Street
+(0:19) equivalent of an NBA All-Star Team was
+(0:22) assembled to launch a hedge fund. future
+(0:25) Nobel winners Myron Scholes and Robert
+(0:27) Mertton and three of the brightest
+(0:29) mathematical minds in the world. [music]
+(0:32) They used an undisclosed trading
+(0:34) strategy to deliver staggering profits
+(0:36) for [music] its clients over a 4-year
+(0:38) period. But in the fifth year, the fund
+(0:41) entered a death spiral. [music]
+(0:47) Losses so violent that they threatened
+(0:49) to take [music] down the entire
+(0:51) financial system. Had the failure of
+(0:53) LTCM triggered the seizing up of
+(0:55) markets, substantial damage could have
+(0:58) been inflicted on many market
+(1:00) participants and could have potentially
+(1:02) impaired [music] the economies of many
+(1:04) nations, including our own.
+(1:07) This insane 5-year roller coaster began
+(1:10) in 1994.
+(1:13) A hedge fund called Long-Term Capital
+(1:15) Management begins trading money for its
+(1:18) clients. Among them are wealthy
+(1:20) individuals, institutions, and even
+(1:22) [music] foreign governments. And
+(1:24) collectively, they hand over more than a
+(1:26) billion [music] dollars to the firm.
+(1:28) Only the insiders of the fund know the
+(1:31) exact trading [music] methods they'll
+(1:33) use to grow that money. But that didn't
+(1:35) matter to the clients because the
+(1:37) results were speaking for themselves. In
+(1:39) May of that year alone, they generated a
+(1:42) 7% [music] profit and by year end a
+(1:45) return of 28% before fees. A year, by
+(1:49) the way, in which the stock market
+(1:50) broadly was down. The market bounced
+(1:53) back with a 34% gain the following year.
+(1:57) But it had nothing on long-term capital
+(1:59) management, [music]
+(2:00) a 59% gain, and had now grown $1.25
+(2:05) billion of starting capital into 3.6 6
+(2:08) billion in [music] just 2 years. Year 3
+(2:11) was an equally impressive 57% return
+(2:15) followed by 25% in 1997.
+(2:19) In October, two of the hedge funds
+(2:21) partners, Robert Mertton and Myron
+(2:23) Scholes, were awarded the Nobel Prize in
+(2:26) Economic Sciences for developing one of
+(2:28) the most important formulas in financial
+(2:30) markets. The Black Scholes model, a way
+(2:33) to determine the value of derivative
+(2:35) securities such as options or futures
+(2:38) [music] contracts. The incredible irony
+(2:41) is that it was a mislication of
+(2:43) derivatives prices that made 1997 the
+(2:46) last profitable year for the fund.
+(2:49) Within 6 months, long-term [music]
+(2:50) capital management imploded, dropping
+(2:53) 6.7% in May, another 10% [music] in
+(2:56) June, and it just got worse and worse.
+(3:00) On August 21st alone, they lost $500
+(3:03) [music] million. And by the end of that
+(3:05) month, they'd set fire to nearly all of
+(3:08) the $5 billion they were managing for
+(3:10) clients. [music] The New York Fed
+(3:12) president needs to be briefed on the
+(3:14) situation, and what he sees behind the
+(3:16) curtains is horrific. The remaining $2.3
+(3:20) billion of clients money was leveraged
+(3:22) at a ratio of 55 to1. The hedge fund was
+(3:26) about to default [music] on more than
+(3:29) $100 billion of debt. money that had
+(3:32) been lent out to more than 50 financial
+(3:34) [music]
+(3:34) institutions. And with some of the
+(3:36) loosest loan terms he'd ever seen,
+(3:39) [music] this wasn't going to be an
+(3:41) isolated collapse. It had the potential
+(3:44) to cause [music] a domino of defaults
+(3:46) and losses all across Wall Street. This
+(3:50) might be the craziest story I've come
+(3:52) across, and I'm going to show you the
+(3:54) inner workings of [music] this hedge
+(3:56) fund. from the specific trading
+(3:58) strategies they used, the disastrous
+(4:00) mistakes they made, and the negligence
+(4:03) of Wall Street who poured gasoline on
+(4:05) the long-term capital management fire.
+(4:08) Many of the baffling details of this
+(4:11) story come from Roger Loenstein's book,
+(4:13) When Genius Failed. So, all credit to
+(4:16) him and his incredible journalism.
+(4:18) Before we continue, I just want to pause
+(4:20) the video and share with you an
+(4:22) incredible free resource for staying up
+(4:24) to date [music] with the business world,
+(4:26) the sponsor of today's video, The Daily
+(4:28) Upside. They're a completely free daily
+(4:31) newsletter with over 1 million investors
+(4:33) subscribed, including myself. It's
+(4:36) really easy to sign up. And with just 5
+(4:38) minutes each morning, you'll be able to
+(4:39) get up to speed with the top [music]
+(4:41) finance and investing news, including
+(4:43) insights, analysis, and clarity [music]
+(4:45) on the top business stories circling the
+(4:48) globe. I've been a longtime and avid
+(4:50) reader [music] of The Daily Upside, not
+(4:52) only because it helps me to stay
+(4:54) upto-date, but because their stories
+(4:56) always include [music] unique details
+(4:58) that I just don't find in traditional
+(5:01) media, such as this fascinating analysis
+(5:03) of consumer spending. they shared in one
+(5:06) of [music] last week's publications.
+(5:08) Again, it's completely free to sign up
+(5:10) and you get one informationfilled email
+(5:13) each morning. [music] Join over 1
+(5:15) million people who trust the Daily
+(5:16) Upside and sign up using the link in the
+(5:19) description. Okay, so right at the
+(5:21) center of this story is John
+(5:23) Merryweather, the founder of Long-Term
+(5:26) Capital Management. He's the man who was
+(5:28) able to bring so many prominent figures
+(5:30) from finance and academia together to
+(5:33) manage money. and their main trading
+(5:35) strategy was discovered by Merryweather
+(5:38) in 1979
+(5:40) kind of by accident. [music] He was a
+(5:42) trader at Solomon Brothers running a
+(5:44) fixed income arbitrage group that he had
+(5:46) started 2 years earlier. One day in the
+(5:49) middle of June, he received a phone call
+(5:51) from John Xane, another trader from
+(5:54) outside the firm. He told Merryweather
+(5:57) that he was on the brink of bankruptcy
+(5:59) all because he was stuck in a treasury
+(6:02) bond arbitrage trade. Xdine needed
+(6:05) Merryweather to buy him out of his bet.
+(6:08) But this was no small ask. This would
+(6:11) mean convincing the Solomon Brothers
+(6:13) executives to allocate tens of millions
+(6:15) of dollars to a single trade, a sizable
+(6:19) percentage of the firm's $200 million of
+(6:21) capital. [music]
+(6:23) Merryweather explained the trade to his
+(6:25) bosses. It would involve buying US
+(6:28) Treasury bills and at the same time
+(6:30) shortselling the futures contracts of
+(6:32) treasury bills. The profit opportunity
+(6:35) was the tiny difference in price [music]
+(6:37) between the futures and the actual
+(6:39) bonds. Effectively, the trade would make
+(6:42) money if the two prices converged.
+(6:45) Hence, it's called a convergence [music]
+(6:48) arbitrage. Surprisingly, the Solomon
+(6:50) leaders gave him the all clear, although
+(6:53) the managing partner set a contingency.
+(6:56) If the trade didn't work, you'll be
+(6:58) [music] fired, he told Merryweather.
+(7:02) This was a lightbulb moment for
+(7:04) Merryweather. That convergence arbitrage
+(7:06) strategy would become the exact
+(7:08) blueprint for his own hedge fund,
+(7:11) Long-Term Capital Management. And
+(7:13) luckily, the trade worked, so he wasn't
+(7:16) fired. Or more accurately, he wasn't
+(7:20) fired that year. He was actually fired
+(7:24) in 1991. Another Solomon trader, Paul
+(7:27) Moser, confessed to Merryweather that he
+(7:29) had illegally rigged a US Treasury
+(7:32) auction by submitting fake bids. [music]
+(7:35) This is obviously a crime, but it wasn't
+(7:37) reported to law enforcement. The [music]
+(7:40) Solomon executives decided to handle it
+(7:42) internally. This was based partially on
+(7:45) the recommendation of Merryweather, who
+(7:47) believed it was a one-time mistake. It
+(7:50) turned out that Moser had in fact
+(7:51) violated Treasury auction laws
+(7:53) repeatedly, [music] and in August 1991,
+(7:56) it was exposed. Moser went to prison
+(8:00) [music] and Solomon was fined $190
+(8:02) million. The CEO resigned and was
+(8:06) temporarily replaced by Warren [music]
+(8:08) Buffett, who had recently acquired a 12%
+(8:11) stake in the firm. Shortly thereafter,
+(8:13) Merryweather was forced to resign, a
+(8:17) decision that fostered resentment of
+(8:19) Buffett among the Solomon traders.
+(8:21) [music] Although, as it pertains to this
+(8:23) story of long-term capital, Warren would
+(8:26) ultimately have the last [music] laugh.
+(8:28) Starting this video with the words of
+(8:30) Warren Buffett was no accident. The man
+(8:33) unanimously known as the greatest
+(8:36) investor of all [music] time appears
+(8:38) repeatedly throughout this story. Out of
+(8:40) a job, Merryweather looks to start his
+(8:43) very own hedge fund. And in 1993, he
+(8:46) began assembling what could only be
+(8:48) described as the dream team of Wall
+(8:50) Street. It starts with a number of
+(8:53) ex-solomon traders. Eric Rosenfeld,
+(8:56) Victor Hakani, Greg Hawkins, and Larry
+(8:59) Hillibbrands among others. He then
+(9:01) sought to recruit the very best from
+(9:03) academia, starting with Robert C.
+(9:06) Merton, a legendary figure in the
+(9:08) finance world because of his research on
+(9:10) one of the most important unsolved
+(9:13) problems in markets. How to correctly
+(9:16) price a stock option contract. The
+(9:18) problem was already being tackled by two
+(9:21) other genius economists, Fischer Black
+(9:24) and Myron Scholes. They'd mostly cracked
+(9:26) it, but Merin arrived on scene in the
+(9:28) 70s and completed the formula. Black and
+(9:31) Scholes published their findings first
+(9:34) and so it was named the Black Scholes
+(9:36) model. If you've been to business school
+(9:38) then you know just how big of a
+(9:40) discovery this was for the investment
+(9:42) banking world. It's like Einstein's E=MC
+(9:46) squared but for investment risk. Scholes
+(9:49) and Merton would both win the 1997 Nobel
+(9:53) Prize in economics [music]
+(9:54) for it. But back in 93, they joined
+(9:57) Long-Term Capital Management as partners
+(10:00) and on the board of directors. And a few
+(10:02) months later, they'd recruit David W.
+(10:05) Mullins, former vicechairman of the US
+(10:08) Federal Reserve, the second highest
+(10:11) position at the Fed. What's important
+(10:13) about this all-star lineup was the level
+(10:16) of prestige it gave them. It was really
+(10:19) great for getting early investment, but
+(10:22) it also led many banks to overestimate
+(10:25) their abilities, something that would
+(10:27) create huge problems in the future.
+(10:30) Merryweather approached Meil Lynch, an
+(10:33) investment bank who would help raise the
+(10:35) initial capital for the fund.
+(10:37) Merryweather's goal was to raise $2.5
+(10:40) billion, way more than the 25 to50
+(10:43) million [music] that is typical for a
+(10:45) hedge fund launch. Acting as the
+(10:47) placement agent, Meil Lynch hosted a
+(10:50) global [music] fundraising road show in
+(10:52) late 1993.
+(10:54) The pitch to prospective clients was
+(10:56) that long-term capital could exploit
+(10:59) relative value opportunities in the bond
+(11:02) market. The partners would charge a 2%
+(11:04) fee on assets as well as 25% of profits,
+(11:08) a lot higher than the typical structure
+(11:11) of a 1% fee and 20% of profits. Clients
+(11:15) would also have to have their money
+(11:17) locked in for three [music] years.
+(11:19) Another atypical feature for a fund, but
+(11:22) this certainly didn't diminish [music]
+(11:23) the huge amount of interest for people
+(11:26) wanting to have their money managed by
+(11:28) such an allstar [music] lineup.
+(11:30) Investment poured into the fund from
+(11:32) wealthy individuals and a few
+(11:34) institutions put up over $100 million
+(11:37) each. [music] Sumotoma Bank in Japan,
+(11:40) Dresnner Bank in Germany, Julius Bear in
+(11:43) Switzerland, and even the investment
+(11:45) agency of the Italian Treasury. Not
+(11:48) everyone was convinced. Merryweather
+(11:51) traveled to Omaha for a dinner with
+(11:53) Warren Buffett. He swiftly declined to
+(11:56) invest. All up, they'd raised about
+(11:58) $1.25 [music] billion.
+(12:01) The partners themselves put $146 million
+(12:04) of their own money into the fund and by
+(12:07) 1994 they were ready to begin trading.
+(12:11) In February, Fed Chair Alan Greenspan
+(12:14) raised interest rates for the first time
+(12:16) in 5 [music] years. It triggered a
+(12:18) global bond sell-off and long-term
+(12:21) capital noticed something unusual about
+(12:23) the yields on [music] the 30-year
+(12:25) Treasury bond. In August, a brand new
+(12:27) 30-year bond had a yield of 7.24 24%.
+(12:32) But the exact same bond that was issued
+(12:34) 6 months earlier was at 7.36%.
+(12:37) [music] The yield and price of a bond
+(12:40) are an inverse relationship. So the
+(12:42) slightly older 30-year bond was cheaper
+(12:45) than the new one. It wasn't cheaper
+(12:47) because it was a riskier investment.
+(12:48) [music]
+(12:49) It was cheaper because of liquidity. The
+(12:52) higher amount of buying and selling
+(12:54) activity in the newer bond made its
+(12:57) price higher. Theoretically, both would
+(13:00) eventually become the same price.
+(13:02) Long-term capital was able to profit
+(13:04) from the prices converging by taking
+(13:07) both sides [music] of the trade. They
+(13:09) take $1 billion of their equity, the
+(13:12) client's money, and they buy the older,
+(13:14) cheaper 30-year bond. [music] They then
+(13:17) turn to an investment bank like Solomon
+(13:19) Brothers, and they say, "Hey, I want to
+(13:21) borrow a billion dollars of the new
+(13:24) 30-year bond." Long-term capital sells
+(13:27) the [music] bond immediately and the
+(13:29) cash they receive from the sale is
+(13:31) posted as collateral against the [music]
+(13:33) borrowed bonds. This is called a reverse
+(13:36) repossession or repo [music] agreement.
+(13:39) Let's say it takes 1 year for the prices
+(13:41) to converge. At that point, long-term
+(13:44) capital sells the old bond. They buy the
+(13:47) new bond and return it to Solomon. And
+(13:49) the profit they've made on a.12% [music]
+(13:52) yield conversion is about 1.2%. 2%. If
+(13:56) that sounds like a whole lot of work for
+(13:59) a pretty pathetic return, well, it is,
+(14:03) which is why Long-Term Capital did
+(14:06) things slightly differently. Instead of
+(14:08) using their $1 billion of equity to buy
+(14:11) the bonds, they put it in a money market
+(14:14) account that earns 5.5%. [music]
+(14:16) They still do a reverse repo agreement
+(14:19) with Solomon, but this time for $25
+(14:22) billion worth of bonds. And on the other
+(14:25) side, they turn to JP Morgan. They
+(14:28) borrow $25 billion, buy the old 30-year
+(14:32) bond, and post the bond as collateral.
+(14:35) That's a repo agreement. Literally just
+(14:38) the opposite side of the trade that they
+(14:40) have with Solomon. Now, the fund is
+(14:43) leveraged 25:1. [music] So, when the
+(14:45) bond yields converge and they unwind the
+(14:48) repo agreements, instead of making 1.2%,
+(14:52) they make 30%. and they didn't use any
+(14:55) of their own capital in the trade. It
+(14:58) sat in a money market account and earned
+(15:00) another 5.5%,
+(15:02) a total return of 35.5%. [music]
+(15:06) But leverage works both ways. If the
+(15:08) yield spreads between their bets
+(15:10) widened, the losses would be huge. So,
+(15:13) it was critical that Merryweather and
+(15:15) the long-term capital team could
+(15:17) accurately calculate the risks of their
+(15:19) trades. This was the role of Mertton and
+(15:22) Scholes. In early 1995, they wrote a
+(15:25) letter to clients with explicit
+(15:27) calculations of the probability of
+(15:30) various loss scenarios. They claimed
+(15:32) that there was about a 10% chance of
+(15:34) losing 10% of their money in any given
+(15:37) year and about [music] a 2% chance of
+(15:40) losing more than 20%. In other words,
+(15:43) they thought it would take a once in
+(15:45) 50year market event to cause big losses.
+(15:49) That year, Long-Term Capital continued
+(15:51) with their convergence trades, making
+(15:53) $600 million on a single trade of
+(15:56) Italian government bonds [music]
+(15:58) and a 59% return for the year. 1996 was
+(16:02) a 57% return. The fund had turned about
+(16:06) $2 billion into nearly [music]
+(16:08) $6 billion in just 3 years. However, in
+(16:12) 1997, the hedge fund's fourth year, they
+(16:16) would make the first in a series of
+(16:18) critical mistakes. By now, almost every
+(16:21) investment bank on Wall Street was
+(16:23) taking part in the bond arbitrage
+(16:25) strategies that long-term capital had
+(16:27) been relying on. Bond spreads had
+(16:30) narrowed and the profit opportunity just
+(16:32) wasn't there anymore. So, under the
+(16:34) advice of Victor Hagani, the fund
+(16:36) [music] turned to the stock market.
+(16:38) Hagani believed that the same type of
+(16:41) convergence trade could be done with
+(16:43) pairs of [music] stocks. Volkswagen, for
+(16:45) example, had two different types of
+(16:47) shares, an ordinary share and a
+(16:50) preference share that came with superior
+(16:52) voting rights. The voting shares had a
+(16:54) price 40% higher than the ordinary
+(16:57) shares. So, a trade could be set up to
+(17:00) profit if that gap got smaller. This was
+(17:03) a significant deviation from what the
+(17:06) fund was doing in the bond market.
+(17:08) Different issues of the exact same
+(17:10) 30-year bond should theoretically be the
+(17:13) same price. But in the case of
+(17:15) Volkswagen stock, the voting shares are
+(17:18) legitimately worth more than the
+(17:20) ordinary. So there should be a gap in
+(17:22) [music] price. And to make matters
+(17:24) worse, that gap is purely subjective.
+(17:27) There isn't a formula to tell you how
+(17:30) much in dollars a vote [music] is worth.
+(17:33) Hakani was effectively arguing that the
+(17:35) 40% gap was so high that it must be
+(17:39) excessive. But clearly these types of
+(17:42) trades come with much more uncertainty.
+(17:45) So surely they would only place small
+(17:47) bets, right? Well, as Robert Loenstein
+(17:50) put it, like a man who pays for dinner
+(17:53) with $100 bills and [music] never asks
+(17:55) for change, long-term capital management
+(17:58) had lost the habit of moderation. The
+(18:00) fund made about 15 of these paired share
+(18:04) trades, [music] and some of them were
+(18:06) absurdly big bets. One bet was on the
+(18:09) convergence of the share prices of Royal
+(18:11) Dutch Petroleum and Shell Transportation
+(18:14) of England. The trade was an eyewatering
+(18:17) $2.3 [music]
+(18:18) billion.
+(18:19) Just like the 30-year bond bets, they
+(18:22) used leverage, but the Federal Reserve
+(18:25) actually limits the amount of money that
+(18:27) a hedge fund can borrow against stocks.
+(18:30) [music] So, instead of actually buying
+(18:32) shares in Shell, they'd go to an
+(18:34) investment bank like Meil Lynch. Meil
+(18:37) Lynch would buy the shares for them and
+(18:39) write a contract called a return [music]
+(18:42) swap. This contract simply says that
+(18:44) Meeril Lynch will pay Long-Term Capital
+(18:46) whatever profit it would have earned if
+(18:49) they'd actually bought the stock. And if
+(18:51) the stock declined, Long-Term [music]
+(18:53) would have to pay Merrill. This
+(18:55) effectively allowed the fund to sidestep
+(18:58) any [music] limitations on borrowing and
+(19:00) to trade stocks without putting any
+(19:03) money down as collateral. Merryill Lynch
+(19:05) was one of Long-Term Capital's biggest
+(19:07) [music] lenders, partly because the CEO,
+(19:10) Daniel Tully, was family [music] friends
+(19:12) with Merryweather. Their families
+(19:14) regularly played golf together. But it
+(19:17) wasn't just one overly generous lender.
+(19:19) More than 50 financial institutions were
+(19:22) lending them money. And that year, 1997,
+(19:26) long-term capital reached $1.25
+(19:29) trillion worth of these bets. The fund
+(19:32) made a 25% return in 1997, [music]
+(19:35) about half of their 1995 and 96
+(19:39) performance. The fund had grown its
+(19:41) equity so fast that they were having
+(19:43) trouble finding enough profitable
+(19:46) trades. The team ultimately decided to
+(19:48) give $2.7 billion back to the clients,
+(19:52) reducing the fund's equity to about $4.7
+(19:55) billion, and that is a decision they
+(19:57) would come to regret.
+(20:00) 1998 was the year everything you could
+(20:03) possibly imagine going wrong went wrong.
+(20:06) Market volatility was still high
+(20:08) relative to historical norms. And so the
+(20:11) fund positioned themselves with heavy
+(20:13) bets on volatility declining. They also
+(20:16) increased their yield spread bets in
+(20:18) Brazilian and Russian debt, often taking
+(20:21) unhedged directional bets instead of
+(20:23) their usual arbitragees.
+(20:26) If you believe in karma, then the trade
+(20:28) that sealed the fate of the fund was its
+(20:31) short against Berkshire Hathaway.
+(20:33) Betting on the decline of Warren
+(20:35) Buffett's company backfired
+(20:37) spectacularly, losing the firm $150
+(20:40) million. In aggregate, Long-Term Capital
+(20:44) estimated that the fund risked losing
+(20:46) $45 million for every 1% that volatility
+(20:50) increased, but that a big spike was
+(20:53) virtually impossible.
+(20:55) Well, that theory would be tested in
+(20:57) June of 1998.
+(21:00) Solomon Smith Barney unexpectedly shuts
+(21:03) down its bond arbitrage group and was
+(21:06) forced to liquidate its positions.
+(21:08) Equity volatility spiked from 19% to 27%
+(21:13) and within the space of a few days, the
+(21:15) fund lost almost $300 million, a 10%
+(21:19) monthly drop, now down 14% since the
+(21:22) beginning of the year. Clearly, their
+(21:25) calculation of risk had been wrong. And
+(21:28) yet, they continued to trust their
+(21:30) modeling. It showed that the maximum
+(21:32) daily loss had actually declined from 45
+(21:36) million to 34 million. So, they doubled
+(21:39) down on their bets. The fund's leverage
+(21:42) grew to 31 times equity. As August
+(21:45) rolled around, the fund's fate was all
+(21:48) but sealed. The final nail in the coffin
+(21:51) came on the 17th. Russia defaulted on
+(21:54) its debt. Most investors thought this
+(21:56) wasn't even possible because the debts
+(21:59) were denominated in Russia's own
+(22:01) currency. But instead of simply printing
+(22:03) [music] more currency, the Kremlin chose
+(22:05) to pause its payments. Markets didn't
+(22:08) really react to the news on that day
+(22:10) because everyone just assumed that the
+(22:12) global banks would step in to prevent a
+(22:14) [music] disaster. Well, they didn't. On
+(22:18) the 21st of August, markets went into
+(22:21) fullon panic. Long-term Capital's
+(22:23) Russian bond bets imploded and the fund
+(22:26) lost $553
+(22:28) million, 15% of all its capital in a
+(22:33) single day. When markets closed for the
+(22:35) weekend, long-term capital was in crisis
+(22:38) mode. They couldn't exit their bets
+(22:41) because there simply wasn't enough
+(22:43) buyers in the market, and they couldn't
+(22:45) just wait it out. At the current pace of
+(22:48) losses, all their capital would be gone
+(22:50) in a matter of days or even hours. They
+(22:54) needed a capital injection. New
+(22:57) investors to put more money into the
+(22:59) fund. Eric Rosenfield calls Warren
+(23:02) Buffett asking him to buy out their
+(23:04) positions. A somewhat embarrassing call
+(23:07) to make as only a few months had passed
+(23:10) since they'd shorted his company. He
+(23:13) declined to save the fund. Merryweather
+(23:16) then met with George Soros and Stanley
+(23:18) Ducken Miller over breakfast. They
+(23:21) themselves had just lost $2 billion from
+(23:24) Russian bond bets, but agreed to invest
+(23:26) $500 million if they could secure
+(23:29) another $500 million elsewhere. By the
+(23:32) 25th, the firm's capital had dropped to
+(23:34) just 2.7 billion. They tried getting
+(23:37) additional investment from Merrill and
+(23:39) Solomon Smith Barney, but both attempts
+(23:41) failed. The 27th was Long-Term Capital's
+(23:45) second worst day ever, losing $277
+(23:49) million. By the 31st, just $2.28 billion
+(23:54) remained, [music] down 52% for the year
+(23:58) and with $125 billion of positions they
+(24:02) couldn't get out of. 55:1 leverage,
+(24:06) meaning a simple 1 to 2% decline in
+(24:09) their portfolio would incinerate all of
+(24:12) the remaining equity.
+(24:16) On the 3rd of September, their Brazilian
+(24:18) debt positions began to implode, just
+(24:21) like their Russian bets. On the 10th,
+(24:24) there was news of a rocket exploding on
+(24:26) launch. It was carrying Global Star
+(24:29) satellites, and it just so happened that
+(24:31) Long-Term Capital owned a lot of the
+(24:34) company's bonds. The fund's capital
+(24:37) slipped below $2 billion.
+(24:40) [music]
+(24:41) This was it. Long-term capital was going
+(24:45) to run out of money.
+(24:49) It's the 23rd of September. The CEOs of
+(24:52) 14 major banks are sitting around the
+(24:55) Federal Reserve's Wall Street boardroom.
+(24:57) Fed President William Macdonald lays out
+(25:00) the urgency of the situation. Long-term
+(25:03) Capital had $1.25 trillion worth of
+(25:06) derivatives positions. Every single bank
+(25:10) in that room was owed billions of
+(25:12) dollars. And when long-term capital
+(25:14) collapses, each bank would be forced to
+(25:17) sell huge amounts of stocks and bonds.
+(25:20) a fire sale that would likely cause a
+(25:23) chain reaction and collapse the entire
+(25:26) stock market.
+(25:28) Macdonald urges the 14 banks to come
+(25:31) together and inject $4 billion into
+(25:34) long-term capital and save the system
+(25:37) from a fullon financial crisis.
+(25:42) This meeting in the 25th hour was an
+(25:45) unprecedented collaboration that
+(25:47) ultimately prevented a disaster.
+(25:50) Collectively, the banks injected $3.65
+(25:54) billion in exchange for owning 90% of
+(25:57) the fund. Bear Sterns ironically refused
+(26:00) to contribute to the bailout. Less than
+(26:03) a decade later, they'd happily take a
+(26:06) $25 billion bailout for themselves. If
+(26:09) this deal had fallen through, there was
+(26:12) one other offer on the table. Warren
+(26:14) Buffett came back with a lastminute bid
+(26:17) [music] in collaboration with AIG and
+(26:20) Goldman Sachs. Buffett wanted the entire
+(26:23) fund for $250 million, a 95% discount to
+(26:28) what the fund was worth at the beginning
+(26:30) of the year. Fortunately for the
+(26:33) partners' egos, the deal wasn't
+(26:36) necessary. The extra $4 billion of
+(26:38) capital allowed long-term to survive
+(26:41) while markets calmed down. Slowly, the
+(26:44) funds bets were unwound and the banks
+(26:47) ended up making a 10% return on the
+(26:49) money they injected, which is such a
+(26:52) perfect example of the risks that come
+(26:54) with using leverage to trade. Long-term
+(26:57) Capitals models weren't wrong. Their
+(27:00) bets made perfect sense, except for one
+(27:03) thing. [music]
+(27:04) Markets are made up of people and people
+(27:07) act unpredictably. Markets can remain
+(27:10) irrational longer than you can remain
+(27:12) solvent. As the fund was rapidly
+(27:15) approaching zero, they themselves were
+(27:17) selling huge blocks of stock, driving
+(27:20) prices to [music] irrational extremes.
+(27:23) So in the end, they were the ones taking
+(27:25) the irrational actions that undermined
+(27:29) their modeling. [music] And if there's
+(27:31) an ultimate lesson that's relevant to us
+(27:33) today, it's this. Private investment
+(27:36) firms are incredibly secretive about
+(27:38) what they're actually doing. [music]
+(27:40) It's often invisible until it's too
+(27:43) late. The most unusual part of all of
+(27:45) this is that the long-term capital
+(27:47) founder actually [music] called the Fed
+(27:50) before it imploded. An admission of
+(27:53) defeat that likely saved the US from
+(27:56) recession. The partners lost all of
+(27:58) their money in the fund, but shockingly,
+(28:01) most of their clients actually came out
+(28:03) fine. Of the 100 wealthy investors, only
+(28:07) 12 lost money and just six lost more
+(28:10) than $2 million. The fund had performed
+(28:13) so exceptionally well in its early years
+(28:16) that the internal rate of return was
+(28:18) 19%. even after more than 90% of the
+(28:22) fund was eviscerated in that final year.
+(28:26) Hit subscribe if you enjoyed the video
+(28:28) and check out this playlist of my best
+(28:30) videos if you'd like something [music]
+(28:31) to watch next. Thanks for watching.
+(28:38) [music]

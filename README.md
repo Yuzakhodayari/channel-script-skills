@@ -1,30 +1,31 @@
 # Channel script skills
 
-[![GitHub stars](https://img.shields.io/github/stars/Yuzakhodayari/channel-script-skills?style=flat)](https://github.com/Yuzakhodayari/channel-script-skills/stargazers)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-Four agent skills for writing YouTube video scripts in a blended explainer voice. Run them in order:
+Four private agent skills that write YouTube scripts in one channel's blended voice. Pipeline order matters:
 
 **structure → storytelling → audience → language**
 
+Nothing publishes itself. These skills write. You ship.
+
 | skill | what it does |
 | --- | --- |
-| [`channel-structure`](skills/channel-structure) | Outlines, beat timing, strategy selection, sponsor and CTA placement |
+| [`channel-structure`](skills/channel-structure) | Outlines, beat timing, strategy selection, sponsor/CTA placement |
 | [`channel-storytelling`](skills/channel-storytelling) | Cold opens, story engines, tension, callbacks, endings |
 | [`channel-audience`](skills/channel-audience) | Retention devices, re-hooks, emotional calibration, CTAs |
-| [`channel-language`](skills/channel-language) | Sentence voice; humanizes AI-sounding narration; detector gate ≤ 2 |
+| [`channel-language`](skills/channel-language) | Sentence voice; humanize AI-sounding narration; detector gate ≤ 2 |
 
-Each skill is a folder with a `SKILL.md` (YAML `name` + `description`) and a `references/` directory.
+Each skill is a folder with `SKILL.md` + `references/`. Optional classic exam scores live under `exams/`.
 
 ## Install
 
-### Antigravity / Gemini (one line)
+### One line from GitHub (Gemini / Antigravity)
+
+Paste this into Antigravity or run it in a terminal:
 
 ```bash
 npx skills add Yuzakhodayari/channel-script-skills -a antigravity -g -y
 ```
 
-`npx skills` sometimes leaves the skills in `~/.agents/skills`. Copy them into the folder Antigravity loads:
+That clones the private repo and installs all four `channel-*` skills. Then copy them into the folder Antigravity actually loads (the `npx skills` tool sometimes leaves them in `~/.agents/skills`):
 
 ```bash
 mkdir -p ~/.gemini/config/skills
@@ -36,27 +37,34 @@ New-Item -ItemType Directory -Force -Path "$HOME\.gemini\config\skills"
 Copy-Item -Recurse -Force "$HOME\.agents\skills\channel-*" "$HOME\.gemini\config\skills\"
 ```
 
-Restart Antigravity. The skills appear as `/channel-structure`, `/channel-storytelling`, `/channel-audience`, and `/channel-language`.
+Restart Antigravity. Skills show up as `/channel-language`, `/channel-storytelling`, `/channel-structure`, `/channel-audience`.
 
-### Project-local
+The repo is public, so no token is needed. If a clone ever fails, log into GitHub first (`gh auth login`).
 
-From your channel workspace (for example `your-channel-project/`):
+```bash
+```
+
+### Project-local (recommended for a YouTube workspace)
+
+From your channel folder (`D:\Youtube channel` or similar):
 
 ```bash
 npx skills add Yuzakhodayari/channel-script-skills -a antigravity -y
+# lands in ./.agents/skills/ — Antigravity discovers that automatically
 ```
 
-This installs into `./.agents/skills/`, which Antigravity discovers automatically.
+Or clone once and copy:
 
-### Claude Code / Codex
+```powershell
+git clone https://github.com/Yuzakhodayari/channel-script-skills.git
+Copy-Item -Recurse -Force .\channel-script-skills\skills\channel-* ".agents\skills\"
+```
+
+### Claude Code / Codex (same repo)
 
 ```bash
 npx skills add Yuzakhodayari/channel-script-skills -a claude-code -g -y
-```
-
-Or clone the repo and use the install scripts:
-
-```bash
+# or
 ./install.sh            # global: ~/.claude/skills, ~/.gemini/config/skills, ~/.codex/skills
 ./install.sh --project  # ./.claude/skills, ./.agent/skills, ./.agents/skills, ./.cursor/skills
 ```
@@ -66,52 +74,59 @@ Or clone the repo and use the install scripts:
 .\install.ps1 -Project
 ```
 
-No skills folder? Paste a single `SKILL.md` at the top of a chat. You lose automatic discovery, but the rules still apply.
+Each skill folder already has `SKILL.md` with YAML `name` + `description`. Antigravity skips folders that lack that frontmatter.
 
-## Usage
+Paste any single `SKILL.md` at the top of a chat if you are not using a skills folder. You lose automatic discovery; the rules still run as a mode.
 
-1. `/channel-structure`: turn a topic and research notes into a timed outline.
-2. `/channel-storytelling`: build the cold open, story engine, and ending.
-3. `/channel-audience`: add re-hooks and retention devices, and place CTAs.
-4. `/channel-language`: rewrite the narration into the channel voice and run the detector gate.
+## Corpus
 
-The skills write drafts. Review and publishing are up to you.
+**117** weighted transcripts under [`corpus/`](corpus/), one folder per creator, plus [`corpus/weights.csv`](corpus/weights.csv).
 
-## Voice blend
-
-The voice is a weighted blend of explainer channels. Art of the Problem, AI In Context, Max Fisher, Gen, and Maxinomics carry the most weight. ColdFusion, Johnny Harris, Species, and others are weighted lower as contrast.
-
-Per-video weights and creator credits are in [`corpus/weights.csv`](corpus/weights.csv). Full transcripts are not included in this repo; see [`corpus/README.md`](corpus/README.md).
-
-## Exam scores
-
-Classic discrimination harness (deterministic rule solvers), weight-averaged 0–1:
-
-| skill | score |
+| creator | role in the blend |
 | --- | --- |
-| channel-structure | 0.757 |
-| channel-storytelling | 0.646 |
-| channel-audience | 0.717 |
-| channel-language | 0.838 |
+| `ai-in-context` | highest weight (Adam-style deep dive) |
+| `max-fisher` | high-weight narrative news deep dive |
+| `gen` | the owner's channel |
+| `maxinomics` | object-demo / mechanism stories |
+| `art-of-the-problem` | explanatory story craft |
+| `especially-misc` | SpaceX / AI / data-center essays |
+| others (`coldfusion`, `johnny-harris`, `species`, …) | lower-weight contrast |
 
-These scores are a lexical proxy for how well the rules are applied. They are not a human judgement of script quality. Details are in each skill's `exams/`.
+Exact per-video weights and inclusion notes are in `corpus/weights.csv`. Non-host speech is filtered where the source allows.
+
+## Classic exam scores (honest)
+
+Optional. Re-run of the **original** discrimination harnesses (deterministic solvers, held-out or fold-in). Weight-averaged 0–1.
+
+| skill | classic after |
+| --- | --- |
+| channel-storytelling | **0.646** |
+| channel-structure | **0.757** |
+| channel-audience | **0.717** |
+| channel-language | **0.838** |
+
+Per-task tables: each skill's `exams/heldout-2026.md` and `exams/scores.csv`.
+
+A later rewrite-script exam pack that scored near 1.0 was **rejected** — those grades were not real. Do not treat them as progress. The numbers above are the comparable classic harness.
+
+These scores are a lexical proxy for how well a rule solver applies the skill, not a human judgement of agent output.
 
 ## Layout
 
 ```
 skills/
   channel-structure/     SKILL.md  references/  exams/  README.md
-  channel-storytelling/
-  channel-audience/
-  channel-language/
+  channel-storytelling/  …
+  channel-audience/      …
+  channel-language/      …
 corpus/
-  weights.csv  README.md
+  <creator>/*.txt
+  weights.csv
 install.sh
 install.ps1
-LICENSE
 NOTICE.md
 ```
 
-## License
+## Private
 
-[MIT](LICENSE) © 2026 Youza Khodayari. See [NOTICE.md](NOTICE.md) for source attribution.
+Personal use. Keep this repository private. See `NOTICE.md`.
