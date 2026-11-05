@@ -22,7 +22,7 @@ mkdir -p .claude/skills && cp -R channel-language .claude/skills/channel-languag
 
 **Antigravity / Gemini**
 ```bash
-mkdir -p ~/.gemini/antigravity/skills && cp -R channel-language ~/.gemini/antigravity/skills/channel-language
+mkdir -p ~/.gemini/config/skills && cp -R channel-language ~/.gemini/config/skills/channel-language
 # or project-local
 mkdir -p .agent/skills && cp -R channel-language .agent/skills/channel-language
 ```
@@ -31,4 +31,4 @@ From the repo root you can also run `./install.sh` (or `./install.ps1` on Window
 
 ## Corpus
 
-Built from **117** weighted transcripts under `../../corpus/` (see `corpus/weights.csv`). Non-host speech filtered where applicable.
+Trained on a weighted set of 117 third-party transcripts. Full transcripts are not shipped; see [`corpus/weights.csv`](../../corpus/weights.csv) for per-video weights and creator credits.
