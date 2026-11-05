@@ -1,0 +1,101 @@
+exam,type,group,file,weight,gold,answer,score,miss,rules_active
+1,C,gen,1.txt,4.0,gold passage,humanized text,0.78,openers,tells|global|detell
+2,A,gen,4.txt,4.0,B,B,1.0,,tells|global|detell
+3,B,after,02-greed.txt,1.0,And,And,1.0,,tells|global|detell
+4,C,gen,2.txt,4.0,gold passage,humanized text,0.936,,tells|global|detell
+5,B,gen,3.txt,4.0,So,But,0.0,bigram,tells|global|detell
+6,B,gen,5.txt,4.0,But,But,1.0,,tells|global|detell
+7,B,adam,02-bestselling-book.txt,7.0,It,But,0.0,group,tells|global|detell
+8,C,gen,3.txt,4.0,gold passage,humanized text,0.831,contract,tells|global|detell
+9,C,gen,6.txt,4.0,gold passage,humanized text,0.671,contract,tells|global|detell
+10,B,especially,02-ai-paradox.txt,3.0,And,And,1.0,,tells|global|detell
+11,B,adam,01-ai-disaster.txt,7.0,And,And,1.0,,tells|global|bigram|detell|openers
+12,A,adam,04-superintelligence.txt,7.0,B,A,0.0,contr,tells|global|bigram|detell|openers
+13,B,adam,01-ai-disaster.txt,7.0,I,Okay,0.0,no-rule-fixes,tells|global|bigram|detell|openers
+14,B,especially,06-data-centers.txt,3.0,The,The,1.0,,tells|global|bigram|detell|openers
+15,B,gen,9.txt,4.0,So,And,0.0,no-rule-fixes,tells|global|bigram|detell|openers
+16,C,adam,01-ai-disaster.txt,7.0,gold passage,humanized text,0.988,,tells|global|bigram|detell|openers
+17,C,after,10-water.txt,1.0,gold passage,humanized text,0.65,contract,tells|global|bigram|detell|openers
+18,A,after,07-trump-family.txt,1.0,C,B,0.0,contr,tells|global|bigram|detell|openers
+19,A,gen,8.txt,4.0,B,B,1.0,,tells|global|bigram|detell|openers
+20,B,gen,6.txt,4.0,So,So,1.0,,tells|global|bigram|detell|openers
+21,B,adam,02-bestselling-book.txt,7.0,The,The,1.0,,tells|contr|global|bigram|detell|openers|contract
+22,C,adam,01-ai-disaster.txt,7.0,gold passage,humanized text,0.747,casual,tells|contr|global|bigram|detell|openers|contract
+23,B,gen,3.txt,4.0,So,So,1.0,,tells|contr|global|bigram|detell|openers|contract
+24,C,adam,01-ai-disaster.txt,7.0,gold passage,humanized text,0.981,,tells|contr|global|bigram|detell|openers|contract
+25,B,adam,02-bestselling-book.txt,7.0,I,I,1.0,,tells|contr|global|bigram|detell|openers|contract
+26,B,adam,03-no-longer-in-control.txt,7.0,And,And,1.0,,tells|contr|global|bigram|detell|openers|contract
+27,C,adam,01-ai-disaster.txt,7.0,gold passage,humanized text,0.756,casual,tells|contr|global|bigram|detell|openers|contract
+28,C,gen,2.txt,4.0,gold passage,humanized text,0.775,casual,tells|contr|global|bigram|detell|openers|contract
+29,A,gen,1.txt,4.0,B,B,1.0,,tells|contr|global|bigram|detell|openers|contract
+30,A,especially,06-data-centers.txt,3.0,B,B,1.0,,tells|contr|global|bigram|detell|openers|contract
+31,A,gen,3.txt,4.0,A,A,1.0,,tells|contr|global|bigram|detell|openers|contract|casual
+32,C,gen,8.txt,4.0,gold passage,humanized text,0.802,residual (lost fillers/wording cannot be recovered),tells|contr|global|bigram|detell|openers|contract|casual
+33,B,gen,3.txt,4.0,But,But,1.0,,tells|contr|global|bigram|detell|openers|contract|casual
+34,C,gen,8.txt,4.0,gold passage,humanized text,0.916,,tells|contr|global|bigram|detell|openers|contract|casual
+35,B,gen,1.txt,4.0,So,And,0.0,no-rule-fixes,tells|contr|global|bigram|detell|openers|contract|casual
+36,C,adam,04-superintelligence.txt,7.0,gold passage,humanized text,0.992,,tells|contr|global|bigram|detell|openers|contract|casual
+37,B,after,12-data-centres-not-working.txt,1.0,And,And,1.0,,tells|contr|global|bigram|detell|openers|contract|casual
+38,C,after,12-data-centres-not-working.txt,1.0,gold passage,humanized text,0.86,,tells|contr|global|bigram|detell|openers|contract|casual
+39,B,especially,06-data-centers.txt,3.0,So,So,1.0,,tells|contr|global|bigram|detell|openers|contract|casual
+40,A,gen,9.txt,4.0,C,B,0.0,opener,tells|contr|global|bigram|detell|openers|contract|casual
+41,C,adam,04-superintelligence.txt,7.0,gold passage,humanized text,0.938,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+42,B,adam,03-no-longer-in-control.txt,7.0,You,You,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+43,B,adam,04-superintelligence.txt,7.0,So,So,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+44,A,adam,01-ai-disaster.txt,7.0,A,A,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+45,B,especially,01-spacex.txt,3.0,So,So,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+46,A,adam,05-sam-altman.txt,7.0,C,C,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+47,A,oil,03-oil-apocalypse.txt,5.0,C,C,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+48,A,adam,05-sam-altman.txt,7.0,C,B,0.0,subtle-variant tie,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+49,A,after,06-diamonds.txt,1.0,A,A,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+50,A,oil,03-oil-apocalypse.txt,5.0,B,B,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+51,A,adam,01-ai-disaster.txt,7.0,C,A,0.0,fill,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+52,A,adam,03-no-longer-in-control.txt,7.0,C,C,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+53,A,after,01-dark-side-data-centers.txt,1.0,C,C,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+54,A,gen,2.txt,4.0,C,C,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+55,A,after,09-microchip-war.txt,1.0,C,C,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+56,A,adam,05-sam-altman.txt,7.0,A,B,0.0,subtle-variant tie,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+57,C,adam,01-ai-disaster.txt,7.0,gold passage,humanized text,0.809,residual (lost fillers/wording cannot be recovered),tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+58,A,gen,6.txt,4.0,A,A,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+59,B,especially,01-spacex.txt,3.0,I,I,1.0,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+60,C,adam,04-superintelligence.txt,7.0,gold passage,humanized text,0.997,,tells|contr|opener|global|bigram|detell|openers|contract|casual|split
+61,C,adam,01-ai-disaster.txt,7.0,gold passage,humanized text,0.933,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+62,B,adam,04-superintelligence.txt,7.0,So,So,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+63,C,after,07-trump-family.txt,1.0,gold passage,humanized text,0.989,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+64,A,especially,01-spacex.txt,3.0,A,A,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+65,A,adam,02-bestselling-book.txt,7.0,B,B,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+66,C,adam,03-no-longer-in-control.txt,7.0,gold passage,humanized text,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+67,C,adam,01-ai-disaster.txt,7.0,gold passage,humanized text,0.995,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+68,A,especially,06-data-centers.txt,3.0,C,C,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+69,A,adam,02-bestselling-book.txt,7.0,C,C,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+70,A,gen,4.txt,4.0,B,B,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+71,B,gen,1.txt,4.0,Because,But,0.0,no-rule-fixes,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+72,A,gen,10.txt,4.0,C,C,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+73,B,adam,02-bestselling-book.txt,7.0,But,But,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+74,C,gen,8.txt,4.0,gold passage,humanized text,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+75,C,adam,02-bestselling-book.txt,7.0,gold passage,humanized text,0.807,residual (lost fillers/wording cannot be recovered),tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+76,B,adam,05-sam-altman.txt,7.0,And,And,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+77,A,adam,03-no-longer-in-control.txt,7.0,C,C,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+78,A,after,09-microchip-war.txt,1.0,B,B,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+79,B,especially,06-data-centers.txt,3.0,You,You,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+80,A,oil,03-oil-apocalypse.txt,5.0,C,C,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+81,C,adam,03-no-longer-in-control.txt,7.0,gold passage,humanized text,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+82,A,adam,05-sam-altman.txt,7.0,C,C,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+83,A,oil,03-oil-apocalypse.txt,5.0,C,C,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+84,B,gen,8.txt,4.0,So,So,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+85,A,after,12-data-centres-not-working.txt,1.0,C,C,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+86,C,adam,03-no-longer-in-control.txt,7.0,gold passage,humanized text,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+87,B,adam,04-superintelligence.txt,7.0,And,And,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+88,B,especially,01-spacex.txt,3.0,But,But,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+89,C,adam,04-superintelligence.txt,7.0,gold passage,humanized text,0.917,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+90,A,adam,04-superintelligence.txt,7.0,B,B,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+91,C,gen,5.txt,4.0,gold passage,humanized text,0.76,residual (lost fillers/wording cannot be recovered),tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+92,C,adam,03-no-longer-in-control.txt,7.0,gold passage,humanized text,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+93,A,gen,6.txt,4.0,B,B,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+94,A,adam,05-sam-altman.txt,7.0,C,B,0.0,subtle-variant tie,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+95,C,gen,1.txt,4.0,gold passage,humanized text,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+96,A,after,06-diamonds.txt,1.0,C,C,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+97,C,gen,2.txt,4.0,gold passage,humanized text,0.989,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+98,A,gen,5.txt,4.0,A,A,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+99,A,oil,03-oil-apocalypse.txt,5.0,A,A,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
+100,A,adam,02-bestselling-book.txt,7.0,C,C,1.0,,tells|contr|opener|fill|global|bigram|detell|openers|contract|casual|split
