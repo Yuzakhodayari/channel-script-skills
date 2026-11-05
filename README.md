@@ -1,10 +1,10 @@
 # Channel script skills
 
-Four agent skills that write YouTube scripts in one channel's blended voice. Pipeline order matters:
+Four agent skills for writing YouTube scripts in a blended explanatory-channel voice. Pipeline order:
 
 **structure → storytelling → audience → language**
 
-Nothing publishes itself. These skills write. You ship.
+They draft. You publish.
 
 | skill | what it does |
 | --- | --- |
@@ -19,13 +19,11 @@ Each skill is a folder with `SKILL.md` + `references/`. Optional classic exam sc
 
 ### One line from GitHub (Gemini / Antigravity)
 
-Paste this into Antigravity or run it in a terminal:
-
 ```bash
 npx skills add Yuzakhodayari/channel-script-skills -a antigravity -g -y
 ```
 
-That installs all four `channel-*` skills. Then copy them into the folder Antigravity actually loads (the `npx skills` tool sometimes leaves them in `~/.agents/skills`):
+That installs all four `channel-*` skills. Then copy them into the folder Antigravity actually loads (the CLI sometimes leaves them in `~/.agents/skills`):
 
 ```bash
 mkdir -p ~/.gemini/config/skills
@@ -39,25 +37,23 @@ Copy-Item -Recurse -Force "$HOME\.agents\skills\channel-*" "$HOME\.gemini\config
 
 Restart Antigravity. Skills show up as `/channel-language`, `/channel-storytelling`, `/channel-structure`, `/channel-audience`.
 
-The repo is public, so no token is needed. If a clone ever fails, log into GitHub first (`gh auth login`).
+No token needed. If a clone fails, run `gh auth login` first.
 
-### Project-local (recommended for a YouTube workspace)
-
-From your channel folder:
+### Project-local
 
 ```bash
 npx skills add Yuzakhodayari/channel-script-skills -a antigravity -y
-# lands in ./.agents/skills/ — Antigravity discovers that automatically
+# lands in ./.agents/skills/
 ```
 
-Or clone once and copy:
+Or clone and copy:
 
 ```powershell
 git clone https://github.com/Yuzakhodayari/channel-script-skills.git
 Copy-Item -Recurse -Force .\channel-script-skills\skills\channel-* ".agents\skills\"
 ```
 
-### Claude Code / Codex (same repo)
+### Claude Code / Codex
 
 ```bash
 npx skills add Yuzakhodayari/channel-script-skills -a claude-code -g -y
@@ -71,9 +67,9 @@ npx skills add Yuzakhodayari/channel-script-skills -a claude-code -g -y
 .\install.ps1 -Project
 ```
 
-Each skill folder already has `SKILL.md` with YAML `name` + `description`. Antigravity skips folders that lack that frontmatter.
+Each skill folder has `SKILL.md` with YAML `name` + `description`. Antigravity skips folders without that frontmatter.
 
-Paste any single `SKILL.md` at the top of a chat if you are not using a skills folder. You lose automatic discovery; the rules still run as a mode.
+You can also paste any single `SKILL.md` at the top of a chat if you are not using a skills folder.
 
 ## Corpus
 
@@ -81,19 +77,19 @@ Paste any single `SKILL.md` at the top of a chat if you are not using a skills f
 
 | creator | role in the blend |
 | --- | --- |
-| `ai-in-context` | highest weight (Adam-style deep dive) |
-| `max-fisher` | high-weight narrative news deep dive |
-| `gen` | the owner's channel |
+| `ai-in-context` | highest weight — deep-dive spoken essays |
+| `max-fisher` | high-weight narrative news deep dives |
+| `gen` | high-weight story explainers |
 | `maxinomics` | object-demo / mechanism stories |
 | `art-of-the-problem` | explanatory story craft |
 | `especially-misc` | SpaceX / AI / data-center essays |
 | others (`coldfusion`, `johnny-harris`, `species`, …) | lower-weight contrast |
 
-Exact per-video weights and inclusion notes are in `corpus/weights.csv`. Non-host speech is filtered where the source allows.
+Exact per-video weights are in `corpus/weights.csv`. Non-host speech is filtered where the source allows.
 
-## Classic exam scores (honest)
+## Classic exam scores
 
-Optional. Re-run of the **original** discrimination harnesses (deterministic solvers, held-out or fold-in). Weight-averaged 0–1.
+Optional. Re-run of the original discrimination harnesses (deterministic solvers, held-out or fold-in). Weight-averaged 0–1.
 
 | skill | classic after |
 | --- | --- |
@@ -104,7 +100,7 @@ Optional. Re-run of the **original** discrimination harnesses (deterministic sol
 
 Per-task tables: each skill's `exams/heldout-2026.md` and `exams/scores.csv`.
 
-A later rewrite-script exam pack that scored near 1.0 was **rejected** — those grades were not real. Do not treat them as progress. The numbers above are the comparable classic harness.
+A later rewrite-script exam pack that scored near 1.0 was rejected — those grades were not comparable. The numbers above are the classic harness.
 
 These scores are a lexical proxy for how well a rule solver applies the skill, not a human judgement of agent output.
 
@@ -127,4 +123,4 @@ NOTICE.md
 
 ## License
 
-MIT for the skills and install scripts. See [`LICENSE`](LICENSE) and [`NOTICE.md`](NOTICE.md). Third-party transcripts in `corpus/` stay with their creators.
+MIT for the skills and install scripts. See [`LICENSE`](LICENSE) and [`NOTICE.md`](NOTICE.md). Third-party transcripts in `corpus/` remain with their creators.

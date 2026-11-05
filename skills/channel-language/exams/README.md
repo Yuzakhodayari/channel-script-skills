@@ -6,6 +6,6 @@ Optional. Classic discrimination harness scores (deterministic rule solvers, not
 - **How:** A/B/C fold-in, seed 11
 - Weight-averaged 0–1. See `heldout-2026.md` and `scores.csv`.
 
-A later rewrite-script exam pack that scored near 1.0 was **rejected** — those grades were not real. Do not treat them as progress. The numbers above are the comparable classic harness.
+A later rewrite-script exam pack that scored near 1.0 was rejected — those grades were not comparable. The numbers above are the classic harness.
 
 These scores are a lexical proxy for how well a rule solver applies the skill, not a human judgement of agent output.

@@ -28,9 +28,10 @@ mkdir -p ~/.gemini/config/skills && cp -R channel-structure ~/.gemini/config/ski
 mkdir -p .agents/skills && cp -R channel-structure .agents/skills/channel-structure
 ```
 
-From the repo root you can also run `./install.sh` (or `./install.ps1` on Windows) to install all four skills at once, or:
+From the repo root:
 
 ```bash
+./install.sh            # or ./install.ps1 on Windows
 npx skills add Yuzakhodayari/channel-script-skills -a antigravity -g -y
 ```
 
@@ -40,4 +41,4 @@ Built from **117** weighted transcripts under [`../../corpus/`](../../corpus/) (
 
 ## License
 
-MIT for the skills. See [`LICENSE`](../../LICENSE) and [`NOTICE.md`](../../NOTICE.md). Transcripts in `corpus/` stay with their creators.
+MIT for the skills. See [`LICENSE`](../../LICENSE) and [`NOTICE.md`](../../NOTICE.md). Transcripts in `corpus/` remain with their creators.
